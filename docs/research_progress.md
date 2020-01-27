@@ -22,9 +22,6 @@ National Microbiology Data Center 2019-nCov Data
 
 * The 2019-nCoV is revealed to be a new type of bat coronavirus and is genetically distant from the human SARS coronavirus. Its spike protein only binds weakly to the ACE2 receptor on human cells.
 
-"New Crystal Structure of 2019-nCoV 3CL Protein"
-
-* This [article](https://mp.weixin.qq.com/s/RcOtYOnk5xRpyf5KH01dnQ) shows a recent crystal structure related to the 2019-nCoV from ShanghaiTech University. This structure is available on PDB as 6LU7.
 
 ### 2016 
 
