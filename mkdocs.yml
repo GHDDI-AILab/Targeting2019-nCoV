@@ -12,8 +12,6 @@ nav:
     - Home: index.md
     - nCov:
       - Research Progress: research_progress.md
-      - todo I: todo_I.md
-      - todo II: todo_II.md
     - History: history.md
 
 
