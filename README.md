@@ -18,3 +18,6 @@ in which `nCov` will be top level folder, and `todo I` and `todo II` will be the
 
 ### Publish to Github Pages
 just by `mkdocs gh-deploy`
+
+### Markdown Format Specification
+https://guides.github.com/features/mastering-markdown/
