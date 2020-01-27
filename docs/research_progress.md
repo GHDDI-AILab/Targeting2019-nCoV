@@ -3,7 +3,6 @@
 ### 2020 
 
 "Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission"
-    
     * Analysis showed that the Wuhan CoV shared a common ancestor with SARS coronavirus that resembles the bat coronavirus HKU9-1. This work points to the RBD domain of the Wuhan CoV S-protein which supports strong interaction with human ACE2 molecules. 
 
 "Shenyang Pharmaceutical University, Huazhong University of Science and Technology, and Academy of Military Medical Sciences identified pharmaceuticals that can possibly treat 2019-nCoV"
