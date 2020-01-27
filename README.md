@@ -1,7 +1,8 @@
 # nCov_Info_Share
 Information sharing portal about nCov/SARS/MERS for drug discovery
 
-URL of the online portal: https://ghddi-ailab.github.io/nCov_Info_Share/
+URL of the online portal: https://ghddi-ailab.github.io/nCov_Info_Share/    
+Quick links: https://ghddi-ailab.github.io/nCov_Info_Share/#quick-links
 
 ## A Short Tutorial for Content Contributor
 ### Contribute Content
@@ -15,9 +16,6 @@ Specify your content in `mkdocs.yml`, section `nav` as follows:
       - todo II: todo_II.md
 ```
 in which `nCov` will be top level folder, and `todo I` and `todo II` will be the second level pages
-
-### Publish to Github Pages
-just by `mkdocs gh-deploy`
 
 ### Markdown Format Specification
 https://guides.github.com/features/mastering-markdown/

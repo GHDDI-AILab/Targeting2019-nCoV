@@ -1,4 +1,4 @@
-# nCov_Info
+# GHDDI nConv Info Sharing Portal
 Information sharing portal about nCov/SARS/MERS for drug discovery.
 
 
