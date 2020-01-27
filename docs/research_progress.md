@@ -1,5 +1,3 @@
-## Research Progress
-
 ### 2020 
 
 National Microbiology Data Center 2019-nCov Data
