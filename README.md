@@ -1,10 +1,19 @@
-# nCov_Info_Share
-Information sharing portal about nCov/SARS/MERS for drug discovery
+# nCov Information Sharing Portal by GHDDI
+This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](www.ghddi.org)
 
-URL of the online portal: https://ghddi-ailab.github.io/nCov_Info_Share/    
-Quick links: https://ghddi-ailab.github.io/nCov_Info_Share/#quick-links
+We're continuously releasing scientific materials to help scientific community to fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at   
+
+**Portal URL: https://ghddi-ailab.github.io/nCov_Info_Share/**
+
+## Who We Are
+We're from GHDDI(The Global Health Drug Discovery Institute). GHDDI was jointly founded by Tsinghua University, the Bill & Melinda Gates Foundation, and the Beijing Municipal Government. The Institute is a transformative drug discovery and translational platform with advanced biomedical research and development capabilities. It is an independent, not-for-profit institute with a broad interest in addressing global health concerns, regardless of financial incentives, and intends to focus its efforts on tackling the world’s most pressing disease challenges faced by many developing countries.
+
+## Guide for Discussion
+For any discussion please post them at the `issue` section of this repo. You're welcome to join our discussion for any scientific subject, feature request and bug report.
 
 ## A Short Tutorial for Content Contributor
+You're also welcome to contribute content for this community info sharing portal. To minimise the cost for layout formatting from our contributors, we use Markdown format to publish our contents
+
 ### Contribute Content
 Write your contents in markdown format and save them in `/docs` folder, with file extention **.md**
 
@@ -16,6 +25,9 @@ Specify your content in `mkdocs.yml`, section `nav` as follows:
       - todo II: todo_II.md
 ```
 in which `nCov` will be top level folder, and `todo I` and `todo II` will be the second level pages
+
+### Raise Pull Request
+After the content editting is finished, remember to raise pull request for content merging.
 
 ### Markdown Format Specification
 https://guides.github.com/features/mastering-markdown/
