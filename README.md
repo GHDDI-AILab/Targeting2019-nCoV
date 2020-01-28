@@ -4,7 +4,7 @@ This is a public repo for information sharing portal about nCov/SARS/MERS for dr
 
 We're continuously releasing scientific materials to help scientific community fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at   
 
-**Portal URL: https://ghddi-ailab.github.io/nCov_Info_Share/**
+**Portal URL: https://ghddi-ailab.github.io/Targeting2019-nCoV/**
 
 ## Guide for Discussion
 For any discussion please post them at the `issue` section of this repo. You're welcome to join our discussion for any scientific subject, feature request and bug report.
