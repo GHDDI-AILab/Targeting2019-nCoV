@@ -8,7 +8,7 @@
   
   <meta name="author" content="David Leon (Dawei Leng)">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>History - GHDDI nCov Info Sharing Portal</title>
+  <title>Experiment Data - GHDDI nCov Info Sharing Portal</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,8 +17,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "History";
-    var mkdocs_page_input_path = "history.md";
+    var mkdocs_page_name = "Experiment Data";
+    var mkdocs_page_input_path = "CoV_Experiment_Data.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -57,9 +57,21 @@
 		
     <span class="caption-text">nCov</span>
     <ul class="subnav">
-                <li class="">
+                <li class=" current">
                     
-    <a class="" href="../CoV_Experiment_Data/">Experiment Data</a>
+    <a class="current" href="./">Experiment Data</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l3"><a href="#annotated-set">Annotated Set</a></li>
+    
+
+    <li class="toctree-l3"><a href="#unannotated-set">Unannotated Set</a></li>
+    
+
+    <li class="toctree-l3"><a href="#useful-links">Useful links</a></li>
+    
+
+    </ul>
                 </li>
                 <li class="">
                     
@@ -72,25 +84,9 @@
     </ul>
 	    </li>
           
-            <li class="toctree-l1 current">
+            <li class="toctree-l1">
 		
-    <a class="current" href="./">History</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l2"><a href="#history">History</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l3" href="#version-003-1-28-2020">version 0.0.3 [1-28-2020]</a></li>
-        
-            <li><a class="toctree-l3" href="#version-002-1-27-2020">version 0.0.2 [1-27-2020]</a></li>
-        
-            <li><a class="toctree-l3" href="#version-001-1-26-2020">version 0.0.1 [1-26-2020]</a></li>
-        
-        </ul>
-    
-
-    </ul>
+    <a class="" href="../history/">History</a>
 	    </li>
           
         </ul>
@@ -114,8 +110,12 @@
     <li><a href="..">Docs</a> &raquo;</li>
     
       
+        
+          <li>nCov &raquo;</li>
+        
+      
     
-    <li>History</li>
+    <li>Experiment Data</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -125,21 +125,52 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="history">History</h1>
-<h2 id="version-003-1-28-2020">version 0.0.3 [1-28-2020]</h2>
+                <p>We are releasing the following datasets from our Big Data Platform. We are making our best effort to mine all experimental data of previous coronvirus related studies. If you have other specific data need, please contact us for customized data mining. If you have structures to upload, please contact us *<a href="https://github.com/GHDDI-AILab/nCov_Info_Share/issues">here</a>. We are working on a more interactive interface for your direct participation in the future. We will update our datasets periodically to provide more information to help your research. </p>
+<h3 id="annotated-set">Annotated Set</h3>
 <ul>
-<li><strong>NEW</strong>: add discussion guide</li>
-<li><strong>MODIFIED</strong>: improve index page</li>
+<li>A collection of 1690 in vitro and in vivo records for 245 molecules    <ul>
+<li><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/SARS_annotated_1690.csv">Full dataset</a></li>
 </ul>
-<h2 id="version-002-1-27-2020">version 0.0.2 [1-27-2020]</h2>
-<ul>
-<li><strong>NEW</strong>: add quick links</li>
-<li><strong>NEW</strong>: add research progress page</li>
-<li><strong>NEW</strong>: add assay records page</li>
+</li>
 </ul>
-<h2 id="version-001-1-26-2020">version 0.0.1 [1-26-2020]</h2>
+<h3 id="unannotated-set">Unannotated Set</h3>
 <ul>
-<li><strong>NEW</strong>: All in scratch</li>
+<li>
+<p>A collection of 816 records in vitro assay records for 481 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all data. The datasets may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].    </p>
+<ul>
+<li><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv">Full dataset</a></li>
+</ul>
+</li>
+<li>
+<p>Some subsets extracted from the above here:</p>
+<ul>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_active.csv"><em>PX&gt;6(measurement &lt;1uM) active set</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_IC50_for_582_molecules.csv"><em>IC50 values for 582 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_Ki_inhibition_constant_for_207_molecules.csv"><em>Ki inhibition constant for 207 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_inhibition_rate_for_155_molecules.csv"><em>Inhibition rate for 155 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_EC50_for_30_molecules.csv"><em>EC50 values for 30 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_pKi_for_14_molecules.csv"><em>pKi values for 14 molecules</em></a></p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="useful-links">Useful links</h3>
+<p>To check drug and compound related information   </p>
+<ul>
+<li>https://www.drugbank.ca    </li>
+<li>https://www.ebi.ac.uk/chembl/    </li>
+<li>http://zinc15.docking.org/substances/home/    </li>
 </ul>
               
             </div>
@@ -148,8 +179,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
+        <a href="../nCov_Structural_Modeling/" class="btn btn-neutral float-right" title="Structural Modeling">Next <span class="icon icon-circle-arrow-right"></span></a>
       
-        <a href="../research_progress/" class="btn btn-neutral" title="Research Progress"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+        <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -175,8 +208,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../research_progress/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href=".." style="color: #fcfcfc;">&laquo; Previous</a></span>
       
+      
+        <span style="margin-left: 15px"><a href="../nCov_Structural_Modeling/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
