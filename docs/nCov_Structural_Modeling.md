@@ -1,4 +1,4 @@
-We have built homology models for 2019-nCov targets that are highly homologous to SARS, We further minimized and simulated the model to obtain better structural quality. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us *[here](https://github.com/GHDDI-AILab/nCov_Info_Share/issues). We are working on a more interactive interface for your direct participation in the future. 
+We have built homology models for 2019-nCov targets that are highly homologous to SARS, We further minimized and simulated the model to obtain better structural quality. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us [**here**](https://github.com/GHDDI-AILab/nCov_Info_Share/issues). We are working on a more interactive interface for your direct participation in the future. 
 
 
 ### Surface Glycoprotein (Spike Protein)
@@ -21,7 +21,7 @@ SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGH
     * [Full dataset](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/Wuhan_protease_2020-01-25.zip)
 
 * Minimized model of Mpro dimer
-    * [PDB]](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
+    * [PDB](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
 
 * MD simulated (37C, water, all-atom) model of Mpro dimer 
     * [PDB](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
