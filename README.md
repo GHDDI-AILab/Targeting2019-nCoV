@@ -1,12 +1,10 @@
-# nCov Information Sharing Portal by GHDDI
+![logo](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
+# nCov Information Sharing Portal by GHDDI 
 This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](www.ghddi.org)
 
 We're continuously releasing scientific materials to help scientific community to fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at   
 
 **Portal URL: https://ghddi-ailab.github.io/nCov_Info_Share/**
-
-## Who We Are
-We're from GHDDI(The Global Health Drug Discovery Institute). GHDDI was jointly founded by Tsinghua University, the Bill & Melinda Gates Foundation, and the Beijing Municipal Government. The Institute is a transformative drug discovery and translational platform with advanced biomedical research and development capabilities. It is an independent, not-for-profit institute with a broad interest in addressing global health concerns, regardless of financial incentives, and intends to focus its efforts on tackling the world’s most pressing disease challenges faced by many developing countries.
 
 ## Guide for Discussion
 For any discussion please post them at the `issue` section of this repo. You're welcome to join our discussion for any scientific subject, feature request and bug report.
@@ -31,3 +29,7 @@ After the content editting is finished, remember to raise pull request for conte
 
 ### Markdown Format Specification
 https://guides.github.com/features/mastering-markdown/
+
+----
+### Who We Are
+We're from GHDDI(The Global Health Drug Discovery Institute). GHDDI was jointly founded by Tsinghua University, the Bill & Melinda Gates Foundation, and the Beijing Municipal Government. The Institute is a transformative drug discovery and translational platform with advanced biomedical research and development capabilities. It is an independent, not-for-profit institute with a broad interest in addressing global health concerns, regardless of financial incentives, and intends to focus its efforts on tackling the world’s most pressing disease challenges faced by many developing countries.
