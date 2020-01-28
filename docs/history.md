@@ -1,5 +1,9 @@
 # History
 
+## version 0.0.3 [1-28-2020]
+* **NEW**: add discussion guide
+* **MODIFIED**: improve index page
+
 ## version 0.0.2 [1-27-2020]
 * **NEW**: add quick links
 * **NEW**: add research progress page

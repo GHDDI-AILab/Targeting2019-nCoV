@@ -2,7 +2,7 @@
 # GHDDI nConv Info Sharing Portal
 This is the public information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
 
-We're continuously releasing scientific materials to help scientific community to fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at this website.   
+We're continuously releasing scientific materials to help scientific community fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at this website.   
 
 ## Guide for Discussion
 You can participate community discussions [here](https://github.com/GHDDI-AILab/nCov_Info_Share/issues). You're welcome to join our discussion for any scientific subject, feature request and bug report.
