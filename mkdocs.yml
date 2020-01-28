@@ -1,4 +1,4 @@
-site_name: GHDDI nCov Info Sharing Portal
+site_name: GHDDI 2019-nCoV Community Effort for Drug Disovery Portal
 site_author: David Leon (Dawei Leng)
 docs_dir: docs
 
@@ -10,10 +10,10 @@ extra_javascript:
 
 nav:
     - Home: index.md
-    - nCov:
+    - Data Download:
       - Experiment Data: CoV_Experiment_Data.md
-      - Structural Modeling: nCov_Structural_Modeling.md
-      - Research Progress: research_progress.md
+      - Structure Modeling: nCov_Structural_Modeling.md
+      - Research Update: research_progress.md
     - History: history.md
 
 
