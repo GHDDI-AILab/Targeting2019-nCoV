@@ -1,6 +1,6 @@
 ![logo](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
 # nCov Information Sharing Portal by GHDDI 
-This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](www.ghddi.org)
+This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
 
 We're continuously releasing scientific materials to help scientific community to fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at   
 
