@@ -1,4 +1,4 @@
-site_name: GHDDI nConv Info Sharing Portal
+site_name: GHDDI nCov Info Sharing Portal
 site_author: David Leon (Dawei Leng)
 docs_dir: docs
 
@@ -11,7 +11,8 @@ extra_javascript:
 nav:
     - Home: index.md
     - nCov:
-      #- Assay Records: Assay_Records.md
+      - Experiment Data: CoV_Experiment_Data.md
+      - Structural Modeling: nCov_Structural_Modeling.md
       - Research Progress: research_progress.md
     - History: history.md
 
