@@ -11,7 +11,7 @@ extra_javascript:
 nav:
     - Home: index.md
     - nCov:
-      - Assay Records: Assay_Records.md
+      #- Assay Records: Assay_Records.md
       - Research Progress: research_progress.md
     - History: history.md
 
