@@ -1,14 +1,14 @@
-We are releasing the following datasets from our Big Data Platform. We are making our best effort to mine all experimental data of previous coronvirus related studies. If you have other specific data need, please contact us for customized data mining. If you have structures to upload, please contact us *[here](https://github.com/GHDDI-AILab/nCov_Info_Share/issues). We are working on a more interactive interface for your direct participation in the future. We will update our datasets periodically to provide more information to help your research. 
+We are releasing the following datasets from our Big Data Platform. We are making our best effort to mine all experimental data of previous coronvirus related studies. If you have other specific data need, please contact us for customized data mining. If you have datasets to upload, please contact us [**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We are working on a more interactive interface for your direct participation in the future. We will update our datasets periodically to provide more information to help your research to combat the disease. 
 
 
 ### Annotated Set
 
-* A collection of 1690 in vitro and in vivo records for 245 molecules    
+* A collection of 1690 in vitro and in vivo records for 245 molecules     
     * [Full dataset](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/SARS_annotated_1690.csv)
 
 ### Unannotated Set
 
-* A collection of 816 records in vitro assay records for 481 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all data. The datasets may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].    
+* A collection of 816 records for 481 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].    
     * [Full dataset](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv)
 
 
