@@ -11,7 +11,7 @@ extra_javascript:
 nav:
     - Home: index.md
     - Data Download:
-      - Experimental Data: CoV_Experiment_Data.md
+      - Data Mining: CoV_Experiment_Data.md
       - Structure Modeling: nCov_Structural_Modeling.md
       - Research Update: research_progress.md
     - Community Discussion: contact_us.md
