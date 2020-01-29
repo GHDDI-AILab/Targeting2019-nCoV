@@ -25,12 +25,12 @@ We are releasing the following datasets from our big data platform. We are makin
 
     * [*pKi values for 14 molecules*](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_pKi_for_14_molecules.csv)
 
-* SMILES of 986 molecules tested for coronavirus, but we are not if they are active or inactive
+* SMILES of 986 molecules tested for coronavirus, but we are not sure if they are active or inactive
     * [SMIELS](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv)
 
 ### Literature Mining
 
-* a comprehensive literature mining result kindly provided by [Causaly](https://www.causaly.com), focusing on chemicals/drugs, genes and molecular mechanisms
+* A comprehensive literature mining result kindly provided by [Causaly](https://www.causaly.com), focusing on chemicals/drugs, genes and molecular mechanisms
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx)
 
 ### Useful links

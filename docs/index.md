@@ -1,8 +1,8 @@
 ![logo](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
 # Targeting 2019-nCoV: GHDDI Info Sharing Portal
-This is the public information sharing portal about nCov/SARS/MERS for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
+This is the public information sharing portal about 2019-nCov/SARS/MERS for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
 
-We're continuously releasing scientific materials to help the scientific community fight this nCov outbreak, including curated data, updated research reports, discussions, etc. You can find these materials on this website. 
+We're continuously releasing scientific materials to help the scientific community fight this Novel Coronavirus (2019-nCoV) outbreak at Wuhan, including curated data, updated research reports, discussions, etc. You can find these materials on this website. 
 
 
 ## Guide for Discussion
