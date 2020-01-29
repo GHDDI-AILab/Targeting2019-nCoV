@@ -5,11 +5,6 @@ We are releasing the following datasets from our big data platform. We are makin
 * A collection of 1690 in vitro and in vivo records for 245 molecules     
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/SARS_annotated_1690.csv)
 
-###  comprehensive literature mining results kindly provided by Causaly https://www.causaly.com 
-
-* a data dump of what we have on the Coronavirus in our system, especially Chemicals/Drugs, Genes and Molecular mechanisms
-    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx)
-    
 ### Unannotated Set
 
 * A collection of 816 records for 479 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].   
@@ -32,6 +27,11 @@ We are releasing the following datasets from our big data platform. We are makin
 
 * SMILES of 986 molecules tested for coronavirus, but we are not if they are active or inactive
     * [SMIELS](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv)
+
+### Literature Mining
+
+* a comprehensive literature mining result kindly provided by [Causaly](https://www.causaly.com), focusing on chemicals/drugs, genes and molecular mechanisms
+    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx)
 
 ### Useful links
 To check drug and compound related information   
