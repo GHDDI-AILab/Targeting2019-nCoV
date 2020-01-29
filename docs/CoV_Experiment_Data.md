@@ -8,7 +8,8 @@ We are releasing the following datasets from our big data platform. We are makin
 
 ### Unannotated Set
 
-* A collection of 816 records for 481 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].    
+* A collection of 816 records for 479 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some dataset uses standardlized value PX=-log[M].   
+ 
     * [Full dataset](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv)
 
 
@@ -16,19 +17,15 @@ We are releasing the following datasets from our big data platform. We are makin
 
     * [*PX>6(measurement <1uM) active set*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_active.csv)
 
-    * [*IC50 values for 582 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_IC50_for_582_molecules.csv)
+    * [*IC50 values for 562 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_IC50_for_562_molecules.csv)
 
     * [*Ki inhibition constant for 207 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_Ki_inhibition_constant_for_207_molecules.csv)
 
-
-    * [*Inhibition rate for 155 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_inhibition_rate_for_155_molecules.csv)
-
+    * [*Inhibition rate for 153 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_inhibition_rate_for_153_molecules.csv)
 
     * [*EC50 values for 30 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_EC50_for_30_molecules.csv)
 
-
     * [*pKi values for 14 molecules*](https://ghddi-oss.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_pKi_for_14_molecules.csv)
-
 
 
 ### Useful links
