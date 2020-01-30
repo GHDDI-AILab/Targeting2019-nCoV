@@ -1,5 +1,34 @@
 ### 2020 
 
+ * Summary of 2019-nCoV research progress 
+    * This [article](https://mp.weixin.qq.com/s/bYd1y9f_Rif7N9VhmlZTTQ) summarizes the recent advances made (as of January 29, 2020) regarding the 2019-nCoV outbreak. Many recent scientific publications are shared in this article.
+
+---
+
+ * ["Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nwppincmp.pdf)
+    * This article shares progress regarding building homology models and docking small molecule drugs onto this structure. Based on the results, there were several drugs identified based on free energy calculations. One of which being nelfinavir which may be a potential inhibitor against 2019-nCoV.
+    
+---
+
+ * ["Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_screpace2.pdf)
+    * This article goes into detail about the ACE2 receptor and its relation with the Wuhan 2019-nCoV. The results of thsi study indicates that ACE2 receptor expression is concentrated in a small population of type II alveolar cells, and these cells are also highly expressed with many other genes that positively regulate viral reproduction and transmission. This information may be of further use for future anti-ACE2 therapeutic research and development.
+
+---
+
+ * ["A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_afcpancippt.pdf)
+    * The results of this study report the findings of 5 patients in a family cluster who were infected with the novel coronavirus. This study includes epidemiological, clinical, laboratory, radiological, and microbiological data regarding the patients. It was found that symptoms presented 3-6 days after exposure. Additionally, it was found through next-generation sequencing that the novel coronavirus is highly related to SARS coronaviruses.
+
+---
+
+ * ["Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cfpincv.pdf)
+    * This article shares results about clinical findings regarding the 2019-nCoV. Common symptoms reported were fever, cough, myalgia, or fatigue. In was interpreted that this new infection causes severe respiratory illness similar to the SARS outbreak previously. 
+    
+---
+ * Wuhan Institute of Virology, CAS identifies three potential drugs
+    * This [article](https://www.guancha.cn/politics/2020_01_29_533574.shtml) reports that the CAS Wuhan Institute of Virology has recently identified three potential drugs that can be used against 2019-nCoV. The three drugs identified are Remdesivir GS-5734, Chloroquine Sigma-C6628, and Ritonavir. All three identified are old drugs that are currently awaiting approval for this new usage.
+
+---
+
  * Chinese Academy of Sciences Shanghai Institute of Materia Medica and ShanghaiTech University release a list of compounds which can have an effect on 2019-nCoV
     * This official [article](https://mp.weixin.qq.com/s/SyTjhfInWpLGhBpf2cCT8Q) from CAS released a list of pharmaceutical compounds that may have a therapeutic effect on this new virus. This compounds come from old repurposed drugs or Traditional Chinese Medicine.
 
