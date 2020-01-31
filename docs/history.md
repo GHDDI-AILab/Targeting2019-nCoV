@@ -1,5 +1,3 @@
-# History
-
 ## version 0.0.6 [1-31-2020]
 * **UPDATE**: update structural modeling data
 
