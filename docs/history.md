@@ -1,5 +1,9 @@
 # History
 
+## version 0.0.5 [1-31-2020]
+* **UPDATE**: update research update
+* **UPDATE**: update structural modeling data
+
 ## version 0.0.4 [1-29-2020]
 * **NEW**: add contact us page
 * **UPDATE**: update structural modeling data
