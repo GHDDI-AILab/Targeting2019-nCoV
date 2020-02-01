@@ -1,5 +1,10 @@
 ### 2020 
 
+ * ["Evolution and variation of 2019-novel coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_evncov.pdf)
+    * This article discusses the variation of the 2019-nCoV. The genomes were downloaded and analyzed with bioinformatics tools. It was found that through this analysis, there are at least two different viral strains of 2019-nCoV are involved in this outbreak, and the most recent common ancestor of 2019-nCoVs appeared about 0.253-0.594 year before the epidemic.
+
+---
+
  * Summary of 2019-nCoV research progress 
     * This [article](https://mp.weixin.qq.com/s/bYd1y9f_Rif7N9VhmlZTTQ) summarizes the recent advances made (as of January 29, 2020) regarding the 2019-nCoV outbreak. Many recent scientific publications are shared in this article.
 
