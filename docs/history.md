@@ -1,3 +1,7 @@
+## version 0.0.8 [2-1-2020]
+* **UPDATE**: update structures data
+* **UPDATE**: update targets data
+
 ## version 0.0.7 [2-1-2020]
 * **UPDATE**: update structural modeling data
 * **UPDATE**: update targets data
