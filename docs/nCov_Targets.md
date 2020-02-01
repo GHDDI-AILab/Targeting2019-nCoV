@@ -1,4 +1,4 @@
-A list of targets relating to the MERS and SARS virus is also provided. This data was extracted from the [PDB](https://www.rcsb.org/) database. Protein and gene information was also located using [UniProt](https://www.uniprot.org/).
+A list of targets relating to the MERS and SARS virus is provided on this page. This data was extracted from the [PDB](https://www.rcsb.org/) database. Protein and gene information was also located using [UniProt](https://www.uniprot.org/).
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
