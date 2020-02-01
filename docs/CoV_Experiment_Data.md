@@ -30,21 +30,17 @@ We are releasing the following datasets from our big data platform. We are makin
 
 ### Literature Mining
 
-#### Full Dataset
 * A comprehensive literature mining result kindly provided by [Causaly](https://www.causaly.com), focusing on chemicals/drugs, genes and molecular mechanisms. This data includes 2090 relationships, 1229 aggregrate relationships, and 976 articles based on a search query of "Chemicals&Drugs,Genes,Cellular&Molecular Mechanisms [AFFECTING] [Genus:Coronavirus]" with the data source coming from MEDLINE and PubMedCentral. This search resulted in several Target Concepts including: sars coronavirus, middle east respiratory syndrome coronavirus, human coronavirus, etc.
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx)
 
-#### Network
- * A figure of a keyword relationship network is shown below. 
+The following figure is the keyword relationship network: 
  
 ![Image of network](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_resized.png)
 
 [Full Image](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_network_causaly.png)
 
-#### Literature Analysis
- * The aggregate relationship data can be found in this dataset:
-   * [Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_aggregate_relationships.xlsx)
-   * This data describes source concept items and classifies them into different categories. Some relevant categories include: Amino Acid Peptide Protein, Biologically Active Substance, Chemical, Nucleic Acid, etc.
+* The aggregate relationship data can be found in this [dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_aggregate_relationships.xlsx)
+* This data describes source concept items and classifies them into different categories. Some relevant categories include: Amino Acid Peptide Protein, Biologically Active Substance, Chemical, Nucleic Acid, etc.
 * Literature articles and relationships data gives a list of 977 relevant articles and shows the evidence of the relationship from the original article.
     * [Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_and_relationships.xlsx)
 * Literature evidence data lists all relevant source concepts (biological substances, chemicals, etc) and its relation to an article. Overall, there are over 2000 relevant pieces of information relevant to coronavirus. 

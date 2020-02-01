@@ -1,3 +1,10 @@
+## version 0.0.7 [2-1-2020]
+* **UPDATE**: update structural modeling data
+* **UPDATE**: update targets data
+* **UPDATE**: update experimental data
+* **UPDATE**: update research update
+* **MODIFIED**: modify website nav map
+
 ## version 0.0.6 [1-31-2020]
 * **UPDATE**: update structural modeling data
 

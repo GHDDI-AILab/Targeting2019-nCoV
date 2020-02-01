@@ -12,7 +12,8 @@ nav:
     - Home: index.md
     - Data Download:
       - Data Mining: CoV_Experiment_Data.md
-      - Structure Modeling: nCov_Structural_Modeling.md
+      - Structures: nCov_Structures.md
+      - Targets: nCov_Targets.md
       - Research Update: research_progress.md
     - Community Discussion: contact_us.md
     - History: history.md
