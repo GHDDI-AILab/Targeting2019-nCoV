@@ -9,6 +9,8 @@ A list of targets relating to the MERS and SARS virus is provided on this page. 
 | N/A         | Peptidase C30             | Orf1ab polyprotein                                                                                                                                                                         | 2OP9                                                                                                                            |
 | N/A         | Orf1a polyprotein         | Pepidase C30                                                                                                                                                                               | 2GZ9                                                                                                                            |
 
+---
+
 ### MERS
 | Gene Symbol | Protein Name             | Other Names                                                                       | PDB IDs                                                    |
 |-------------|--------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------|
