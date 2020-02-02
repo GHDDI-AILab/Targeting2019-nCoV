@@ -9,9 +9,12 @@ MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFD
 * Minimized model of Spike-ACE2 
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
 
-* MD simulated (37C, water, all-atom) model of Spike-ACE2
+* MD simulated (37C, water, all-atom) model of Spike-ACE2 (Spike is a homo-trimer in color, human ACE2 is in yellow)
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
 
+    ![MD simulated Spike protein bind to human ACE2](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png)
+    
+    ![MD simulated Spike protein bind to human ACE2](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_surface.png)
 
 ### Envelope protein, E Protein
 MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV
@@ -46,6 +49,7 @@ SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGH
 
 * MD simulated (37C, water, all-atom) model of Mpro dimer 
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
+     ![3CL protease](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
     
 ### Helicase
 AVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATLQ    
@@ -71,6 +75,9 @@ SADAQSFLNRVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNY
 
 * Homology model of RNA-directed RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
+        
+     ![Zn2++ bind RDRP](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RdRP.png)
+     
 * Minimized model of RNA-directed RNA polymerase
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
