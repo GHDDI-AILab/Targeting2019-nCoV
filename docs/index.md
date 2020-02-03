@@ -15,5 +15,9 @@ You can participate in community discussions [**here**](https://github.com/GHDDI
 ### Who We Are    
 We're from GHDDI(The Global Health Drug Discovery Institute). GHDDI was jointly founded by Tsinghua University, the Bill & Melinda Gates Foundation, and the Beijing Municipal Government. The Institute is a transformative drug discovery and translational platform with advanced biomedical research and development capabilities. It is an independent, not-for-profit institute with a broad interest in addressing global health concerns, regardless of financial incentives, and intends to focus its efforts on tackling the world’s most pressing disease challenges faced by many developing countries.
 
+### Connect with GHDDI
+
+To coordinate and maximize the utility of our resources, please contact us if you hope to collaborate with us or obtain technical support from us, and fill the [**Online Request Form**](http://ghddionlineform.mikecrm.com/KRLHRTl). Once your request is approved, we will reach out to you ASAP. Thank you! 
+
 ### Disclaimer
 The data from this website is for research purpose only, may not be used for clinical advice. GHDDI is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information.
