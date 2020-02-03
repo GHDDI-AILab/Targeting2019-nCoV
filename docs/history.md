@@ -1,3 +1,7 @@
+## version 0.0.10 [2-3-2020]
+* **UPDATE**: update targets data
+* **UPDATE**: update research update
+
 ## version 0.0.9 [2-2-2020]
 * **UPDATE**: update structures data
 * **UPDATE**: update experimental data
