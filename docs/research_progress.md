@@ -1,6 +1,36 @@
 ### 2020 
 
- * ["Evolution and variation of 2019-novel coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_evncov.pdf)
+ * Gilead Sciences Statement on the Company’s Ongoing Response to the 2019 Novel Coronavirus (2019-nCoV)
+    * An official [news release](https://www.gilead.com/news-and-press/company-statements/gilead-sciences-statement-on-the-company-ongoing-response-to-the-2019-new-coronavirus) from Gilead expressing their committment to respond to this outbreak by testing their novel investigational compound remdesivir in a controlled clinical trial as a treatment for 2019-nCoV.
+    
+---
+
+ * ["Host and infectivity prediction of Wuhan 2019 novel coronavirus using deep learning algorithm"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_hipwncdla.pdf)
+    * Using deep learning algorithms, this article builds a virus host prediction model in order to predict the potential virus hosts. The built model suggests that 2019-nCoV has close infectivity with other human coronaviruses, especially SARS and MERS. Additionally, by comparing predicted infectivity patterns, bat coronaviruses are  assigned  with  more  similar  infectivity  patterns  with  2019-nCoVs. It was also suggested that mink viruses show a closer infectivity pattern to 2019-nCov showing that bat and mink may be two candidate reservoirs  of  2019-nCov.
+
+---
+
+ * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
+    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
+
+---
+
+* ["From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fswncoseep.pdf)
+    * The ongoing outbreak in China caused by the 2019-nCoV is very similar in many aspects  to SARS in 2003. This article, using epidemiological surveys and analyses from the early stage of the SARS outbreak, assesses and compares characteristics of these two outbreaks. Using the current data, the cumulative counts of 2019-nCoV cases was estimated about 2-3 times the total number of SARS, and the peak incidence is predicted to be in early or middle February. It is suggested that regional migration should be limited or prohibited to prevent the emergence and movement of a super-spreader. 
+
+---
+
+* ["Sofosbuvir Can Inhibit the Newly Emerged Coronavirus (2019-nCoV) in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_scinecncwc.pdf)
+    * This article aims to study the effect of anti-polymeras drugs including Sofosbuvir and Ribavirin. Sequence analysis, modeling, and dociking are used to build a model for the 2019-nCoV. The results of this study suggests that Sofobuvir, IDX-184, and Ribavirin are able to tightly bind to the newly emerged coronavirus RdRp and contradict the function of the protein. Therefore, it is likely these drugs are an effective inhibitor of this virus.
+
+---
+
+* ["Cell Pyroptosis, a Potential Pathogenic Mechanism of 2019-nCoV Infection"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cpppmnci.pdf)
+    * The initial infection characteristics of 2019-nCoV has been reported, including the symptoms and blood test results. Cell pyroptosis is a novel inflammatory form of programmed cell death, which has been largely studied recently. This article discusses the relationship between 2019-nCoV infection and cell pyroptosis and hypothesizes that 2019-nCoV is likely to cause cell pyroptosis, especially in lymphocytes, through the activation of NLRP3 inflammasome. 
+
+---  
+
+* ["Evolution and variation of 2019-novel coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_evncov.pdf)
     * This article discusses the variation of the 2019-nCoV. The genomes were downloaded and analyzed with bioinformatics tools. It was found that through this analysis, there are at least two different viral strains of 2019-nCoV are involved in this outbreak, and the most recent common ancestor of 2019-nCoVs appeared about 0.253-0.594 year before the epidemic.
 
 ---

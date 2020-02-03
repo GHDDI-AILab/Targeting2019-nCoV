@@ -1,4 +1,12 @@
-A list of targets relating to the MERS and SARS virus is provided on this page. This data was extracted from the [PDB](https://www.rcsb.org/) database. Protein and gene information was also located using [UniProt](https://www.uniprot.org/).
+Protein targets related to the MERS and SARS virus is provided on this page. This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
+
+---
+
+This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed for each category of protein.
+
+![Figure_ CoV](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig1.jpg)
+
+---
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
