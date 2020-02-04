@@ -25,3 +25,8 @@ This figure from the "Coronaviruses — drug discovery and therapeutic options"
 | S           | Spike glycoprotein       | 1. Spike receptor binding domain, Corona S2<br><br>2. Spike glycoprotein S1       | 1. 6Q04, 6Q05, 6Q06, 6Q07, 5X59, 5X5F, 4NJL, 4L3N <br><br>2. 5X4R |
 | orf1ab      | Polyprotein ORF1ab       | 1. NSP15<br><br>2. Peptidase C30<br><br>3.  Peptidase C16                                 | 1. 5YVD<br><br>2. 4RSP<br><br>3. 4RNA, 4REZ, 4PT5, 4P16            |
 | 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
+
+
+### List of Targets:
+
+A list of targets related to coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=corona)
