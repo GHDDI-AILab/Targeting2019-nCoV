@@ -29,4 +29,4 @@ This figure from the "Coronaviruses — drug discovery and therapeutic options"
 
 ### List of Targets:
 
-A list of targets related to coronavirus is provided by [Genecards](https://www.genecards.org) by using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=corona)
+A list of targets related to coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=corona)
