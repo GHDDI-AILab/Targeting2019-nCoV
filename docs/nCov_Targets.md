@@ -27,6 +27,6 @@ This figure from the "Coronaviruses — drug discovery and therapeutic options"
 | 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
 
 
-### List of Targets:
+### List of Targets
 
 A list of targets related to coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=corona)

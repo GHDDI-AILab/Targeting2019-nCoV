@@ -28,6 +28,7 @@ High-quality drug lists were collected and curated using anti-coronavirus indica
 
 
 Quick Links:
+
  * Drug Information: [Drugbank](https://www.drugbank.ca/)
  * Pharmacology data: [ChEMBL](https://www.ebi.ac.uk/chembl/)
  * [PubChem](https://pubchem.ncbi.nlm.nih.gov/)

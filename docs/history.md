@@ -1,3 +1,7 @@
+## version 0.1.0 [2-4-2020]
+* **NEW**: add drug candidates page
+* **UPDATE**: update targets data
+
 ## version 0.0.10 [2-3-2020]
 * **UPDATE**: update targets data
 * **UPDATE**: update research update
