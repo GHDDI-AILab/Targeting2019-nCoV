@@ -11,12 +11,13 @@ extra_javascript:
 nav:
     - Home: index.md
     - Data Download:
-      - Data Mining: CoV_Experiment_Data.md
       #- Drugs and Candidates: drug_candidates.md
+      - Data Mining: CoV_Experiment_Data.md
       - Targets: nCov_Targets.md
       - Structures: nCov_Structures.md
       - Research Update: research_progress.md
     - Community Discussion: contact_us.md
+    - Useful Links: useful_links.md
     - History: history.md
 
 
