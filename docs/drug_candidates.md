@@ -1,4 +1,4 @@
-## Drugs in pipeline tested for 2019-nCoV
+## Drugs in pipeline for 2019-nCoV
 
 The table below shows the identified drugs in no particular order. Only ones with preclinical and clinical records for 2019-nCoV were collected from different sources. Those suggested by expert systems or predictive models and traditional Chinese herbs were excluded. 
 
