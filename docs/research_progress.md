@@ -1,6 +1,7 @@
 ### 2020 
 
- * Gilead Sciences Statement on the Company’s Ongoing Response to the 2019 Novel Coronavirus (2019-nCoV)
+ * Gilead Sciences and 2019 Novel Coronavirus (2019-nCoV)
+    * Remdesivir from Gilead Sciences [enters Phase III](https://www.bioworld.com/articles/432804-gileads-remdesivir-enters-china-phase-iii-trial-to-fight-coronavirus) clinical trials in China on February 3, 2020.  
     * An official [news release](https://www.gilead.com/news-and-press/company-statements/gilead-sciences-statement-on-the-company-ongoing-response-to-the-2019-new-coronavirus) from Gilead expressing their committment to respond to this outbreak by testing their novel investigational compound remdesivir in a controlled clinical trial as a treatment for 2019-nCoV.
     
 ---
