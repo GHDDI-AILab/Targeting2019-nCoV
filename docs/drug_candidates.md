@@ -78,4 +78,4 @@ High-quality drug datasets were collected then curated based on anti-coronavirus
 
 [12] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48777) 
 
-[13] [NIH ClinicalTrials.gov](
+[13] [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04244591)
