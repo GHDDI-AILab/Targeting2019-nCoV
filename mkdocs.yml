@@ -10,8 +10,8 @@ extra_javascript:
 
 nav:
     - Home: index.md
+    - 2019-nCoV Drug Candidates: drug_candidates.md
     - Data Download:
-      - Drugs: drug_candidates.md
       - Data Mining: CoV_Experiment_Data.md
       - Targets: nCov_Targets.md
       - Structures: nCov_Structures.md
