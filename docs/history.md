@@ -1,5 +1,6 @@
 ## version 0.1.1 [2-5-2020]
 * **NEW**: add useful links page
+* **UPDATE** updated several pages
 
 ## version 0.1.0 [2-4-2020]
 * **NEW**: add drug candidates page
