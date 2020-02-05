@@ -11,7 +11,7 @@ extra_javascript:
 nav:
     - Home: index.md
     - Data Download:
-      - Drugs in Pipeline: drug_candidates.md
+      - Drugs: drug_candidates.md
       - Data Mining: CoV_Experiment_Data.md
       - Targets: nCov_Targets.md
       - Structures: nCov_Structures.md
