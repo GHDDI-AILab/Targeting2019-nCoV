@@ -54,28 +54,28 @@ High-quality drug datasets were collected then curated based on anti-coronavirus
 
 ## References
 
-[1] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48684); 
+ 1. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48684)
 
-[2] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919); 
+ 2. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919)
 
-[3] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48809); 
+ 3. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48809)
 
-[4] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48991); 
+ 4. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48991)
 
-[5] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48782)
+ 5. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48782)
 
-[6] [National Health Commission of the PRC](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml)
+ 6. [National Health Commission of the PRC](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml)
 
-[7] [Xinhua News](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm)
+ 7. [Xinhua News](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm)
 
-[8] [New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2001191)
+ 8. [New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2001191)
 
-[9] [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04246242)
+ 9. [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04246242)
 
-[10] [Xinhua News](http://www.xinhuanet.com/english/2020-02/01/c_138747115.htm)
+ 10. [Xinhua News](http://www.xinhuanet.com/english/2020-02/01/c_138747115.htm)
 
-[11] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48992)
+ 11. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48992)
 
-[12] [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48777) 
+ 12. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48777) 
 
-[13] [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04244591)
+ 13. [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04244591)
