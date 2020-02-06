@@ -34,9 +34,13 @@ Additionally, the targetscape of MERS virus, provided by [Clarivate Analytics](h
 
 ![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_mers.png)
 
+---
+
 ### List of Targets
 
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
+
+---
 
 Viral targets and therapeutic options are listed in the table below. This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
@@ -52,6 +56,7 @@ Viral targets and therapeutic options are listed in the table below. This inform
 | RdRp                                         | Ribavirin, BCX4430,        |
 | Helicase                                     | Bananins, SSYA10-001       |
 | RBD of S1 Subunit of S protein               | NERS-4, MERS-27            |
+
 
 Similarly, host targets and therapeutic options are listed in the table below from the same review article source. 
 
