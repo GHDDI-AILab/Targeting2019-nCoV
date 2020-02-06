@@ -45,29 +45,29 @@ A list of human targets related to SARS coronavirus is provided by [Genecards](h
 Viral targets and therapeutic options are listed in the table below. This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
 
-| ##Viral Targets##                            | ##Potential therapeutics## |
-|----------------------------------------------|----------------------------|
-| Nucleosides or Nucleotides                   | Mycophenolic Acid          |
-| Base Sequence GUC in loop region of CoV mRNA | Ribozyme                   |
-| Viral Replication complex                    | K22                        |
-| Long Viral dsRNA                             | DRACO                      |
-| PLpro                                        | GRL0617                    |
-| 3CLpro                                       | Lopinavir                  |
-| RdRp                                         | Ribavirin, BCX4430,        |
-| Helicase                                     | Bananins, SSYA10-001       |
-| RBD of S1 Subunit of S protein               | NERS-4, MERS-27            |
+| Viral Targets                                | Potential therapeutics |
+| -------------------------------------------- | ---------------------- |
+| Nucleosides or Nucleotides                   | Mycophenolic Acid      |
+| Base Sequence GUC in loop region of CoV mRNA | Ribozyme               |
+| Viral Replication complex                    | K22                    |
+| Long Viral dsRNA                             | DRACO                  |
+| PLpro                                        | GRL0617                |
+| 3CLpro                                       | Lopinavir              |
+| RdRp                                         | Ribavirin, BCX4430,    |
+| Helicase                                     | Bananins, SSYA10-001   |
+| RBD of S1 Subunit of S protein               | NERS-4, MERS-27        |
 
 
 Similarly, host targets and therapeutic options are listed in the table below from the same review article source. 
 
-| ##Host Target##                        | ##Potential Therapeutics##                                          |
-|----------------------------------------|---------------------------------------------------------------------|
-| Interferon Response                    | Recombinant interferons, Poly(I:C), Nitazoxanide                    |
-| Cyclophilins                           | Cyclosporine, alisporivir                                           |
+| Host Target                            | Potential Therapeutics                                       |
+| -------------------------------------- | ------------------------------------------------------------ |
+| Interferon Response                    | Recombinant interferons, Poly(I:C), Nitazoxanide             |
+| Cyclophilins                           | Cyclosporine, alisporivir                                    |
 | Kinase signalling pathways             | Trametinib, selumetinib, everolimus, rapacycin, dasatinib, imatinib |
-| ACE2                                   | P4 and P5 peptides, NAAE                                            |
-| DPP4                                   | anti-DPP4 mAb                                                       |
-| Endosomal protease (cathepsins)        | E64D, K11777, small molecule 5705213                                |
-| Surface Protease (TMPRSS2)             | Camostat mesylate                                                   |
-| Other host proteases (furin)           | dec-RVKR-CMK                                                        |
-| Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                                    |
+| ACE2                                   | P4 and P5 peptides, NAAE                                     |
+| DPP4                                   | anti-DPP4 mAb                                                |
+| Endosomal protease (cathepsins)        | E64D, K11777, small molecule 5705213                         |
+| Surface Protease (TMPRSS2)             | Camostat mesylate                                            |
+| Other host proteases (furin)           | dec-RVKR-CMK                                                 |
+| Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
