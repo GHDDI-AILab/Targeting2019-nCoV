@@ -2,12 +2,6 @@ Protein targets related to the MERS and SARS virus is provided on this page. Thi
 
 ---
 
-This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed for each category of protein.
-
-![Figure_ CoV](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig1.jpg)
-
----
-
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
 |-------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -37,6 +31,16 @@ Additionally, the targetscape of MERS virus, provided by [Clarivate Analytics](h
 ---
 
 ### List of Targets
+
+This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed for each category of protein.
+
+![Figure_ CoV](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig1.jpg)
+
+Additionally, Figure 2 of the same review article shows the virus-based and host-based therapeutic options within the cell. This figure visualizes host and viral targets and illustrates their functions.
+
+![Download Full Image](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig2.png)
+
+---
 
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
 
