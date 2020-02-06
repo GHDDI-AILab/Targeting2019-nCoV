@@ -1,4 +1,54 @@
-### 2020 
+### 2020, Feb 2
+
+* [Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes](https://www.biorxiv.org/content/10.1101/2020.01.31.928796v1)
+    * Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format.
+    * Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.
+
+---
+
+* [Predicting commercially available antiviral drugs that may act on the novel coronavirus (2019-nCoV), Wuhan, China through a drug-target interaction deep learning model](https://www.biorxiv.org/content/10.1101/2020.01.31.929547v1)
+    * We used our pre-trained deep learning-based drug-target interaction model called Molecule Transformer-Drug Target Interaction (MT-DTI) to identify commercially available drugs that could act on viral proteins of 2019-nCoV.
+    * The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing a inhibitory potency with Kd of 94.94 nM against the 2019-nCoV 3C-like proteinase, followed by efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM). 
+    * Lopinavir, ritonavir, and darunavir are all designed to target viral proteinases. However, in our prediction, they may also bind to the replication complex components of 2019-nCoV with an inhibitory potency with Kd < 1000 nM.
+    * In addition, we also found that several antiviral agents, such as Kaletra, could be used for the treatment of 2019-nCoV, although there is no real-world evidence supporting the prediction.
+
+---
+
+### 2020, Jan 31
+
+* [Drug treatment options for the 2019-new coronavirus (2019-nCoV)](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2020.01020/_article)
+    * Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir, peptide (EK1), abidol, RNA synthesis inhibitors (such as TDF, 3TC), anti-inflammatory drugs (such as hormones and other molecules), Chinese traditional medicine, such ShuFengJieDu Capsules and Lianhuaqingwen Capsule, could be the drug treatment options for 2019-nCoV. However, the efficacy and safety of these drugs for 2019- nCoV still need to be further confirmed by clinical experiments
+
+---
+
+### 2020, Jan 29
+
+* [Therapeutic Drugs Targeting 2019-nCoV Main Protease by High-Throughput Screening](https://www.biorxiv.org/content/10.1101/2020.01.28.922922v2)
+    * The main protease of SARS-CoV is essential for the life cycle of the virus, which showed 96.1% of similarity with the main proteaseof 2019-nCoV, is considered to be an attractive target for drug development.
+    * In this study, we have identified 4 small molecular drugs with high binding capacity with SARS-CoV main protease by high-throughput screening based on the 8,000 clinical drug libraries, all these drugs have been widely used in clinical applications with guaranteed safety, which may serve as promising candidates to treat the infection of 2019-nCoV.
+
+---
+
+* [Potential inhibitors for 2019-nCoV coronavirus M protease from clinically approved medicines](https://www.biorxiv.org/content/10.1101/2020.01.29.924100v1)
+    * Basing on the structural information, we have predicted a list of commercial medicines which may function as inhibitors for 2019-nCoV by targeting its main protease Mpro. These drugs may also be effective for other coronaviruses with similar Mpro binding sites and pocket structures.
+
+---
+
+### 2020, Jan 28
+
+* [Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody](https://www.biorxiv.org/content/10.1101/2020.01.28.923011v1)
+    * We report for the first time that a SARS-CoV-specific human monoclonal antibody, CR3022, could bind potently with 2019-nCoV RBD (KD of 6.3 nM). The epitope of CR3022 does not overlap with the ACE2 binding site within 2019-nCoV RBD. Therefore, CR3022 has the potential to be developed as candidate therapeutics, alone or in combination with other neutralizing antibodies, for the prevention and treatment of 2019-nCoV infections
+    * Some of the most potent SARS-CoV-specific neutralizing antibodies (e.g., m396, CR3014) that target the ACE2 binding site of SARS-CoV failed to bind 2019-nCoV spike protein, indicating that the difference in the RBD of SARS-CoV and 2019-nCoV has a critical impact for the cross-reactivity of neutralizing antibodies, and that it is still necessary to develop novel monoclonal antibodies that could bind specifically to 2019-nCoV RBD
+
+---
+
+* [Nelfinavir was predicted to be a potential inhibitor of 2019 nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation](https://www.biorxiv.org/content/10.1101/2020.01.27.921627v1)
+    * We built homology models based on SARS Mpro structures, and docked 1903 small molecule drugs to the models.
+    * Both MM/GBSA and SIE methods voted for **nelfinavir**, with the binding free energy of -24.69±0.52 kcal/mol and -9.42±0.04 kcal/mol, respectively.
+
+---
+
+### 2020
 
  * Gilead Sciences and 2019 Novel Coronavirus (2019-nCoV)
     * Remdesivir from Gilead Sciences [enters Phase III](https://www.bioworld.com/articles/432804-gileads-remdesivir-enters-china-phase-iii-trial-to-fight-coronavirus) clinical trials in China on February 3, 2020.  
