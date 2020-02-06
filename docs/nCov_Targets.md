@@ -17,6 +17,10 @@ This figure from the "Coronaviruses — drug discovery and therapeutic options"
 | N/A         | Peptidase C30             | Orf1ab polyprotein                                                                                                                                                                         | 2OP9                                                                                                                            |
 | N/A         | Orf1a polyprotein         | Pepidase C30                                                                                                                                                                               | 2GZ9                                                                                                                            |
 
+A targetscape of SARS virus within the cell is provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm)
+
+![sars1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_sars.png)
+
 ---
 
 ### MERS
@@ -26,6 +30,9 @@ This figure from the "Coronaviruses — drug discovery and therapeutic options"
 | orf1ab      | Polyprotein ORF1ab       | 1. NSP15<br><br>2. Peptidase C30<br><br>3.  Peptidase C16                                 | 1. 5YVD<br><br>2. 4RSP<br><br>3. 4RNA, 4REZ, 4PT5, 4P16            |
 | 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
 
+Additionally, the targetscape of MERS virus, provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is shown below.
+
+![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_mers.png)
 
 ### List of Targets
 
