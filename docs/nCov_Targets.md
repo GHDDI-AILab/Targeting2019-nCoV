@@ -49,17 +49,17 @@ A list of human targets related to SARS coronavirus is provided by [Genecards](h
 Viral targets and therapeutic options are listed in the table below. This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
 
-| Viral Targets                                | Potential therapeutics |
-| -------------------------------------------- | ---------------------- |
-| Nucleosides or Nucleotides                   | Mycophenolic Acid      |
-| Base Sequence GUC in loop region of CoV mRNA | Ribozyme               |
-| Viral Replication complex                    | K22                    |
-| Long Viral dsRNA                             | DRACO                  |
-| PLpro                                        | GRL0617                |
-| 3CLpro                                       | Lopinavir              |
-| RdRp                                         | Ribavirin, BCX4430,    |
-| Helicase                                     | Bananins, SSYA10-001   |
-| RBD of S1 Subunit of S protein               | NERS-4, MERS-27        |
+| Viral Targets                                      | Potential therapeutics |
+| -------------------------------------------------- | ---------------------- |
+| Nucleosides or Nucleotides                         | Mycophenolic Acid      |
+| Base Sequence GUC in <br />loop region of CoV mRNA | Ribozyme               |
+| Viral Replication complex                          | K22                    |
+| Long Viral dsRNA                                   | DRACO                  |
+| PLpro                                              | GRL0617                |
+| 3CLpro                                             | Lopinavir              |
+| RdRp                                               | Ribavirin, BCX4430,    |
+| Helicase                                           | Bananins, SSYA10-001   |
+| RBD of S1 Subunit of S protein                     | NERS-4, MERS-27        |
 
 
 Similarly, host targets and therapeutic options are listed in the table below from the same review article source. 
