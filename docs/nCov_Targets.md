@@ -68,7 +68,7 @@ Similarly, host targets and therapeutic options are listed in the table below fr
 | -------------------------------------- | ------------------------------------------------------------ |
 | Interferon Response                    | Recombinant interferons, Poly(I:C), Nitazoxanide             |
 | Cyclophilins                           | Cyclosporine, alisporivir                                    |
-| Kinase signalling pathways             | Trametinib, selumetinib, everolimus, rapacycin, dasatinib, imatinib |
+| Kinase signalling pathways             | Trametinib, selumetinib, everolimus, <br /> rapacycin, dasatinib, imatinib |
 | ACE2                                   | P4 and P5 peptides, NAAE                                     |
 | DPP4                                   | anti-DPP4 mAb                                                |
 | Endosomal protease (cathepsins)        | E64D, K11777, small molecule 5705213                         |
