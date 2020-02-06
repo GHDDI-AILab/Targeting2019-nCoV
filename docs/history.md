@@ -1,3 +1,6 @@
+## version 0.1.2 [2-6-2020]
+* **UPDATE** updated research_update; changed format to display 2020 dates
+
 ## version 0.1.1 [2-5-2020]
 * **NEW**: add useful links page
 * **UPDATE** updated several pages
