@@ -646,10 +646,3 @@ The following figure is the keyword relationship network:
     
     <details>
 
-### Useful Links
-To check drug and compound related information   
-
-* https://www.drugbank.ca    
-* https://www.ebi.ac.uk/chembl/    
-* http://zinc15.docking.org/substances/home/    
-

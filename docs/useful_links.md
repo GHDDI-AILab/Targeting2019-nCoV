@@ -6,6 +6,8 @@ A list of useful links is provided for general information about drug discovery 
  
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
+ * [Coronavirus resources from Clarivate](http://clarivate.com.cn/coronavirus-resources/)
+ 
  * [NCBI](https://ncbi.nlm.nih.gov/)
  
  * [ChEMBL](https://www.ebi.ac.uk/chembl/)
