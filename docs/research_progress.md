@@ -10,7 +10,7 @@
 ### 2020, Feb 4
 
  * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
-    * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through in vitro tests, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro.
+    * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
 
 ---
 
