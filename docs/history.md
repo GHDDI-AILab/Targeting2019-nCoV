@@ -1,5 +1,13 @@
+## version 0.1.3 [2-7-2020]
+* **UPDATE** updated research_update with 2 articles; used 1 article as source for drug candidates page
+
+## version 0.1.2 [2-6-2020]
+* **UPDATE** updated research_update; changed format to display 2020 dates
+* **UPDATE** updated targets data; changed format and added tables 
+
 ## version 0.1.1 [2-5-2020]
 * **NEW**: add useful links page
+* **UPDATE** updated several pages
 
 ## version 0.1.0 [2-4-2020]
 * **NEW**: add drug candidates page
