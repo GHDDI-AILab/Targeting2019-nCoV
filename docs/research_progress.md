@@ -9,7 +9,14 @@
 
 ### 2020, Feb 5
 
- * ["Genomic variance of the 2019-nCoV coronavirus"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
+* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1)
+    * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
+    * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
+    * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
+
+---
+
+* ["Genomic variance of the 2019-nCoV coronavirus"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
     * A phylogenetic tree was constructed of novel coronavirus as well as other coronaviridae such as bat coronavirus and SARS. The sequence similarity of >99% was confirmed between all 2019-nCoV genomes, and the closest bat coronavirus genome shared a 96.2% sequence identity. A proteomic comparison with other coronaviridae was also performed and key aminoacidic differences were identified for potential antiviral strategies.
 
 ---
