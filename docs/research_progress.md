@@ -1,29 +1,39 @@
 ## 2020
 
 ### 2020, Feb 6
-
 * ["2019-nCoV: new challenges from coronavirus"](http://rs.yiigle.com/yufabiao/1179575.htm)
     * According to current observations, 2019-nCoV is weaker than SARS in pathogenesis, but has stronger transmission competence; it's mechanism of cross-species spread might be related with angiotensin-converting enzyme Ⅱ (ACE2), which is consistent with the receptor SARS-CoV.
     * The emergence of 2019-nCoV reminds us once again of the importance of establishing a systematic coronavirus surveillance network. It also poses new challenges to prevention and control of the emerging epidemic and rapidly responses on scientific research.
 
 ---
 
-* ["Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute
-Respiratory Infections Caused by 2019-nCoV"](https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000047)
-    * The spike protein used for host cell infection shows key nonsynonymous mutations which may hamper efficacy of previously developed therapeutics but remains a viable target for the development of biologics and macrocyclic peptides.
-    * Other key drug targets, including RdRp and 3CLpro, share a strikingly high (>95%) homology to SARS‐CoV.
-    * 4 potential drug candidates (an ACE2‐based peptide, remdesivir, 3CLpro‐1 and a novel vinylsulfone protease inhibitor) were suggested that could be used to treat patients suffering with the 2019‐nCoV. We also summarize previous efforts and hope to help develop broad spectrum anti‐coronaviral agents for future epidemics.
+### 2020, Feb 5
+
+* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1)
+    * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
+    * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
+    * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
 
 ---
 
-### 2020, Feb 5
-
- * ["Genomic variance of the 2019-nCoV coronavirus"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
+* ["Genomic variance of the 2019-nCoV coronavirus"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
     * A phylogenetic tree was constructed of novel coronavirus as well as other coronaviridae such as bat coronavirus and SARS. The sequence similarity of >99% was confirmed between all 2019-nCoV genomes, and the closest bat coronavirus genome shared a 96.2% sequence identity. A proteomic comparison with other coronaviridae was also performed and key aminoacidic differences were identified for potential antiviral strategies.
 
----    
+---
+
+* ["Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute
+Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_lftppuptosar.pdf)
+    * The spike protein used for host cell infection although shows mutations but remains a viable target for development of biologics. Other key drug targets, including RdRp and 3CLpro, share a strikingly high (>95%) homology to SARS‐CoV. This paper suggests 4 potential drug candidates: an ACE2‐based peptide, remdesivir, 3CLpro-1, and novel sulfone protease inhibitor to possibly treat patients.
+    * Preprint released on January 27, 2020. Published on February 5, 2020 
+
+---
 
 ### 2020, Feb 4
+
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+    * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
+
+---
 
  * ["Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
     * Machine learned models and digital signal processing were used to classify 2019-nCoV genomes. After mapping using a two-dimensional numerical representation, the magnitude spectra was computed using a Discrete Fourier Transform. Afterwards, a distance matrix was calculated using Pearson Correlation Coefficients and were used as features for different machine learning algorithms. Through 10-fold cross validation, the classification accuracy for coronavirus was over 90%, indicating that 2019-nCoV can be classified closest to sarbecovirus within betacoronavirus.
@@ -81,7 +91,10 @@ Respiratory Infections Caused by 2019-nCoV"](https://onlinelibrary.wiley.com/doi
 
 ---
 
-### 2020, Jan 31
+ * ["Therapeutic strategies in an outbreak scenario to treat the novel coronavirus originating in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tsostncowc.pdf)
+    * Potential treatment options for 2019-nCoV are reviewed in this article including neutralizaing antibodies, oligonucleotides, antiviral medications, and passive antibody transfer. Additionally, this article advocates for the development of a biologic that blocks 2019-nCoV entry using the ACE2 viral receptor fused to an immunoglobulin Fc domain. The sequence of the ACE2-Fc protein is also provided in this article's Figure 2.
+    
+---
 
  * ["Evolution and variation of 2019-novel coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_evncov.pdf)
     * This article discusses the variation of the 2019-nCoV. The genomes were downloaded and analyzed with bioinformatics tools. It was found that through this analysis, there are at least two different viral strains of 2019-nCoV are involved in this outbreak, and the most recent common ancestor of 2019-nCoVs appeared about 0.253-0.594 year before the epidemic.
@@ -126,15 +139,8 @@ Respiratory Infections Caused by 2019-nCoV"](https://onlinelibrary.wiley.com/doi
 
 ---
 
-### 2020, Jan 27
-
  * ["Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_screpace2.pdf)
     * This article goes into detail about the ACE2 receptor and its relation with the Wuhan 2019-nCoV. The results of thsi study indicates that ACE2 receptor expression is concentrated in a small population of type II alveolar cells, and these cells are also highly expressed with many other genes that positively regulate viral reproduction and transmission. This information may be of further use for future anti-ACE2 therapeutic research and development.
-
----
-
- * ["Learning from the Past: possible Urgent Prevention and Treatment Options for Severe Respiratory Infections Caused by 2019-nCov"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_lftppuptosar.pdf)
-    * The spike protein used for host cell infection although shows mutations but remains a viable target for development of biologics. This paper suggests 3 potential drug candidates: remdesivir, 3CLpro-1, and novel sulfone protease inhibitor to possibly treat patients.
     
 ---
 
