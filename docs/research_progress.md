@@ -1,11 +1,25 @@
 ## 2020
 
+### 2020, Feb 6
+* ["2019-nCoV: new challenges from coronavirus"](http://rs.yiigle.com/yufabiao/1179575.htm)
+    * According to current observations, 2019-nCoV is weaker than SARS in pathogenesis, but has stronger transmission competence; it's mechanism of cross-species spread might be related with angiotensin-converting enzyme Ⅱ (ACE2), which is consistent with the receptor SARS-CoV.
+    * The emergence of 2019-nCoV reminds us once again of the importance of establishing a systematic coronavirus surveillance network. It also poses new challenges to prevention and control of the emerging epidemic and rapidly responses on scientific research.
+
+---
+
 ### 2020, Feb 5
 
  * ["Genomic variance of the 2019-nCoV coronavirus"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
     * A phylogenetic tree was constructed of novel coronavirus as well as other coronaviridae such as bat coronavirus and SARS. The sequence similarity of >99% was confirmed between all 2019-nCoV genomes, and the closest bat coronavirus genome shared a 96.2% sequence identity. A proteomic comparison with other coronaviridae was also performed and key aminoacidic differences were identified for potential antiviral strategies.
 
----    
+---
+
+* ["Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute
+Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_lftppuptosar.pdf)
+    * The spike protein used for host cell infection although shows mutations but remains a viable target for development of biologics. Other key drug targets, including RdRp and 3CLpro, share a strikingly high (>95%) homology to SARS‐CoV. This paper suggests 4 potential drug candidates: an ACE2‐based peptide, remdesivir, 3CLpro-1, and novel sulfone protease inhibitor to possibly treat patients.
+    * Preprint published on January, 27, 2020, Updated February 5, 2020 
+
+---
 
 ### 2020, Feb 4
 
@@ -119,15 +133,8 @@
 
 ---
 
-### 2020, Jan 27
-
  * ["Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_screpace2.pdf)
     * This article goes into detail about the ACE2 receptor and its relation with the Wuhan 2019-nCoV. The results of thsi study indicates that ACE2 receptor expression is concentrated in a small population of type II alveolar cells, and these cells are also highly expressed with many other genes that positively regulate viral reproduction and transmission. This information may be of further use for future anti-ACE2 therapeutic research and development.
-
----
-
- * ["Learning from the Past: possible Urgent Prevention and Treatment Options for Severe Respiratory Infections Caused by 2019-nCov"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_lftppuptosar.pdf)
-    * The spike protein used for host cell infection although shows mutations but remains a viable target for development of biologics. This paper suggests 3 potential drug candidates: remdesivir, 3CLpro-1, and novel sulfone protease inhibitor to possibly treat patients.
     
 ---
 
