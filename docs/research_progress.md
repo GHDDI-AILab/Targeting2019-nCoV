@@ -9,6 +9,11 @@
 
 ### 2020, Feb 4
 
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+    * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
+
+---
+
  * ["Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses"](https://www.biorxiv.org/content/10.1101/2020.02.02.931162v2)
     * Machine learned models and digital signal processing were used to classify 2019-nCoV genomes. After mapping using a two-dimensional numerical representation, the magnitude spectra was computed using a Discrete Fourier Transform. Afterwards, a distance matrix was calculated using Pearson Correlation Coefficients and were used as features for different machine learning algorithms. Through 10-fold cross validation, the classification accuracy for coronavirus was over 90%, indicating that 2019-nCoV can be classified closest to sarbecovirus within betacoronavirus.
 
