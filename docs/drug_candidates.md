@@ -4,7 +4,7 @@ The table below shows the identified candidates in no particular order. Only one
 
 | Drug Name          | Structure                                                    | MoA                                         | Indication                                                   | DrugBank URL                                     | Anti-2019nCoV Evidence          | Reference                                                    |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
-| Remdesivir         | ![img3](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_remdesivir.png) | RNA  polymerase inhibitor                   | Anti-Ebola passed Phase III, nCoV Phase III                  | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical report | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [8](https://www.nejm.org/doi/10.1056/NEJMoa2001191); [14](http://clarivate.com.cn/coronavirus-resources/images/Remdesivir.pdf); [15](https://www.nature.com/articles/s41422-020-0282-0); [16](https://clinicaltrials.gov/ct2/show/NCT04257656) |
+| Remdesivir         | ![img3](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_remdesivir.png) | RNA  polymerase inhibitor                   | Anti-Ebola passed Phase III, nCoV Phase III                  | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical report, Clinical trial | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [8](https://www.nejm.org/doi/10.1056/NEJMoa2001191); [14](http://clarivate.com.cn/coronavirus-resources/images/Remdesivir.pdf); [15](https://www.nature.com/articles/s41422-020-0282-0); [16](https://clinicaltrials.gov/ct2/show/NCT04257656) |
 | Lopinavir          | ![img1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_lopinavir.png) | Protease inhibitor                          | Anti-HIV approved                                            | [DB01601](https://www.drugbank.ca/drugs/DB01601) | Clinical trial                  | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48684); [2](http://www.chictr.org.cn/showprojen.aspx?proj=48919); [3](http://www.chictr.org.cn/showprojen.aspx?proj=48809); [4](http://www.chictr.org.cn/showprojen.aspx?proj=48991); [5](http://www.chictr.org.cn/showprojen.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
 | Ritonavir          | ![img2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_ritonavir.png) | Protease inhibitor                          | Anti-HIV approved                                            | [DB00503](https://www.drugbank.ca/drugs/DB00503) | Clinical trial                  | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48684); [2](http://www.chictr.org.cn/showprojen.aspx?proj=48919); [3](http://www.chictr.org.cn/showprojen.aspx?proj=48809); [4](http://www.chictr.org.cn/showprojen.aspx?proj=48991); [5](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml); [6](http://www.chictr.org.cn/showprojen.aspx?proj=48782) |
 | Emtricitabine      | ![img13](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_emtricitabine.png) | nucleoside reverse  transcriptase inhibitor | Anti-HIV  approved, anti-HBV                                 | [DB00879](https://www.drugbank.ca/drugs/DB00879) | Clinical trial                  | [2](http://www.chictr.org.cn/showprojen.aspx?proj=48919)     |
@@ -52,27 +52,4 @@ High-quality drug datasets were collected then curated based on anti-coronavirus
 
  * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
-
-
-
-## References
-
-  1. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48684)
-  2. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48919)
-  3. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48809)
-  4. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48991)
-  5. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48782)
-  6. [National Health Commission of the PRC](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml)
-  7. [Xinhua News](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm)
-  8. [New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2001191)
-  9. [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04246242)
-  10. [Xinhua News](http://www.xinhuanet.com/english/2020-02/01/c_138747115.htm)
-  11. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48992)
-  12. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48777) 
-  13. [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04244591)
-  14. [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/images/Remdesivir.pdf)
-  15. [Nature Letters to the Editor](https://www.nature.com/articles/s41422-020-0282-0)
- 16. [NIH ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04257656)
-  17. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=48968)
-  18. [ChiCTR](http://www.chictr.org.cn/showprojen.aspx?proj=49042)
 
