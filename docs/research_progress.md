@@ -86,9 +86,8 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
  * ["Therapeutic strategies in an outbreak scenario to treat the novel coronavirus originating in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tsostncowc.pdf)
     * Potential treatment options for 2019-nCoV are reviewed in this article including neutralizaing antibodies, oligonucleotides, antiviral medications, and passive antibody transfer. Additionally, this article advocates for the development of a biologic that blocks 2019-nCoV entry using the ACE2 viral receptor fused to an immunoglobulin Fc domain. The sequence of the ACE2-Fc protein is also provided in this article's Figure 2.
+    
 ---
-
-### 2020, Jan 31
 
  * ["Evolution and variation of 2019-novel coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_evncov.pdf)
     * This article discusses the variation of the 2019-nCoV. The genomes were downloaded and analyzed with bioinformatics tools. It was found that through this analysis, there are at least two different viral strains of 2019-nCoV are involved in this outbreak, and the most recent common ancestor of 2019-nCoVs appeared about 0.253-0.594 year before the epidemic.
