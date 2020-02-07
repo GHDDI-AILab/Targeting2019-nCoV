@@ -17,7 +17,7 @@
 * ["Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute
 Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_lftppuptosar.pdf)
     * The spike protein used for host cell infection although shows mutations but remains a viable target for development of biologics. Other key drug targets, including RdRp and 3CLpro, share a strikingly high (>95%) homology to SARS‐CoV. This paper suggests 4 potential drug candidates: an ACE2‐based peptide, remdesivir, 3CLpro-1, and novel sulfone protease inhibitor to possibly treat patients.
-    * Preprint published on January, 27, 2020, Updated February 5, 2020 
+    * Preprint released on January, 27, 2020. Published on February 5, 2020 
 
 ---
 
