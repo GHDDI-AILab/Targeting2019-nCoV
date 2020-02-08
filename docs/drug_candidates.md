@@ -46,10 +46,10 @@ A list of registered clinical trials related to 2019-nCoV is collected in the ta
 High-quality drug datasets were collected then curated based on anti-coronavirus indicators. These drugs could be used for drug repuposing.
 
  * Downloadable datasets: 
-   * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv)
-   * [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.csv)
-   * [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.csv)
+    * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv)
+    * [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.csv)
+    * [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.csv)
 
  * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
-   * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
+    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
 
