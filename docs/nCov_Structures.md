@@ -13,8 +13,6 @@ MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFD
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
 
     ![MD simulated Spike protein bind to human ACE2](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png)
-    
-    ![MD simulated Spike protein bind to human ACE2](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_surface.png)
 
 ### Envelope protein, E Protein
 MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV

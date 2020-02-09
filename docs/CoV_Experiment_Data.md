@@ -1,8 +1,11 @@
 # Data Analysis Results
 
+ 
+
 ## I. Based on previous experimental data 
 
-### 1. Top target specific antiviral candidates for RdRP
+
+### 1. Top target (RdRp) specific antiviral candidates 
 
 |  Drug name  | Mechanism of action  | Experimental activity  | Experimental pharmacology system  | Method  | parameter  | PX  | mean  | unit  | 
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | 
@@ -15,7 +18,6 @@
 |  Beclabuvir  | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors  | Infection, herpes simplex virus remission/reduction, IN VITRO  | IN VITRO  | Viral replication assay (multiple cycle)  | IC-50  | 5.397940009  | 0.000004  | M  | 
 |  Favipiravir  | RNA-Directed RNA Polymerase (Influenza A Virus H1N1) Inhibitors;RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors  | Infection, rabies virus remission/reduction, IN VITRO  | IN VITRO  | Fluorescent assay  | MIC  | 5.397940009  | 0.000004  | M  | 
 |  Diasarone I  | RNA-Directed RNA Polymerase (NS5) (Dengue Virus) Inhibitors  | Infection, dengue virus remission/reduction, IN VITRO  | IN VITRO  | Plaque assay  | IC-50  | 5.369572125  | 0.00000427  | M  | 
-| 
 
 ### 2. Top antiviral candidates selected from viral replication assay
 |  Drug name  | Mechanism of action  | Experimental activity  | Experimental pharmacology system  | Method  | parameter  | PX  | mean  | unit  | 
@@ -31,7 +33,6 @@
 |  Cidofovir  | DNA Polymerase Inhibitors  | Infection, cytomegalovirus remission/reduction, IN VITRO  | IN VITRO  | Viral replication assay  | IC-99  | 7.22184875  | 0.00000006  | M  | 
 |  Alvocidib hydrochloride  | Cyclin-Dependent Kinase 1 (CDK1) Inhibitors;Signal Transduction Modulators;Cyclin-Dependent Kinase 6 (CDK6) Inhibitors;CDK9/Cyclin T1 Inhibitors;Baculoviral IAP Repeat-Containing Protein 5 (BIRC5; Survivin) Inhibitors;Apoptosis Inducers;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Cyclin-Dependent Kinase 2 (CDK2) Inhibitors;Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1 Inhibitors;Cyclin-Dependent Kinase 4 (CDK4) Inhibitors;X-Chromosome-Linked Inhibitor of Apoptosis Protein (XIAP) Inhibitors;Apoptosis Regulator Bcl-2 Inhibitors  | Infection, herpes virus remission/reduction, IN VITRO  | IN VITRO  | Viral replication assay  | IC-50  | 7.000217202  | 1.00E-07  | M  | 
 |  Ganciclovir  | DNA Polymerase Inhibitors  | Infection, herpes simplex virus remission/reduction, IN VITRO  | IN VITRO  | Viral replication assay  | IC-50  | 7  | 0.0000001  | M  | 
-| 
 
 ### 3. Top antiviral candidates selected from different assays
 |  Drug_name  | Mechanism of action  | Experimental activity  | Experimental pharmacology system  | Method  | parameter  | PX  | mean  | unit  | 
@@ -46,7 +47,6 @@
 |  Peramivir  | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors  | Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO  | IN VITRO  | 4-Methylumbelliferyl-N-acetyl-alpha-D-neuraminic acid as substrate  | IC-50  | 10.30103  | 5.00E-11  | M  | 
 |  Laninamivir  | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors  | Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO  | IN VITRO  | Fluorescent assay  | IC-50  | 9.958607315  | 1.10E-10  | M  | 
 |  Ribavirin  | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors  | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO  | IN VITRO  | ELISA assay  | IC-50  | 9.899629455  | 1.26E-10  | M  | 
-| 
 
 
 ## II. Based on sematic literature mining 
@@ -62,7 +62,7 @@
 |  anthelmintics  | Pharmacologic Substance  | DOWNREGULATE  | sars coronavirus  | Virus  | 1.367411676  | 1  | no  | DOWNREGULATE: 1  | 
 |  antiviral agents  | Pharmacologic Substance  | DOWNREGULATE  | human coronavirus  | Virus  | 1.093929341  | 1  | no  | DOWNREGULATE: 1  | 
 |  kinase inhibitor  | Pharmacologic Substance  | DOWNREGULATE  | sars coronavirus  | Virus  | 1.093929341  | 1  | no  | DOWNREGULATE: 1  | 
-| 
+
 
 ### Organic chemicals
 |  Source Concept  | Source Concept Categories  | Relationship Type  | Target Concept  | Target Concept Categories  | Score  | Count of Evidence  | Evidence contains clinical studies?  | Count of Evidence per rel type  | 
@@ -77,7 +77,7 @@
 |  niclosamide  | Organic Chemical  | DOWNREGULATE  | sars coronavirus  | Virus  | 5.322087182  | 2  | no  | DOWNREGULATE: 2  | 
 |  fumaric acid  | Organic Chemical  | DOWNREGULATE  | genus: coronavirus  | Virus  | 4.730744162  | 2  | no  | DOWNREGULATE: 2  | 
 |  tapi-2  | Organic Chemical  | DOWNREGULATE  | sars coronavirus  | Virus  | 4.730744162  | 2  | no  | DOWNREGULATE: 2  | 
-| 
+
 
 ### Amino acids/peptides/proteins
 |  Source Concept  | Source Concept Categories  | Relationship Type  | Target Concept  | Target Concept Categories  | Score  | Count of Evidence  | Evidence contains clinical studies?  | Count of Evidence per rel type  | 
