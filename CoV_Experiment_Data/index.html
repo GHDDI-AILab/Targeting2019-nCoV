@@ -60,16 +60,6 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../assay/">2019-nCoV Assay Protocals</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../computational/">2019-nCoV Computational Studies</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
     <span class="caption-text">Data Download</span>
     <ul class="subnav">
                 <li class=" current">
@@ -77,6 +67,17 @@
     <a class="current" href="./">Data Mining</a>
     <ul class="subnav">
             
+    <li class="toctree-l3"><a href="#data-analysis-results">Data Analysis Results</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l4" href="#i-based-on-previous-experimental-data">I. Based on previous experimental data</a></li>
+        
+            <li><a class="toctree-l4" href="#ii-based-on-sematic-literature-mining">II. Based on sematic literature mining</a></li>
+        
+        </ul>
+    
+
     <li class="toctree-l3"><a href="#data-download-with-explanation-and-preview">Data Download with Explanation and Preview</a></li>
     
         <ul>
@@ -158,17 +159,732 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="data-download-with-explanation-and-preview">Data Download with Explanation and Preview</h1>
+                <h1 id="data-analysis-results">Data Analysis Results</h1>
+<h2 id="i-based-on-previous-experimental-data">I. Based on previous experimental data</h2>
+<h3 id="1-top-target-rdrp-specific-antiviral-candidates">1. Top target (RdRp) specific antiviral candidates</h3>
+<table>
+<thead>
+<tr>
+<th>Drug name</th>
+<th>DrugBank ID</th>
+<th>Clinical Information</th>
+<th>Mechanism of action</th>
+<th>Experimental activity</th>
+<th>Method</th>
+<th>parameter</th>
+<th>PX</th>
+<th>mean</th>
+<th>unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Remdesivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB14761">DB14761</a></td>
+<td>1. Phase III for  Ebola <br>2. Phase III for nCoV</td>
+<td>RNA-Directed RNA Polymerase Inhibitor</td>
+<td>Ebola virus disease remission/reduction, IN VITRO</td>
+<td></td>
+<td>IC-50</td>
+<td>8</td>
+<td>0.00000001</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Lumicitabine</td>
+<td><a href="https://www.drugbank.ca/drugs/DB14808">DB14808</a></td>
+<td>Phase II  completed for Respiratory Syncytial Virus</td>
+<td>RNA-Directed RNA Polymerase (Respiratory Syncytial Virus) Inhibitors</td>
+<td>Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>6.585026652</td>
+<td>0.00000026</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Sofosbuvir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB08934">DB08934</a></td>
+<td>Phase 4 completed  for HCV <br>Marketed for HCV</td>
+<td>RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors</td>
+<td>Infection, dengue virus remission/reduction, IN VITRO</td>
+<td>Plaque assay</td>
+<td>IC-90</td>
+<td>6.397940009</td>
+<td>0.0000004</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Adafosbuvir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB14906">DB14906</a></td>
+<td>Phase II  completed for HCV</td>
+<td>RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors</td>
+<td>Infection, dengue virus remission/reduction, IN VITRO</td>
+<td>Plaque assay</td>
+<td>IC-50</td>
+<td>5.958607315</td>
+<td>0.0000011</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Balapiravir hydrochloride</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12283">DB12283</a></td>
+<td>1. Phase I  completed for Dengue Fever <br>2. Phase II completed for HCV</td>
+<td>RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors</td>
+<td>Infection, dengue virus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>5.721246399</td>
+<td>0.0000019</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Galidesivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB11676">DB11676</a></td>
+<td>1. Phase I competed  for Ebola <br>2. Phase I started for Marburg virus <br>3. Phase 1 started for yellow fever</td>
+<td>RNA Polymerase Inhibitors</td>
+<td>Infection, Zika virus remission/reduction, IN VITRO</td>
+<td>Fluorescent assay</td>
+<td>IC-50</td>
+<td>5.528708289</td>
+<td>0.00000296</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Beclabuvir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12225">DB12225</a></td>
+<td>Phase III  completed for HCV, Phase IV withdrawn for HCV</td>
+<td>RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors</td>
+<td>Infection, herpes simplex virus remission/reduction, IN VITRO</td>
+<td>Viral replication assay (multiple cycle)</td>
+<td>IC-50</td>
+<td>5.397940009</td>
+<td>0.000004</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Favipiravir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12466">DB12466</a></td>
+<td>1. Phase III  completed for Influenza <br>2. Phase II completed for Ebola</td>
+<td>RNA-Directed RNA Polymerase (Influenza A Virus H1N1) Inhibitors;RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors</td>
+<td>Infection, rabies virus remission/reduction, IN VITRO</td>
+<td>Fluorescent assay</td>
+<td>MIC</td>
+<td>5.397940009</td>
+<td>0.000004</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="2-top-antiviral-candidates-selected-from-viral-replication-assay">2. Top antiviral candidates selected from viral replication assay</h3>
+<table>
+<thead>
+<tr>
+<th>Drug name</th>
+<th>DrugBank ID</th>
+<th>Clinical Information</th>
+<th>Mechanism of action</th>
+<th>Experimental activity</th>
+<th>Method</th>
+<th>parameter</th>
+<th>PX</th>
+<th>mean</th>
+<th>unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deferiprone</td>
+<td><a href="https://www.drugbank.ca/drugs/DB08826">DB08826</a></td>
+<td>1. Phase 4 completed  for acute iron intoxication <br/>2. Phase 4 completed for Hepatic impairment <br/>3.  Phase 4 completed for impaired kidney function <br/>4. Phase 4 completed for  Beta-Thalassemia <br/>5. Phase 4 completed for hemosiderosis <br/>6. Phase 4  completed for Prolonged QT Interval <br/>7. Phase III completed for Parkinson's  disease; <br/>Marketed for iron toxicity</td>
+<td>Chelating Agents;Cytochrome P450 CYP4F2 Inhibitors</td>
+<td>Infection, BK polyomavirus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>8.455931956</td>
+<td>3.50E-09</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Raltegravir potassium</td>
+<td><a href="https://www.drugbank.ca/drugs/DB06817">DB06817</a></td>
+<td>Phase 4 completed  for HIV <br/>Marketed for Anti-Retroviral HIV</td>
+<td>HIV Integrase Inhibitors</td>
+<td>Infection, xenotropic murine leukemia virus-related virus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>8.301029996</td>
+<td>0.000000005</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Verdinexor</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12207">DB12207</a></td>
+<td>Phase 1 completed  for basic science on health volunteers</td>
+<td>Exportin-1 (CRM1, XPO1) Receptor Antagonists;Signal Transduction Modulators</td>
+<td>Infection, JC polyomavirus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>8.124938737</td>
+<td>7.50E-09</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Brincidofovir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12151">DB12151</a></td>
+<td>Phase 3 completed  for adenovirus infections</td>
+<td>DNA Polymerase Inhibitors</td>
+<td>Infection, JC polyomavirus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>7.698970004</td>
+<td>0.00000002</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Remdesivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB14761">DB14761</a></td>
+<td>1. Phase III for  Ebola <br> 2. Phase III for nCoV</td>
+<td>Nucleobindin-1 (NUCB1) Inhibitors</td>
+<td>Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>7.602059991</td>
+<td>0.000000025</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Verdinexor</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12207">DB12207</a></td>
+<td>Phase I completed  for basic science experiments on healthy volunteers</td>
+<td>Exportin-1 (CRM1, XPO1) Receptor Antagonists;Signal Transduction Modulators</td>
+<td>Infection, adenovirus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>7.522878745</td>
+<td>0.00000003</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Cidofovir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB00369">DB00369</a></td>
+<td>Phase 4 completed  for cytomegalovirus <br/>Marketed for CMV in AIDS patients</td>
+<td>DNA Polymerase Inhibitors</td>
+<td>Infection, cytomegalovirus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-99</td>
+<td>7.22184875</td>
+<td>0.00000006</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Alvocidib hydrochloride</td>
+<td><a href="https://www.drugbank.ca/drugs/DB03496">DB03496</a></td>
+<td>1. Phase II  completed for sarcomas <br>2. Phase II completed for renal cancers; <br>3. Phase II  completed for melanoma <br>4. Phase II completed for other cancers including:  myeloma, carcinoma, esophageal, endometrial, leukaemia, etc.</td>
+<td>Cyclin-Dependent Kinase 1 (CDK1) Inhibitors;Signal Transduction Modulators;Cyclin-Dependent Kinase 6 (CDK6) Inhibitors;CDK9/Cyclin T1 Inhibitors;Baculoviral IAP Repeat-Containing Protein 5 (BIRC5; Survivin) Inhibitors;Apoptosis Inducers;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Cyclin-Dependent Kinase 2 (CDK2) Inhibitors;Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1 Inhibitors;Cyclin-Dependent Kinase 4 (CDK4) Inhibitors;X-Chromosome-Linked Inhibitor of Apoptosis Protein (XIAP) Inhibitors;Apoptosis Regulator Bcl-2 Inhibitors</td>
+<td>Infection, herpes virus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>7.000217202</td>
+<td>1.00E-07</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Ganciclovir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB01004">DB01004</a></td>
+<td>1. Phase 4 active  for viral pneumonia <br>2. Phase 4 completed for DNA virus infections <br>3. Phase 4  completed for CMV <br>4. Phase 4 completed for viral sepsis</td>
+<td>DNA Polymerase Inhibitors</td>
+<td>Infection, herpes simplex virus remission/reduction, IN VITRO</td>
+<td>Viral replication assay</td>
+<td>IC-50</td>
+<td>7</td>
+<td>0.0000001</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="3-top-antiviral-candidates-selected-from-different-assays">3. Top antiviral candidates selected from different assays</h3>
+<table>
+<thead>
+<tr>
+<th>Drug_name</th>
+<th>DrugBank  ID</th>
+<th>Clinical Information</th>
+<th>Mechanism of action</th>
+<th>Experimental activity</th>
+<th>Method</th>
+<th>parameter</th>
+<th>PX</th>
+<th>mean</th>
+<th>unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Presatovir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12165">DB12165</a></td>
+<td>Phase II completed  for Respiratory Syncytial Virus</td>
+<td>Respiratory Syncytial Virus (RSV) Fusion Inhibitors;Viral Fusion Inhibitors</td>
+<td>Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO</td>
+<td>Cytopathicity assay</td>
+<td>IC-50</td>
+<td>11.74472749</td>
+<td>1.80E-12</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Brincidofovir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12151">DB12151</a></td>
+<td>Phase III completed  for AdV, BKV, CMV, EBV, and HHV6</td>
+<td>DNA Polymerase Inhibitors</td>
+<td>Infection, cytomegalovirus remission/reduction, IN VITRO</td>
+<td>DNA assay</td>
+<td>IC-50</td>
+<td>11.69897</td>
+<td>2.00E-12</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Sorivudine</td>
+<td><a href="https://www.drugbank.ca/drugs/DB11998">DB11998</a></td>
+<td>Phase III  completed for Chickenpox, HIV</td>
+<td>DNA Polymerase Inhibitors</td>
+<td>Infection, varicella zoster virus remission/reduction, IN VITRO</td>
+<td>Plaque assay</td>
+<td>IC-50</td>
+<td>10.61978876</td>
+<td>2.40E-11</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Peramivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB06614">DB06614</a></td>
+<td>Phase 4 completed  for influenza <br/>Marketed for influenza</td>
+<td>Neuraminidase (Sialidase) (Influenza Virus) Inhibitors</td>
+<td>Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO</td>
+<td>4-Methylumbelliferyl-N-acetyl-alpha-D-neuraminic acid as substrate</td>
+<td>Ki</td>
+<td>10.85387196</td>
+<td>1.40E-11</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Peramivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB06614">DB06614</a></td>
+<td>Phase 4 completed  for influenza <br/>Marketed for influenza</td>
+<td>Neuraminidase (Sialidase) (Influenza Virus) Inhibitors</td>
+<td>Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO</td>
+<td>4-Methylumbelliferyl-N-acetyl-alpha-D-neuraminic acid as substrate</td>
+<td>IC-50</td>
+<td>10.30103</td>
+<td>5.00E-11</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Zanamivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB00558">DB00558</a></td>
+<td>Phase 4 completed  for influenza <br/>Marketed for influenza</td>
+<td>Neuraminidase (Sialidase) (Influenza Virus) Inhibitors</td>
+<td>Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO</td>
+<td>Chemiluminescent assay</td>
+<td>IC-50</td>
+<td>10.52287875</td>
+<td>3.00E-11</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Sirolimus</td>
+<td><a href="https://www.drugbank.ca/drugs/DB00877">DB00877</a></td>
+<td>1. Phase 4 completed  for renal diseases, renal failure <br>2. Phase 4 completed for kidney and heart  transplatation <br/>Marketed for kidney transplantation</td>
+<td>CCR5 Expression Inhibitors;Cytochrome P450 CYP2D6 Inhibitors;Signal Transduction Modulators;Cytochrome P450 CYP2C9 Inhibitors;P-Glycoprotein (MDR-1; ABCB1) Inhibitors;Proteasome Inhibitors;Mammalian Target of Rapamycin (mTOR; FRAP1) Inhibitors;Drugs Targeting B-Lymphocyte Antigen CD19</td>
+<td>Infection, cytomegalovirus remission/reduction, IN VITRO</td>
+<td>Chemiluminescent assay</td>
+<td>IC-50</td>
+<td>10.39794001</td>
+<td>4.00E-11</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Laninamivir</td>
+<td><a href="https://www.drugbank.ca/drugs/DB12791">DB12791</a></td>
+<td>Phase I completed  for influenza</td>
+<td>Neuraminidase (Sialidase) (Influenza Virus) Inhibitors</td>
+<td>Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO</td>
+<td>Fluorescent assay</td>
+<td>IC-50</td>
+<td>9.958607315</td>
+<td>1.10E-10</td>
+<td>M</td>
+</tr>
+<tr>
+<td>Ribavirin</td>
+<td><a href="https://www.drugbank.ca/drugs/DB00811">DB00811</a></td>
+<td>1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV,</td>
+<td>Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors</td>
+<td>Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO</td>
+<td>ELISA assay</td>
+<td>IC-50</td>
+<td>9.899629455</td>
+<td>1.26E-10</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<p>*Compounds selected based on top PX scores from respective assays.</p>
+<h2 id="ii-based-on-sematic-literature-mining">II. Based on sematic literature mining</h2>
+<h3 id="pharmacologic-substance">Pharmacologic Substance</h3>
+<table>
+<thead>
+<tr>
+<th>Source Concept</th>
+<th>Source Concept Categories</th>
+<th>Relationship Type</th>
+<th>Target Concept</th>
+<th>Target Concept Categories</th>
+<th>Score</th>
+<th>Count of Evidence</th>
+<th>Evidence contains clinical studies?</th>
+<th>Count of Evidence per rel type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>protease inhibitors</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>7.9481972</td>
+<td>3</td>
+<td>no</td>
+<td>DOWNREGULATE: 3</td>
+</tr>
+<tr>
+<td>proteasome inhibitor</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>6.504773223</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>hiv protease inhibitors</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>2.051117514</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+<tr>
+<td>cardiotonic agents</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>genus: coronavirus</td>
+<td>Virus</td>
+<td>1.367411676</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+<tr>
+<td>chinese herbs</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>1.367411676</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+<tr>
+<td>anthelmintics</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>1.367411676</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+<tr>
+<td>antiviral agents</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>human coronavirus</td>
+<td>Virus</td>
+<td>1.093929341</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+<tr>
+<td>kinase inhibitor</td>
+<td>Pharmacologic Substance</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>1.093929341</td>
+<td>1</td>
+<td>no</td>
+<td>DOWNREGULATE: 1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="organic-chemicals">Organic chemicals</h3>
+<table>
+<thead>
+<tr>
+<th>Source Concept</th>
+<th>Source Concept Categories</th>
+<th>Relationship Type</th>
+<th>Target Concept</th>
+<th>Target Concept Categories</th>
+<th>Score</th>
+<th>Count of Evidence</th>
+<th>Evidence contains clinical studies?</th>
+<th>Count of Evidence per rel type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fk-506</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>human coronavirus nl63</td>
+<td>Virus</td>
+<td>10.64417436</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>glycyrrhizic acid</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>8.142055669</td>
+<td>3</td>
+<td>no</td>
+<td>DOWNREGULATE: 3</td>
+</tr>
+<tr>
+<td>chloroquine</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>genus: coronavirus</td>
+<td>Virus</td>
+<td>7.560480264</td>
+<td>3</td>
+<td>no</td>
+<td>DOWNREGULATE: 2, UNIDIRECTIONAL: 1</td>
+</tr>
+<tr>
+<td>beta-thujaplicin</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>genus: coronavirus</td>
+<td>Virus</td>
+<td>7.096116243</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>lopinavir</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>5.913430203</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>u 18666a</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>coronavirus, feline</td>
+<td>Virus</td>
+<td>5.322087182</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>5-(n,n-hexamethylene)amiloride</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>genus: coronavirus</td>
+<td>Virus</td>
+<td>5.322087182</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>niclosamide</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>5.322087182</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>fumaric acid</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>genus: coronavirus</td>
+<td>Virus</td>
+<td>4.730744162</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>tapi-2</td>
+<td>Organic Chemical</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>4.730744162</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="amino-acidspeptidesproteins">Amino acids/peptides/proteins</h3>
+<table>
+<thead>
+<tr>
+<th>Source Concept</th>
+<th>Source Concept Categories</th>
+<th>Relationship Type</th>
+<th>Target Concept</th>
+<th>Target Concept Categories</th>
+<th>Score</th>
+<th>Count of Evidence</th>
+<th>Evidence contains clinical studies?</th>
+<th>Count of Evidence per rel type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>human leukocyte interferon</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>11.88168037</td>
+<td>17</td>
+<td>no</td>
+<td>DOWNREGULATE: 11, UNIDIRECTIONAL: 4, UPREGULATE: 1, NEG_UNIDIRECTIONAL: 1</td>
+</tr>
+<tr>
+<td>cyclosporine</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>9.45060033</td>
+<td>3</td>
+<td>no</td>
+<td>DOWNREGULATE: 3</td>
+</tr>
+<tr>
+<td>recombinant interferon alfa</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>9.067622441</td>
+<td>5</td>
+<td>no</td>
+<td>DOWNREGULATE: 4, UNIDIRECTIONAL: 1</td>
+</tr>
+<tr>
+<td>cytokine</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>5.9611479</td>
+<td>3</td>
+<td>no</td>
+<td>DOWNREGULATE: 2, UNIDIRECTIONAL: 1</td>
+</tr>
+<tr>
+<td>glycosyltransferase</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>5.913430203</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>methyltransferase</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>sars coronavirus</td>
+<td>Virus</td>
+<td>5.913430203</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>monoclonal antibodies</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>porcine respiratory coronavirus</td>
+<td>Virus</td>
+<td>4.730744162</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+<tr>
+<td>spike protein antibody</td>
+<td>Amino Acid, Peptide, or Protein</td>
+<td>DOWNREGULATE</td>
+<td>bovine coronavirus</td>
+<td>Virus</td>
+<td>4.730744162</td>
+<td>2</td>
+<td>no</td>
+<td>DOWNREGULATE: 2</td>
+</tr>
+</tbody>
+</table>
+<h1 id="data-download-with-explanation-and-preview">Data Download with Explanation and Preview</h1>
 <p>We are releasing the following datasets from our big data platform. We are making our best effort to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @<a href="https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues"><strong>here</strong></a>. We will update our datasets periodically to provide more information to help your research combat the disease. </p>
 <h3 id="annotated-set">Annotated Set</h3>
 <ul>
 <li>
 <p>A collection of 1690 in vitro and in vivo records for 245 molecules     </p>
-<ul>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/SARS_annotated_1690.csv">Full dataset</a></li>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/SARS_annotated_1690.csv">Full dataset</a></p>
+</li>
 </ul>
 <p><details>
-    <summary>A few selected records</summary></p>
+      <summary>A few selected records</summary></p>
 <table>
 <thead>
 <tr>
@@ -4569,19 +5285,17 @@
 </table>
 </details>
 
-</li>
-</ul>
 <h3 id="unannotated-set">Unannotated Set</h3>
 <ul>
 <li>
 <p>A collection of 816 records for 479 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   </p>
-<ul>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv">Full dataset</a></li>
-</ul>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv">Full dataset</a></p>
 </li>
 <li>
 <p>Some subsets extracted:</p>
-<ul>
+</li>
 <li>
 <p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_active.csv"><em>PX&gt;6(measurement &lt;1uM) active set</em></a></p>
 </li>
@@ -4600,39 +5314,41 @@
 <li>
 <p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_pKi_for_14_molecules.csv"><em>pKi values for 14 molecules</em></a></p>
 </li>
-</ul>
-</li>
 <li>
 <p>SMILES of 986 molecules tested for coronavirus, but we are not sure if they are active or inactive</p>
-<ul>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv">SMILES</a></li>
-</ul>
 </li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv">SMILES</a></li>
 </ul>
 <h3 id="literature-mining">Literature Mining</h3>
 <ul>
-<li>A comprehensive literature mining result kindly provided by <a href="https://www.causaly.com">Causaly</a>, focusing on chemicals/drugs, genes and molecular mechanisms. This data includes 2090 relationships, 1229 aggregrate relationships, and 976 articles based on a search query of "Chemicals&amp;Drugs,Genes,Cellular&amp;Molecular Mechanisms [AFFECTING] [Genus:Coronavirus]" with the data source coming from MEDLINE and PubMedCentral. This search resulted in several Target Concepts including: sars coronavirus, middle east respiratory syndrome coronavirus, human coronavirus, etc.<ul>
+<li>A comprehensive literature mining result kindly provided by <a href="https://www.causaly.com">Causaly</a>, focusing on chemicals/drugs, genes and molecular mechanisms. This data includes 2090 relationships, 1229 aggregrate relationships, and 976 articles based on a search query of "Chemicals&amp;Drugs,Genes,Cellular&amp;Molecular Mechanisms [AFFECTING] [Genus:Coronavirus]" with the data source coming from MEDLINE and PubMedCentral. This search resulted in several Target Concepts including: sars coronavirus, middle east respiratory syndrome coronavirus, human coronavirus, etc.</li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx">Full dataset</a></li>
-</ul>
-</li>
 </ul>
 <p>The following figure is the keyword relationship network: </p>
 <p><img alt="Image of network" src="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_resized.png" /></p>
 <p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_network_causaly.png">Full Image</a></p>
 <ul>
-<li>The aggregate relationship data can be found in this <a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_aggregate_relationships.xlsx">dataset</a></li>
-<li>This data describes source concept items and classifies them into different categories. Some relevant categories include: Amino Acid Peptide Protein, Biologically Active Substance, Chemical, Nucleic Acid, etc.</li>
-<li>Literature articles and relationships data gives a list of 977 relevant articles and shows the evidence of the relationship from the original article.<ul>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_and_relationships.xlsx">Dataset</a></li>
-</ul>
+<li>
+<p>The aggregate relationship data can be found in this <a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_aggregate_relationships.xlsx">dataset</a></p>
+</li>
+<li>
+<p>This data describes source concept items and classifies them into different categories. Some relevant categories include: Amino Acid Peptide Protein, Biologically Active Substance, Chemical, Nucleic Acid, etc.</p>
+</li>
+<li>
+<p>Literature articles and relationships data gives a list of 977 relevant articles and shows the evidence of the relationship from the original article.</p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_and_relationships.xlsx">Dataset</a></p>
 </li>
 <li>
 <p>Literature evidence data lists all relevant source concepts (biological substances, chemicals, etc) and its relation to an article. Overall, there are over 2000 relevant pieces of information relevant to coronavirus. </p>
-<ul>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_all.xlsx">Dataset</a></li>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_all.xlsx">Dataset</a></p>
+</li>
 </ul>
 <p><details>
-    <summary>A few selected records</summary></p>
+      <summary>A few selected records</summary></p>
 <table>
 <thead>
 <tr>
@@ -6611,9 +7327,6 @@
 </tbody>
 </table>
 <details>
-
-</li>
-</ul>
               
             </div>
           </div>
@@ -6624,7 +7337,7 @@
         <a href="../nCov_Targets/" class="btn btn-neutral float-right" title="Targets Validation">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../computational/" class="btn btn-neutral" title="2019-nCoV Computational Studies"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../drug_candidates/" class="btn btn-neutral" title="2019-nCoV Drug Candidates"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -6650,7 +7363,7 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../computational/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../drug_candidates/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
         <span style="margin-left: 15px"><a href="../nCov_Targets/" style="color: #fcfcfc">Next &raquo;</a></span>
