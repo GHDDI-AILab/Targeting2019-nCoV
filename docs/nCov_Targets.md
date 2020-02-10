@@ -1,6 +1,26 @@
-Protein targets related to the MERS and SARS virus is provided on this page. This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
+# Target Analysis For SARS/MERS and previous therapeutic efforts
 
 ---
+
+## List of SARS/MERS Targets and their functions 
+
+This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed with  effort for each category of protein.
+
+![Figure_ CoV](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig1.jpg)
+
+Additionally, Figure 2 of the same review article shows the virus-based and host-based therapeutic options within the cell. This figure visualizes host and viral targets and illustrates their functions.
+
+![Download Full Image](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig2.png)
+
+---
+## List of human Targets related to SARS 
+
+A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
+
+---
+
+## Structures of SARS/MERS proteins
+This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
@@ -30,26 +50,12 @@ Additionally, the targetscape of MERS virus, provided by [Clarivate Analytics](h
 
 ---
 
-### List of Targets
+## List of therapeutics for SARS/MERS to target viral or host biological system and related vaccine efforts. 
 
-This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed for each category of protein.
-
-![Figure_ CoV](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig1.jpg)
-
-Additionally, Figure 2 of the same review article shows the virus-based and host-based therapeutic options within the cell. This figure visualizes host and viral targets and illustrates their functions.
-
-![Download Full Image](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_targets2016fig2.png)
-
----
-
-A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
-
----
-
-Viral targets and therapeutic options are listed in the table below. This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
+This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
 
-| Viral Targets                                      | Potential therapeutics |
+| Targeted Viral components                          | Potential therapeutics |
 | -------------------------------------------------- | ---------------------- |
 | Nucleosides or Nucleotides                         | Mycophenolic Acid      |
 | Base Sequence GUC in <br />loop region of CoV mRNA | Ribozyme               |
@@ -60,13 +66,20 @@ Viral targets and therapeutic options are listed in the table below. This inform
 | RdRp                                               | Ribavirin, BCX4430,    |
 | Helicase                                           | Bananins, SSYA10-001   |
 | RBD of S1 Subunit of S protein                     | NERS-4, MERS-27        |
+|S2 subunit of S                                     | HR2P and P1 peptides   |
+|Oligosaccharides onS                                |  Griffithsin           |
+|S expression|siRNA*|
+|E | siRNA*, Hexamethylene amiloride|
+|M | siRNA*|
+|N | PJ34, intrabodies‡ and siRNA*|
+|Accessory proteins| siRNA* |
+|Lipid membrane| LJ001 and JL103|
 
 
-Similarly, host targets and therapeutic options are listed in the table below from the same review article source. 
 
-| Host Target                            | Potential Therapeutics                                       |
+| Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
-| Interferon Response                    | Recombinant interferons, Poly(I:C), Nitazoxanide             |
+| Interferon Response                    | Recombinant interferons(interferon alfa, interferon beta, interferon gamma), Poly(I:C), Nitazoxanide             |
 | Cyclophilins                           | Cyclosporine, alisporivir                                    |
 | Kinase signalling pathways             | Trametinib, selumetinib, everolimus, <br /> rapacycin, dasatinib, imatinib |
 | ACE2                                   | P4 and P5 peptides, NAAE                                     |
@@ -75,3 +88,14 @@ Similarly, host targets and therapeutic options are listed in the table below fr
 | Surface Protease (TMPRSS2)             | Camostat mesylate                                            |
 | Other host proteases (furin)           | dec-RVKR-CMK                                                 |
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
+| Endosomal acidification                | Chloroquine                                                  |
+
+
+| Vaccine Type                           | Examples                                                     |
+| -------------------------------------- | ------------------------------------------------------------ |
+| Live attenuated virus                  | rMERS‐CoV‐ΔE            |
+| DNA plasmid                          | MERS‐CoV S DNA |
+| Viral vectors            | MVA‐MERS‐S, Ad5‐MERS‐S, Ad5‐MERS‐S1, Ad5‐S and Ad41‐S |
+| Nanoparticles                                  | MERS‐CoV S‐containing nanoparticles                   |
+| Virus‐like particles                                   | VRP‐S                                         |
+| Recombinant protein subunits       | S(RBD)‐Fc, S1(358–588)‐Fc, S(377–588)‐Fc and rRBD                 |
