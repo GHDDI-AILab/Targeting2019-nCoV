@@ -1,11 +1,5 @@
 ## 2020
 
-2020, Feb 7
- * ["Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_p23clpidgdl.pdf)
-    * This article from Insilico Medicine utilizes its generative chemistry pipeline to design novel molecules for 2019-nCoV through several generative chemistry approaches. Inputs for this model include 2019-nCoV 3C-like protease crystal structure, homology model, co-crystalized fragment, and a protease datasets. Several structures were generated and shown in the paper's results section. The most recent data results are on their official website: insilico.com/ncov-sprint.
-
----
-
 2020, Feb 6
 * ["2019-nCoV: new challenges from coronavirus"](http://rs.yiigle.com/yufabiao/1179575.htm)
     * According to current observations, 2019-nCoV is weaker than SARS in pathogenesis, but has stronger transmission competence; it's mechanism of cross-species spread might be related with angiotensin-converting enzyme Ⅱ (ACE2), which is consistent with the receptor SARS-CoV.
@@ -244,13 +238,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 ----
 
-## 2008
-
- * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
-    * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
-    
----   
-    
 ## 2004
 
  * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
