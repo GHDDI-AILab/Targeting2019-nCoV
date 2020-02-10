@@ -1,4 +1,7 @@
 ## version 0.1.3 [2-7-2020]
+* **UPDATE** updated targets and data mining pages
+
+## version 0.1.3 [2-7-2020]
 * **UPDATE** updated research_update with 2 articles; used 1 article as source for drug candidates page
 
 ## version 0.1.2 [2-6-2020]
