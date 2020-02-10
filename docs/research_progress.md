@@ -1,12 +1,14 @@
 ## 2020
 
 2020, Feb 7
+
  * ["Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_p23clpidgdl.pdf)
     * This article from Insilico Medicine utilizes its generative chemistry pipeline to design novel molecules for 2019-nCoV through several generative chemistry approaches. Inputs for this model include 2019-nCoV 3C-like protease crystal structure, homology model, co-crystalized fragment, and a protease datasets. Several structures were generated and shown in the paper's results section. The most recent data results are on their official website: insilico.com/ncov-sprint.
 
 ---
 
 2020, Feb 6
+
 * ["2019-nCoV: new challenges from coronavirus"](http://rs.yiigle.com/yufabiao/1179575.htm)
     * According to current observations, 2019-nCoV is weaker than SARS in pathogenesis, but has stronger transmission competence; it's mechanism of cross-species spread might be related with angiotensin-converting enzyme Ⅱ (ACE2), which is consistent with the receptor SARS-CoV.
     * The emergence of 2019-nCoV reminds us once again of the importance of establishing a systematic coronavirus surveillance network. It also poses new challenges to prevention and control of the emerging epidemic and rapidly responses on scientific research.
