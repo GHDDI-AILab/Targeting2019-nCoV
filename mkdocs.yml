@@ -11,8 +11,8 @@ extra_javascript:
 nav:
     - Home: index.md
     - 2019-nCoV Drug Candidates: drug_candidates.md
-    - 2019-nCoV Assay Protocals: assay.md
-    - 2019-nCoV Computational Studies: computational.md
+    #- 2019-nCoV Assay Protocals: assay.md
+    #- 2019-nCoV Computational Studies: computational.md
     - Data Download:
       - Data Mining: CoV_Experiment_Data.md
       - Targets Validation: nCov_Targets.md
