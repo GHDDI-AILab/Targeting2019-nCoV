@@ -91,6 +91,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Endosomal acidification                | Chloroquine                                                  |
 
 
+
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
 | Live attenuated virus                  | rMERS‐CoV‐ΔE            |
