@@ -1,6 +1,6 @@
 # Initial Data Analysis Results
 
-  <details>
+<details>
       <summary>I. Based on previous experimental data </summary>
 
 ### 1. Top target (RdRp) specific antiviral candidates 
@@ -44,7 +44,8 @@
 | Sirolimus     | [DB00877](https://www.drugbank.ca/drugs/DB00877) | 1. Phase 4 completed  for renal diseases, renal failure <br>2. Phase 4 completed for kidney and heart  transplatation <br/>Marketed for kidney transplantation | CCR5 Expression Inhibitors;Cytochrome P450 CYP2D6 Inhibitors;Signal Transduction Modulators;Cytochrome P450 CYP2C9 Inhibitors;P-Glycoprotein (MDR-1; ABCB1) Inhibitors;Proteasome Inhibitors;Mammalian Target of Rapamycin (mTOR; FRAP1) Inhibitors;Drugs Targeting B-Lymphocyte Antigen CD19 | Infection, cytomegalovirus remission/reduction, IN VITRO     | Chemiluminescent assay                                       | IC-50     | 10.40 | 4.00E-11 | M    |
 | Laninamivir   | [DB12791](https://www.drugbank.ca/drugs/DB12791) | Phase I completed  for influenza                             | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors       | Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO | Fluorescent assay                                            | IC-50     | 9.96 | 1.10E-10 | M    |
 | Ribavirin     | [DB00811](https://www.drugbank.ca/drugs/DB00811) | 1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV, | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | ELISA assay                                                  | IC-50     | 9.90 | 1.26E-10 | M    |
-  </details>
+
+</details>
 
 <br>
 
@@ -65,7 +66,6 @@
 | antiviral agents        | Pharmacologic Substance   | DOWNREGULATE      | human coronavirus  | Virus                     | 1.093929341 | 1                 | no                                  | DOWNREGULATE: 1                |
 | kinase inhibitor        | Pharmacologic Substance   | DOWNREGULATE      | sars coronavirus   | Virus                     | 1.093929341 | 1                 | no                                  | DOWNREGULATE: 1                |
 
----
 
 ### 2. Organic chemicals
 
@@ -83,7 +83,6 @@
 | fumaric acid                   | Organic Chemical          | DOWNREGULATE      | genus: coronavirus     | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                    |
 | tapi-2                         | Organic Chemical          | DOWNREGULATE      | sars coronavirus       | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                    |
 
----
 
 ### 3. Amino acids/peptides/proteins
 
@@ -99,7 +98,6 @@
 | monoclonal antibodies       | Amino Acid, Peptide, or Protein | DOWNREGULATE      | porcine respiratory coronavirus | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
 | spike protein antibody      | Amino Acid, Peptide, or Protein | DOWNREGULATE      | bovine coronavirus              | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
 
----
 
 </details>
 
