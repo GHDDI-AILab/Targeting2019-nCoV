@@ -46,6 +46,8 @@ The information below is collected from recent research articles, news articles,
 
 
 
+
+
 ## Data analysis results from previous antiviral drug discovery records
 
 A collection of drug candidates in pipelines or marketed for different antiviral indications. All candidates have at least completed Phase I studies. However, not all have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
