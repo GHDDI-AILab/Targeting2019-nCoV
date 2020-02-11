@@ -1,6 +1,6 @@
 ## 2019-nCoV drug discovery community effort 
 
- Current worldwide research effort against 2019-nCoV including clinical and preclinical studies and drug candidates suggested from these studies are provided here. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such effort. We seek experts' opinion and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
+ Current worldwide research effort against 2019-nCoV including clinical and preclinical studies and drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such effort. We seek experts' opinion and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
 
 
 ### 2019-nCoV Clinical Trials registration list
@@ -44,13 +44,11 @@ The information below is collected from recent research articles, news or clinic
 | IFN alpha-1b       |                                                              | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                  | [5](http://www.chictr.org.cn/showproj.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
 
-[Download (including SMILES structures)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicalncov.csv)
-
 
 
 ## Data analysis results from previous antiviral drug discovery records
 
-A collection of drug candidates in pipelines or marketed for different antiviral indications, all have at least completed phase I studies. Not all of them have in vitro anti-2019nCoV evidence yet. For those without any anti-2019nCoV evidence, further preclinical studies are suggested to verify their anti-2019nCoV potential. 
+A collection of drug candidates in pipelines or marketed for different antiviral indications, all have at least completed phase I studies. Not all of them have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
 
 ### 1. Antiviral candidates with suggested target as RNA-Directed RNA Polymerase
 
