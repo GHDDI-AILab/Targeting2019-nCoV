@@ -16,6 +16,7 @@
 | Beclabuvir                | [DB12225](https://www.drugbank.ca/drugs/DB12225) | Phase III  completed for HCV, Phase IV withdrawn for HCV     | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, herpes simplex virus remission/reduction, IN VITRO | Viral replication assay (multiple cycle) | IC-50     | 5.40 | 0.000004   | M    |
 | Favipiravir               | [DB12466](https://www.drugbank.ca/drugs/DB12466) | 1. Phase III  completed for Influenza <br>2. Phase II completed for Ebola | RNA-Directed RNA Polymerase (Influenza A Virus H1N1) Inhibitors;RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors | Infection, rabies virus remission/reduction, IN VITRO        | Fluorescent assay                        | MIC       | 5.40 | 0.000004   | M    |
 
+
 ### 2. Top antiviral candidates selected from viral replication assay
 
 | Drug name               | DrugBank ID                                      | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                  | parameter | PX          | mean        | unit |
@@ -46,6 +47,7 @@
 
 </details>
 
+<br>
 
 <details>
       <summary>II. Based on sematic literature mining </summary>
@@ -92,6 +94,8 @@
 | spike protein antibody      | Amino Acid, Peptide, or Protein | DOWNREGULATE      | bovine coronavirus              | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
 
 </details>
+
+---
 
 # Data Download with Explanation and Preview
 
