@@ -1,7 +1,7 @@
-# Data Analysis Results
+# Initial Data Analysis Results
 
-## I. Based on previous experimental data 
-
+  <details>
+      <summary>## I. Based on previous experimental data </summary>
 
 ### 1. Top target (RdRp) specific antiviral candidates 
 
@@ -44,11 +44,11 @@
 | Laninamivir   | [DB12791](https://www.drugbank.ca/drugs/DB12791) | Phase I completed  for influenza                             | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors       | Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO | Fluorescent assay                                            | IC-50     | 9.96 | 1.10E-10 | M    |
 | Ribavirin     | [DB00811](https://www.drugbank.ca/drugs/DB00811) | 1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV, | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | ELISA assay                                                  | IC-50     | 9.90 | 1.26E-10 | M    |
 
-*Compounds selected based on top PX scores from respective assays.
+</details>
 
 
-
-## II. Based on sematic literature mining 
+<details>
+      <summary>## II. Based on sematic literature mining </summary>
 
 ### Pharmacologic Substance
 
@@ -93,12 +93,31 @@
 | monoclonal antibodies       | Amino Acid, Peptide, or Protein | DOWNREGULATE      | porcine respiratory coronavirus | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                              |
 | spike protein antibody      | Amino Acid, Peptide, or Protein | DOWNREGULATE      | bovine coronavirus              | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                              |
 
+</details>
 
 # Data Download with Explanation and Preview
 
 We are releasing the following datasets from our big data platform. We are making our best effort to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
 
-### Annotated Set
+
+## Compound Libraries for drug repositioning. 
+
+ * Dataset: [FDA approved set from Drugbank (Downloaded on 07.2018)](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_druglist_drugbank201807.csv)
+    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
+
+
+## Previous drug discovery effort for SARS/MERS 
+
+* A collection of clinical and preclinical drug pipelines related to SARS/MERS but without clinical conclusion, most of the pipelines are deactivated.  
+
+ * Downloadable datasets: 
+    * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv)
+    * [Drugs in pipeline for MERS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.csv)
+    * [Drugs in pipeline for Coronavirus](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.csv)
+
+
+
+### Annotated preclinical studies 
 
 * A collection of 1690 in vitro and in vivo records for 245 molecules     
 
@@ -479,7 +498,7 @@ We are releasing the following datasets from our big data platform. We are makin
   </details>
 
 
-### Unannotated Set
+### Unannotated preclinical studies 
 
 * A collection of 816 records for 479 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   
 
@@ -501,6 +520,8 @@ We are releasing the following datasets from our big data platform. We are makin
 
 * SMILES of 986 molecules tested for coronavirus, but we are not sure if they are active or inactive
   * [SMILES](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv)
+  
+ 
 
 ### Literature Mining
 
