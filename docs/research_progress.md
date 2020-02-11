@@ -1,6 +1,7 @@
 ## Top Review Articles
 
 2020, Feb 10
+
  * ["Therapeutic options for the 2019 novel coronavirus (2019-nCoV)"](https://www.nature.com/articles/d41573-020-00016-0)
     * Therapeutic options in response to the 2019-nCoV outbreak are urgently needed. Here, we discuss the potential for repurposing existing antiviral agents to treat 2019-nCoV, some of which are already moving into clinical trials.
 
