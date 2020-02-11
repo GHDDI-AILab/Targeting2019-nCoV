@@ -1,6 +1,6 @@
 ## 2019-nCoV drug discovery community effort 
 
- Current worldwide research effort against 2019-nCoV including clinical and preclinical studies and drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such effort. We seek experts' opinion and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
+Current worldwide research efforts against 2019-nCoV include clinical and preclinical studies, and drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
 
 
 ### 2019-nCoV Clinical Trials registration list
@@ -25,7 +25,7 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 
 ## Detailed Drug information of current published or ongoing in vitro or clinical studies on 2019-nCoV
 
-The information below is collected from recent research articles, news or clinical reports of 2019nCoV studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
+The information below is collected from recent research articles, news articles, or clinical reports of 2019-nCoV studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
 
 
 | Drug Name          | Structure                                                    | MoA                                         | Indication                                                   | DrugBank URL                                     | Anti-2019nCoV Evidence          | Reference                                                    |
@@ -48,7 +48,7 @@ The information below is collected from recent research articles, news or clinic
 
 ## Data analysis results from previous antiviral drug discovery records
 
-A collection of drug candidates in pipelines or marketed for different antiviral indications, all have at least completed phase I studies. Not all of them have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
+A collection of drug candidates in pipelines or marketed for different antiviral indications. All candidates have at least completed Phase I studies. However, not all have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
 
 ### 1. Antiviral candidates with suggested target as RNA-Directed RNA Polymerase
 
@@ -71,7 +71,7 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Raltegravir potassium   | [DB06817](https://www.drugbank.ca/drugs/DB06817) | Phase 4 completed  for HIV <br/>Marketed for Anti-Retroviral HIV | HIV Integrase Inhibitors                                     | Infection, xenotropic murine leukemia virus-related virus remission/reduction, IN VITRO | Viral replication assay | IC-50     | 8.30 | 0.000000005 | M    |
 | Verdinexor              | [DB12207](https://www.drugbank.ca/drugs/DB12207) | Phase 1 completed  for basic science on health volunteers    | Exportin-1 (CRM1, XPO1) Receptor Antagonists;Signal Transduction Modulators | Infection, JC polyomavirus remission/reduction, IN VITRO     | Viral replication assay | IC-50     | 8.12 | 7.50E-09    | M    |
 | Brincidofovir           | [DB12151](https://www.drugbank.ca/drugs/DB12151) | Phase 3 completed  for adenovirus infections                 | DNA Polymerase Inhibitors                                    | Infection, JC polyomavirus remission/reduction, IN VITRO     | Viral replication assay | IC-50     | 7.7 | 0.00000002  | M    |
-| Remdesivir              | [DB14761](https://www.drugbank.ca/drugs/DB14761) | 1. Phase III for  Ebola <br> 2. Phase III for nCoV           | Nucleobindin-1 (NUCB1) Inhibitors                            | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO | Viral replication assay | IC-50     | 7.60 | 0.000000025 | M    |
+| Remdesivir              | [DB14761](https://www.drugbank.ca/drugs/DB14761) | 1. Phase III for  Ebola <br>2. Phase III for nCoV           | Nucleobindin-1 (NUCB1) Inhibitors                            | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO | Viral replication assay | IC-50     | 7.60 | 0.000000025 | M    |
 | Verdinexor              | [DB12207](https://www.drugbank.ca/drugs/DB12207) | Phase I completed  for basic science experiments on healthy volunteers | Exportin-1 (CRM1, XPO1) Receptor Antagonists;Signal Transduction Modulators | Infection, adenovirus remission/reduction, IN VITRO          | Viral replication assay | IC-50     | 7.52 | 0.00000003  | M    |
 | Cidofovir               | [DB00369](https://www.drugbank.ca/drugs/DB00369) | Phase 4 completed  for cytomegalovirus <br/>Marketed for CMV in AIDS patients | DNA Polymerase Inhibitors                                    | Infection, cytomegalovirus remission/reduction, IN VITRO     | Viral replication assay | IC-99     | 7.22  | 0.00000006  | M    |
 | Alvocidib hydrochloride | [DB03496](https://www.drugbank.ca/drugs/DB03496) | 1. Phase II  completed for sarcomas <br>2. Phase II completed for renal cancers; <br>3. Phase II  completed for melanoma <br>4. Phase II completed for other cancers including:  myeloma, carcinoma, esophageal, endometrial, leukaemia, etc. | Cyclin-Dependent Kinase 1 (CDK1) Inhibitors;Signal Transduction Modulators;Cyclin-Dependent Kinase 6 (CDK6) Inhibitors;CDK9/Cyclin T1 Inhibitors;Baculoviral IAP Repeat-Containing Protein 5 (BIRC5; Survivin) Inhibitors;Apoptosis Inducers;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Cyclin-Dependent Kinase 2 (CDK2) Inhibitors;Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1 Inhibitors;Cyclin-Dependent Kinase 4 (CDK4) Inhibitors;X-Chromosome-Linked Inhibitor of Apoptosis Protein (XIAP) Inhibitors;Apoptosis Regulator Bcl-2 Inhibitors | Infection, herpes virus remission/reduction, IN VITRO        | Viral replication assay | IC-50     | 7.00 | 1.00E-07    | M    |
@@ -92,3 +92,13 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Ribavirin     | [DB00811](https://www.drugbank.ca/drugs/DB00811) | 1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV, | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | ELISA assay                                                  | IC-50     | 9.90 | 1.26E-10 | M    |
 
 *Compounds selected based on top PX scores from respective assays.
+
+
+
+<br>
+
+<br>
+
+<br>
+
+Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
