@@ -46,13 +46,14 @@
 | Ribavirin     | [DB00811](https://www.drugbank.ca/drugs/DB00811) | 1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV, | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | ELISA assay                                                  | IC-50     | 9.90 | 1.26E-10 | M    |
 
 </details>
-
+---
 <br>
-
+---
 <details>
       <summary>II. Based on sematic literature mining </summary>
 
 ### 1. Pharmacologic Substance
+
 
 | Source Concept          | Source Concept Categories | Relationship Type | Target Concept     | Target Concept Categories | Score       | Count of Evidence | Evidence contains clinical studies? | Count of Evidence per rel type |
 |-------------------------|---------------------------|-------------------|--------------------|---------------------------|-------------|-------------------|-------------------------------------|--------------------------------|
@@ -65,7 +66,10 @@
 | antiviral agents        | Pharmacologic Substance   | DOWNREGULATE      | human coronavirus  | Virus                     | 1.093929341 | 1                 | no                                  | DOWNREGULATE: 1                |
 | kinase inhibitor        | Pharmacologic Substance   | DOWNREGULATE      | sars coronavirus   | Virus                     | 1.093929341 | 1                 | no                                  | DOWNREGULATE: 1                |
 
+---
+
 ### 2. Organic chemicals
+
 
 | Source Concept                 | Source Concept Categories | Relationship Type | Target Concept         | Target Concept Categories | Score       | Count of Evidence | Evidence contains clinical studies? | Count of Evidence per rel type     |
 |--------------------------------|---------------------------|-------------------|------------------------|---------------------------|-------------|-------------------|-------------------------------------|------------------------------------|
@@ -80,7 +84,10 @@
 | fumaric acid                   | Organic Chemical          | DOWNREGULATE      | genus: coronavirus     | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                    |
 | tapi-2                         | Organic Chemical          | DOWNREGULATE      | sars coronavirus       | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                    |
 
+---
+
 ### 3. Amino acids/peptides/proteins
+
 
 | Source Concept              | Source Concept Categories       | Relationship Type | Target Concept                  | Target Concept Categories | Score       | Count of Evidence | Evidence contains clinical studies? | Count of Evidence per rel type                                            |
 |-----------------------------|---------------------------------|-------------------|---------------------------------|---------------------------|-------------|-------------------|-------------------------------------|---------------------------------------------------------------------------|
@@ -92,6 +99,8 @@
 | methyltransferase           | Amino Acid, Peptide, or Protein | DOWNREGULATE      | sars coronavirus                | Virus                     | 5.913430203 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
 | monoclonal antibodies       | Amino Acid, Peptide, or Protein | DOWNREGULATE      | porcine respiratory coronavirus | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
 | spike protein antibody      | Amino Acid, Peptide, or Protein | DOWNREGULATE      | bovine coronavirus              | Virus                     | 4.730744162 | 2                 | no                                  | DOWNREGULATE: 2                                                           |
+
+---
 
 </details>
 
