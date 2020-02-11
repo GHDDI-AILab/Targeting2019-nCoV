@@ -1,6 +1,6 @@
 ## 2019-nCoV drug discovery community effort 
 
- Current worldwide research effort against 2019-nCoV including clinical and preclinical studies and drug candidates suggested from these studies are provided here. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such effort. We seek experts' opinion and efforts to further validate those candidates, which will be continuously re-defined/selected based on their prior data on nCoV related viruses and newly generated data on nCoV.
+ Current worldwide research effort against 2019-nCoV including clinical and preclinical studies and drug candidates suggested from these studies are provided here. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such effort. We seek experts' opinion and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
 
 
 ### 2019-nCoV Clinical Trials registration list
@@ -23,12 +23,12 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 
 
-## Detailed Drug information of current published or ongoing in vitro or clinical studies on 2019nCoV
+## Detailed Drug information of current published or ongoing in vitro or clinical studies on 2019-nCoV
 
 The information below is collected from recent research articles, news or clinical reports on 2019nCoV contributed from various research groups in China and the world. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
 
 
-| Drug Name                                         | MoA                                         | Indication                                                   | DrugBank URL                                     | Anti-2019nCoV Evidence          | Reference                                                    |
+| Drug Name  | MoA    | Indication                                                   | DrugBank URL                                     | Anti-2019nCoV Evidence          | Reference                                                    |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
 | Remdesivir          | RNA  polymerase inhibitor                   | Anti-Ebola passed Phase III, nCoV Phase III                  | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical report, Clinical trial | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [8](https://www.nejm.org/doi/10.1056/NEJMoa2001191); [14](http://clarivate.com.cn/coronavirus-resources/images/Remdesivir.pdf); [15](https://www.nature.com/articles/s41422-020-0282-0); [16](https://clinicaltrials.gov/ct2/show/NCT04257656) |
 | Lopinavir          | Protease inhibitor                          | Anti-HIV approved                                            | [DB01601](https://www.drugbank.ca/drugs/DB01601) | Clinical trial                  | [1](http://www.chictr.org.cn/showprojen.aspx?proj=48684); [2](http://www.chictr.org.cn/showprojen.aspx?proj=48919); [3](http://www.chictr.org.cn/showprojen.aspx?proj=48809); [4](http://www.chictr.org.cn/showprojen.aspx?proj=48991); [5](http://www.chictr.org.cn/showprojen.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
@@ -41,15 +41,15 @@ The information below is collected from recent research articles, news or clinic
 | Darunavir          | Protease inhibitor                          | Anti-HIV approved                                            | [DB01264](https://www.drugbank.ca/drugs/DB01264) | Clinical trial                  | [11](http://www.chictr.org.cn/showprojen.aspx?proj=48992)    |
 | Cobicistat         |                                             | Anti-HIV approved                                            | [DB09065](https://www.drugbank.ca/drugs/DB09065) | Clinical trial                  | [11](http://www.chictr.org.cn/showprojen.aspx?proj=48992)    |
 | Methylprednisolone | Corticosteroid                              | nCoV Phase II, allergic asthma and rheumatic disorders approved | [DB00959](https://www.drugbank.ca/drugs/DB00959) | Clinical trial                  | [12](http://www.chictr.org.cn/showprojen.aspx?proj=48777); [13](https://clinicaltrials.gov/ct2/show/NCT04244591) |
-| IFN alpha-1b       |                                                              | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                  | [5](http://www.chictr.org.cn/showproj.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
+| IFN alpha-1b       | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                  | [5](http://www.chictr.org.cn/showproj.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
 | Chloroquine        |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
 
 
 ## Data analysis results from previous antiviral drug discovery records
 
-A collection of drug candidates in different antiviral pipelines or marketed for differentindications, all have at least completed phase I. Not all of them have anti-coronavirus or anti-2019nCoV evidence yet. For those without any anti-2019nCoV evidence, further preclinical studies are suggested to perform to verify their anti-2019nCoV potential. 
+A collection of drug candidates in pipelines or marketed for different antiviral indications, all have at least completed phase I studies. Not all of them have in vitro anti-2019nCoV evidence yet. For those without any anti-2019nCoV evidence, further preclinical studies are suggested to verify their anti-2019nCoV potential. 
 
-1. Antiviral candidates with suggested target as RNA-Directed RNA Polymerase
+### 1. Antiviral candidates with suggested target as RNA-Directed RNA Polymerase
 
 | Drug name                 | DrugBank ID                                      | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                                   | parameter | PX          | mean       | unit |
 | ------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | --------- | ----------- | ---------- | ---- |
@@ -62,7 +62,7 @@ A collection of drug candidates in different antiviral pipelines or marketed for
 | Beclabuvir                | [DB12225](https://www.drugbank.ca/drugs/DB12225) | Phase III  completed for HCV, Phase IV withdrawn for HCV     | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, herpes simplex virus remission/reduction, IN VITRO | Viral replication assay (multiple cycle) | IC-50     | 5.40 | 0.000004   | M    |
 | Favipiravir               | [DB12466](https://www.drugbank.ca/drugs/DB12466) | 1. Phase III  completed for Influenza <br>2. Phase II completed for Ebola | RNA-Directed RNA Polymerase (Influenza A Virus H1N1) Inhibitors;RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors | Infection, rabies virus remission/reduction, IN VITRO        | Fluorescent assay                        | MIC       | 5.40 | 0.000004   | M    |
 
-2. Antiviral candidates selected from viral replication assay
+### 2. Antiviral candidates selected from viral replication assay
 
 | Drug name               | DrugBank ID                                      | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                  | parameter | PX          | mean        | unit |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------- | --------- | ----------- | ----------- | ---- |
@@ -76,7 +76,7 @@ A collection of drug candidates in different antiviral pipelines or marketed for
 | Alvocidib hydrochloride | [DB03496](https://www.drugbank.ca/drugs/DB03496) | 1. Phase II  completed for sarcomas <br>2. Phase II completed for renal cancers; <br>3. Phase II  completed for melanoma <br>4. Phase II completed for other cancers including:  myeloma, carcinoma, esophageal, endometrial, leukaemia, etc. | Cyclin-Dependent Kinase 1 (CDK1) Inhibitors;Signal Transduction Modulators;Cyclin-Dependent Kinase 6 (CDK6) Inhibitors;CDK9/Cyclin T1 Inhibitors;Baculoviral IAP Repeat-Containing Protein 5 (BIRC5; Survivin) Inhibitors;Apoptosis Inducers;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Cyclin-Dependent Kinase 2 (CDK2) Inhibitors;Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1 Inhibitors;Cyclin-Dependent Kinase 4 (CDK4) Inhibitors;X-Chromosome-Linked Inhibitor of Apoptosis Protein (XIAP) Inhibitors;Apoptosis Regulator Bcl-2 Inhibitors | Infection, herpes virus remission/reduction, IN VITRO        | Viral replication assay | IC-50     | 7.00 | 1.00E-07    | M    |
 | Ganciclovir             | [DB01004](https://www.drugbank.ca/drugs/DB01004) | 1. Phase 4 active  for viral pneumonia <br>2. Phase 4 completed for DNA virus infections <br>3. Phase 4  completed for CMV <br>4. Phase 4 completed for viral sepsis | DNA Polymerase Inhibitors                                    | Infection, herpes simplex virus remission/reduction, IN VITRO | Viral replication assay | IC-50     | 7           | 0.0000001   | M    |
 
-3. Antiviral candidates selected from different in vitro assays
+### 3. Antiviral candidates selected from different in vitro assays
 
 | Drug_name     | DrugBank  ID                                     | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                                                       | parameter | PX          | mean     | unit |
 | ------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ----------- | -------- | ---- |
