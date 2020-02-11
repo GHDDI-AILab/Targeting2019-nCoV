@@ -1,6 +1,6 @@
 # Initial Data Analysis Results
 
-<details>
+  <details>
       <summary>I. Based on previous experimental data </summary>
 
 ### 1. Top target (RdRp) specific antiviral candidates 
@@ -49,7 +49,7 @@
 
 <br>
 
-<details>
+  <details>
       <summary>II. Based on sematic literature mining </summary>
 
 ### 1. Pharmacologic Substance
