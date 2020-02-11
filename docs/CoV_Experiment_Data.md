@@ -97,7 +97,7 @@
 
 # Data Download with Explanation and Preview
 
-We are releasing the following datasets from our big data platform. We are making our best effort to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
+We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
 
 
 ## Compound Libraries for drug repositioning. 
@@ -108,7 +108,7 @@ We are releasing the following datasets from our big data platform. We are makin
 
 ## Previous drug discovery effort for SARS/MERS 
 
-* A collection of clinical and preclinical drug pipelines related to SARS/MERS but without clinical conclusion, most of the pipelines are deactivated.  
+* A collection of clinical and preclinical drug pipelines related to SARS/MERS, but without clinical conclusion. Most of these pipelines are deactivated.  
 
  * Downloadable datasets: 
     * [Drugs in pipeline for SARS](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv)
@@ -500,7 +500,7 @@ We are releasing the following datasets from our big data platform. We are makin
 
 ### Unannotated preclinical studies 
 
-* A collection of 816 records for 479 molecules from various sources. We current don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   
+* A collection of 816 records for 479 molecules from various sources. We currently don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   
 
   * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv)
 
@@ -774,4 +774,6 @@ The following figure is the keyword relationship network:
   </details>
 
 
+<br>
+<br>
 Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
