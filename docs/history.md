@@ -1,4 +1,7 @@
-## version 0.1.3 [2-7-2020]
+## version 0.1.5 [2-12-2020]
+* **UPDATE** updated research update with 3 articles, split current research and past review articles
+
+## version 0.1.4 [2-10-2020]
 * **UPDATE** updated targets and data mining pages
 * **UPDATE** updated research update with 2 articles, prepare to split current research and past review articles
 

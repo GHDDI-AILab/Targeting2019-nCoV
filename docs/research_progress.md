@@ -23,6 +23,10 @@
 
 ## 2020
 
+2020, Feb 11
+ * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.935072v1.full.pdf)
+    * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
+
 2020, Feb 7
 
  * ["Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_p23clpidgdl.pdf)
