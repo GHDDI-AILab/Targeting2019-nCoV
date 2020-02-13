@@ -78,7 +78,6 @@ The targetscape of MERS virus within the cell is provided by [Clarivate Analytic
 
 ---
 
----
 ## List of human Targets related to SARS 
 
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
