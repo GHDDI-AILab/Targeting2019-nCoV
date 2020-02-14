@@ -23,9 +23,18 @@
 
 ## 2020
 
+2020, Feb 13
+
+ * ["Potentially highly potent drugs for 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.936013v1.full.pdf)
+    * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
+
+---
+
 2020, Feb 11
  * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.935072v1.full.pdf)
     * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
+
+---
 
 2020, Feb 7
 
