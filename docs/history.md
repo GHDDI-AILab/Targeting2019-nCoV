@@ -1,3 +1,6 @@
+## version 0.1.6 [2-15-2020]
+* **UPDATE** updated research update, useful links, and structures. 
+
 ## version 0.1.5 [2-12-2020]
 * **UPDATE** updated research update with 3 articles, split current research and past review articles
 
