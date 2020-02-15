@@ -39,6 +39,6 @@
  
  * ZINC database for docking: [ZINC15](http://zinc15.docking.org/) 
  
- * BindingDB contains 1,819,720 binding data, for 7,470 protein targets and 804,949 small molecules.[BindingDB](https://www.bindingdb.org/bind/index.jsp)
+ * BindingDB contains 1,819,720 binding data, for 7,470 protein targets and 804,949 small molecules. [BindingDB](https://www.bindingdb.org/bind/index.jsp)
 
 
