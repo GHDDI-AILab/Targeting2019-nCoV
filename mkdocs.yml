@@ -17,7 +17,8 @@ nav:
       - Data Mining: CoV_Experiment_Data.md
       - Target Validation: nCov_Targets.md
       - Structure Modeling: nCov_Structures.md
-      - Research Update: research_progress.md
+      - Research Articles: research_progress.md
+      - News: news.md
     - Community Discussion: contact_us.md
     - Useful Links: useful_links.md
     - History: history.md

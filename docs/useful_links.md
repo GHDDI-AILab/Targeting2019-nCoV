@@ -4,6 +4,8 @@ A list of useful links is provided for general information about drug discovery 
 
  * Updates from WHO regarding novel coronavirus: [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  
+ * Updates from US Centers for Disease Control and Prevention Coronavirus Disease 2019 (COVID-19)[CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
  * [Coronavirus resources from Clarivate](http://clarivate.com.cn/coronavirus-resources/)
