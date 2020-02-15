@@ -1,6 +1,6 @@
 ## Top Review Articles
 
-2020, Feb 20
+2020, Feb 14
 
  * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
     * A framework for a systems biology approach to infectious disease in three parts: discovery — the design, collection and analysis of omics data; representation — the iterative modelling, integration and visualization of complex data sets; and application — the interpretation and hypothesis-based inquiry towards translational outcomes.
