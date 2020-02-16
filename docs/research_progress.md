@@ -28,6 +28,13 @@
 
 ## 2020
 
+2020, Feb 16
+
+ * ["Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cems2nspc.pdf)
+    * This study produced 3.5 A-resolution structures of the 2019-nCoV S trimer in the prefusion conformation. Additionally, results from this study indicate that this S protein binds ACE2 with higher affinity than the previous SARS-CoV S protein through biophysical and structural evidence. 
+
+---
+
 2020, Feb 13
 
  * ["Potentially highly potent drugs for 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.936013v1.full.pdf)
