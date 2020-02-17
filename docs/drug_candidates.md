@@ -1,3 +1,4 @@
+
 ## 2019-nCoV drug discovery community effort 
 
 Current worldwide research efforts against 2019-nCoV include clinical and preclinical studies, and drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
@@ -22,7 +23,7 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
-
+| [ChiCTR2000029867](http://www.chictr.org.cn/showprojen.aspx?proj=49514) | Azvudine          | Antiviral                 | 2020/2/16     
 
 ### 2019-nCoV related projects around the world
 The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to 2019-nCoV.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
@@ -51,6 +52,7 @@ The information below is collected from recent research articles, news articles,
 | Methylprednisolone | ![img9](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_methylprednisolone.png) | Corticosteroid                              | nCoV Phase II, allergic asthma and rheumatic disorders approved | [DB00959](https://www.drugbank.ca/drugs/DB00959) | Clinical trial                  | [12](http://www.chictr.org.cn/showprojen.aspx?proj=48777); [13](https://clinicaltrials.gov/ct2/show/NCT04244591) |
 | IFN alpha-1b       |                                                              | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                  | [5](http://www.chictr.org.cn/showproj.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
+| Azvudine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_azuvudine.png) |                                             | anti-HIV approved | [PubChem 24769759](https://pubchem.ncbi.nlm.nih.gov/compound/Azvudine) | Clinical trial  | [19](http://www.chictr.org.cn/showproj.aspx?proj=49532); [20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140803/) |
 
 ---
 
