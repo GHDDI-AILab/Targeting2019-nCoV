@@ -23,6 +23,7 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
 
+---
 
 ### 2019-nCoV related projects around the world
 The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to 2019-nCoV.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed in this table.
@@ -51,8 +52,7 @@ The information below is collected from recent research articles, news articles,
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
 
 
-
-
+---
 
 ## Data analysis results from previous antiviral drug discovery records
 
