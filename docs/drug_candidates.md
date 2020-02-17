@@ -21,6 +21,7 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR2000029542](http://www.chictr.org.cn/showprojen.aspx?proj=48968) | Chloroquine                                                  | Antiviral                 | 2020/2/4          |
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
+| [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
 
 
 ### 2019-nCoV related projects around the world
