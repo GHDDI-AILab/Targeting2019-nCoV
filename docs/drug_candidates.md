@@ -13,12 +13,12 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR2000029386](http://www.chictr.org.cn/showprojen.aspx?proj=http://www.chictr.org.cn/showprojen.aspx?proj=48777) | Lopinavir/ritonavir; methylprednisolone; interferon α        | Antiviral; Corticosteroid | 2020/1/28         |
 | [ChiCTR2000029387](http://www.chictr.org.cn/showprojen.aspx?proj=48782) | Lopinavir/ritonavir; ribavirin; interferon α-1b              | Antiviral                 | 2020/1/28         |
 | [NCT04244591](https://clinicaltrials.gov/ct2/show/NCT04244591) | Methylprednisolone                                           | Corticosteroid            | 2020/1/28         |
-| [NCT04252885](https://clinicaltrials.gov/ct2/show/NCT04252885) | Arbidol umifenovir                                           | Antiviral                 | 2020/2/5         |
 | [ChiCTR2000029468](http://www.chictr.org.cn/showprojen.aspx?proj=48919) | Lopinavir/ritonavir; emtricitabine/tenofovir alafenamide fumarate | Antiviral                 | 2020/2/2          |
 | [ChiCTR2000029496](http://www.chictr.org.cn/showprojen.aspx?proj=48809) | Lopinavir/ritonavir; Novaferon                               | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029539](http://www.chictr.org.cn/showprojen.aspx?proj=48991) | Lopinavir/ritonavir                                          | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029541](http://www.chictr.org.cn/showprojen.aspx?proj=48992) | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029542](http://www.chictr.org.cn/showprojen.aspx?proj=48968) | Chloroquine                                                  | Antiviral                 | 2020/2/4          |
+| [NCT04252885](https://clinicaltrials.gov/ct2/show/NCT04252885) | Umifenovir (Arbidol)                                | Antiviral                 | 2020/2/5         |
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
@@ -51,7 +51,6 @@ The information below is collected from recent research articles, news articles,
 | Methylprednisolone | ![img9](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_methylprednisolone.png) | Corticosteroid                              | nCoV Phase II, allergic asthma and rheumatic disorders approved | [DB00959](https://www.drugbank.ca/drugs/DB00959) | Clinical trial                  | [12](http://www.chictr.org.cn/showprojen.aspx?proj=48777); [13](https://clinicaltrials.gov/ct2/show/NCT04244591) |
 | IFN alpha-1b       |                                                              | Immunomodulation                            | Interferon                                                   |                                                  | Clinical trial                  | [5](http://www.chictr.org.cn/showproj.aspx?proj=48782); [6](http://www.nhc.gov.cn/yzygj/s7652m/202001/7450028ab6084101ae8110f0aaf81271.shtml) |
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
-
 
 ---
 
