@@ -23,7 +23,6 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
-| [ChiCTR2000029867](http://www.chictr.org.cn/showprojen.aspx?proj=49514) | Azvudine          | Antiviral                 | 2020/2/16     
 
 ### 2019-nCoV related projects around the world
 The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to 2019-nCoV.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
