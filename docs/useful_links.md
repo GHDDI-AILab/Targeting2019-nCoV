@@ -12,7 +12,9 @@
 
  * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  
- * Scientific Intelligence from Clarivate 
+ * The scientists from the Swiss Institute of Bioinformatics provided 2019-nCoV genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
+ 
+ * Scientific Intelligence from Clarivate on 2019-nCoV
  [科睿唯安](http://clarivate.com.cn/coronavirus-resources/)
  [Clarivate English Site](https://clarivate.com/coronavirus-resources/)
   
