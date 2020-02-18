@@ -1,3 +1,7 @@
+## version 0.1.6 [2-18-2020]
+* **UPDATE** updated research update, clinical trials, and structures. 
+* **UPDATE** updated structures with data from SWISS-MODEL team. 
+
 ## version 0.1.6 [2-15-2020]
 * **UPDATE** updated research update, useful links, and structures. 
 
