@@ -43,12 +43,12 @@ EVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFL
 ### 3C-like protease
 SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQ
 
-* The Crystal Structure of [3C-like protease](https://www.rcsb.org/structure/6lu7)
+* The Crystal Structure of 3C-like protease [PDB](https://www.rcsb.org/structure/6lu7)
 
-* Homology model of Mpro dimer using https://swissmodel.expasy.org
+* Homology model of 3C-like protease using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip)
 
-* Minimized model of Mpro dimer
+* Minimized model of 3C-like protease 
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
 
 * MD simulated (37C, water, all-atom) model of Mpro dimer 
