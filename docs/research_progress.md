@@ -28,6 +28,13 @@
 
 ## 2020
 
+2020, Feb 18
+
+ * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](https://www.biorxiv.org/content/10.1101/2020.02.17.951848v1.full.pdf)
+    * 2.9 Å  resolution  cryo-EM  structure  of  full-length  human  ACE2  in  complex  with B0AT1 is presented in this study. The complex exhibits open and closed conformations due to the shifts of the peptidase domains of ACE2. Structural modelling suggests that this complex can bind two S proteins simultaneously. 
+    
+---
+
 2020, Feb 16
 
  * ["Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cems2nspc.pdf)
