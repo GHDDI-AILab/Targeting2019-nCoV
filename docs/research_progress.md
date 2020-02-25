@@ -28,6 +28,14 @@
 
 ## 2020
 
+2020, Feb 25
+ * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
+    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
+    * Preprint released on January 22, 2020. Published on February 25, 2020 
+
+
+---
+
 2020, Feb 18
 
  * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](https://www.biorxiv.org/content/10.1101/2020.02.17.951848v1.full.pdf)
@@ -216,13 +224,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cfpincv.pdf)
     * This article shares results about clinical findings regarding the 2019-nCoV. Common symptoms reported were fever, cough, myalgia, or fatigue. In was interpreted that this new infection causes severe respiratory illness similar to the SARS outbreak previously. 
     
----
-
-2020, Jan 22
-
- * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
-    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
-
 ---
 
  * ["Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_gpsmadoi.pdf)
