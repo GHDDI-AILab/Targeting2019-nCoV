@@ -29,7 +29,7 @@
 ## 2020
 
 2020, Feb 25
- * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
+ * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
     * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
     * Preprint released on January 22, 2020. Published on February 25, 2020 
 
