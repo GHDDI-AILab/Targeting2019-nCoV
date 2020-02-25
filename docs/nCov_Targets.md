@@ -37,8 +37,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 |N | PJ34, intrabodies‡ and siRNA*|
 |Accessory proteins| siRNA* |
 |Lipid membrane| LJ001 and JL103|
-
-
+---
 
 | Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -52,9 +51,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Other host proteases (furin)           | dec-RVKR-CMK                                                 |
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
-
-
-
+---
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
