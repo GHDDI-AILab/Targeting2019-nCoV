@@ -38,14 +38,14 @@
 ---
 
 2020, Feb 21
- * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](https://www.biorxiv.org/content/10.1101/2020.02.20.958272v1.full.pdf)
+ * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
     * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
 
 ---
 
 2020, Feb 18
 
- * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](https://www.biorxiv.org/content/10.1101/2020.02.17.951848v1.full.pdf)
+ * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sodflhace2.pdf)
     * 2.9 Å  resolution  cryo-EM  structure  of  full-length  human  ACE2  in  complex  with B0AT1 is presented in this study. The complex exhibits open and closed conformations due to the shifts of the peptidase domains of ACE2. Structural modelling suggests that this complex can bind two S proteins simultaneously. 
     
 ---
