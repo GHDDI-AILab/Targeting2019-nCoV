@@ -59,14 +59,14 @@
 
 2020, Feb 13
 
- * ["Potentially highly potent drugs for 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.936013v1.full.pdf)
+ * ["Potentially highly potent drugs for 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
 
 ---
 
 2020, Feb 11
 
- * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.935072v1.full.pdf)
+ * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_efwncocebvd.pdf)
     * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
 
 ---
@@ -109,7 +109,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 2020, Feb 4
 
- * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
 
 ---
