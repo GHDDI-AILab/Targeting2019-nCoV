@@ -5,6 +5,8 @@
  * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
     * A framework for a systems biology approach to infectious disease in three parts: discovery — the design, collection and analysis of omics data; representation — the iterative modelling, integration and visualization of complex data sets; and application — the interpretation and hypothesis-based inquiry towards translational outcomes.
 
+---
+
 2020, Feb 10
 
  * ["Therapeutic options for the 2019 novel coronavirus (2019-nCoV)"](https://www.nature.com/articles/d41573-020-00016-0)
@@ -33,6 +35,11 @@
     * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
     * Preprint released on January 22, 2020. Published on February 25, 2020 
 
+---
+
+2020, Feb 21
+ * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](https://www.biorxiv.org/content/10.1101/2020.02.20.958272v1.full.pdf)
+    * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
 
 ---
 
