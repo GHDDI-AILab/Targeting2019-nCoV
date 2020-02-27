@@ -88,7 +88,7 @@
 
 2020, Feb 5
 
-* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1.full.pdf)
+* ["Network-based Drug Repurposing for Human Coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nbdrhc.pdf)
     * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
     * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
     * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
