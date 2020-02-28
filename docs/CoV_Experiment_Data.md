@@ -14,7 +14,7 @@
 |  Emetine  | [DB13393](https://www.drugbank.ca/drugs/DB13393)  | Platelet-Derived Growth Factor (PDGF) Inhibitors;Signal Transduction Modulators;Angiogenesis Inhibitors  | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO  | Cytopathicity assay  | IC-50  | 1.50E-07  | M  | 
 |  Nafamostat mesilate  | [DB12598](https://www.drugbank.ca/drugs/DB12598)  | Tryptase Inhibitors  | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO  | Vero cells (TMPRSS2-expressing) transfected with MERS  | IC-50  | 1.00E-09  | M  | 
 |  Alisporivir  | [DB12139](https://www.drugbank.ca/drugs/DB12139)  | P-Glycoprotein (MDR-1; ABCB1) Inhibitors;Cyclophilin Inhibitors  | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO  | RNA assay  | IC-50  | 8.00E-07  | M  | 
-|  Lycorine  | https://www.drugbank.ca/drugs/DB11231  |   | Severe acute respiratory syndrome (SARS-CoV) remission/reduction, IN VITRO  | Dye assay  | IC-50  | 1.57E-08  | M  | 
+|  Lycorine  | [DB11231](https://www.drugbank.ca/drugs/ DB11231) |   | Severe acute respiratory syndrome (SARS-CoV) remission/reduction, IN VITRO  | Dye assay  | IC-50  | 1.57E-08  | M  | 
 |  Niclosamide  | [DB06803](https://www.drugbank.ca/drugs/DB06803)  | Cytochrome P450 CYP1A2 Inhibitors;Quorum Sensing (Pseudomonas aeruginosa) Inhibitors;Neuropeptide Y4 (NPY Y4) Receptor Positive Allosteric Modulators;Autophagy Inducers;Wnt Signaling Inhibitors  | Severe acute respiratory syndrome (SARS-CoV) remission/reduction, IN VITRO  | Cytopathicity assay  | IC-50  | 1.00E-07  | M  | 
 |  Rupintrivir  | [DB05102](https://www.drugbank.ca/drugs/DB05102)  | HRV 3C Protease Inhibitors  | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO  | Viral replication assay  | IC-50  | 3.00E-07  | M  | 
 |  Geldanamycin  | [DB02424](https://www.drugbank.ca/drugs/DB02424)  | Signal Transduction Modulators;Heat Shock Protein 90 (Hsp90) Inhibitors  | Severe acute respiratory syndrome (SARS-CoV) remission/reduction, IN VITRO  |   | IC-50  | 9.10E-07  | M  | 
@@ -260,7 +260,7 @@ We are releasing the following datasets from our big data platform. We are makin
 * SMILES of 986 molecules tested for coronavirus, but we are not sure if they are active or inactive
   * [SMILES](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv)
   
-## Previous drug discovery effort for SARS/MERS 
+### Previous clinical effort for SARS/MERS 
 
 * A collection of clinical and preclinical drug pipelines related to SARS/MERS, but without clinical conclusion. Most of these pipelines are deactivated.  
 
