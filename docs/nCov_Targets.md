@@ -37,8 +37,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 |N | PJ34, intrabodies‡ and siRNA*|
 |Accessory proteins| siRNA* |
 |Lipid membrane| LJ001 and JL103|
-
-
+---
 
 | Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -52,9 +51,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Other host proteases (furin)           | dec-RVKR-CMK                                                 |
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
-
-
-
+---
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -83,6 +80,7 @@ The targetscape of MERS virus within the cell is provided by [Clarivate Analytic
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
 
 ---
+    
 
 ## Structures of SARS/MERS proteins
 This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.

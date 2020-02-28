@@ -108,10 +108,10 @@
 We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
 
 
-## Compound Libraries for drug repositioning. 
+## Compound Libraries for drug repurposing. 
 
- * Drugbank Dataset:
-    * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
+ * Please visit [Drugbank](https://www.drugbank.ca/) to download the most recent data
+   The latest release of DrugBank (version 5.1.5, released 2020-01-03) contains 13,490 drug entries including 2,636 approved small molecule drugs, 1,365 approved biologics (proteins, peptides, vaccines, and allergenics), 131 nutraceuticals and over 6,350 experimental (discovery-phase) drugs. Additionally, 5,191 non-redundant protein (i.e. drug target/enzyme/transporter/carrier) sequences are linked to these drug entries. Each entry contains more than 200 data fields with half of the information being devoted to drug/chemical data and the other half devoted to drug target or protein data.
 
 
 ## Previous drug discovery effort for SARS/MERS 
