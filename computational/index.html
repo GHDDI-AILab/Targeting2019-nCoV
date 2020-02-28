@@ -8,7 +8,7 @@
   
   <meta name="author" content="David Leon (Dawei Leng)">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Computational - Targeting 2019-nCoV Portal</title>
+  <title>2019-nCoV Computational Studies - Targeting 2019-nCoV Portal</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,7 +17,7 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Computational";
+    var mkdocs_page_name = "2019-nCoV Computational Studies";
     var mkdocs_page_input_path = "computational.md";
     var mkdocs_page_url = null;
   </script>
@@ -56,6 +56,23 @@
             <li class="toctree-l1">
 		
     <a class="" href="../drug_candidates/">2019-nCoV Community Effort</a>
+	    </li>
+          
+            <li class="toctree-l1 current">
+		
+    <a class="current" href="./">2019-nCoV Computational Studies</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#computational-efforts-for-2019ncov">Computational Efforts for 2019nCoV</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#drug-repurposing">Drug Repurposing</a></li>
+        
+        </ul>
+    
+
+    </ul>
 	    </li>
           
             <li class="toctree-l1">
@@ -118,7 +135,7 @@
     
       
     
-    <li>Computational</li>
+    <li>2019-nCoV Computational Studies</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -128,11 +145,36 @@
           <div role="main">
             <div class="section">
               
-                
+                <h2 id="computational-efforts-for-2019ncov">Computational Efforts for 2019nCoV</h2>
+<p>We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other chemoinformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached.</p>
+<h3 id="drug-repurposing">Drug Repurposing</h3>
+<p>We have tried different training sets containing different organisms and their targets to build target specific or phenopytic based predictive classification models. We only selected models AUC&gt;0.9 for as qualified model for further prediction. We use these models to predict drugbank(version5.1.5) 8773 drugs (approved or investigational stage) as part of the repurposing effort. </p>
+<ol>
+<li>
+<p>Ligand based RNA-dependent RNA polymerase AI model
+Training Data: Using heterogeneous records of RNA polymerase (including ) bioactivity data from various species and in vitro assays, a total of 564 data points with 47 active and 517 inactive molecules (IC50 &lt;=100nM as active). </p>
+</li>
+<li>
+<p>Ligand based antiviral AI model
+Training Data: Using heterogeneous records of 3C-like protease bioactivity data from various species and in vitro assays, a total of 76247 data points with 37332 active and 38915 inactive molecules (IC50 &lt;=100nM as active). </p>
+</li>
+<li>
+<p>Structure based virtual screening for 3C-Like protease using AI model</p>
+</li>
+</ol>
               
             </div>
           </div>
           <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../CoV_Experiment_Data/" class="btn btn-neutral float-right" title="Data Mining">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../drug_candidates/" class="btn btn-neutral" title="2019-nCoV Community Effort"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
   
 
   <hr/>
@@ -156,6 +198,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
+        <span><a href="../drug_candidates/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../CoV_Experiment_Data/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

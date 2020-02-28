@@ -60,6 +60,11 @@
           
             <li class="toctree-l1">
 		
+    <a class="" href="../computational/">2019-nCoV Computational Studies</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
     <span class="caption-text">Data Download</span>
     <ul class="subnav">
                 <li class="">
@@ -88,11 +93,11 @@
     
         <ul>
         
-            <li><a class="toctree-l4" href="#nsp3-papain-like-proteinase">NSP3, Papain-like proteinase</a></li>
+            <li><a class="toctree-l4" href="#papain-like-proteinase">Papain-like proteinase</a></li>
         
             <li><a class="toctree-l4" href="#3c-like-protease">3C-like protease</a></li>
         
-            <li><a class="toctree-l4" href="#nsp12-rna-directed-rna-polymeraserdrp">NSP12, RNA-directed RNA polymerase(RDRP)</a></li>
+            <li><a class="toctree-l4" href="#nsp12-rna-dependent-rna-polymeraserdrp">NSP12, RNA-dependent RNA polymerase(RDRP)</a></li>
         
             <li><a class="toctree-l4" href="#nsp13-helicase">NSP13, Helicase</a></li>
         
@@ -167,6 +172,7 @@
               
                 <p>We have built homology models for 2019-nCoV major targets that are highly homologous to SARS or other highly similar species. We further minimized and simulated some of the models to obtain better structural quality. If you would like to perform any docking practice, please be aware that some of the proteins functioning by forming complex structures with other co-factor proteins of the virus, or with the assistant of other human biomolecules. In addition, proteins are highly dynamic in physiological condition with large conformational flexibility. These structures are only “snapshots” of the real biological event. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us <a href="https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues"><strong>here</strong></a>. We are working on a more interactive interface for your direct participation in the future. </p>
 <p>The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort <a href="https://swissmodel.expasy.org/repository/species/2697049"><strong>here</strong></a> to this project. They modelled the full 2019-nCoV proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. </p>
+<hr />
 <h3 id="surface-glycoprotein-spike-protein">Surface Glycoprotein, Spike Protein</h3>
 <pre><code> MFVFLVLLPL VSSQCVNLTT RTQLPPAYTN SFTRGVYYPD KVFRSSVLHS TQDLFLPFFS
  NVTWFHAIHV SGTNGTKRFD NPVLPFNDGV YFASTEKSNI IRGWIFGTTL DSKTQSLLIV
@@ -193,6 +199,12 @@
 </code></pre>
 <ul>
 <li>
+<p>Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. <a href="https://science.sciencemag.org/content/early/2020/02/19/science.abb2507">Article link</a></p>
+<ul>
+<li><a href="https://www.rcsb.org/structure/6VSB">PDB 6VSB</a></li>
+</ul>
+</li>
+<li>
 <p>Homology model of Spike protein alone and Spike-ACE2 based on SARS using https://swissmodel.expasy.org</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip">Full dataset</a></li>
@@ -212,6 +224,7 @@
 <p><img alt="MD simulated Spike protein bind to human ACE2" src="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png" /></p>
 </li>
 </ul>
+<hr />
 <h3 id="envelope-protein-e-protein">Envelope protein, E Protein</h3>
 <pre><code> MYSFVSEETG TLIVNSVLLF LAFVVFLLVT LAILTALRLC AYCCNIVNVS LVKPSFYVYS
  RVKNLNSSRV PDLLV
@@ -223,6 +236,7 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="nucleocapsid-phosphoprotein-n-protein">Nucleocapsid Phosphoprotein, N protein</h3>
 <pre><code> MSDNGPQNQR NAPRITFGGP SDSTGSNQNG ERSGARSKQR RPQGLPNNTA SWFTALTQHG
  KEDLKFPRGQ GVPINTNSSP DDQIGYYRRA TRRIRGGDGK MKDLSPRWYF YYLGTGPEAG
@@ -361,7 +375,7 @@
  VMHANYIFWR NTNPIQLSSY SLFDMSKFPL KLRGTAVMSL KEGQINDMIL SLLSKGRLII
  RENNRVVISS DVLVNN
 </code></pre>
-<h3 id="nsp3-papain-like-proteinase">NSP3, Papain-like proteinase</h3>
+<h3 id="papain-like-proteinase">Papain-like proteinase</h3>
 <ul>
 <li>Homology model of Replicase polyprotein 1ab using https://swissmodel.expasy.org<ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip">Full dataset</a>
@@ -369,10 +383,14 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="3c-like-protease">3C-like protease</h3>
 <ul>
 <li>
-<p>The Crystal Structure of 3C-like protease <a href="https://www.rcsb.org/structure/6lu7">PDB</a></p>
+<p>The crystal structure of COVID-19 main protease in complex with an inhibitor N3 published on 2/5/2020 by Liu, X et al. </p>
+<ul>
+<li><a href="https://www.rcsb.org/structure/6lu7">PDB 6LU7</a></li>
+</ul>
 </li>
 <li>
 <p>Homology model of 3C-like protease using https://swissmodel.expasy.org</p>
@@ -394,10 +412,11 @@
 </ul>
 </li>
 </ul>
-<h3 id="nsp12-rna-directed-rna-polymeraserdrp">NSP12, RNA-directed RNA polymerase(RDRP)</h3>
+<hr />
+<h3 id="nsp12-rna-dependent-rna-polymeraserdrp">NSP12, RNA-dependent RNA polymerase(RDRP)</h3>
 <ul>
 <li>
-<p>Homology model of RNA-directed RNA polymerase (with Zn2+) using https://swissmodel.expasy.org</p>
+<p>Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip">Full dataset</a></li>
 </ul>
@@ -414,6 +433,7 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="nsp13-helicase">NSP13, Helicase</h3>
 <ul>
 <li>Homology model of Helicase using https://swissmodel.expasy.org<ul>
@@ -422,6 +442,7 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="nsp14-guanine-n7-methyltransferase">NSP14, Guanine-N7 methyltransferase</h3>
 <ul>
 <li>Homology model of Polyprotein 1ab using https://swissmodel.expasy.org<ul>
@@ -430,6 +451,7 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="nsp15-uridylate-specific-endoribonuclease">NSP15, Uridylate-specific endoribonuclease</h3>
 <ul>
 <li>Homology model of Uridylate-specific endoribonuclease using https://swissmodel.expasy.org<ul>
@@ -438,6 +460,7 @@
 </ul>
 </li>
 </ul>
+<hr />
 <h3 id="nsp16-2-o-methyl-transferase">NSP16, 2'-O-methyl transferase</h3>
 <ul>
 <li>Homology model of 2'-O-methyl transferase using https://swissmodel.expasy.org<ul>
