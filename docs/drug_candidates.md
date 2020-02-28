@@ -66,10 +66,6 @@ The information below is collected from recent research articles, news articles,
 
 ## Data analysis results from previous SARS/MERS drug discovery records
 
-A collection of drug candidates with previously published positive SARS/MERS experimental results
-
-## Data analysis results from previous SARS/MERS drug discovery records
-
 A collection of drug candidates with previously published positive SARS/MERS experimental results.
 
 |  Drug name  | DrugBank ID  | Mechanism of action  | Experimental activity  | Methods  | Measurement  | Value | Unit  | 
@@ -96,20 +92,7 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 A collection of drug candidates in pipelines or marketed for different antiviral indications. All candidates have at least completed Phase I studies. However, not all have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
 
 
-### 1. Antiviral candidates with suggested target as RNA-Directed RNA Polymerase
-
-| Drug name                 | DrugBank ID                                      | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                                   | parameter | PX          | mean       | unit |
-| ------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | --------- | ----------- | ---------- | ---- |
-| Remdesivir                | [DB14761](https://www.drugbank.ca/drugs/DB14761) | 1. Phase III for  Ebola <br>2. Phase III for nCoV            | RNA-Directed RNA Polymerase Inhibitor                        | Ebola virus disease remission/reduction, IN VITRO            |                                          | IC-50     | 8           | 0.00000001 | M    |
-| Lumicitabine              | [DB14808](https://www.drugbank.ca/drugs/DB14808) | Phase II  completed for Respiratory Syncytial Virus          | RNA-Directed RNA Polymerase (Respiratory Syncytial Virus) Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | Viral replication assay                  | IC-50     | 6.58 | 0.00000026 | M    |
-| Sofosbuvir                | [DB08934](https://www.drugbank.ca/drugs/DB08934) | Phase 4 completed  for HCV <br>Marketed for HCV              | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, dengue virus remission/reduction, IN VITRO        | Plaque assay                             | IC-90     | 6.40 | 0.0000004  | M    |
-| Adafosbuvir               | [DB14906](https://www.drugbank.ca/drugs/DB14906) | Phase II  completed for HCV                                  | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, dengue virus remission/reduction, IN VITRO        | Plaque assay                             | IC-50     | 5.96 | 0.0000011  | M    |
-| Balapiravir hydrochloride | [DB12283](https://www.drugbank.ca/drugs/DB12283) | 1. Phase I  completed for Dengue Fever <br>2. Phase II completed for HCV | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, dengue virus remission/reduction, IN VITRO        | Viral replication assay                  | IC-50     | 5.72 | 0.0000019  | M    |
-| Galidesivir               | [DB11676](https://www.drugbank.ca/drugs/DB11676) | 1. Phase I competed  for Ebola <br>2. Phase I started for Marburg virus <br>3. Phase 1 started for yellow fever | RNA Polymerase Inhibitors                                    | Infection, Zika virus remission/reduction, IN VITRO          | Fluorescent assay                        | IC-50     | 5.53 | 0.00000296 | M    |
-| Beclabuvir                | [DB12225](https://www.drugbank.ca/drugs/DB12225) | Phase III  completed for HCV, Phase IV withdrawn for HCV     | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, herpes simplex virus remission/reduction, IN VITRO | Viral replication assay (multiple cycle) | IC-50     | 5.40 | 0.000004   | M    |
-| Favipiravir               | [DB12466](https://www.drugbank.ca/drugs/DB12466) | 1. Phase III  completed for Influenza <br>2. Phase II completed for Ebola | RNA-Directed RNA Polymerase (Influenza A Virus H1N1) Inhibitors;RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors | Infection, rabies virus remission/reduction, IN VITRO        | Fluorescent assay                        | MIC       | 5.40 | 0.000004   | M    |
-
-### 2. Antiviral candidates selected from viral replication assay
+### 1. Antiviral candidates selected from viral replication assay
 
 | Drug name               | DrugBank ID                                      | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                  | parameter | PX          | mean        | unit |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------- | --------- | ----------- | ----------- | ---- |
@@ -123,7 +106,7 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Alvocidib hydrochloride | [DB03496](https://www.drugbank.ca/drugs/DB03496) | 1. Phase II  completed for sarcomas <br>2. Phase II completed for renal cancers; <br>3. Phase II  completed for melanoma <br>4. Phase II completed for other cancers including:  myeloma, carcinoma, esophageal, endometrial, leukaemia, etc. | Cyclin-Dependent Kinase 1 (CDK1) Inhibitors;Signal Transduction Modulators;Cyclin-Dependent Kinase 6 (CDK6) Inhibitors;CDK9/Cyclin T1 Inhibitors;Baculoviral IAP Repeat-Containing Protein 5 (BIRC5; Survivin) Inhibitors;Apoptosis Inducers;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Cyclin-Dependent Kinase 2 (CDK2) Inhibitors;Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1 Inhibitors;Cyclin-Dependent Kinase 4 (CDK4) Inhibitors;X-Chromosome-Linked Inhibitor of Apoptosis Protein (XIAP) Inhibitors;Apoptosis Regulator Bcl-2 Inhibitors | Infection, herpes virus remission/reduction, IN VITRO        | Viral replication assay | IC-50     | 7.00 | 1.00E-07    | M    |
 | Ganciclovir             | [DB01004](https://www.drugbank.ca/drugs/DB01004) | 1. Phase 4 active  for viral pneumonia <br>2. Phase 4 completed for DNA virus infections <br>3. Phase 4  completed for CMV <br>4. Phase 4 completed for viral sepsis | DNA Polymerase Inhibitors                                    | Infection, herpes simplex virus remission/reduction, IN VITRO | Viral replication assay | IC-50     | 7           | 0.0000001   | M    |
 
-### 3. Antiviral candidates selected from different in vitro assays
+### 2. Antiviral candidates selected from different in vitro assays
 
 | Drug_name     | DrugBank  ID                                     | Clinical Information                                         | Mechanism of action                                          | Experimental activity                                        | Method                                                       | parameter | PX          | mean     | unit |
 | ------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ----------- | -------- | ---- |
