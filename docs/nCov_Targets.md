@@ -80,6 +80,7 @@ The targetscape of MERS virus within the cell is provided by [Clarivate Analytic
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
 
 ---
+    
 
 ## Structures of SARS/MERS proteins
 This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.

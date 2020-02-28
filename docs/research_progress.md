@@ -5,6 +5,8 @@
  * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
     * A framework for a systems biology approach to infectious disease in three parts: discovery — the design, collection and analysis of omics data; representation — the iterative modelling, integration and visualization of complex data sets; and application — the interpretation and hypothesis-based inquiry towards translational outcomes.
 
+---
+
 2020, Feb 10
 
  * ["Therapeutic options for the 2019 novel coronavirus (2019-nCoV)"](https://www.nature.com/articles/d41573-020-00016-0)
@@ -28,9 +30,22 @@
 
 ## 2020
 
+2020, Feb 25
+ * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
+    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
+    * Preprint released on January 22, 2020. Published on February 25, 2020 
+
+---
+
+2020, Feb 21
+ * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
+    * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
+
+---
+
 2020, Feb 18
 
- * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](https://www.biorxiv.org/content/10.1101/2020.02.17.951848v1.full.pdf)
+ * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sodflhace2.pdf)
     * 2.9 Å  resolution  cryo-EM  structure  of  full-length  human  ACE2  in  complex  with B0AT1 is presented in this study. The complex exhibits open and closed conformations due to the shifts of the peptidase domains of ACE2. Structural modelling suggests that this complex can bind two S proteins simultaneously. 
     
 ---
@@ -44,14 +59,14 @@
 
 2020, Feb 13
 
- * ["Potentially highly potent drugs for 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.936013v1.full.pdf)
+ * ["Potentially highly potent drugs for 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
 
 ---
 
 2020, Feb 11
 
- * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.935072v1.full.pdf)
+ * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_efwncocebvd.pdf)
     * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
 
 ---
@@ -73,7 +88,7 @@
 
 2020, Feb 5
 
-* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1.full.pdf)
+* ["Network-based Drug Repurposing for Human Coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nbdrhc.pdf)
     * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
     * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
     * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
@@ -94,7 +109,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 2020, Feb 4
 
- * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
 
 ---
@@ -216,13 +231,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cfpincv.pdf)
     * This article shares results about clinical findings regarding the 2019-nCoV. Common symptoms reported were fever, cough, myalgia, or fatigue. In was interpreted that this new infection causes severe respiratory illness similar to the SARS outbreak previously. 
     
----
-
-2020, Jan 22
-
- * ["Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_facerulbbc.pdf)
-    * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
-
 ---
 
  * ["Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_gpsmadoi.pdf)
