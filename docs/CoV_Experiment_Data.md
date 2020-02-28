@@ -124,9 +124,8 @@ We are releasing the following datasets from our big data platform. We are makin
 
   * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/pharmacology_SARS_MERS.xlsx)
 
-<details>
-
- <summary>Selected Records</summary>
+ <details>
+      <summary>Selected Records</summary>
 
 |  Drug Name  | MOA  | Experiment  | Method  | Parameter  | Mean  | Unit  | 
 | ---- | --- | --- | --- | --- | --- | --- | 
