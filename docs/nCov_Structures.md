@@ -27,8 +27,8 @@ The SWISS-MODEL team has also performed comprehensive homology modeling efforts 
      QELGKYEQYI KWPWYIWLGF IAGLIAIVMV TIMLCCMTSC CSCLKGCCSC GSCCKFDEDD
      SEPVLKGVKL HYT
      
-* Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al.[article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
-    *[PDB 6VSB](https://www.rcsb.org/structure/6VSB)
+* Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. [Article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
+    * [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
 
 * Homology model of Spike protein alone and Spike-ACE2 based on SARS using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
@@ -194,7 +194,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 ---    
 ### 3C-like protease
 * The crystal structure of COVID-19 main protease in complex with an inhibitor N3 published on 2/5/2020 by Liu, X et al. 
-    *[PDB 6LU7](https://www.rcsb.org/structure/6lu7)
+    * [PDB 6LU7](https://www.rcsb.org/structure/6lu7)
 
 * Homology model of 3C-like protease using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip)
