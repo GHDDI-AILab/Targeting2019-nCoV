@@ -12,7 +12,7 @@ nav:
     - Home: index.md
     - 2019-nCoV Community Effort: drug_candidates.md
     #- 2019-nCoV Assay Protocals: assay.md
-    #- 2019-nCoV Computational Studies: computational.md
+    - 2019-nCoV Computational Studies: computational.md
     - Data Download:
       - Data Mining: CoV_Experiment_Data.md
       - Target Validation: nCov_Targets.md
