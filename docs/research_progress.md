@@ -38,14 +38,14 @@
 ---
 
 2020, Feb 21
- * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](https://www.biorxiv.org/content/10.1101/2020.02.20.958272v1.full.pdf)
+ * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
     * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
 
 ---
 
 2020, Feb 18
 
- * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](https://www.biorxiv.org/content/10.1101/2020.02.17.951848v1.full.pdf)
+ * ["Structure of dimeric full-length human ACE2 in complex with B0AT1"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sodflhace2.pdf)
     * 2.9 Å  resolution  cryo-EM  structure  of  full-length  human  ACE2  in  complex  with B0AT1 is presented in this study. The complex exhibits open and closed conformations due to the shifts of the peptidase domains of ACE2. Structural modelling suggests that this complex can bind two S proteins simultaneously. 
     
 ---
@@ -59,14 +59,14 @@
 
 2020, Feb 13
 
- * ["Potentially highly potent drugs for 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.936013v1.full.pdf)
+ * ["Potentially highly potent drugs for 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
 
 ---
 
 2020, Feb 11
 
- * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](https://www.biorxiv.org/content/10.1101/2020.02.05.935072v1.full.pdf)
+ * ["The  Essential  Facts  of  Wuhan  Novel  Coronavirus  Outbreak  in  China  and  Epitope-based Vaccine Designing against 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_efwncocebvd.pdf)
     * This article describes a study to design possible epitope-based subunit vaccines against the 2019-nCoV using a variety of strategies. Many amino acid sequences were published in this study, including three vaccine construct sequences. 
 
 ---
@@ -88,7 +88,7 @@
 
 2020, Feb 5
 
-* ["Network-based Drug Repurposing for Human Coronavirus"](https://www.medrxiv.org/content/10.1101/2020.02.03.20020263v1.full.pdf)
+* ["Network-based Drug Repurposing for Human Coronavirus"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nbdrhc.pdf)
     * The researchers present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network.
     * Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, the researchers computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs, and prioritized 16 potential anti-HCoV repurposable drugs (including **melatonin**, **mercaptopurine**, and **sirolimus**) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.
     * Three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern.
@@ -109,7 +109,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
 
 2020, Feb 4
 
- * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](https://www.nature.com/articles/s41422-020-0282-0)
+ * ["Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_phpd2c.pdf)
     * This Letter to the Editor article first identifies several existing antiviral drugs to treat related viral infections. Through standard in vitro assays, the researchers found that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro, and recommend further human patient assessment based on these drugs' previous safety track record on human patients.
 
 ---

@@ -50,7 +50,7 @@ def generate_markdown_table(records):
 if __name__ == '__main__':
     import argparse
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('-csv', default='integrity_openset.csv', type=str, help='csv file, input')
+    argparser.add_argument('-csv', default='SARS_MERS_active.csv', type=str, help='csv file, input')
     argparser.add_argument('-md', default=None, type=str, help='markdown file, output, optional')
     #argparser.add_argument('-csv_encoding', default='utf8', type=str, help='encoding of csv file, optional')
     args = argparser.parse_args()
