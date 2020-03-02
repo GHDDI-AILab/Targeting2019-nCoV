@@ -63,8 +63,7 @@ The information below is collected from recent research articles, news articles,
 
 ---
 
-
-## Data analysis results from previous SARS/MERS drug discovery records
+## Data analysis results from previous coronavirus related drug discovery records
 
 A collection of drug candidates with previously published positive SARS/MERS experimental results.
 
@@ -118,6 +117,22 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Sirolimus     | [DB00877](https://www.drugbank.ca/drugs/DB00877) | 1. Phase 4 completed  for renal diseases, renal failure <br>2. Phase 4 completed for kidney and heart  transplatation <br/>Marketed for kidney transplantation | CCR5 Expression Inhibitors;Cytochrome P450 CYP2D6 Inhibitors;Signal Transduction Modulators;Cytochrome P450 CYP2C9 Inhibitors;P-Glycoprotein (MDR-1; ABCB1) Inhibitors;Proteasome Inhibitors;Mammalian Target of Rapamycin (mTOR; FRAP1) Inhibitors;Drugs Targeting B-Lymphocyte Antigen CD19 | Infection, cytomegalovirus remission/reduction, IN VITRO     | Chemiluminescent assay                                       | IC-50     | 10.40 | 4.00E-11 | M    |
 | Laninamivir   | [DB12791](https://www.drugbank.ca/drugs/DB12791) | Phase I completed  for influenza                             | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors       | Neuraminidase (nonspecified subtype) (Influenza A virus) inhibition, IN VITRO | Fluorescent assay                                            | IC-50     | 9.96 | 1.10E-10 | M    |
 | Ribavirin     | [DB00811](https://www.drugbank.ca/drugs/DB00811) | 1. nCoV clinical  trial <br>2. Phase 4 completed for HCV <br>3. Phase 3 completed for HBV <br/>Marketed for RSV, HCV, | Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors;Equilibrative Nucleoside Transporter ENT1 Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | ELISA assay                                                  | IC-50     | 9.90 | 1.26E-10 | M    |
+
+---
+
+
+### 3. Top antiviral candidates with RDRP inhibition MOA selected from different assays
+
+|  ﻿Drug name  | DrugBank ID  | Mechanism of action  | Experimental activity  | Measurement  |  Value  | Unit  |   |   | 
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | 
+|  Beclabuvir  | [DB12225](https://www.drugbank.ca/drugs/DB12225)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Hepatitis C (HCV) remission/reduction, IN VITRO  | IC-50  | 3.00E-09  | M  |   |   | 
+|  Remdesivir    | [DB14761](https://www.drugbank.ca/drugs/DB14761)  | RNA-Dependent RNA Polymerase Inhibitor    | Ebola virus disease remission/reduction, IN VITRO    | IC-50    | 1.00E-08  | M    |    |   | 
+|  Valopicitabine  | [DB13920](https://www.drugbank.ca/drugs/DB13920)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Hepatitis C (HCV) remission/reduction, IN VITRO  | IC-50  | 9.00E-08  | M  |   |   | 
+|  Mericitabine  | [DB12045](https://www.drugbank.ca/drugs/DB12045)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Hepatitis C (HCV) remission/reduction, IN VITRO  | IC-50  | 1.30E-07  | M  |   |   | 
+|  Lumicitabine  | [DB14808](https://www.drugbank.ca/drugs/DB14808)  | RNA-Dependent RNA Polymerase (Respiratory Syncytial Virus) Inhibitors  | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO  | IC-50  | 2.60E-07  | M  |   |   | 
+|  Sofosbuvir  | [DB08934](https://www.drugbank.ca/drugs/DB08934)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Infection, dengue virus remission/reduction, IN VITRO  | IC-90  | 4.00E-07  | M  |   |   | 
+|  Adafosbuvir  | [DB14906](https://www.drugbank.ca/drugs/DB14906)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Infection, dengue virus remission/reduction, IN VITRO  | IC-50  | 1.10E-06  | M  |   |   | 
+
 
 *Compounds selected based on top PX scores from respective assays.
 
