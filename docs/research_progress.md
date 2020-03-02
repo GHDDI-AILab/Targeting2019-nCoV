@@ -32,7 +32,7 @@
 
 2020, Feb 29
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
-    * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article mentions a related clinical trial ChiCTR2000030055.
+    * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
 
 ---
 
