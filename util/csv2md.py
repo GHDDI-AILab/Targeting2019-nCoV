@@ -2,7 +2,7 @@
 """
 Convert a csv file to markdown format.
 Syntax:
-    python csv2md.py -csv <csv file> -md <markdown file> -csv_encoding <encoding>
+    python csv2md.py -csv <csv file> -md <markdown file>
 in which <csv file> is the csv file to be converted; <markdown file> is the output path for the generated markdown file, optional;
 <encoding> is the encoding of the csv file, optional, the default encoding is set to `utf8`.
 You're recommended to make sure the input csv file is encoded in UTF8 scheme.
