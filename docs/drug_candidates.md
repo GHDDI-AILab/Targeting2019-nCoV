@@ -26,7 +26,7 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine          | Antiviral                 | 2020/2/16          |
 | [ChiCTR2000030000](http://www.chictr.org.cn/showprojen.aspx?proj=49748) | Ganovo (Danoprevir)/ritonavir; Peginterferon alfa-2a          | Antiviral                 | 2020/2/19          |
-| [ChiCTR2000030055](www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole | Inhibitor | 2020/2/22 |
+| [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole | Inhibitor | 2020/2/22 |
 
 
 ### 2019-nCoV related projects around the world
@@ -61,7 +61,7 @@ The information below is collected from recent research articles, news articles,
 | Peginterferon alfa-2a       |                                                              | Immunomodulation                            | HCV approved, nCoV Phase 4                                                  |       [DB00008](https://www.drugbank.ca/drugs/DB00008)      | Clinical trial                  | [23](http://www.chictr.org.cn/showprojen.aspx?proj=49748) |
 | Chloroquine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_chloroquine.png) |                                             | Antimalarial approved, anti-HIV phase III, anti-HCV, nCoV Phase  4 | [DB14761](https://www.drugbank.ca/drugs/DB14761) | In Vitro Assay, Clinical trial  | [7](http://www.xinhuanet.com/english/2020-01/30/c_138742163.htm); [15](https://www.nature.com/articles/s41422-020-0282-0); [17](http://www.chictr.org.cn/showprojen.aspx?proj=48968) |
 | Azvudine        | ![img4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_azuvudine.png) |                                             | anti-HIV approved | [PubChem 24769759](https://pubchem.ncbi.nlm.nih.gov/compound/Azvudine) | Clinical trial  | [19](http://www.chictr.org.cn/showproj.aspx?proj=49532); [20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140803/) |
-| Dipyridamole | ![img20](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_dipyridamole.png) | Adenosine deaminase and phosphodiesterase inhibitor | nCoV Phase 4; Phase 4 completed for stroke prevention; Phase 4 completed for coronary arteriosclerosis | [DB00975](https://www.drugbank.ca/drugs/DB00975) | Clinical Trial | [24](www.chictr.org.cn/showprojen.aspx?proj=49864); [25](https://www.medrxiv.org/content/10.1101/2020.02.27.20027557v1.full.pdf) |
+| Dipyridamole | ![img20](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_dipyridamole.png) | Adenosine deaminase and phosphodiesterase inhibitor | nCoV Phase 4; Phase 4 completed for stroke prevention; Phase 4 completed for coronary arteriosclerosis | [DB00975](https://www.drugbank.ca/drugs/DB00975) | Clinical Trial | [24](http://www.chictr.org.cn/showprojen.aspx?proj=49864); [25](https://www.medrxiv.org/content/10.1101/2020.02.27.20027557v1.full.pdf) |
 
 ---
 
