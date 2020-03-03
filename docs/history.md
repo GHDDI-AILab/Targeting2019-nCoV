@@ -1,3 +1,7 @@
+## version 0.1.8 [3-2-2020]
+* **UPDATE** updated research update, clinical trials
+* **UPDATE** updated community effort
+
 ## version 0.1.7 [2-25-2020]
 * **UPDATE** updated research update, clinical trials
 * **UPDATE** updated grammar 
