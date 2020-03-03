@@ -11,16 +11,15 @@ extra_javascript:
 nav:
     - Home: index.md
     - 2019-nCoV Community Effort: drug_candidates.md
+    - Coronavirus Disease Biology and Therapeutics: nCov_Targets.md
     #- 2019-nCoV Assay Protocals: assay.md
     #- 2019-nCoV Computational Studies: computational.md
     - Data Download:
-      - Data Mining: CoV_Experiment_Data.md
-      - Target Validation: nCov_Targets.md
-      - Structure Modeling: nCov_Structures.md
-      - Research Articles: research_progress.md
+      - Coronavirus Data Mining and Analysis: CoV_Experiment_Data.md
+      - 2019-nCoV Structure Modeling: nCov_Structures.md
+      - 2019-nCoV Research Articles: research_progress.md
     - Community Discussion: contact_us.md
     - Useful Links: useful_links.md
     - History: history.md
-
 
 theme: readthedocs    

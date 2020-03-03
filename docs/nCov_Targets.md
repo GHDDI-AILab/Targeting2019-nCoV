@@ -1,8 +1,8 @@
-# Target Analysis For SARS/MERS and previous therapeutic efforts
+# Target Analysis For SARS/MERS and previous related therapeutic efforts
 
 ---
 
-## List of SARS/MERS Targets and their functions 
+## List of SARS/MERS Genes and their functions 
 
 This figure from the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article describes the genome of SARS-CoV and MERS-CoV. The proteins targets are separated into two different categories: Non-structural and structural. There are four targets listed with  effort for each category of protein.
 
@@ -17,6 +17,7 @@ Additionally, Figure 2 of the same review article shows the virus-based and host
 
 This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
+### Targeting Virus
 
 | Targeted Viral components                          | Potential therapeutics |
 | -------------------------------------------------- | ---------------------- |
@@ -37,7 +38,8 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 |N | PJ34, intrabodies‡ and siRNA*|
 |Accessory proteins| siRNA* |
 |Lipid membrane| LJ001 and JL103|
----
+
+### Targeting Host
 
 | Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -51,7 +53,8 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Other host proteases (furin)           | dec-RVKR-CMK                                                 |
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
----
+
+### Vaccine 
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -75,30 +78,42 @@ The targetscape of MERS virus within the cell is provided by [Clarivate Analytic
 
 ---
 
-## List of human Targets related to SARS 
+## List of Host Targets related to SARS 
 
 A list of human targets related to SARS coronavirus is provided by [Genecards](https://www.genecards.org) using a keyword search query: [Link](https://www.genecards.org/Search/Keyword?queryString=SARS)
 
+Top 30 relevant host targets predicted for SARS
+
+|  ﻿Gene Symbol  | Description  | Category  | Gifts  | GC Id  | Relevance score  | GeneCards Links  | 
+| ---- | --- | --- | --- | --- | --- | --- | 
+|  ACE2  | Angiotensin I Converting Enzyme 2  | Protein Coding  | 48  | GC0XM015494  | 37.3  | [ACE2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACE2)  | 
+|  CLEC4M  | C-Type Lectin Domain Family 4 Member M  | Protein Coding  | 39  | GC19P007763  | 24.28  | [CLEC4M](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLEC4M)  | 
+|  CD209  | CD209 Molecule  | Protein Coding  | 42  | GC19M007739  | 23.22  | [CD209](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD209)  | 
+|  TMPRSS2  | Transmembrane Serine Protease 2  | Protein Coding  | 42  | GC21M041464  | 22.23  | [TMPRSS2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TMPRSS2)  | 
+|  IFNA1  | Interferon Alpha 1  | Protein Coding  | 39  | GC09P021478  | 22.2  | [IFNA1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFNA1)  | 
+|  CXCL10  | C-X-C Motif Chemokine Ligand 10  | Protein Coding  | 43  | GC04M076021  | 21.68  | [CXCL10](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL10)  | 
+|  IFNG  | Interferon Gamma  | Protein Coding  | 48  | GC12M068064  | 21.54  | [IFNG](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFNG)  | 
+|  TNF  | Tumor Necrosis Factor  | Protein Coding  | 52  | GC06P033397  | 21.25  | [TNF](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNF)  | 
+|  CCL5  | C-C Motif Chemokine Ligand 5  | Protein Coding  | 43  | GC17M035871  | 20.58  | [CCL5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCL5)  | 
+|  IL6  | Interleukin 6  | Protein Coding  | 49  | GC07P022765  | 20.04  | [IL6](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL6)  | 
+|  IFNB1  | Interferon Beta 1  | Protein Coding  | 41  | GC09M021077  | 19.99  | [IFNB1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFNB1)  | 
+|  CXCL8  | C-X-C Motif Chemokine Ligand 8  | Protein Coding  | 42  | GC04P073740  | 19.88  | [CXCL8](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL8)  | 
+|  CCR5  | C-C Motif Chemokine Receptor 5 (Gene/Pseudogene)  | Protein Coding  | 47  | GC03P046384  | 19.41  | [CCR5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCR5)  | 
+|  CD40LG  | CD40 Ligand  | Protein Coding  | 47  | GC0XP136649  | 19.35  | [CD40LG](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD40LG)  | 
+|  SH2D3A  | SH2 Domain Containing 3A  | Protein Coding  | 35  | GC19M006752  | 19.33  | [SH2D3A](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SH2D3A)  | 
+|  MX1  | MX Dynamin Like GTPase 1  | Protein Coding  | 41  | GC21P041420  | 19.09  | [MX1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=MX1)  | 
+|  CCL2  | C-C Motif Chemokine Ligand 2  | Protein Coding  | 49  | GC17P034255  | 18.9  | [CCL2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCL2)  | 
+|  CXCL9  | C-X-C Motif Chemokine Ligand 9  | Protein Coding  | 38  | GC04M076001  | 18.82  | [CXCL9](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL9)  | 
+|  GPT  | Glutamic--Pyruvic Transaminase  | Protein Coding  | 41  | GC08P144502  | 18.7  | [GPT](https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPT)  | 
+|  CTSL  | Cathepsin L  | Protein Coding  | 46  | GC09P087725  | 18.4  | [CTSL](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTSL)  | 
+|  IL10  | Interleukin 10  | Protein Coding  | 47  | GC01M206767  | 18.29  | [IL10](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL10)  | 
+|  IRF3  | Interferon Regulatory Factor 3  | Protein Coding  | 47  | GC19M049659  | 18.24  | [IRF3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IRF3)  | 
+|  MBL2  | Mannose Binding Lectin 2  | Protein Coding  | 47  | GC10M052760  | 18.07  | [MBL2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=MBL2)  | 
+|  IL2  | Interleukin 2  | Protein Coding  | 46  | GC04M122451  | 17.97  | [IL2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL2)  | 
+|  TMPRSS11D  | Transmembrane Serine Protease 11D  | Protein Coding  | 38  | GC04M067820  | 17.25  | [TMPRSS11D](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TMPRSS11D)  | 
+|  STAT1  | Signal Transducer And Activator Of Transcription 1  | Protein Coding  | 53  | GC02M190964  | 17.16  | [STAT1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT1)  | 
+|  SARS1  | Seryl-TRNA Synthetase 1  | Protein Coding  | 35  | GC01P109214  | 17.1  | [SARS1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SARS1)  | 
+|  FURIN  | Furin, Paired Basic Amino Acid Cleaving Enzyme  | Protein Coding  | 47  | GC15P090868  | 17.05  | [FURIN](https://www.genecards.org/cgi-bin/carddisp.pl?gene=FURIN)  | 
+|  CRP  | C-Reactive Protein  | Protein Coding  | 46  | GC01M159715  | 16.85  | [CRP](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CRP)  | 
+
 ---
-    
-
-## Structures of SARS/MERS proteins
-This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
-
-### SARS
-| Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
-|-------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| S           | Spike glycoprotein        | Spike protein S1, Spike protein S2, <br>Receptor-binding domain                                                                                                                            | 5X5B, 2GHV                                                                                                                      |
-| rep         | Replicase polyprotein 1ab | 1. NSP12, NSP7<br><br>2. NSP8, NSP10/NSP14<br><br>3. NSP10/NSP16 PUTATIVE 2'-O-METHYL TRANSFERASE<br><br>4. NSP3<br><br>5. NSP7, NSP86. 3C-like proteinase (3CL(pro))<br><br>6. 3C-like proteinase (3CL(pro)); | 1. 6NUR<br><br>2. 5NFY<br><br>3. 2XYR <br><br>4. 2GRI<br><br>5. 2AHM<br><br>6. 2V6N, 1UK4, 3D62, 2Z94, 2Z9G, 2Z9J, 2Z9K, 2Z9L, 2Z3D, 2GX4, 2A5A     |
-| 1a          | Replicase polyprotein 1a  | 1. NSP3 <br><br>2. 3C-like proteinase (3CL(pro)) <br><br>3. Peptidase C16                                                                                                                          | 1. 2W2G <br><br>2. 4TWW, 4TWY, 4WY3, 4MDS, 3V3M, 3VB3, 3VB4, 3VB5, 3VB6, 3VB7, 3ATW, 3AVZ, 3AW0, 3AW1, 3SNE <br><br>3. 5Y3Q, 5Y3E, 4OVZ |
-| N/A         | Peptidase C30             | Orf1ab polyprotein                                                                                                                                                                         | 2OP9                                                                                                                            |
-| N/A         | Orf1a polyprotein         | Pepidase C30                                                                                                                                                                               | 2GZ9                                                                              
-
-### MERS
-| Gene Symbol | Protein Name             | Other Names                                                                       | PDB IDs                                                    |
-|-------------|--------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------|
-| S           | Spike glycoprotein       | 1. Spike receptor binding domain, Corona S2<br><br>2. Spike glycoprotein S1       | 1. 6Q04, 6Q05, 6Q06, 6Q07, 5X59, 5X5F, 4NJL, 4L3N <br><br>2. 5X4R |
-| orf1ab      | Polyprotein ORF1ab       | 1. NSP15<br><br>2. Peptidase C30<br><br>3.  Peptidase C16                                 | 1. 5YVD<br><br>2. 4RSP<br><br>3. 4RNA, 4REZ, 4PT5, 4P16            |
-| 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
-
-
