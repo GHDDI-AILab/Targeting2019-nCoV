@@ -6,7 +6,7 @@ We are here to publish our initial computational efforts including AI based pred
 
 A. Ligand based AI model
 
-We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed HAG-net. We only selected models AUC>0.8 for as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict approved or investigational stage drugs molecules in GHDDI stock as part of the repurposing effort. 
+We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed GHDDI_HAG-net. We only selected models AUC>0.8 for as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivity of approved or investigational stage drugs molecules (~12K) in GHDDI stock  as part of the repurposing effort. 
 
 
 1. Heterogeneous global antiviral AI model
@@ -16,7 +16,6 @@ Performance (5-fold cross-validation): AUC avg. = 0.934
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
 * [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
 
- 
 2. RNA-dependent RNA polymerase AI model
 Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 564 data points with 47 active and 517 inactive molecules (IC50 <=100nM as active).  
 Performance (5-fold cross-validation): AUC avg. = 0.844 

@@ -17,6 +17,7 @@ Additionally, Figure 2 of the same review article shows the virus-based and host
 
 This information comes from Table 2 of the review article by A. Zumla et al., 2016. 
 
+### Targeting Virus
 
 | Targeted Viral components                          | Potential therapeutics |
 | -------------------------------------------------- | ---------------------- |
@@ -37,7 +38,8 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 |N | PJ34, intrabodies‡ and siRNA*|
 |Accessory proteins| siRNA* |
 |Lipid membrane| LJ001 and JL103|
----
+
+### Targeting Host
 
 | Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -51,7 +53,8 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Other host proteases (furin)           | dec-RVKR-CMK                                                 |
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
----
+
+### Vaccine Efforts
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
