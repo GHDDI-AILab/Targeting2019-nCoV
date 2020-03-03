@@ -1,4 +1,4 @@
-# Target Analysis For SARS/MERS and previous therapeutic efforts
+# Target Analysis For SARS/MERS and previous related therapeutic efforts
 
 ---
 
@@ -54,7 +54,7 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
 
-### Vaccine Efforts
+### Vaccine 
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
