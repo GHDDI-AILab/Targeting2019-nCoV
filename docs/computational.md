@@ -6,7 +6,7 @@ We are here to publish our initial computational efforts including AI based pred
 
 ### A. Ligand based AI model
 
-We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed GHDDI_HAG-net. We only selected models AUC>0.8 as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivity of approved or investigational stage drugs molecules (~12K) in GHDDI stock  as part of the repurposing effort. 
+We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed GHDDI_HAG-net. We only selected models AUC>0.8 as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivity of approved or investigational stage drugs molecules (~12K) in GHDDI stock as part of the repurposing effort. 
 
 #### 1. Heterogeneous antiviral AI model
 Training Data: Using heterogeneous records of antiviral bioactivity data including target based and phenotype based records from various species and in vitro assays, a total of 76247 data points with 37332 active and 38915 inactive molecules (IC50 <=100nM as active). 
@@ -45,7 +45,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.82
 
 
 ### B. Structure based (none-docking) AI model
-The structure based AI model was constructed based on GHDDI developed GHDDI_HAG-net using information of target 3D structures information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark set with average AUC of XXX
+The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark sets with average AUC of XXX.
 
 
 
