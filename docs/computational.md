@@ -12,36 +12,36 @@ We have tried different training sets containing different organisms and their t
 Training Data: Using heterogeneous records of antiviral bioactivity data including target based and phenotype based records from various species and in vitro assays, a total of 76247 data points with 37332 active and 38915 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.934
 
-* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
+* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralMix.xlsx )
+* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x)
 
 2. Phenotypic antiviral AI model
-Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7187 data points with 37332 active and 38915 inactive molecules (IC50 <=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.934
+Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (IC50 <=100nM as active). 
+Performance (5-fold cross-validation): AUC avg. = 
 
-* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
+* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
+* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x)
 
 3. RNA-dependent RNA polymerase AI model
-Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 564 compounds with 47 active and 517 inactive molecules (IC50 <=100nM as active).  
+Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 <=100nM as active).  
 Performance (5-fold cross-validation): AUC avg. = 0.844 
 
-* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
+* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx)
+* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x)
 
 4. Helicase AI model
 Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.868
 
-* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
+* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx)
+* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x)
 
 5. 3C-like protease AI model 
 Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.82 
 
-* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
+* [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx)
+* [Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x)
 
 
 B. Structure based (none-docking) AI model
