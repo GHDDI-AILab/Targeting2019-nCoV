@@ -47,5 +47,10 @@ Performance (5-fold cross-validation): AUC avg. = 0.82
 B. Structure based (none-docking) AI model
 The structure based AI model was constructed based on GHDDI developed GHDDI_HAG-net using information of target 3D structures information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark set with average AUC of XXX
 
-
+6. Network based drug-virus inhibition AI model
+Training data: Using the cell-based assay data (10uM as cutoff) and animal model data tested for various virus species, the global drug-virus inhibition knowledge graph was constructed based on 7218 positive links connecting 6651 drugs and 21 virus species.
+Performance 10 times 10-fold cross validation: AUC avg. = 0.913
+[Predictive results download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVIpredictlist-top10.csv): Top 10 potential drugs were predicted for each virus species, including COVID-19, SARS, and MERS.
+The sub-network specific for coronavirus was shown below, with 173 reported links and 30 predicted links.
+![Coronavirus Network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronanet.png)
 
