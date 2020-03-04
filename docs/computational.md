@@ -14,6 +14,11 @@ Training Data: Using heterogeneous records of 3C-like protease bioactivity data 
 
 3. Structure based virtual screening for 3C-Like protease using AI model
 
+4. Network based drug-virus inhibition AI model
+Training data: Using the cell-based assay data and animal model data tested for various virus species and 10uM as cutoff, the global drug-virus inhibition knowledge graph was constructed based on 7218 positive links connecting 6651 drugs and 21 virus species.
+Performance: AUC=0.913 in 10 times 10-fold cross validation
+Predictive results: Top 10 potential drugs were predicted for each virus species, including COVID-19, SARS, and MERS.
+The sub-network specific for coronavirus was shown below, with 173 reported links and 30 predicted links.
 
 
 
