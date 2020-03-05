@@ -1,7 +1,5 @@
-## version 0.1.9b [3-5-2020]
-* **UPDATE** updated research update
 
-## version 0.1.9a [3-2-2020]
+## version 0.1.9a [3-5-2020]
 * **UPDATE** updated research update, clinical trials
 * **UPDATE** updated community effort
 
