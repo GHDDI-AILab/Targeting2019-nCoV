@@ -76,6 +76,10 @@ The targetscape of MERS virus within the cell is provided by [Clarivate Analytic
 
 ![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_mers.png)
 
+The targetscape of nCov provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is also shown below.
+
+![ncov1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_ncov.png)
+
 ---
 
 ## List of Host Targets related to SARS 
