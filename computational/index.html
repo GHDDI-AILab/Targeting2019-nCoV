@@ -8,7 +8,7 @@
   
   <meta name="author" content="David Leon (Dawei Leng)">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Computational - Targeting 2019-nCoV Portal</title>
+  <title>Computational Efforts for 2019nCoV - Targeting 2019-nCoV Portal</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,7 +17,7 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Computational";
+    var mkdocs_page_name = "Computational Efforts for 2019nCoV";
     var mkdocs_page_input_path = "computational.md";
     var mkdocs_page_url = null;
   </script>
@@ -84,17 +84,22 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../contact_us/">Community Discussion</a>
+    <a class="" href="../ghddi_news/">2019-nCoV GHDDI News</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../useful_links/">Useful Links</a>
+    <a class="" href="../contact_us/">2019-nCoV Community Discussion</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../history/">History</a>
+    <a class="" href="../useful_links/">2019-nCoV Useful Links</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../history/">Github History</a>
 	    </li>
           
         </ul>
@@ -119,7 +124,7 @@
     
       
     
-    <li>Computational</li>
+    <li>Computational Efforts for 2019nCoV</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -129,68 +134,48 @@
           <div role="main">
             <div class="section">
               
-                <h2 id="computational-efforts-for-2019ncov">Computational Efforts for 2019nCoV</h2>
-<p>We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other chemoinformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models web-based service will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. </p>
-<h3 id="drug-repurposing">Drug Repurposing</h3>
-<p>A. Ligand based AI model</p>
-<p>We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed GHDDI_HAG-net. We only selected models AUC&gt;0.8 for as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivity of approved or investigational stage drugs molecules (~12K) in GHDDI stock  as part of the repurposing effort. </p>
-<ol>
-<li>
-<p>Heterogeneous antiviral AI model
-Training Data: Using heterogeneous records of antiviral bioactivity data including target based and phenotype based records from various species and in vitro assays, a total of 76247 data points with 37332 active and 38915 inactive molecules (IC50 &lt;=100nM as active). 
+                <h1 id="computational-efforts-for-2019ncov">Computational Efforts for 2019nCoV</h1>
+<p>We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other cheminformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models <a href="http:">web-based service</a> will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. </p>
+<h2 id="drug-repurposing">Drug Repurposing</h2>
+<h3 id="a-ligand-based-ai-model">A. Ligand based AI model</h3>
+<p>We have tried different training sets containing different organisms and their targets to build target specific or phenotype based classification AI models using GHDDI developed GHDDI_HAG-net. We only selected models AUC&gt;0.8 as qualified model for further prediction. Targets including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivity of approved or investigational stage drugs molecules (~12K) in GHDDI stock as part of the repurposing effort. </p>
+<h4 id="1-heterogeneous-antiviral-ai-model">1. Heterogeneous antiviral AI model</h4>
+<p>Training Data: Using heterogeneous records of antiviral bioactivity data including target based and phenotype based records from various species and in vitro assays, a total of 76247 data points with 37332 active and 38915 inactive molecules (IC50 &lt;=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.934</p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Known Drugs SMILES Download</a></p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Prediction SMILES Download</a></p>
-</li>
-<li>
-<p>Phenotypic antiviral AI model
-Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7187 data points with 37332 active and 38915 inactive molecules (IC50 &lt;=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.934</p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Known Drugs SMILES Download</a></p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Prediction SMILES Download</a></p>
-</li>
-<li>
-<p>RNA-dependent RNA polymerase AI model
-Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 564 compounds with 47 active and 517 inactive molecules (IC50 &lt;=100nM as active).<br />
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralMix.xlsx">Active Known Drugs SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x">Active Prediction SMILES Download</a></li>
+</ul>
+<h4 id="2-phenotypic-antiviral-ai-model">2. Phenotypic antiviral AI model</h4>
+<p>Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (IC50 &lt;=100nM as active). 
+Performance (5-fold cross-validation): AUC avg. = </p>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx">Active Known Drugs SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x">Active Prediction SMILES Download</a></li>
+</ul>
+<h4 id="3-rna-dependent-rna-polymerase-ai-model">3. RNA-dependent RNA polymerase AI model</h4>
+<p>Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 &lt;=100nM as active).<br />
 Performance (5-fold cross-validation): AUC avg. = 0.844 </p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Known Drugs SMILES Download</a></p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Prediction SMILES Download</a></p>
-</li>
-<li>
-<p>Helicase AI model
-Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 &lt;=100nM as active). 
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx">Active Known Drugs SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x">Active Prediction SMILES Download</a></li>
+</ul>
+<h4 id="4-helicase-ai-model">4. Helicase AI model</h4>
+<p>Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 &lt;=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.868</p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Known Drugs SMILES Download</a></p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Prediction SMILES Download</a></p>
-</li>
-<li>
-<p>3C-like protease AI model 
-Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 &lt;=100nM as active). 
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx">Active Known Drugs SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x">Active Prediction SMILES Download</a></li>
+</ul>
+<h4 id="5-3c-like-protease-ai-model">5. 3C-like protease AI model</h4>
+<p>Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 &lt;=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.82 </p>
-</li>
-<li>
-<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Known Drugs SMILES Download</a></p>
-</li>
-<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/">Active Prediction SMILES Download</a></li>
-</ol>
-<p>B. Structure based (none-docking) AI model
-The structure based AI model was constructed based on GHDDI developed GHDDI_HAG-net using information of target 3D structures information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark set with average AUC of XXX</p>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx">Active Known Drugs SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/x">Active Prediction SMILES Download</a></li>
+</ul>
+<h3 id="b-structure-based-none-docking-ai-model">B. Structure based (none-docking) AI model</h3>
+<p>The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark sets with average AUC of 0.90.</p>
 <ol>
 <li>Network based drug-virus inhibition AI model
 Training data: Using the cell-based assay data (10uM as cutoff) and animal model data tested for various virus species, the global drug-virus inhibition knowledge graph was constructed based on 7218 positive links connecting 6651 drugs and 21 virus species.
