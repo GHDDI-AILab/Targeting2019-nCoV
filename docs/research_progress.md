@@ -31,12 +31,14 @@
 ## 2020
 
 2020, Mar 3
+
  * [Isolation and characterization of SARS-CoV-2 from the first US COVID-19 patient ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_icsc2fuscp.pdf)
     * This virus was extracted from the first U.S. patient, and this sample's viral sequence, replication properties, and cell culture tropism were characterized. The virus isolate available to the public health community by depositing into two virus reagent repositories: BEI resources and The World Reference Center for Emergine Viruses and Arboviruses.
 
 ---
 
 2020, Feb 29
+
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
     * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
 
@@ -48,6 +50,7 @@
 ---
 
 2020, Feb 25
+
  * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
     * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
     * Preprint released on January 22, 2020. Published on February 25, 2020 
@@ -55,6 +58,7 @@
 ---
 
 2020, Feb 21
+
  * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
     * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
 
