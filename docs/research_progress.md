@@ -30,9 +30,20 @@
 
 ## 2020
 
+2020, Mar 3
+ * [Isolation and characterization of SARS-CoV-2 from the first US COVID-19 patient ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_icsc2fuscp.pdf)
+    * This virus was extracted from the first U.S. patient, and this sample's viral sequence, replication properties, and cell culture tropism were characterized. The virus isolate available to the public health community by depositing into two virus reagent repositories: BEI resources and The World Reference Center for Emergine Viruses and Arboviruses.
+
+---
+
 2020, Feb 29
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
     * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
+
+--- 
+
+ * [On the origin and continuing evolution of SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nwaa036.pdf)
+    * Through population genetic analysis, this virus is reported to have evolved into two major types (L and S) that are well defined by two different SNPs. The L type (~70%) is currently more prevalent than the S type (~30%), but the S type was found to be the ancestral version but less aggresssive. 
 
 ---
 
