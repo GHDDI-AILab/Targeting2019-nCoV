@@ -1,6 +1,6 @@
 # Computational Efforts for 2019nCoV
 
-We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other cheminformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models web-based service will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. 
+We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other cheminformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models [web-based service](http:) will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. 
 
 ## Drug Repurposing 
 
@@ -45,7 +45,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.82
 
 
 ### B. Structure based (none-docking) AI model
-The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark sets with average AUC of XXX.
+The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark sets with average AUC of 0.90.
 
 6. Network based drug-virus inhibition AI model
 Training data: Using the cell-based assay data (10uM as cutoff) and animal model data tested for various virus species, the global drug-virus inhibition knowledge graph was constructed based on 7218 positive links connecting 6651 drugs and 21 virus species.
