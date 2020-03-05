@@ -49,6 +49,21 @@
 
 ---
 
+2020, Feb 28
+
+ * [Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa145/5766118)
+    * Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format.
+    * Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.
+    * Preprint released on February 2, 2020. Published on February 28, 2020 
+
+---
+
+2020, Feb 27
+ * ["Coronavirus puts drug repurposing on the fast track"](https://www.nature.com/articles/d41587-020-00003-1)
+    * Existing antivirals and knowledge gained from the SARS and MERS outbreaks gain traction as the fastest route to fight the current coronavirus epidemic. This news briefly reviewed the repurposed agents targeting SARS-CoV2, and pointed out that although virtual screens can potentially accelerate drug discovery, the predicted compounds still need to be tested carefully with experiments.
+
+---
+
 2020, Feb 25
 
  * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
