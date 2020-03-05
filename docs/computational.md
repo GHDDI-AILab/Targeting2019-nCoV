@@ -1,6 +1,6 @@
 # Computational Efforts for 2019nCoV
 
-We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other chemoinformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models web-based service will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. 
+We are here to publish our initial computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations and other cheminformatics and bioinformatics related inferences. Please be noted that due to uncertainty of various predictive models. Computational results have to be backed up by related wet-lab experiments before any scientific conclusion to be reached. This effort is to facilitate community wide experimental follow up on specific target specific assay or antiviral screening effort. The predictive models web-based service will be open to public soon to facilitate your own virtual screening efforts for your own compound libraries. 
 
 ## Drug Repurposing 
 
