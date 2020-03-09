@@ -91,13 +91,15 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified:
 1. 469 molecules against at least 2 virus species
 [Full profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
-
 2. 51 molecules against at least 5 virus species
-![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
-
+![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png
 3. 10 molecules against at least 10 virus species
+<<<<<<< HEAD
 
 |  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list *  | Discovered MOA  | 
+=======
+|  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list*  | Discovered MOA  | 
+>>>>>>> a0c04a004b7b56abf8a25d4bf091f5471349c331
 | ---- | --- | --- | --- | --- | 
 |  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;HSV-2;HIV-1;HIV-2;ADV;DENV;RSV;CMV;VZV;Parainfluenza virus;Rhinovirus;Xenotropic murine leukemia virus-related virus  | Nucleotide reverse transcriptase inhibitor  | 
 |  Nitazoxanide  | [DB00507](https://www.drugbank.ca/drugs/DB00507)  | 13  | MERS-CoV;ZIKV;FLUAV;FLUBV;HBV;HCV;HIV-1;DENV;RSV;ADV;NoV;RuV;JEV  | Hemagglutinin inhibitor  | 
@@ -116,8 +118,12 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |    |   |   |   |   | 
 |    |   |   |   |   | 
 |    |   |   |   |   | 
+<<<<<<< HEAD
 
 *ADV:Adenovirus; BKV:BK polyomavirus; CHIKV:Chikungunya virus; CMV:Cytomegalovirus; CoV:Coronavirus; DENV:Dengue virus; EBOV:Ebola virus; EBV:Epstein Barr virus; EV:Enterovirus; FLU:Influenza virus; FLUAV:Influenza A virus; FLUBV:Influenza B virus; HAV:Hepatitis A virus; HBV:Hepatitis B virus; HCV:Hepatitis C virus; HEV:Hepatitis E virus; HIV-1:Human immunodeficiency virus 1; HIV-2:Human immunodeficiency virus 2; HPV:Human papilloma virus; HSV:Herpes simplex virus; HSV-1:Herpes simplex virus 1; HSV-2:Herpes simplex virus 2; HSV-6:Human herpesvirus 6; HTLV-1:T-lymphotropic virus type 1; JEV:Japanese encephalitis virus; LASV:Lassa virus; MARV:Marburg virus; NoV:Norovirus; RSV:Respiratory syncytial virus; RuV:Rubella virus; VACV:Vaccinia virus; VZV:Varicella zoster virus; WNV:West Nile virus; ZIKV:Zika virus
+=======
+*
+>>>>>>> a0c04a004b7b56abf8a25d4bf091f5471349c331
 
 ## Data analysis results from previous other antiviral drug discovery records
 
