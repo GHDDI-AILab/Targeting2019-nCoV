@@ -89,14 +89,16 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 |  cyclosporin  | [DB00091](https://www.drugbank.ca/drugs/DB00091)  | Cyclophilin Inhibitors;Mitochondrial Permeability Transition (MPT) Inhibitors  | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO  | RNA assay  | IC-50  | 8.00E-07  | M  |
 
 ## The reported broad-spectrum antiviral agents (BSAAs)
-Using the phenotype assay evidences collected from various resources with 1uM as cutoff in cell-based assays, 469 drugs were identified as BSAAs inhibiting at least 2 virus species. Among them, 51 BSAAs were at the top inhibiting at least 5 virus species and 10 BSAAs inhibiting at least 10 virus species.
+Using the phenotypic evidences collected from various resources with 1uM as cutoff in cell-based assays, 469 drugs were identified as BSAAs inhibiting at least 2 virus species. Among them, 51 BSAAs were on the top and inhibiting at least 5 virus species and 10 BSAAs inhibiting at least 10 virus species.
 
 [All 469 BSAAs and their virus inhibition profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
 
-The following knowledge graph was constructed including the top 51 BSAAs with their targeted virus species:
+The following knowledge graph was constructed including the top 51 BSAAs with their inhibited virus species:
 ![DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
 
 The top 10 BSAAs inhibiting at least 10 virus species were listed below:
+
+
 
 ## Data analysis results from previous other antiviral drug discovery records
 
