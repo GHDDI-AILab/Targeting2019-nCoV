@@ -88,6 +88,13 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 |  Azithromycin  | [DB00207](https://www.drugbank.ca/drugs/DB00207)  | Nonsense Mutation Suppressors;50S Ribosomal Protein Inhibitors  | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO  | Luciferine/luciferase assay  | IC-50  | 1.00E-07  | M  |
 |  cyclosporin  | [DB00091](https://www.drugbank.ca/drugs/DB00091)  | Cyclophilin Inhibitors;Mitochondrial Permeability Transition (MPT) Inhibitors  | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO  | RNA assay  | IC-50  | 8.00E-07  | M  |
 
+## The reported broad-spectrum antiviral agents (BSAAs)
+Using the phenotype assay evidences collected from various resources with 1uM as cutoff in cell-based assays, 469 drugs were identified as BSAAs inhibiting at least 2 virus species, 51 BSAAs inhibiting at least 5 virus species and 10 BSAAs inhibiting at least 10 virus species.
+[All 469 BSAAs download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
+The following knowledge graph was constructed including the top 51 BSAAs with their targeted virus species:
+![DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+The top 10 BSAAs inhibiting at least 10 virus species were listed below:
+
 ## Data analysis results from previous other antiviral drug discovery records
 
 A collection of drug candidates in pipelines or marketed for different antiviral indications. All candidates have at least completed Phase I studies. However, not all have in vitro anti-coronavirus or anti-2019nCoV evidence yet, further studies using 2019-nCoV specific assays are required to evaluate their anti-2019nCoV potential. 
