@@ -93,7 +93,11 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 [Full profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
 * 2.51 molecules against at least 5 virus species
 ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+<<<<<<< HEAD
 * 3.10 molecules against at least 10 virus species
+=======
+3. 10 molecules against at least 10 virus species
+>>>>>>> b23e5d6d7bf8851f9bc0d8058bde994912d59233
 
 |  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA  | 
 |  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;HSV-2;HIV-1;HIV-2;ADV;DENV;RSV;CMV;VZV;Parainfluenza virus;Rhinovirus;Xenotropic murine leukemia virus-related virus  | Nucleotide reverse transcriptase inhibitor  | 
