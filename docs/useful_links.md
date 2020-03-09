@@ -1,6 +1,6 @@
 ## Useful links
 
-### Information sources for COVID-19 
+Information sources for COVID-19 
 
  * Updates from WHO regarding novel coronavirus: [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  
@@ -24,8 +24,9 @@
  
  * [2019新型冠状病毒信息库(国家生物信息中心和国家基因组科学数据中心)](https://bigd.big.ac.cn/ncov)
  
+---
  
- ### Useful sites for drug discovery researchers 
+Useful sites for drug discovery researchers 
  
  * Clinical Trial Information [Clinical Trials](https://clinicaltrials.gov/)
   
