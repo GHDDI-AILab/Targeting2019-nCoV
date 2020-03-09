@@ -87,28 +87,28 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 |  Azithromycin  | [DB00207](https://www.drugbank.ca/drugs/DB00207)  | Nonsense Mutation Suppressors;50S Ribosomal Protein Inhibitors  | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO  | Luciferine/luciferase assay  | IC-50  | 1.00E-07  | M  |
 |  cyclosporin  | [DB00091](https://www.drugbank.ca/drugs/DB00091)  | Cyclophilin Inhibitors;Mitochondrial Permeability Transition (MPT) Inhibitors  | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO  | RNA assay  | IC-50  | 8.00E-07  | M  |
 
-## The reported broad-spectrum antiviral agents (BSAAs)
-Using the phenotypic evidences collected from various resources with 1uM as cutoff in cell-based assays, 469 drugs were identified as BSAAs inhibiting at least 2 virus species. Among them, 51 BSAAs were on the top and inhibiting at least 5 virus species and 10 BSAAs inhibiting at least 10 virus species.
+## Broad-spectrum antiviral data analysis results
+Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified:
 
-[All 469 BSAAs and their virus inhibition profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
+469 molecules against at least 2 virus species
+[Full profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
 
-The following knowledge graph was constructed including the top 51 BSAAs with their inhibited virus species:
-
+51 molecules against at least 5 virus species
 ![DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
 
-The top 10 BSAAs inhibiting at least 10 virus species were listed below:
-|  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA list  |   |   |   |   |   |   |   | 
-| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-|  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;ADV;DENV;Parainfluenza virus;RSV;Rhinovirus;CMV;VZV;Xenotropic murine leukemia virus-related virus;HIV-2;HIV-1;HSV-2  | Nucleotide reverse transcriptase inhibitor  |  Reverse Transcriptase Inhibitors  |  Reverse transcriptase Inhibitor  |   |   |   |   |   | 
-|  Nitazoxanide  | [DB00507](https://www.drugbank.ca/drugs/DB00507)  | 13  | FLUAV;FLUBV;HBV;HCV;DENV;RSV;ADV;NoV;RuV;HIV-1;JEV;MERS-CoV;ZIKV  |   |   |   |   |   |   |   |   | 
-|  Mycophenolic acid  | [DB01024](https://www.drugbank.ca/drugs/DB01024)  | 13  | Avian flu;HCV;FLUBV;Filovirus;FLUAV;MERS-CoV;CoV;WNV ;DENV;ZIKV;RSV;Parainfluenza virus;BKV  | Dehydrogenase  |   |   |   |   |   |   |   | 
-|  Brincidofovir  | [DB12151](https://www.drugbank.ca/drugs/DB12151)  | 13  | EBOV;CMV;HSV;VZV;BKV;ADV;JC polyomavirus;EBV;HTLV-1;HPV;HSV-1;VACV;HSV-6  | Antiviral  |  DNA Polymerase Inhibitors  |  DNA directed DNA polymerase inhibitor  |  Anti-Cytomegalovirus Drugs  |  Anti-Herpes Simplex Virus Drugs  |  Anti-Herpes Virus Drugs  |  Antiviral  |  Antiviral Drugs  | 
-|  Ribavirin  | [DB00811](https://www.drugbank.ca/drugs/DB00811)  | 11  | Avian flu;FLUBV;HCV;FLU;FLUAV;RSV;EV;Parainfluenza virus;HSV;HEV;LASV  | Inhibitor  |  Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors  |  Inosine monophosphate dehydrogenase inhibitor  |  Inosine-5'-monophosphate dehydrogenase Inhibitor  |  Viral RNA-dependent RNA polymerase  |   |   |   | 
-|    | [CID:5480370](https://pubchem.ncbi.nlm.nih.gov/compound/5480370)  | 11  | FLUAV;HCV;HBV;HSV;Parainfluenza virus;ADV;DENV;RSV;Rhinovirus;CMV;VZV  |   |   |   |   |   |   |   |   | 
-|  Remdesivir  | [DB14761](https://www.drugbank.ca/drugs/DB14761)  | 10  | MERS-CoV;Filovirus;EBOV;CoV;SARS-CoV;MARV;HCV;RSV;ZIKV;2019nCoV  |   |   |   |   |   |   |   |   | 
-|  Tilorone  | [DB09070](https://www.drugbank.ca/drugs/DB09070)  | 10  | CHIKV;CMV;EBOV;HAV;HBV;HCV;HSV-1;MARV;MERS-CoV;WNV   | Anti-infection  |   |   |   |   |   |   |   | 
-|  Cidofovir  | [DB00369](https://www.drugbank.ca/drugs/DB00369)  | 10  | CMV;HSV;EBV;VZV;JC polyomavirus;ADV;BKV;HSV-1;HSV-2;HPV  | DNA Polymerase Inhibitors  |  DNA directed DNA polymerase inhibitor  |  DNA polymerase Inhibitor  |   |   |   |   |   | 
-|    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | Filovirus;SARS-CoV;FLUAV;FLUBV;Parainfluenza virus;DENV;ADV;Rhinovirus;RSV;WNV   |   |   |   |   |   |   |   |   | 
+10 molecules against at least 10 virus species
+|  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA  | 
+| ---- | --- | --- | --- | --- | 
+|  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;ADV;DENV;Parainfluenza virus;RSV;Rhinovirus;CMV;VZV;Xenotropic murine leukemia virus-related virus;HIV-2;HIV-1;HSV-2  | Nucleotide reverse transcriptase inhibitor  | 
+|  Nitazoxanide  | [DB00507](https://www.drugbank.ca/drugs/DB00507)  | 13  | FLUAV;FLUBV;HBV;HCV;DENV;RSV;ADV;NoV;RuV;HIV-1;JEV;MERS-CoV;ZIKV  |   | 
+|  Mycophenolic acid  | [DB01024](https://www.drugbank.ca/drugs/DB01024)  | 13  | Avian flu;HCV;FLUBV;Filovirus;FLUAV;MERS-CoV;CoV;WNV ;DENV;ZIKV;RSV;Parainfluenza virus;BKV  | Dehydrogenase  | 
+|  Brincidofovir  | [DB12151](https://www.drugbank.ca/drugs/DB12151)  | 13  | EBOV;CMV;HSV;VZV;BKV;ADV;JC polyomavirus;EBV;HTLV-1;HPV;HSV-1;VACV;HSV-6  | DNA polymerase Inhibitor  | 
+|  Ribavirin  | [DB00811](https://www.drugbank.ca/drugs/DB00811)  | 11  | Avian flu;FLUBV;HCV;FLU;FLUAV;RSV;EV;Parainfluenza virus;HSV;HEV;LASV  | Inosine monophosphate dehydrogenase inhibitor; RNA-dependent RNA polymerase inhibitor  | 
+|    | [CID:5480370](https://pubchem.ncbi.nlm.nih.gov/compound/5480370)  | 11  | FLUAV;HCV;HBV;HSV;Parainfluenza virus;ADV;DENV;RSV;Rhinovirus;CMV;VZV  |   | 
+|  Remdesivir  | [DB14761](https://www.drugbank.ca/drugs/DB14761)  | 10  | MERS-CoV;Filovirus;EBOV;CoV;SARS-CoV;MARV;HCV;RSV;ZIKV;2019nCoV  |   | 
+|  Tilorone  | [DB09070](https://www.drugbank.ca/drugs/DB09070)  | 10  | CHIKV;CMV;EBOV;HAV;HBV;HCV;HSV-1;MARV;MERS-CoV;WNV   |   | 
+|  Cidofovir  | [DB00369](https://www.drugbank.ca/drugs/DB00369)  | 10  | CMV;HSV;EBV;VZV;JC polyomavirus;ADV;BKV;HSV-1;HSV-2;HPV  | DNA polymerase Inhibitor  | 
+|    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | Filovirus;SARS-CoV;FLUAV;FLUBV;Parainfluenza virus;DENV;ADV;Rhinovirus;RSV;WNV   |   | 
 
 ## Data analysis results from previous other antiviral drug discovery records
 
