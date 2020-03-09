@@ -91,12 +91,10 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified:
 1. 469 molecules against at least 2 virus species
 [Full profile download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BSAAset.csv)
-
 2. 51 molecules against at least 5 virus species
-![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
-
+![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png
 3. 10 molecules against at least 10 virus species
-|  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list *  | Discovered MOA  | 
+|  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list*  | Discovered MOA  | 
 | ---- | --- | --- | --- | --- | 
 |  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;HSV-2;HIV-1;HIV-2;ADV;DENV;RSV;CMV;VZV;Parainfluenza virus;Rhinovirus;Xenotropic murine leukemia virus-related virus  | Nucleotide reverse transcriptase inhibitor  | 
 |  Nitazoxanide  | [DB00507](https://www.drugbank.ca/drugs/DB00507)  | 13  | MERS-CoV;ZIKV;FLUAV;FLUBV;HBV;HCV;HIV-1;DENV;RSV;ADV;NoV;RuV;JEV  | Hemagglutinin inhibitor  | 
@@ -115,7 +113,6 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |    |   |   |   |   | 
 |    |   |   |   |   | 
 |    |   |   |   |   | 
-
 *
 
 ## Data analysis results from previous other antiviral drug discovery records
