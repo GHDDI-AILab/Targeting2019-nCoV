@@ -94,8 +94,8 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 2. 51 molecules against at least 5 virus species
 ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
 3. 10 molecules against at least 10 virus species
+
 |  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA  | 
-| ---- | --- | --- | --- | --- | 
 |  Tenofovir  | [DB14126](https://www.drugbank.ca/drugs/DB14126)  | 15  | FLUAV;HCV;HBV;HSV;HSV-2;HIV-1;HIV-2;ADV;DENV;RSV;CMV;VZV;Parainfluenza virus;Rhinovirus;Xenotropic murine leukemia virus-related virus  | Nucleotide reverse transcriptase inhibitor  | 
 |  Nitazoxanide  | [DB00507](https://www.drugbank.ca/drugs/DB00507)  | 13  | MERS-CoV;ZIKV;FLUAV;FLUBV;HBV;HCV;HIV-1;DENV;RSV;ADV;NoV;RuV;JEV  | Hemagglutinin inhibitor  | 
 |  Mycophenolic acid  | [DB01024](https://www.drugbank.ca/drugs/DB01024)  | 13  | MERS-CoV;CoV;ZIKV;DENV;HCV;FLUAV;FLUBV;WNV;RSV;BKV;Avian flu;Filovirus;Parainfluenza virus  | Dehydrogenase  | 
@@ -106,7 +106,6 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |  Tilorone  | [DB09070](https://www.drugbank.ca/drugs/DB09070)  | 10  | MERS-CoV;EBOV;HBV;HCV;CHIKV;CMV;HAV;HSV-1;MARV;WNV   | Interferon inducers  | 
 |  Cidofovir  | [DB00369](https://www.drugbank.ca/drugs/DB00369)  | 10  | HPV;CMV;HSV;EBV;VZV;ADV;BKV;HSV-1;HSV-2;JC polyomavirus  | DNA polymerase Inhibitor  | 
 |    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | SARS-CoV;FLUAV;FLUBV;DENV;ADV;RSV;WNV;Filovirus;Rhinovirus;Parainfluenza virus  |   | 
-
 
 
 ## Data analysis results from previous other antiviral drug discovery records
