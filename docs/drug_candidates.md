@@ -95,7 +95,6 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 
 51 molecules against at least 5 virus species
 ![DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
-
 10 molecules against at least 10 virus species
 |  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA  | 
 | ---- | --- | --- | --- | --- | 
@@ -108,7 +107,7 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |  Remdesivir  | [DB14761](https://www.drugbank.ca/drugs/DB14761)  | 10  | MERS-CoV;Filovirus;EBOV;CoV;SARS-CoV;MARV;HCV;RSV;ZIKV;2019nCoV  |   | 
 |  Tilorone  | [DB09070](https://www.drugbank.ca/drugs/DB09070)  | 10  | CHIKV;CMV;EBOV;HAV;HBV;HCV;HSV-1;MARV;MERS-CoV;WNV   |   | 
 |  Cidofovir  | [DB00369](https://www.drugbank.ca/drugs/DB00369)  | 10  | CMV;HSV;EBV;VZV;JC polyomavirus;ADV;BKV;HSV-1;HSV-2;HPV  | DNA polymerase Inhibitor  | 
-|    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | Filovirus;SARS-CoV;FLUAV;FLUBV;Parainfluenza virus;DENV;ADV;Rhinovirus;RSV;WNV   |   | 
+|    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | SARS-CoV;Filovirus;FLUAV;FLUBV;Parainfluenza virus;DENV;ADV;Rhinovirus;RSV;WNV   |   | 
 
 ## Data analysis results from previous other antiviral drug discovery records
 
