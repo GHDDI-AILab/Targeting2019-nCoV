@@ -114,7 +114,6 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |    |   |   |   |   | 
 |    |   |   |   |   | 
 
-* ADV:Adenovirus; BKV:BK polyomavirus; CHIKV:Chikungunya virus; CMV:Cytomegalovirus; CoV:Coronavirus; DENV:Dengue virus; EBOV:Ebola virus; EBV:Epstein Barr virus; EV:Enterovirus; FLU:Influenza virus; FLUAV:Influenza A virus; FLUBV:Influenza B virus; HAV:Hepatitis A virus; HBV:Hepatitis B virus; HCV:Hepatitis C virus; HEV:Hepatitis E virus; HIV-1:Human immunodeficiency virus 1; HIV-2:Human immunodeficiency virus 2; HPV:Human papilloma virus; HSV:Herpes simplex virus; HSV-1:Herpes simplex virus 1; HSV-2:Herpes simplex virus 2; HSV-6:Human herpesvirus 6; HTLV-1:T-lymphotropic virus type 1; JEV:Japanese encephalitis virus; LASV:Lassa virus; MARV:Marburg virus; NoV:Norovirus; RSV:Respiratory syncytial virus; RuV:Rubella virus; VACV:Vaccinia virus; VZV:Varicella zoster virus; WNV :West Nile virus; ZIKV:Zika virus
 
 ## Data analysis results from previous other antiviral drug discovery records
 
