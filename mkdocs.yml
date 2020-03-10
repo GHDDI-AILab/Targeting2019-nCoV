@@ -13,7 +13,7 @@ nav:
     - 2019-nCoV Community Effort: drug_candidates.md
     - Coronavirus Disease Biology and Therapeutics: nCov_Targets.md
     #- 2019-nCoV Assay Protocals: assay.md
-    #- 2019-nCoV Computational Studies: computational.md
+    - 2019-nCoV Computational Studies: computational.md
     - Data Download:
       - Coronavirus Data Mining and Analysis: CoV_Experiment_Data.md
       - 2019-nCoV Structure Modeling: nCov_Structures.md
