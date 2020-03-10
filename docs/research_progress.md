@@ -30,13 +30,23 @@
 
 ## 2020
 
+2020, Mar 8
+
+ * [AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_aadntciasc2.pdf)
+    * A novel deep Q-learning network with the fragment-based drug design (ADQN-FBDD) was developed for generating potential lead compounds targeting SARS-CoV-2 3CLpro using a recently published structure (PDB IDL: 6LU7). 47 lead compounds were published from this AI model and are intended to be used for further drug development research.
+    * Supplementary data can be found at https://github.com/tbwxmu/2019-nCov
+    
+---
+
 2020, Mar 3
+
  * [Isolation and characterization of SARS-CoV-2 from the first US COVID-19 patient ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_icsc2fuscp.pdf)
     * This virus was extracted from the first U.S. patient, and this sample's viral sequence, replication properties, and cell culture tropism were characterized. The virus isolate available to the public health community by depositing into two virus reagent repositories: BEI resources and The World Reference Center for Emergine Viruses and Arboviruses.
 
 ---
 
 2020, Feb 29
+
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
     * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
 
@@ -47,14 +57,39 @@
 
 ---
 
+2020, Feb 28
+
+ * [Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa145/5766118)
+    * Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format.
+    * Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.
+    * Preprint released on February 2, 2020. Published on February 28, 2020 
+
+---
+
+2020, Feb 27
+
+ * ["Coronavirus puts drug repurposing on the fast track"](https://www.nature.com/articles/d41587-020-00003-1)
+    * Existing antivirals and knowledge gained from the SARS and MERS outbreaks gain traction as the fastest route to fight the current coronavirus epidemic. This news briefly reviewed the repurposed agents targeting SARS-CoV2, and pointed out that although virtual screens can potentially accelerate drug discovery, the predicted compounds still need to be tested carefully with experiments.
+
+---
+
 2020, Feb 25
+
  * ["Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_faceruscolb.pdf)
     * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
     * Preprint released on January 22, 2020. Published on February 25, 2020 
 
 ---
 
+2020, Feb 24
+
+ * [Comparative genetic analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor ACE2 in different populations](https://www.nature.com/articles/s41421-020-0147-1)
+    * This Nature Letter to the Editor article describes a study of the genetic analysis for novel coronavirus. They systematically analyzed coding-region variants in ACE2 and the eQTL variants to compare the genomic characteristics of ACE2 among different populations. It was found that no direct evidence was identified genetically supporting the existence of coronavirus S-protein binding-resistant ACE2 mutants in different populations.
+    
+---
+
 2020, Feb 21
+
  * ["A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_mcmrb2nvilchc.pdf)
     * A computational study with results indicating that the association of the new virus to the receptor is slower than SARS. This difference was integrated into a rigid-body mathematical model and found that this can result in a longer incubation period while maintaining a relatively higher level of viral concentration in the human body.
 
