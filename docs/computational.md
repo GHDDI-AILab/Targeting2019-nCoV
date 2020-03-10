@@ -53,9 +53,10 @@ Performance (5-fold cross-validation): AUC avg. = 0.82
 The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set and other benchmark sets with average AUC of 0.90.
 
 ### C. Network based drug-virus inhibition AI model
-Training data: Using the cell-based assay data (10uM as cutoff) and animal model data tested for various virus species, the global drug-virus inhibition knowledge graph was constructed based on 7218 positive links connecting 6651 drugs and 21 virus species.
-Performance 10 times 10-fold cross validation: AUC avg. = 0.913
-[Predictive results download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVIpredictlist-top10.csv): Top 10 potential drugs were predicted for each virus species, including COVID-19, SARS, and MERS.
-The sub-network specific for coronavirus was shown below, with 173 reported links and 30 predicted links.
-![Coronavirus Network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronanet.png)
+The Network based drug-virus inhibition (DVI) AI model was constructed based on the phenotypic active data tested for various virus species (10uM as cutoff), including 9,736 positive DVI pairs connecting 8,089 drugs and 53 virus species. The performance was evaluated in 10 times 10-fold cross validation with AUC avg. of 0.913. Top 10 potential drugs were predicted for each virus species, including 2019-nCoV, SARS, and MERS.
+
+* [DVI network download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVInet.pdf)
+![DVI network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVInet.png)
+* [Coronavirus network download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/CoronaNet.csv)
+![Coronavirus network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/CoronaNet.png)
 
