@@ -89,17 +89,15 @@ A collection of drug candidates with previously published positive SARS/MERS exp
 
 ## Broad-spectrum antiviral data analysis results
 Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified:
-    1.  469 molecules against at least 2 virus species
 
----
+ 1. 469 molecules against at least 2 virus species
 
-    2.  51 molecules against at least 5 virus species
+ 
+ 2.  51 molecules against at least 5 virus species
 
 ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
 
----
-
-    3.  10 molecules against at least 10 virus species
+ 3.  10 molecules against at least 10 virus species
 
 |  ﻿Drug name  | Drug ID  | Number of virus speices  | Virus species list  | Discovered MOA  | 
 | ---- | --- | --- | --- | --- | 
