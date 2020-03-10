@@ -13,40 +13,40 @@ Training Data: Using heterogeneous records of antiviral bioactivity data includi
 Performance (5-fold cross-validation): AUC avg. = 0.934
 
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralMix.xlsx )
-* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_global_virus_unique_4v4_clean_2_top200.csv)
-* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_global_virus_unique_4v4_clean_2_clusters.csv)
+* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/globalvirus_top200.csv)
+* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/globalvirus_topclusters.csv)
 
 #### 2. Phenotypic antiviral AI model
 Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 
 
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
-* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_AntivirusPhe-v3-100nm-7305_4v4_clean_2_top200.csv)
-* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_AntivirusPhe-v3-100nm-7305_4v4_clean_2_clusters.csv)
+* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_top200.csv)
+* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_topclusters.csv)
 
 #### 3. RNA-dependent RNA polymerase AI model
 Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 <=100nM as active).  
 Performance (5-fold cross-validation): AUC avg. = 0.844 
 
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx)
-* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_RDRP_v2_clean_2_top200.csv)
-* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_RDRP_v2_clean_2_clusters.csv)
+* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv)
+* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_topclusters.csv)
 
 #### 4. Helicase AI model
 Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.868
 
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx)
-* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_helicase_4v4_clean_2_top200.csv)
-* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_helicase_4v4_clean_2_clusters.csv)
+* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv)
+* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_topclusters.csv)
 
 #### 5. 3C-like protease AI model 
 Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 <=100nM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.82 
 
 * [Active Known Drugs SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx)
-* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_3CL_unique_4v4_clean_2_top200.csv)
-* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/GHDDI_stock1_3CL_unique_4v4_clean_2_clusters.csv)
+* [Top 200 Active Prediction SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
+* [Pedicted Active clusters Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
 
 
 ### B. Structure based (none-docking) AI model
@@ -56,7 +56,9 @@ The structure based AI model was constructed based on GHDDI developed HAG-net. T
 The Network based drug-virus inhibition (DVI) AI model was constructed based on the phenotypic active data tested for various virus species (10uM as cutoff), including 9,736 positive DVI pairs connecting 8,089 drugs and 53 virus species. The performance was evaluated in 10 times 10-fold cross validation with AUC avg. of 0.913. Top 10 potential drugs were predicted for each virus species, including 2019-nCoV, SARS, and MERS.
 
 * [DVI network download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVInet.pdf)
+
 ![DVI network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/DVInet.png)
 * [Coronavirus network download](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/CoronaNet.csv)
+
 ![Coronavirus network](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/CoronaNet.png)
 
