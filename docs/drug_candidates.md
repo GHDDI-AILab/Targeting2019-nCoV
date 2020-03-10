@@ -94,8 +94,8 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 
  
  2.  51 molecules against at least 5 virus species
-
 ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+
 
  3.  10 molecules against at least 10 virus species
 
