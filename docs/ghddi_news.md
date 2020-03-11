@@ -57,20 +57,20 @@
 #### People’s Daily
 [GHDDI, Tsinghua scientists open drug research resources to combat pneumonia outbreak](
 https://peoplesdaily.pdnews.cn/2020/01/28/china/ghddi-tsinghua-scientists-open-drug-research-resources-to-combat-pneumonia-outbreak-120226.html)
-2020年1月28日
+January 28, 2020
 
 #### CGTN
 [Chinese drug research center shares resources with scientists](https://news.cgtn.com/news/2020-01-29/Chinese-drug-research-center-shares-resources-with-scientists-NErULqIuRi/index.html)
-2020年1月29日
+January 29, 2020
 
 #### China Daily
 [Scientists embark on hunt for vaccines and medicines](http://www.chinadaily.com.cn/a/202001/29/WS5e30e1efa310128217273879.html)
-2020年1月29日
+January 29, 2020
 
 #### Fortune
 [Startup uses A.I. to identify molecules that could fight coronavirus](https://fortune.com/2020/02/06/ai-identifies-possible-coronavirus-treatment/)
-2020年2月6日
+February 6, 2020
 
 #### Bloomberg
 [China Stages Clinical Trial Blitz in Search of Coronavirus Cure](https://www.bloombergquint.com/business/china-stages-clinical-trial-blitz-in-search-of-coronavirus-cure)
-2020年2月13日
+February 13, 2020
