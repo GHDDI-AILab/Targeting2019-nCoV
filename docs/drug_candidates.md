@@ -148,7 +148,6 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 
 ---
 
-
 ### 3. Top antiviral candidates with RDRP inhibition MOA selected from different assays
 
 |  ﻿Drug name  | DrugBank ID  | Mechanism of action  | Experimental activity  | Measurement  |  Value  | Unit  | 
@@ -162,9 +161,7 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 |  Adafosbuvir  | [DB14906](https://www.drugbank.ca/drugs/DB14906)  | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors  | Infection, dengue virus remission/reduction, IN VITRO  | IC-50  | 1.10E-06  | M  | 
 
 
-
 *Compounds selected based on top PX scores from respective assays.
-
 
 
 <br>

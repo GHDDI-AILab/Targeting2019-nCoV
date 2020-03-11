@@ -52,7 +52,7 @@
 
 
 ---
-### 英文报道
+### Press Release In English 
 
 #### People’s Daily
 [GHDDI, Tsinghua scientists open drug research resources to combat pneumonia outbreak](
