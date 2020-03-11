@@ -30,6 +30,13 @@
 
 ## 2020
 
+2020, Mar 10
+
+ * [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_smprocvdi.pdf)
+    * This study combined structure-assisted drug design, virtual drug screening, and high-throughput screening to identify new drug leads that target the COVID-19 virus main protease (Mpro). Six compounds were identified which inhibit Mpro with IC50 values ranging from 0.67 to 21.4 μM; one of which, ebselen, also exhibited strong antiviral activity in cell-based assays.
+    
+---
+
 2020, Mar 8
 
  * [AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_aadntciasc2.pdf)
