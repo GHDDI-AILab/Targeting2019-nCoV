@@ -23,10 +23,9 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
 | [ChiCTR200029600](http://www.chictr.org.cn/showprojen.aspx?proj=49042) | Favipiravir, Lopinavir/Ritonavir + alpha-Interferon          | Antiviral                 | 2020/2/6          |
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine                                                     | Antiviral                 | 2020/2/16         |
-| [NCT04273529](https://clinicaltrials.gov/ct2/show/NCT04273529) | Thalidomide                                                  |                           | 2020/2/18         |
-| [NCT04275414](https://clinicaltrials.gov/ct2/show/NCT04275414) | Bevacizumab                                                  |                           | 2020/2/19         |
+| [NCT04273529](https://clinicaltrials.gov/ct2/show/NCT04273529) | Thalidomide                                                  | Immunomodulatory agent    | 2020/2/18         |
 | [ChiCTR2000030000](http://www.chictr.org.cn/showprojen.aspx?proj=49748) | Ganovo (Danoprevir)/ritonavir; Peginterferon alfa-2a         | Antiviral                 | 2020/2/19         |
-| [NCT04280588](https://clinicaltrials.gov/ct2/show/NCT04280588) | Fingolimod                                                   |                           | 2020/2/21         |
+| [NCT04280588](https://clinicaltrials.gov/ct2/show/NCT04280588) | Fingolimod                                                   | Receptor modulator        | 2020/2/21         |
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
 
 
