@@ -50,25 +50,3 @@ Performance (5-fold cross-validation): AUC avg. = 0.832
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
 
 
-###B. Structure based (none-docking) AI model
-
-The structure based AI model was constructed based on GHDDI self developed docking independent advanced deep learning system to achieve exponential computational cost saving (screening 10^5 ligands in minutes) with inherited structural flexibility learned in complex neuron network for structure based virtual screening. The model was trained based on a large collection of existing 3D structure information and their related ligand biochemical data, together up to 1.5 million training samples. The model is universal for all targets with 3D structure available. The model performance on DUD.E set with average AUC = 0.98 (maxAUC=1.0 minAUC=0.83 over 102 targets) for 98 targets and another self collected benchmark set using true inactive ligand as negative samples instead of computational generated decoyed in DUD.E set with average AUC = 0.80 (maxAUC=0.96 minAUC=0.57 over 83 targets). 
-
-Virtual screening efforts have been performed for the following targets of 2019-nCoV (catalytic sites were identified as  inhibition pocket)
-
-#### RNA-dependent RNA polymerase
-* [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
-
-#### Helicase 
-* [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
-
-#### 3C-like protease
-* [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
-
-#### Papain-like protease
-* [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
-
