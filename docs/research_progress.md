@@ -14,6 +14,13 @@
 
 ---
 
+2018
+
+ * [Camouﬂage and interception: how pathogens evade detection by intracellular nucleic acid sensors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_camoflageandinterception.pdf)
+    * This review article describes the interactions between pathogens and nucleic acid sensors. There are intracellular DNA and RNA sensors that induce a transcriptional response leading to the production of interferons, cytokines and chemokines. Several immune evasion strategies include sequestration of PAMPs, modification of viral RNA and DNA, and degradation and inhibition of host signalling factors. Much can be learnt from insights into the host–pathogen interactions that interfere with our cells’ defences.
+
+---
+
 2016 
 
  * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
