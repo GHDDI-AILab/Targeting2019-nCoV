@@ -13,7 +13,7 @@
     * Therapeutic options in response to the 2019-nCoV outbreak are urgently needed. Here, we discuss the potential for repurposing existing antiviral agents to treat 2019-nCoV, some of which are already moving into clinical trials.
 
 ---
-    
+
 2016 
 
  * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
@@ -64,7 +64,7 @@
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
     * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
 
---- 
+---
 
  * [On the origin and continuing evolution of SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nwaa036.pdf)
     * Through population genetic analysis, this virus is reported to have evolved into two major types (L and S) that are well defined by two different SNPs. The L type (~70%) is currently more prevalent than the S type (~30%), but the S type was found to be the ancestral version but less aggresssive. 
@@ -267,7 +267,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Cell Pyroptosis, a Potential Pathogenic Mechanism of 2019-nCoV Infection"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cpppmnci.pdf)
     * The initial infection characteristics of 2019-nCoV has been reported, including the symptoms and blood test results. Cell pyroptosis is a novel inflammatory form of programmed cell death, which has been largely studied recently. This article discusses the relationship between 2019-nCoV infection and cell pyroptosis and hypothesizes that 2019-nCoV is likely to cause cell pyroptosis, especially in lymphocytes, through the activation of NLRP3 inflammasome. 
 
----  
+---
 
 2020, Jan 28
 
@@ -321,7 +321,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fsadshku2.pdf)
     * This article provides evidence that a bat coronavirus and swine acute diarrhoea syndrome coronavirus is the aetiological agent that was responsible for a large outbreak resulting in the fatal disease of pigs in China. The SADS and SARS outbreaks had similarities in geographical, temporal, ecological, and aetiological settings.
 
-
 ----
 
 ## 2014
@@ -348,8 +347,8 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
     * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
     
----   
-    
+---
+
 ## 2004
 
  * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
