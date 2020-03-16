@@ -26,16 +26,19 @@ The SWISS-MODEL team has also performed comprehensive homology modeling efforts 
      LQPELDSFKE ELDKYFKNHT SPDVDLGDIS GINASVVNIQ KEIDRLNEVA KNLNESLIDL
      QELGKYEQYI KWPWYIWLGF IAGLIAIVMV TIMLCCMTSC CSCLKGCCSC GSCCKFDEDD
      SEPVLKGVKL HYT
-     
+
 * Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. [Article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
-    * [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
-
+    
+* [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
+    
 * Homology model of Spike protein alone and Spike-ACE2 based on SARS using https://swissmodel.expasy.org
-    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
-
+    
+* [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
+    
 * Minimized model of Spike-ACE2 
-    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
-
+    
+* [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
+    
 * MD simulated (37C, water, all-atom) model of Spike-ACE2 (Spike is a homo-trimer in color, human ACE2 is in yellow)
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
 
@@ -191,7 +194,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 * Homology model of Replicase polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
     ![Replicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/replicase.png)
----    
+---
 ### 3C-like protease
 * The crystal structure of COVID-19 main protease in complex with an inhibitor N3 published on 2/5/2020 by Liu, X et al. 
     * [PDB 6LU7](https://www.rcsb.org/structure/6lu7)
@@ -209,19 +212,22 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 ### NSP12, RNA-dependent RNA polymerase(RDRP)    
 * Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
-        
+      
+    
      ![Zn2++ bind RDRP](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RdRP.png)
-     
+    
 * Minimized model of RNA-directed RNA polymerase
+    
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
+    
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
----   
+---
 ### NSP13, Helicase  
 * Homology model of Helicase using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
     ![Helicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Helicase.png)
----    
+---
 ### NSP14, Guanine-N7 methyltransferase
 * Homology model of Polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
@@ -240,7 +246,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     
 
 ## Structures of SARS/MERS proteins
-This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
+This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review articles.
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
@@ -259,3 +265,14 @@ This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt
 | 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
 
 
+
+### 2019-nCoV
+
+| Gene Symbol | Protein Name                                                 | Other Names |
+| ----------- | ------------------------------------------------------------ | ----------- |
+| ORF1a       | 1. Replicase polyprotein 1a, Replicase polyprotein 1ab <br>2. NS6 <br>3. NS7A, NS7B <br>4. NS8 <br> |             |
+| S           | Spike glycoprotein                                           | S           |
+| E           | Envelope protein                                             | E           |
+| M           | Membrane protein                                             | M           |
+| N           | 1. Nucleoprotein <br>2. Protein 9b                           |             |
+| N/A         | Protein 3a                                                   |             |
