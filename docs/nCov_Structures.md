@@ -240,7 +240,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     
 
 ## Structures of SARS/MERS proteins
-This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
+This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review articles.
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |
