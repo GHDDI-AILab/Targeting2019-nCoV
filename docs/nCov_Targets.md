@@ -1,4 +1,4 @@
-# Target Analysis For SARS/MERS and previous related therapeutic efforts
+# Coronavirus Disease Biology and Previous Therapeutic Efforts
 
 ---
 

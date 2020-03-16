@@ -1,7 +1,6 @@
-# Data Download with Explanation
+# Data Download 
 
 We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
-
 
 ### Annotated preclinical studies 
 
