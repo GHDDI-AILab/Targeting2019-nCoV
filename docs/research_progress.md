@@ -37,10 +37,22 @@
 
 ## 2020
 
+2020, Mar 14
+
+ * [SARS-CoV-2 invades host cells via a novel route: CD147-spike protein](https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1)
+    * The discovery of the new route CD147-SP for SARS-CoV-2 invading host cells provides a critical target for development of specific antiviral drugs. This study publishes a research finding that SARS-CoV-2 invaded host cells via a novel route of CD147-spike protein (SP), mediating the viral invasion with several in vitro assays validating this result. 
+    
+---
+
 2020, Mar 12
 
  * [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19 ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_986836v1.pdf)
     * A data-driven framework that combines both machine learning and statistical analysis methods was used to integrate abailable coronavirus data and identify drug candidates against the novel coronavirus. Through this screening, one inhibitor, CVL208, may be repurposed to treat COVID-19 with in vitro assays also showing effective inhibitory activity against the novel coronavirus.
+
+---
+
+ * [Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion](https://www.biorxiv.org/content/10.1101/2020.03.09.983247v1)
+    * A SARS-CoV-2 spike (S) protein-mediated cell-cell fusion assay was used, and it was found that SARS-CoV-2 showed plasma membrane fusion capacity superior to that of SARS-CoV. A series of lipopeptides was generated and found that the EK1C4 was the most potent fusion inhibitor against SARS-CoV-2 S protein-mediated membrane fusion and pseudovirus infection with IC50s of 1.3 and 15.8 nM, about 241- and 149-fold more potent than that of EK1 peptide. Intranasal application of EK1C4 before or after challenge with HCoV-OC43 protected mice from infection, suggesting that EK1C4 could be used for prevention and treatment of infection.
 
 ---
 
