@@ -14,7 +14,6 @@ Information sources for COVID-19
  * [疫情实时动态](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0)
  * [新冠状病毒国家科技资源服务系统(国家微生物科学数据中心和国家病原微生物资源库)](http://nmdc.cn/#/nCoV)
  * [2019新型冠状病毒信息库(国家生物信息中心和国家基因组科学数据中心)](https://bigd.big.ac.cn/ncov)
- * Cornell University [arXiv](https://blogs.cornell.edu/arxiv/2020/03/12/arxiv-responds-to-covid-19-uncertainties/)  
 
 ---
 
