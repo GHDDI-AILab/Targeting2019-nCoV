@@ -3,11 +3,11 @@ We appreciate the global effort in fighting this pandemic, and welcome all discu
 
 
 ## Discussion
-You're welcome to join the discussion at our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). Additionally, if there are any resources that you think would be helpful, please raise an issue on this Github repository, and we will merge the resources to our portal as soon as possible.  
+Feel free to join the discussion at our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). Additionally, if there are any resources that you think would be helpful, please raise an issue on this Github repository, and we will merge the resources to our portal as soon as possible.  
 
 
 ## Submit a Github Pull Request
-You're welcome to fork our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/). If there are any items that you would like to edit in our portal, feel free to submit a Pull Request, and we will process it as soon as possible. 
+You are welcome to fork our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/). If there are any items that you would like to edit in our portal, feel free to submit a Pull Request, and we will process it as soon as possible. 
 
 The brief tutorial below shows how to fork and make a pull request:
 
