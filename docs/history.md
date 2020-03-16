@@ -1,4 +1,4 @@
-## version 0.2.0 [3-10-2020]
+## version 0.2.1 [3-15-2020]
 * **UPDATE** updated information on several pages
 * **NEW**: added clinical trials page, reorganized pages
 
