@@ -37,6 +37,13 @@
 
 ## 2020
 
+2020, Mar 12
+
+ * [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19 ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_986836v1.pdf)
+    * A data-driven framework that combines both machine learning and statistical analysis methods was used to integrate abailable coronavirus data and identify drug candidates against the novel coronavirus. Through this screening, one inhibitor, CVL208, may be repurposed to treat COVID-19 with in vitro assays also showing effective inhibitory activity against the novel coronavirus.
+
+---
+
 2020, Mar 10
 
  * [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_smprocvdi.pdf)
