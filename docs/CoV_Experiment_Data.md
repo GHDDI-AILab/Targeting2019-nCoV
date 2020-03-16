@@ -76,4 +76,4 @@ The following figure is the keyword relationship network:
 <br>
 <br>
 
-Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
+Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated, 
