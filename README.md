@@ -2,7 +2,7 @@
 # Targeting 2019-nCoV: GHDDI Info Sharing Portal
 This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
 
-We're continuously releasing scientific materials to help scientific community fight this nCov plague, including curated data, updated research reports, discussions etc. You can find these materials at   
+We're continuously releasing scientific materials to help scientific community fight this nCov pandemic, including curated data, updated research reports, discussions etc. You can find these materials at   
 
 **Portal URL: https://ghddi-ailab.github.io/Targeting2019-nCoV/**
 
