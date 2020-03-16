@@ -1,5 +1,5 @@
 # Contribute to this portal
-We appreciate the global effort in fighting this pandemic. There are three ways to contribute your efforts on this portal. 
+We appreciate the global effort in fighting this pandemic, and welcome all discussion regarding the novel coronavirus. There are three ways to contribute your efforts to this portal. 
 
 
 ## Discussion
