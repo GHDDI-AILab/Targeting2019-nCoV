@@ -7,7 +7,20 @@ You're welcome to join the discussion at our [**Github Project**](https://github
 
 
 ## Submit a Github Pull Request
-You're welcome to fork our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/). If there are any items that you would like to edit in our portal, feel free to submit a Pull Request, and we will process it as soon as possible.
+You're welcome to fork our [**Github Project**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/). If there are any items that you would like to edit in our portal, feel free to submit a Pull Request, and we will process it as soon as possible. 
+
+The brief tutorial below shows how to fork and make a pull request:
+
+ 1. Fork the Targeting2019-nCov repository
+![contact1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact1.png)
+ 
+ 2. Edit content 
+ 
+ 3. Create pull request
+![contact3](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact2.png)
+ 
+ 4. Submit pull request
+![contact4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact3.png)
 
 
 ## Leave Us Message
