@@ -37,6 +37,13 @@
 
 ## 2020
 
+2020, Mar 14
+
+ * [SARS-CoV-2 invades host cells via a novel route: CD147-spike protein](https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1)
+    * The discovery of the new route CD147-SP for SARS-CoV-2 invading host cells provides a critical target for development of specific antiviral drugs. This study publishes a research finding that SARS-CoV-2 invaded host cells via a novel route of CD147-spike protein (SP), mediating the viral invasion with several in vitro assays validating this result. 
+    
+---
+
 2020, Mar 12
 
  * [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19 ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_986836v1.pdf)
