@@ -271,8 +271,3 @@ This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt
 | Gene Symbol | Protein Name                                                 | Other Names |
 | ----------- | ------------------------------------------------------------ | ----------- |
 | ORF1a       | 1. Replicase polyprotein 1a, Replicase polyprotein 1ab <br>2. NS6 <br>3. NS7A, NS7B <br>4. NS8 <br> |             |
-| S           | Spike glycoprotein                                           | S           |
-| E           | Envelope protein                                             | E           |
-| M           | Membrane protein                                             | M           |
-| N           | 1. Nucleoprotein <br>2. Protein 9b                           |             |
-| N/A         | Protein 3a                                                   |             |
