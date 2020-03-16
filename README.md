@@ -10,7 +10,7 @@ We're continuously releasing scientific materials to help scientific community f
 For any discussion please post them at the `issue` section of this repo. You're welcome to join our discussion for any scientific subject, feature request and bug report.
 
 ## A Short Tutorial for Content Contributor
-You're also welcome to contribute content for this community info sharing portal. To minimise the cost for layout formatting from our contributors, we use Markdown format to publish our contents
+You're also welcome to contribute content for this community info sharing portal. To minimize the cost for layout formatting from our contributors, we use the Markdown format to publish our content.
 
 ### Contribute Content
 Write your contents in markdown format and save them in `/docs` folder, with file extention **.md**
