@@ -24,7 +24,8 @@ The brief tutorial below shows how to fork and make a pull request:
 
 4) Submit pull request
 ![contact4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact3.png)
-![contact4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact4.png)
+
+<img src="http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact4.png" alt="contact4" style="zoom:73%;" />
 <br>
 
 ## Leave Us Message
