@@ -51,6 +51,11 @@
 
 ---
 
+ * [Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion](https://www.biorxiv.org/content/10.1101/2020.03.09.983247v1)
+    * A SARS-CoV-2 spike (S) protein-mediated cell-cell fusion assay was used, and it was found that SARS-CoV-2 showed plasma membrane fusion capacity superior to that of SARS-CoV. A series of lipopeptides was generated and found that the EK1C4 was the most potent fusion inhibitor against SARS-CoV-2 S protein-mediated membrane fusion and pseudovirus infection with IC50s of 1.3 and 15.8 nM, about 241- and 149-fold more potent than that of EK1 peptide. Intranasal application of EK1C4 before or after challenge with HCoV-OC43 protected mice from infection, suggesting that EK1C4 could be used for prevention and treatment of infection.
+
+---
+
 2020, Mar 10
 
  * [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_smprocvdi.pdf)
