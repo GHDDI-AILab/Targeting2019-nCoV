@@ -1,6 +1,11 @@
+# Data analysis for drug repositioning 
+
+ A comprehensive data mining and analysis effort has been done to present these lists of existing drugs with therapeutic potentials for COVID-19. The analysis was based on different rationales including anti-coronavirus activity, broad-spectrum antiviral activity and antiviral drugs with highly conserved viral target such as RNA dependent RNA polymerase (RDRP). We will constantly update these lists with new discoveries. 
+
+
 ## Data analysis results from previous coronavirus related drug discovery records
 
-A collection of drug candidates with previously published positive SARS/MERS experimental results.
+A collection of drug candidates with previously published positive coronavirus experimental results.
 
 | Drug name                     | DrugBank ID                                      | Mechanism of action                                          | Experimental activity                                        | Methods                                               | Measurement | Value    | Unit |
 | ----------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------- | ----------- | -------- | ---- |
