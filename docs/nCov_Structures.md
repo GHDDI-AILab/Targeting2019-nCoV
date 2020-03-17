@@ -267,9 +267,3 @@ This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt
 | 1a          | Replicase polyprotein 1a | 1. 3C-like proteinase (3CL(pro))<br><br>2. Macro Domain of Papain-like proteinase | 1. 5WKJ, 5WKM<br><br>2. 5HIH                               |
 
 
-
-### 2019-nCoV
-
-| Gene Symbol | Protein Name                                                 | Other Names |
-| ----------- | ------------------------------------------------------------ | ----------- |
-| ORF1a       | 1. Replicase polyprotein 1a, Replicase polyprotein 1ab <br>2. NS6 <br>3. NS7A, NS7B <br>4. NS8 <br> |             |
