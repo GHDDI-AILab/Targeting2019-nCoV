@@ -4,7 +4,7 @@ Current worldwide research clinical efforts against 2019-nCoV. Drug candidates s
 
 ### 2019-nCoV Clinical Trials registration list
 
-A list of registered clinical trials for 2019-nCoV infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date.
+A list of registered clinical trials for 2019-nCoV infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date. Additionally, [dimensions.ai](https://covid-19.dimensions.ai/) provides a full list of clinical trials regarding COVID-19. We will continue to provide updated clinical trial information involving potential drug candidates.
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
