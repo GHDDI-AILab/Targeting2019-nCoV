@@ -7,13 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <meta name="author" content="David Leon (Dawei Leng)">
+  
   <link rel="shortcut icon" href="../img/favicon.ico">
   <title>COVID-19 Computational Studies - Targeting 2019-nCoV Portal</title>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
-  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
   
   <script>
     // Current page data
@@ -24,7 +25,7 @@
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
   <script src="../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
@@ -35,6 +36,7 @@
 
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
         <a href=".." class="icon icon-home"> Targeting 2019-nCoV Portal</a>
         <div role="search">
@@ -45,88 +47,85 @@
       </div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-	<ul class="current">
-	  
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="..">Home</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../drug_candidates/">COVID-19 Clinical Trials</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../Data_analytics/">COVID-19 Drug Discovery Data Analytics</a>
-	    </li>
-          
-            <li class="toctree-l1 current">
-		
-    <a class="current" href="./">COVID-19 Computational Studies</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l2"><a href="#computational-efforts-for-2019-ncov">Computational Efforts for 2019-nCoV</a></li>
-    
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../drug_candidates/">COVID-19 Clinical Trials</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../Data_analytics/">COVID-19 Drug Discovery Data Analytics</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">COVID-19 Computational Studies</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#drug-repurposing-effort">Drug Repurposing Effort</a>
         <ul>
-        
-            <li><a class="toctree-l3" href="#drug-repurposing-effort">Drug Repurposing Effort</a></li>
-        
+    <li class="toctree-l3"><a class="reference internal" href="#a-ligand-based-ai-models">A. Ligand based AI models</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#1-heterogeneous-antiviral-ai-model">1. Heterogeneous antiviral AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#2-phenotypic-antiviral-ai-model">2. Phenotypic antiviral AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#3-rna-dependent-rna-polymerase-ai-model">3. RNA-dependent RNA polymerase AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#4-helicase-ai-model">4. Helicase AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#5-3c-like-protease-ai-model">5. 3C-like protease AI model</a>
+    </li>
         </ul>
-    
-
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../nCov_Targets/">Coronavirus Disease Biology and Therapeutics</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Data Download</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../CoV_Experiment_Data/">Coronavirus Data Mining</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../nCov_Structures/">COVID-19 Structure Modeling</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../research_progress/">COVID-19 Research Articles</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../ghddi_news/">COVID-19 GHDDI News</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../contact_us/">COVID-19 Community Discussion</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../useful_links/">COVID-19 Useful Links</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../history/">Github History</a>
-	    </li>
-          
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#b-structure-based-none-docking-ai-model">B. Structure based (none-docking) AI model</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#1-rna-dependent-rna-polymeraserdrp-ntp-binding-site">1. RNA-dependent RNA polymerase(RDRP) (NTP binding site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#2-helicase-ntp-binding-site">2. Helicase (NTP binding site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#3-3c-like-protease-catalytic-site">3. 3C-like protease (catalytic site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#4-papain-like-protease-catalytic-site">4. Papain-like protease (catalytic site)</a>
+    </li>
         </ul>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Targets/">Coronavirus Disease Biology and Therapeutics</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Data Download</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../CoV_Experiment_Data/">Coronavirus Data Mining</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Structures/">COVID-19 Structure Modeling</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../research_progress/">COVID-19 Research Articles</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../ghddi_news/">COVID-19 GHDDI News</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../contact_us/">COVID-19 Community Discussion</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../useful_links/">COVID-19 Useful Links</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../history/">Github History</a>
+                    </li>
+                </ul>
       </div>
-      &nbsp;
+    </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
@@ -151,13 +150,14 @@
       
     </li>
   </ul>
+  
   <hr/>
 </div>
           <div role="main">
             <div class="section">
               
                 <h1 id="computational-efforts-for-2019-ncov">Computational Efforts for 2019-nCoV</h1>
-<p>We will continuously publish our computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations, and other cheminformatics and bioinformatics related inferences on this page. This effort is to facilitate community wide experimental effort. Please be noted that for any data-driven approach, the interpretation scope of prediction has to be aligned with the original scientific scope of the training set. In addition, for various type of predictive models, noises and biases inherited from training set or empirical parameters, limitations of different mathematical approximations have to be considered. Therefore, these computational results have to be further analyzed by experienced medicinal chemists and biologists and eventually to be backed up by related wet-lab experiments before any rigorous scientific conclusion. The web-based service based on these predictive models will be open to public soon to facilitate your own screening efforts using your own compound libraries. </p>
+<p>We will continuously publish our computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations, and other cheminformatics and bioinformatics related inferences on this page. This effort is to facilitate community wide experimental effort. Please be noted that for any data-driven approach, the interpretation scope of prediction has to be aligned with the original scientific scope of the training set. In addition, for various type of predictive models, noises and biases inherited from training set or empirical parameters, limitations of different mathematical approximations have to be considered. Therefore, these computational results have to be further analyzed by experienced medicinal chemists and biologists and eventually to be backed up by related wet-lab experiments before any rigorous scientific conclusion. The web-based service based on these predictive models will be open to public soon to facilitate your own screening efforts using your own compound libraries. The models and results are constantly updated upon the collection of new evidence. </p>
 <h2 id="drug-repurposing-effort">Drug Repurposing Effort</h2>
 <h3 id="a-ligand-based-ai-models">A. Ligand based AI models</h3>
 <p>We have tried different training sets containing different virus species and their targets to build target specific or phenotype based classification AI models using GHDDI self-developed HAG-net deep learning system. We only selected models showing 5-fold cross-validation AUC&gt;0.8 as qualification for further predictive practice and the results are ensemble predictions. Viral targets, including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivities of approved or investigational stage drug molecules (~12K) in GHDDI stock as part of the drug repurposing effort. As we are constantly improving our algorithm and expand our training data, the results will be updated periodically. </p>
@@ -201,6 +201,28 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv">Predicted Active Clusters SMILES Download</a></li>
 </ul>
+<h3 id="b-structure-based-none-docking-ai-model">B. Structure based (none-docking) AI model</h3>
+<p>The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data for up to 2 million molecules. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set with average AUC of 0.98 and true negative internal benchmark set with average AUC of 0.8. Given a target 3D structure, the center coordinate(x, y, z) of the binding pocket, and screening library SMILES list as input, we are able to screen every 10K compounds in 4 min, which is exponentially faster than traditional docking screening methods. This is a beta testing version of this model, the results will be constantly updated after model upgrade. Here is the sample prediction results for various targets of nCoV-SARS-2.</p>
+<h4 id="1-rna-dependent-rna-polymeraserdrp-ntp-binding-site">1. RNA-dependent RNA polymerase(RDRP) (NTP binding site)</h4>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_top200_2.csv">Top Predicted Active Compounds SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_clusters_2.csv">Predicted Active Clusters SMILES Download</a></li>
+</ul>
+<h4 id="2-helicase-ntp-binding-site">2. Helicase (NTP binding site)</h4>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_stock_top200_2.csv">Top Predicted Active Compounds SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_stock_clusters_2.csv">Predicted Active Clusters SMILES Download</a></li>
+</ul>
+<h4 id="3-3c-like-protease-catalytic-site">3. 3C-like protease (catalytic site)</h4>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3cl_stock_top200_2.csv">Top Predicted Active Compounds SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3cl_stock_clusters_2.csv">Predicted Active Clusters SMILES Download</a></li>
+</ul>
+<h4 id="4-papain-like-protease-catalytic-site">4. Papain-like protease (catalytic site)</h4>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_top200_2.csv">Top Predicted Active Compounds SMILES Download</a></li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_clusters_2.csv">Predicted Active Clusters SMILES Download</a></li>
+</ul>
               
             </div>
           </div>
@@ -223,7 +245,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
     
   </div>
 
-  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
       
         </div>
@@ -233,7 +255,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
 
   </div>
 
-  <div class="rst-versions" role="note" style="cursor: pointer">
+  <div class="rst-versions" role="note" aria-label="versions">
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
@@ -248,6 +270,11 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
     <script src="../js/theme.js" defer></script>
       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" defer></script>
       <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
 
 </body>
 </html>
