@@ -1,3 +1,5 @@
+# Crystallography/EM solved structures and homology models of SARS-CoV-2 targets and related host targets
+
 We have built homology models for 2019-nCoV major targets that are highly homologous to SARS or other highly similar species. We further minimized and simulated some of the models to obtain better structural quality. If you would like to perform any docking practice, please be aware that some of the proteins functioning by forming complex structures with other co-factor proteins of the virus, or with the assistant of other human biomolecules. In addition, proteins are highly dynamic in physiological condition with large conformational flexibility. These structures are only “snapshots” of the real biological event. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us [**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We are working on a more interactive interface for your direct participation in the future. 
 
 The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort [**here**](https://swissmodel.expasy.org/repository/species/2697049) to this project. They modelled the full 2019-nCoV proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. 
@@ -26,16 +28,19 @@ The SWISS-MODEL team has also performed comprehensive homology modeling efforts 
      LQPELDSFKE ELDKYFKNHT SPDVDLGDIS GINASVVNIQ KEIDRLNEVA KNLNESLIDL
      QELGKYEQYI KWPWYIWLGF IAGLIAIVMV TIMLCCMTSC CSCLKGCCSC GSCCKFDEDD
      SEPVLKGVKL HYT
-     
+
 * Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. [Article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
-    * [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
-
+    
+* [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
+    
 * Homology model of Spike protein alone and Spike-ACE2 based on SARS using https://swissmodel.expasy.org
-    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
-
+    
+* [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
+    
 * Minimized model of Spike-ACE2 
-    * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
-
+    
+* [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
+    
 * MD simulated (37C, water, all-atom) model of Spike-ACE2 (Spike is a homo-trimer in color, human ACE2 is in yellow)
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
 
@@ -191,7 +196,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 * Homology model of Replicase polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
     ![Replicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/replicase.png)
----    
+---
 ### 3C-like protease
 * The crystal structure of COVID-19 main protease in complex with an inhibitor N3 published on 2/5/2020 by Liu, X et al. 
     * [PDB 6LU7](https://www.rcsb.org/structure/6lu7)
@@ -209,19 +214,22 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 ### NSP12, RNA-dependent RNA polymerase(RDRP)    
 * Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
-        
+      
+    
      ![Zn2++ bind RDRP](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RdRP.png)
-     
+    
 * Minimized model of RNA-directed RNA polymerase
+    
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
+    
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
----   
+---
 ### NSP13, Helicase  
 * Homology model of Helicase using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
     ![Helicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Helicase.png)
----    
+---
 ### NSP14, Guanine-N7 methyltransferase
 * Homology model of Polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
@@ -240,7 +248,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     
 
 ## Structures of SARS/MERS proteins
-This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review article sources listed below.
+This data was extracted from the [PDB](https://www.rcsb.org/) database, [UniProt](https://www.uniprot.org/), and other review articles.
 
 ### SARS
 | Gene Symbol | Protein Name              | Other Names                                                                                                                                                                                | PDB IDs                                                                                                                         |

@@ -10,17 +10,20 @@ extra_javascript:
 
 nav:
     - Home: index.md
-    - 2019-nCoV Community Effort: drug_candidates.md
+    - COVID-19 Clinical Trials: drug_candidates.md
+    - COVID-19 Drug Discovery Data Analytics: Data_analytics.md
+    - COVID-19 Computational Studies: computational.md
     - Coronavirus Disease Biology and Therapeutics: nCov_Targets.md
     #- 2019-nCoV Assay Protocals: assay.md
-    #- 2019-nCoV Computational Studies: computational.md
+    #- COVID-19 World Community:
+    #  - COVID-19 Discoveries From XXX: sample.md
     - Data Download:
-      - Coronavirus Data Mining and Analysis: CoV_Experiment_Data.md
-      - 2019-nCoV Structure Modeling: nCov_Structures.md
-      - 2019-nCoV Research Articles: research_progress.md
-    - 2019-nCoV GHDDI News: ghddi_news.md
-    - 2019-nCoV Community Discussion: contact_us.md
-    - 2019-nCoV Useful Links: useful_links.md
+      - Coronavirus Data Mining: CoV_Experiment_Data.md
+      - COVID-19 Structure Modeling: nCov_Structures.md
+      - COVID-19 Research Articles: research_progress.md
+    - COVID-19 GHDDI News: ghddi_news.md
+    - COVID-19 Community Discussion: contact_us.md
+    - COVID-19 Useful Links: useful_links.md
     - Github History: history.md
 
 theme: readthedocs    

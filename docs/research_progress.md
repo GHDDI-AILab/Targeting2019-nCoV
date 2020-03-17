@@ -1,4 +1,4 @@
-## Top Review Articles
+# Top Review Articles
 
 2020, Feb 14
 
@@ -13,7 +13,14 @@
     * Therapeutic options in response to the 2019-nCoV outbreak are urgently needed. Here, we discuss the potential for repurposing existing antiviral agents to treat 2019-nCoV, some of which are already moving into clinical trials.
 
 ---
-    
+
+2018
+
+ * [Camouﬂage and interception: how pathogens evade detection by intracellular nucleic acid sensors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_camoflageandinterception.pdf)
+    * This review article describes the interactions between pathogens and nucleic acid sensors. There are intracellular DNA and RNA sensors that induce a transcriptional response leading to the production of interferons, cytokines and chemokines. Several immune evasion strategies include sequestration of PAMPs, modification of viral RNA and DNA, and degradation and inhibition of host signalling factors. Much can be learnt from insights into the host–pathogen interactions that interfere with our cells’ defences.
+
+---
+
 2016 
 
  * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
@@ -28,7 +35,47 @@
 
 ---
 
+## Dimensions.ai search query
+
+ * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and clinical trials updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/). We will continue to provide top review articles regarding coronavirus.  
+
+---
+
 ## 2020
+
+2020, Mar 14
+
+ * [SARS-CoV-2 invades host cells via a novel route: CD147-spike protein](https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1)
+    * The discovery of the new route CD147-SP for SARS-CoV-2 invading host cells provides a critical target for development of specific antiviral drugs. This study publishes a research finding that SARS-CoV-2 invaded host cells via a novel route of CD147-spike protein (SP), mediating the viral invasion with several in vitro assays validating this result. 
+    
+---
+
+2020, Mar 12
+
+ * [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19 ](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_986836v1.pdf)
+    * A data-driven framework that combines both machine learning and statistical analysis methods was used to integrate abailable coronavirus data and identify drug candidates against the novel coronavirus. Through this screening, one inhibitor, CVL208, may be repurposed to treat COVID-19 with in vitro assays also showing effective inhibitory activity against the novel coronavirus.
+
+---
+
+ * [Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion](https://www.biorxiv.org/content/10.1101/2020.03.09.983247v1)
+    * A SARS-CoV-2 spike (S) protein-mediated cell-cell fusion assay was used, and it was found that SARS-CoV-2 showed plasma membrane fusion capacity superior to that of SARS-CoV. A series of lipopeptides was generated and found that the EK1C4 was the most potent fusion inhibitor against SARS-CoV-2 S protein-mediated membrane fusion and pseudovirus infection with IC50s of 1.3 and 15.8 nM, about 241- and 149-fold more potent than that of EK1 peptide. Intranasal application of EK1C4 before or after challenge with HCoV-OC43 protected mice from infection, suggesting that EK1C4 could be used for prevention and treatment of infection.
+
+---
+
+2020, Mar 10
+
+ * [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_smprocvdi.pdf)
+    * This study combined structure-assisted drug design, virtual drug screening, and high-throughput screening to identify new drug leads that target the COVID-19 virus main protease (Mpro). Six compounds were identified which inhibit Mpro with IC50 values ranging from 0.67 to 21.4 μM; one of which, ebselen, also exhibited strong antiviral activity in cell-based assays.
+    
+---
+
+2020, Mar 8
+
+ * [AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_aadntciasc2.pdf)
+    * A novel deep Q-learning network with the fragment-based drug design (ADQN-FBDD) was developed for generating potential lead compounds targeting SARS-CoV-2 3CLpro using a recently published structure (PDB IDL: 6LU7). 47 lead compounds were published from this AI model and are intended to be used for further drug development research.
+    * Supplementary data can be found at https://github.com/tbwxmu/2019-nCov
+    
+---
 
 2020, Mar 3
 
@@ -42,7 +89,7 @@
  * ["Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_tedc19pcd.pdf)
     * Details about the effects of dipyridamole on COVID-19 patients. It was reported that Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. This article references a related clinical trial ChiCTR2000030055.
 
---- 
+---
 
  * [On the origin and continuing evolution of SARS-CoV-2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nwaa036.pdf)
     * Through population genetic analysis, this virus is reported to have evolved into two major types (L and S) that are well defined by two different SNPs. The L type (~70%) is currently more prevalent than the S type (~30%), but the S type was found to be the ancestral version but less aggresssive. 
@@ -59,6 +106,7 @@
 ---
 
 2020, Feb 27
+
  * ["Coronavirus puts drug repurposing on the fast track"](https://www.nature.com/articles/d41587-020-00003-1)
     * Existing antivirals and knowledge gained from the SARS and MERS outbreaks gain traction as the fastest route to fight the current coronavirus epidemic. This news briefly reviewed the repurposed agents targeting SARS-CoV2, and pointed out that although virtual screens can potentially accelerate drug discovery, the predicted compounds still need to be tested carefully with experiments.
 
@@ -70,6 +118,13 @@
     * This article shares a recent development where researchers developed an approach to rapidly screen lineage B betacoronaviruses, and their ability to infect cell types from different species. They found that bypassing the host protease processing barrier allows several lineage B viruses to enter human cells. These different lineage B viruses can also recombine to gain entry into human cells with human ACE2 being the receptor for 2019-nCoV.
     * Preprint released on January 22, 2020. Published on February 25, 2020 
 
+---
+
+2020, Feb 24
+
+ * [Comparative genetic analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor ACE2 in different populations](https://www.nature.com/articles/s41421-020-0147-1)
+    * This Nature Letter to the Editor article describes a study of the genetic analysis for novel coronavirus. They systematically analyzed coding-region variants in ACE2 and the eQTL variants to compare the genomic characteristics of ACE2 among different populations. It was found that no direct evidence was identified genetically supporting the existence of coronavirus S-protein binding-resistant ACE2 mutants in different populations.
+    
 ---
 
 2020, Feb 21
@@ -237,7 +292,7 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Cell Pyroptosis, a Potential Pathogenic Mechanism of 2019-nCoV Infection"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cpppmnci.pdf)
     * The initial infection characteristics of 2019-nCoV has been reported, including the symptoms and blood test results. Cell pyroptosis is a novel inflammatory form of programmed cell death, which has been largely studied recently. This article discusses the relationship between 2019-nCoV infection and cell pyroptosis and hypothesizes that 2019-nCoV is likely to cause cell pyroptosis, especially in lymphocytes, through the activation of NLRP3 inflammasome. 
 
----  
+---
 
 2020, Jan 28
 
@@ -291,7 +346,6 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fsadshku2.pdf)
     * This article provides evidence that a bat coronavirus and swine acute diarrhoea syndrome coronavirus is the aetiological agent that was responsible for a large outbreak resulting in the fatal disease of pigs in China. The SADS and SARS outbreaks had similarities in geographical, temporal, ecological, and aetiological settings.
 
-
 ----
 
 ## 2014
@@ -318,8 +372,8 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
     * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
     
----   
-    
+---
+
 ## 2004
 
  * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)

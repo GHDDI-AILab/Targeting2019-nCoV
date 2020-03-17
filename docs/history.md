@@ -1,5 +1,12 @@
+## version 0.2.1 [3-15-2020]
+* **UPDATE** updated information on several pages
+* **NEW**: added clinical trials page, reorganized pages
 
-## version 0.1.9a [3-5-2020]
+## version 0.2.0 [3-10-2020]
+* **UPDATE** updated clinical trials, drug lists
+* **NEW**: added computation page with results
+
+## version 0.1.9 [3-5-2020]
 * **UPDATE** updated research update, clinical trials
 * **UPDATE** updated community effort
 
