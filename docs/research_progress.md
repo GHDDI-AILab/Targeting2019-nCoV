@@ -35,9 +35,9 @@
 
 ---
 
-## Dimensions.ai  Search
+## Dimensions.ai search query
 
-* [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and clinical trials updated daily regarding COVID-19 and coronavirus with [this search query]([**https://covid-19.dimensions.ai/**](https://covid-19.dimensions.ai/)). We will continue to provide top review articles regarding coronavirus.  
+ * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and clinical trials updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/). We will continue to provide top review articles regarding coronavirus.  
 
 ---
 
