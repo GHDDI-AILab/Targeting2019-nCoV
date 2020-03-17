@@ -73,7 +73,7 @@ The following figure is the keyword relationship network:
    The latest release of DrugBank (version 5.1.5, released 2020-01-03) contains 13,490 drug entries including 2,636 approved small molecule drugs, 1,365 approved biologics (proteins, peptides, vaccines, and allergenics), 131 nutraceuticals and over 6,350 experimental (discovery-phase) drugs. Additionally, 5,191 non-redundant protein (i.e. drug target/enzyme/transporter/carrier) sequences are linked to these drug entries. Each entry contains more than 200 data fields with half of the information being devoted to drug/chemical data and the other half devoted to drug target or protein data.
    
  * [Selleck Libraries](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/selleck_libraries.zip) 
-   This zip archive contains drug libraries provided by [selleck.cn](selleck.cn) to be used for drug repurposing.
+   This zip archive contains drug libraries provided by [selleck.cn](https://www.selleck.cn/) to be used for drug repurposing.
    
 <br>
 <br>
