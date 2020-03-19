@@ -123,4 +123,6 @@ Top 30 relevant host targets predicted for SARS
 ---
 ## List of experimentally verified coronavirus-host interactions 
 
-82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv) 
+82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.
+
+[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv) 
