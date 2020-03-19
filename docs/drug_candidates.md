@@ -29,16 +29,16 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
 
 
-### 2019-nCoV related projects around the world
-The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to 2019-nCoV.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
+### COVID-19 related projects around the world
+The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to COVID-19.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
 
 [Download PDF](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_quanqiuzhongwenxiangmu.pdf)
 
 ---
 
-## Detailed Drug information of current published or ongoing in vitro or clinical studies on 2019-nCoV
+## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
 
-The information below is collected from recent research articles, news articles, or clinical reports of 2019-nCoV studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
+The information below is collected from recent research articles, news articles, or clinical reports of COVID-19 studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
 
 
 | Drug Name             | Structure                                                    | MoA                                                 | Indication                                                   | DrugBank URL                                                 | Anti-2019nCoV Evidence                          | Reference                                                    |
