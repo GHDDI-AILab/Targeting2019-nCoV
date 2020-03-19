@@ -121,3 +121,6 @@ Top 30 relevant host targets predicted for SARS
 |  CRP  | C-Reactive Protein  | Protein Coding  | 46  | GC01M159715  | 16.85  | [CRP](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CRP)  | 
 
 ---
+## List of experimentally verified coronavirus-host interactions 
+
+82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv) 
