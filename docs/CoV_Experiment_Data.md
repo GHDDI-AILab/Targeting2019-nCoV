@@ -2,17 +2,24 @@
 
 We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
 
-### Annotated preclinical studies 
+
+### Broad-specturm antivral agents
+
+* Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) 51 molecules were found against at least 5 virus species. 
+
+    * [Full Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BroadAntivirusDrugProfile-top51.csv) 
+    ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+
+
+### Annotated preclinical studies on coronavirus
 
 * A collection of 1101 in vitro and in vivo records for 256 small molecules and biologics related to SARS/MERS 
 
   * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/pharmacology_SARS_MERS.xlsx)
 
-
-### Unannotated preclinical studies 
+### Unannotated preclinical studies on coronavirus targets
 
 * A collection of 816 records for 479 molecules from various sources. We currently don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   
-
   * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv)
 
 * Some subsets extracted:
