@@ -1,10 +1,10 @@
-## 2019-nCoV Clinical effort 
+## COVID-19 Clinical effort 
 
-Current worldwide research clinical efforts against 2019-nCoV. Drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
+Current worldwide research clinical efforts against COVID-19. Drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on COVID-19 related viruses and newly generated data on COVID-19.
 
-### 2019-nCoV Clinical Trials registration list
+### COVID-19 Clinical Trials registration list
 
-A list of registered clinical trials for 2019-nCoV infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date. Additionally, [dimensions.ai](https://covid-19.dimensions.ai/) provides a full list of clinical trials regarding COVID-19. We will continue to provide updated clinical trial information involving potential drug candidates.
+A list of registered clinical trials for COVID-19 infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date. Additionally, [dimensions.ai](https://covid-19.dimensions.ai/) provides a full list of clinical trials regarding COVID-19. We will continue to provide updated clinical trial information involving potential drug candidates.
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
@@ -29,16 +29,16 @@ A list of registered clinical trials for 2019-nCoV infection is collected in the
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
 
 
-### 2019-nCoV related projects around the world
-The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to 2019-nCoV.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
+### COVID-19 related projects around the world
+The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to COVID-19.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
 
 [Download PDF](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_quanqiuzhongwenxiangmu.pdf)
 
 ---
 
-## Detailed Drug information of current published or ongoing in vitro or clinical studies on 2019-nCoV
+## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
 
-The information below is collected from recent research articles, news articles, or clinical reports of 2019-nCoV studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
+The information below is collected from recent research articles, news articles, or clinical reports of COVID-19 studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
 
 
 | Drug Name             | Structure                                                    | MoA                                                 | Indication                                                   | DrugBank URL                                                 | Anti-2019nCoV Evidence                          | Reference                                                    |

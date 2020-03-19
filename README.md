@@ -1,5 +1,5 @@
 ![logo](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
-# Targeting 2019-nCoV: GHDDI Info Sharing Portal
+# Targeting COVID-19: GHDDI Info Sharing Portal
 This is a public repo for information sharing portal about nCov/SARS/MERS for drug discovery community, initiated by [GHDDI](http://www.ghddi.org)
 
 We're continuously releasing scientific materials to help the scientific community fight this COVID-19 pandemic, including curated data, updated research reports, discussions etc. You can find these materials at   
@@ -18,11 +18,11 @@ Write your contents in markdown format and save them in `/docs` folder, with fil
 ### Organize Pages
 Specify your content in `mkdocs.yml`, section `nav` as follows:
 ```
-    - nCov:
+    - COVID:
       - todo I: todo_I.md
       - todo II: todo_II.md
 ```
-in which `nCov` will be top level folder, and `todo I` and `todo II` will be the second level pages
+in which `COVID` will be top level folder, and `todo I` and `todo II` will be the second level pages
 
 ### Raise Pull Request
 After the content editting is finished, remember to raise pull request for content merging.
