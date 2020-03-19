@@ -1,10 +1,10 @@
-## 2019-nCoV Clinical effort 
+## COVID-19 Clinical effort 
 
-Current worldwide research clinical efforts against 2019-nCoV. Drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on 2019-nCoV related viruses and newly generated data on 2019-nCoV.
+Current worldwide research clinical efforts against COVID-19. Drug candidates suggested from these studies are provided here and updated daily. We also include our initial data anlaysis results from previous antiviral drug discovery studies to facilitate such efforts. We seek experts' opinions and efforts to further validate these candidates, which will be continuously re-defined and selected based on their prior data on COVID-19 related viruses and newly generated data on COVID-19.
 
-### 2019-nCoV Clinical Trials registration list
+### COVID-19 Clinical Trials registration list
 
-A list of registered clinical trials for 2019-nCoV infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date. Additionally, [dimensions.ai](https://covid-19.dimensions.ai/) provides a full list of clinical trials regarding COVID-19. We will continue to provide updated clinical trial information involving potential drug candidates.
+A list of registered clinical trials for COVID-19 infection is collected in the table below. This data was initially collected from [Biocentury](https://www.biocentury.com/article/304368) and sorted based on registration date. Additionally, [dimensions.ai](https://covid-19.dimensions.ai/) provides a full list of clinical trials regarding COVID-19. We will continue to provide updated clinical trial information involving potential drug candidates.
 
 | Registration number                                          | Intervention                                                 | Type                      | Registration date |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ----------------- |
