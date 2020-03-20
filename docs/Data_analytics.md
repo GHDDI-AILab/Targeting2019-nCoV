@@ -76,6 +76,9 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Lumicitabine   | [DB14808](https://www.drugbank.ca/drugs/DB14808) | RNA-Dependent RNA Polymerase (Respiratory Syncytial Virus) Inhibitors | Infection, respiratory syncytial virus (RSV) remission/reduction, IN VITRO | IC-50       | 2.60E-07 | M    |
 | Sofosbuvir     | [DB08934](https://www.drugbank.ca/drugs/DB08934) | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors         | Infection, dengue virus remission/reduction, IN VITRO        | IC-90       | 4.00E-07 | M    |
 | Adafosbuvir    | [DB14906](https://www.drugbank.ca/drugs/DB14906) | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors         | Infection, dengue virus remission/reduction, IN VITRO        | IC-50       | 1.10E-06 | M    |
+| Balapiravir hydrochloride | [DB12283](https://www.drugbank.ca/drugs/DB12283) | RNA-Dependent RNA Polymerase (NS5B) (HCV) Inhibitors          | Infection, dengue virus remission/reduction, IN VITRO        | IC-50     |0.0000019  | M    |
+| Galidesivir | [DB11676](https://www.drugbank.ca/drugs/DB11676) |  Infection, Zika virus remission/reduction, IN VITRO                             | IC-50     | 0.00000296 | M    |
+| Favipiravir   | [DB12466](https://www.drugbank.ca/drugs/DB12466) | Infection, rabies virus remission/reduction, IN VITRO                             | MIC       |  0.000004   | M    |
 
 
 *Compounds selected based on top PX scores from respective assays.
