@@ -6,9 +6,9 @@ This is the public information sharing portal and data repository for the drug d
 
 2) GHDDI will make its COVID-19 Drug Discovery Cloud Computing System available to researchers including:
     
-    GHDDI COVID-19 Data Repositories: antiviral pharmacology database, 3D structure data for SARS-CoV-2 targets and related host targets and virtual compound libraries covering millions of commercially available compounds; 
+ GHDDI COVID-19 Data Repositories: antiviral pharmacology database, 3D structure data for SARS-CoV-2 targets and related host targets and virtual compound libraries covering millions of commercially available compounds; 
     
-    GHDDI COVID-19 Computational Systems: trained AI drug screening models and fully configured Pytorch based deep learning environment, conventional virtual screening system using tools like GOLD, AutoDock with parallelized processing capability and biophysics computational tools like Amber, NAMD for target mechanism study and free energy computation for docking refinement.
+ GHDDI COVID-19 Computational Systems: trained AI drug screening models and fully configured Pytorch based deep learning environment, conventional virtual screening system using tools like GOLD, AutoDock with parallelized processing capability and biophysics computational tools like Amber, NAMD for target mechanism study and free energy computation for docking refinement.
 
 3) GHDDI will collaborate with CROs (with deep gratitude to the commitment and contribution made by BioDuro) to offer services including  small-molecule chemical synthesis, drug design, medicinal chemistry, DMPK, target protein generation/biophysics/structural biology, etc.
 
