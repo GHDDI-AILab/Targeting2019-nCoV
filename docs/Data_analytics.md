@@ -81,5 +81,5 @@ A collection of drug candidates in pipelines or marketed for different antiviral
 | Favipiravir   | [DB12466](https://www.drugbank.ca/drugs/DB12466) | Infection, rabies virus remission/reduction, IN VITRO                             | MIC       |  0.000004   | M    |
 
 
-*Compounds selected based on top PX scores from respective assays.
+*Compounds selected based on best IC-50 measurement from respective assays.
 
