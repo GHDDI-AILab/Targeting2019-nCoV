@@ -43,11 +43,9 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 |    | [CID:71761402](https://pubchem.ncbi.nlm.nih.gov/compound/71761402)  | 10  | SARS-CoV;FLUAV;FLUBV;DENV;ADV;RSV;WNV;Filovirus;Rhinovirus;Parainfluenza virus  |   |
 
 
-
-Top 51 list
-
-
-
+  <details>
+      <summary> Top 51 list </summary>
+ 
 | ID   | Drug name                                                    | Number of virus species | Virus speices list                                           | Discovered MOA                                               |
 | ---- | ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | Tenofovir                                                    | 15                      | Influenza A virus;Hepatitis C virus;Hepatitis B virus;Herpes simplex virus;Adenovirus;Dengue virus;Parainfluenza virus;Respiratory syncytial virus;Rhinovirus;Cytomegalovirus;Varicella zoster virus;Xenotropic murine leukemia virus-related virus;Human immunodeficiency virus 2;Human immunodeficiency virus 1;Herpes simplex virus 2 | Reverse Transcriptase/Ribonuclease H (HIV-1) Inhibitors;Reverse Transcriptase/Ribonuclease H (Viral) Inhibitors |
@@ -102,7 +100,7 @@ Top 51 list
 | 50   | Oseltamivir phosphate                                        | 5                       | Influenza A virus;Influenza virus;Avian influenza virus;Influenza B virus;Parainfluenza virus | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors       |
 | 51   | LDC-4297                                                     | 5                       | Influenza A virus;Cytomegalovirus;Herpes simplex virus;Varicella zoster virus;Adenovirus | Signal Transduction Modulators;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Apoptosis Inducers |
 
-
+</details>
 
 ## Data analysis results from previous other antiviral drug discovery records
 
