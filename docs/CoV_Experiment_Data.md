@@ -8,7 +8,7 @@ We are releasing the following datasets from our big data platform. We are makin
 * Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) 51 molecules were found against at least 5 virus species. 
 
     * [Full Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/BroadAntivirusDrugProfile-top51.csv) 
-    ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+
 
 
 ### Annotated preclinical studies on coronavirus

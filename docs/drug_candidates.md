@@ -27,13 +27,6 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [ChiCTR2000030000](http://www.chictr.org.cn/showprojen.aspx?proj=49748) | Ganovo (Danoprevir)/ritonavir; Peginterferon alfa-2a         | Antiviral                 | 2020/2/19         |
 | [NCT04280588](https://clinicaltrials.gov/ct2/show/NCT04280588) | Fingolimod                                                   | Receptor modulator        | 2020/2/21         |
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
-
-
-### COVID-19 related projects around the world
-The PDF document below published by [mybiogate](http://mybiogate.com) lists a collection of projects related to COVID-19.  This table organizes the projects as: therapeutics, vaccines, diagnostic tools, and medical devices. Additionally, each project's organization, brief introduction, research or clinical progress, location, and other potential indications are listed. In total, there are 55 therapeutic, 17 vaccine, 14 diagnostic, and 16 medical device projects listed on this table.
-
-[Download PDF](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_quanqiuzhongwenxiangmu.pdf)
-
 ---
 
 ## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
@@ -76,3 +69,4 @@ The information below is collected from recent research articles, news articles,
 <br>
 
 Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
+

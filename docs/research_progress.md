@@ -43,6 +43,11 @@
 
 ## 2020
 
+2020, Mar 23
+
+* [A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1)
+    * An outbreak of the novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 290,000 people since the end of 2019, killed over 12,000, and caused worldwide social and economic disruption. There are currently no antiviral drugs with proven efficacy nor are there vaccines for its prevention. Unfortunately, the scientific community has little knowledge of the molecular details of SARS-CoV-2 infection. To illuminate this, we cloned, tagged and expressed 26 of the 29 viral proteins in human cells and identified the human proteins physically associated with each using affinity-purification mass spectrometry (AP-MS), which identified 332 high confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 66 druggable human proteins or host factors targeted by 69 existing FDA-approved drugs, drugs in clinical trials and/or preclinical compounds, that we are currently evaluating for efficacy in live SARS-CoV-2 infection assays. The identification of host dependency factors mediating virus infection may provide key insights into effective molecular targets for developing broadly acting antiviral therapeutics against SARS-CoV-2 and other deadly coronavirus strains.
+
 2020, Mar 14
 
  * [SARS-CoV-2 invades host cells via a novel route: CD147-spike protein](https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1)
