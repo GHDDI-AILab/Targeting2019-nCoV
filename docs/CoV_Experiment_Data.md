@@ -3,11 +3,11 @@
 We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @[**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We will update our datasets periodically to provide more information to help your research combat the disease. 
 
 
-### Broad-specturm antiviral agents
+### Broad-spectrum antiviral agents
 
 * Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active), 462 molecules were found against at least 2 virus species. 
 
-    * [Full Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusDrugProfile_k2.csv)
+    * [Full Dataset](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusDrugProfile_k2.csv)
 
 
 ### Annotated preclinical studies on coronavirus
