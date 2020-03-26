@@ -27,6 +27,8 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [ChiCTR2000030000](http://www.chictr.org.cn/showprojen.aspx?proj=49748) | Ganovo (Danoprevir)/ritonavir; Peginterferon alfa-2a         | Antiviral                 | 2020/2/19         |
 | [NCT04280588](https://clinicaltrials.gov/ct2/show/NCT04280588) | Fingolimod                                                   | Receptor modulator        | 2020/2/21         |
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
+| [NCT04311177](https://clinicaltrials.gov/ct2/show/NCT04311177) | Losartan                                                     | Receptor blocker          | 2020/3/17         |
+| [NCT04321096](https://clinicaltrials.gov/ct2/show/NCT04321096) | Camostat Mesilate                                            |                           | 2020/3/25         |
 ---
 
 ## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
