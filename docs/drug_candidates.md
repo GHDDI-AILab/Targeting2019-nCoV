@@ -18,6 +18,7 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [ChiCTR2000029541](http://www.chictr.org.cn/showprojen.aspx?proj=48992) | Darunavir/cobicistat; Lopinavir/ritonavir; thymosin          | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029542](http://www.chictr.org.cn/showprojen.aspx?proj=48968) | Chloroquine                                                  | Antiviral                 | 2020/2/3          |
 | [ChiCTR2000029548](http://www.chictr.org.cn/showprojen.aspx?proj=49015) | Baloxavir Marboxil; Favipiravir; Lopinavir/ritonavir         | Antiviral                 | 2020/2/4          |
+| [ChiCTR2000029580](http://www.chictr.org.cn/showprojen.aspx?proj=49088) | Ruxolitinib                                                  | Inhibitor                 | 2020/2/5          |
 | [NCT04252885](https://clinicaltrials.gov/ct2/show/NCT04252885) | Umifenovir (Arbidol)                                         | Antiviral                 | 2020/2/5          |
 | [NCT04255017](https://clinicaltrials.gov/ct2/show/NCT04255017) | Umifenovir (Arbidol); Oseltamivir; Lopinavir/ritonavir       | Antiviral                 | 2020/2/5          |
 | [NCT04257656](https://clinicaltrials.gov/ct2/show/NCT04257656) | Remdesivir                                                   | Antiviral                 | 2020/2/6          |
@@ -25,8 +26,15 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [ChiCTR2000029853](http://www.chictr.org.cn/showprojen.aspx?proj=49532) | Azvudine                                                     | Antiviral                 | 2020/2/16         |
 | [NCT04273529](https://clinicaltrials.gov/ct2/show/NCT04273529) | Thalidomide                                                  | Immunomodulatory agent    | 2020/2/18         |
 | [ChiCTR2000030000](http://www.chictr.org.cn/showprojen.aspx?proj=49748) | Ganovo (Danoprevir)/ritonavir; Peginterferon alfa-2a         | Antiviral                 | 2020/2/19         |
+| [ChiCTR2000030001](http://www.chictr.org.cn/showprojen.aspx?proj=49723) | Triazavirin                                                  | Antiviral                 | 2020/2/19         |
 | [NCT04280588](https://clinicaltrials.gov/ct2/show/NCT04280588) | Fingolimod                                                   | Receptor modulator        | 2020/2/21         |
 | [ChiCTR2000030055](http://www.chictr.org.cn/showprojen.aspx?proj=49864) | Dipyridamole                                                 | Inhibitor                 | 2020/2/22         |
+| [ChiCTR2000030002](http://www.chictr.org.cn/showprojen.aspx?proj=49738) | Tranilast                                                    | Inhibitor                 | 2020/2/24         |
+| [ChiCTR2000030328](http://www.chictr.org.cn/showprojen.aspx?proj=50241) | Acetylcysteine                                               | Mucolytic agent           | 2020/2/28         |
+| [ChiCTR2000030535](http://www.chictr.org.cn/showprojen.aspx?proj=49790) | Ebastine                                                     | Antihistamine             | 2020/3/6          |
+| [NCT04311177](https://clinicaltrials.gov/ct2/show/NCT04311177) | Losartan                                                     | Receptor blocker          | 2020/3/17         |
+| [ChiCTR2000031138](http://www.chictr.org.cn/showprojen.aspx?proj=51416) | Pirfenidone                                                  | Inhibitor                 | 2020/3/22         |
+| [NCT04321096](https://clinicaltrials.gov/ct2/show/NCT04321096) | Camostat Mesilate                                            |                           | 2020/3/25         |
 ---
 
 ## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
