@@ -35,6 +35,7 @@ A list of registered clinical trials for COVID-19 infection is collected in the 
 | [NCT04311177](https://clinicaltrials.gov/ct2/show/NCT04311177) | Losartan                                                     | Receptor blocker          | 2020/3/17         |
 | [ChiCTR2000031138](http://www.chictr.org.cn/showprojen.aspx?proj=51416) | Pirfenidone                                                  | Inhibitor                 | 2020/3/22         |
 | [NCT04321096](https://clinicaltrials.gov/ct2/show/NCT04321096) | Camostat Mesilate                                            |                           | 2020/3/25         |
+
 ---
 
 ## Detailed Drug information of current published or ongoing in vitro or clinical studies on COVID-19
