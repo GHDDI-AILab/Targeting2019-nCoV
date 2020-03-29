@@ -2,37 +2,61 @@
 
 Information sources for COVID-19 
 
- * Updates from WHO regarding novel coronavirus: [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+ * Updates from WHO Regarding Novel Coronavirus [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+
  * Chinese Center for Disease Control and Prevention [中国疾病预防控制中心](http://www.chinacdc.cn/)
- * US Centers for Disease Control and Prevention [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
- * [Industry updates from Biocentury](https://www.biocentury.com/coronavirus)
- * [Research updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+
+ * The Latest Public Health Information from [CDC](https://www.coronavirus.gov)
+
+ * Chinese COVID-19 Real-time Report from DXY [疫情实时动态](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0)
+
+ * COVID-19 Global Pandemic Real-time Report from [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+ * Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) [Chinese original version](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+ [English translation version](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
+
+ * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
+
+ 
+ * [Industry Updates from Biocentury](https://www.biocentury.com/coronavirus)
+ * [Research Updates from Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
  * The scientists from the Swiss Institute of Bioinformatics provided 2019-nCoV genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
  * Scientific Intelligence from Clarivate on 2019-nCoV
  [科睿唯安](http://clarivate.com.cn/coronavirus-resources/)
  [Clarivate English Site](https://clarivate.com/coronavirus-resources/)
- * [疫情实时动态](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0)
- * [新冠状病毒国家科技资源服务系统(国家微生物科学数据中心和国家病原微生物资源库)](http://nmdc.cn/#/nCoV)
- * [2019新型冠状病毒信息库(国家生物信息中心和国家基因组科学数据中心)](https://bigd.big.ac.cn/ncov)
+ * Research Information from [THE LANCET](https://www.thelancet.com/coronavirus), [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), [NIH](https://www.nih.gov/coronavirus) 
+
+
+ * Chinese Novel Coronavirus National Science and Techonology Resource Service System for COVID-19 [新冠状病毒国家科技资源服务系统](http://nmdc.cn/nCov/en)
+ * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
+
 
 ---
 
 Useful sites for drug discovery researchers 
 
- * Clinical Trial Information [Clinical Trials](https://clinicaltrials.gov/)
-  
- * The National Center for Biotechnology Information advances science and health [NCBI](https://ncbi.nlm.nih.gov/)
+ * Drug Information [Drugbank](https://www.drugbank.ca/)
 
- * European Molecular Biology Laboratory: [ChEMBL](https://www.ebi.ac.uk/chembl/)
-  
+ * Clinical Trial Information [Clinical Trials](https://clinicaltrials.gov/)
+ 
+ * China Drug Trial Information [药物临床试验登记与信息公示平台] (http://www.chinadrugtrials.org.cn/)
+
  * Protein Structure Information [RCSB PDB](https://www.rcsb.org)
 
- * Drug Information: [Drugbank](https://www.drugbank.ca/)
+ * Protein Gene Information [UniProt](https://www.uniprot.org/) 
+ 
+ * The National Center for Biotechnology Information Advances Science and Health [NCBI](https://ncbi.nlm.nih.gov/)
 
- * Protein Gene Information [UniProt](https://www.uniprot.org/)
+ * PRoteomics IDEntifications Database from EMBL-EBI [PRIDE](https://www.ebi.ac.uk/pride/)
 
- * ZINC database for docking: [ZINC15](http://zinc15.docking.org/) 
+ * European Molecular Biology Laboratory [ChEMBL](https://www.ebi.ac.uk/chembl/)
 
  * BindingDB contains 1,819,720 binding data, for 7,470 protein targets and 804,949 small molecules. [BindingDB](https://www.bindingdb.org/bind/index.jsp)
+
+ * Gene Expression Omnibus from NCBI [GEO](https://www.ncbi.nlm.nih.gov/geo/)
+
+ * ZINC database for docking [ZINC15](http://zinc15.docking.org/) 
+
+
 
 
