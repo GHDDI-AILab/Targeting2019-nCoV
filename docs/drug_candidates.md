@@ -77,11 +77,14 @@ The information below is collected from recent research articles, news articles,
 
 
 
+
 ---
+
 
 ## COVID-19 pre-clinical studies 
 
 We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from various sources. This dataset will be updated continuously.
+
 
 |  ﻿Drug Name  | Experimental Activities  | EC50/IC50(μM)  | CC50(μM)  | SI  | 
 | ---- | --- | --- | --- | --- | 
@@ -114,11 +117,10 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 [Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/COVID19_invitro_assays.csv)
 
 Reference:
+
 1.[Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
 
-
 2.[A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
-
 
 3.[FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
 
