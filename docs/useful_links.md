@@ -8,7 +8,7 @@ Information sources for COVID-19
 
  * COVID-19 Global Pandemic Real-time Report from [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
  
- [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) ](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
+ * [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) ](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
 
  * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
 
