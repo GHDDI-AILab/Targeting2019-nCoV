@@ -1,3 +1,11 @@
+## version 0.2.3 [4-1-2020]
+* **UPDATE** updated site structure
+* **NEW** separate page for top review articles
+
+## version 0.2.2 [3-23-2020]
+* **UPDATE** updated computational information
+* **UPDATE** added dimensions.ai as source for research updates and clinical trials
+
 ## version 0.2.1 [3-15-2020]
 * **UPDATE** updated information on several pages
 * **NEW**: added clinical trials page, reorganized pages
