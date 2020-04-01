@@ -21,6 +21,13 @@
 
 ---
 
+2017
+
+ * ["Host Factors in Coronavirus Replication"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_hostfactorcov.pdf)
+    * Coronaviruses have an exceptionally large genome and employ a complex genome expression strategy. Many of the coronavirus proteins expressed in the infected cell contribute to the coronavirus-host interplay. These interactions ultimately determine the outcome of the infection. This review article summariezes the current (2017) understanding of coronavirus-host interactions.
+    
+---    
+
 2016 
 
  * ["Coronaviruses — drug discovery and therapeutic options"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cddato.pdf)
