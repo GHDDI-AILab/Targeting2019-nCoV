@@ -15,9 +15,9 @@ Information sources for COVID-19
 
  * Research Updates from [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center), [THE LANCET](https://www.thelancet.com/coronavirus), [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), and [NIH](https://www.nih.gov/coronavirus).
 
- * The scientists from the Swiss Institute of Bioinformatics provided 2019-nCoV genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
+ * The scientists from the Swiss Institute of Bioinformatics provided SARS-CoV-2 genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
 
- * Scientific Intelligence from Clarivate on 2019-nCoV [Clarivate](https://clarivate.com/coronavirus-resources/)
+ * Scientific Intelligence from Clarivate on COVID-19 [Clarivate](https://clarivate.com/coronavirus-resources/)
 
 
 ---
@@ -55,7 +55,7 @@ Useful sites for drug discovery researchers
 
  * Chinese Center for Disease Control and Prevention [中国疾病预防控制中心](http://www.chinacdc.cn/)
  
- * Scientific Intelligence from Clarivate on 2019-nCoV
+ * Scientific Intelligence from Clarivate on COVID-19
  [科睿唯安](http://clarivate.com.cn/coronavirus-resources/)
  
  * Chinese Novel Coronavirus National Science and Techonology Resource Service System [新冠状病毒国家科技资源服务系统](http://nmdc.cn/nCov/en)

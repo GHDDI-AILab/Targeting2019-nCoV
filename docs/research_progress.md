@@ -1,6 +1,6 @@
-## Dimensions.ai search query
+## COVID-19 publication feeds
 
- * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and clinical trials updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/).
+ * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and other research items updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/).
  
  
 ## Selected publications
@@ -118,6 +118,12 @@
     * This study produced 3.5 A-resolution structures of the 2019-nCoV S trimer in the prefusion conformation. Additionally, results from this study indicate that this S protein binds ACE2 with higher affinity than the previous SARS-CoV S protein through biophysical and structural evidence. 
 
 ---
+2020, Feb 14
+
+ * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
+    * A framework for a systems biology approach to infectious disease in three parts: discovery — the design, collection and analysis of omics data; representation — the iterative modelling, integration and visualization of complex data sets; and application — the interpretation and hypothesis-based inquiry towards translational outcomes.
+
+---
 
 2020, Feb 13
 
@@ -125,6 +131,7 @@
     * Drug repurposing was used in this study to identify many FDA approved drugs are potentially active against 2019-nCoV. This was done using a SARS 3CL protease X-ray crystal structure to create a 3D homology structure. Additionally, protein-ligand complexes were used as training data for a deep learning model to predict binding affinities; 1465 FDA-approved drugs were tested and the predicted binding affinities were reported in this study's results section.
 
 ---
+
 
 2020, Feb 11
 
@@ -135,6 +142,14 @@
 
  * [α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b01828?from=timeline&isappinstalled=0)
     * The main protease of coronaviruses and the 3C protease of enteroviruses share a similar active-site architecture and a unique requirement for glutamine in the P1 position of the substrate. Six crystal structures of protease–inhibitor complexes were determined as part of this study. Compounds synthesized were tested against the recombinant proteases as well as in viral replicons and virus-infected cell cultures; most of them were not cell-toxic. 
+
+---
+
+
+2020, Feb 10
+
+ * ["Therapeutic options for the 2019 novel coronavirus (2019-nCoV)"](https://www.nature.com/articles/d41573-020-00016-0)
+    * Therapeutic options in response to the 2019-nCoV outbreak are urgently needed. Here, we discuss the potential for repurposing existing antiviral agents to treat 2019-nCoV, some of which are already moving into clinical trials.
 
 ---
 
@@ -310,42 +325,3 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
  * ["Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_encwomsp.pdf)
     * Analysis showed that the Wuhan CoV shared a common ancestor with SARS coronavirus that resembles the bat coronavirus HKU9-1. This work points to the RBD domain of the Wuhan CoV S-protein which supports strong interaction with human ACE2 molecules.
 
----
-
-## 2018
-
- * ["Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_fsadshku2.pdf)
-    * This article provides evidence that a bat coronavirus and swine acute diarrhoea syndrome coronavirus is the aetiological agent that was responsible for a large outbreak resulting in the fatal disease of pigs in China. The SADS and SARS outbreaks had similarities in geographical, temporal, ecological, and aetiological settings.
-
-----
-
-## 2014
-
- * ["Cell-based antiviral screening against coronaviruses: Developing virus-specific and broad-spectrum inhibitors"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_cbasacdcsbsi.pdf)
-    * A 2014 review explaining cell-based assays using infectious virus (BSL-3) and surrogate assays (BSL-2) that can be implemented to accelerate antiviral development against SARS, MERS, and future emergent coronaviruses such as the recent 2019-nCoV.
-
-----
-
- * ["Severe acute respiratory syndrome vs. the Middle East respiratory syndrome"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarsmers.pdf)
-    * This review compares clinical features, laboratory aspects, and treatment options of SARS-like coronaviruses which typically come from bats. This article compares the similarities and differences of SARS to MERS.
-
-----
-
-## 2013
-
- * ["Novel Inhibitors of Severe Acute Respiratory Syndrome Coronavirus Entry That Act by Three Distinct Mechanisms."](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_nisarscetatdm.pdf)
-    * There are no approved treatments as of this article for SARS coronavirus. This article reports the discovery and characterization of several small-molecule inhibitors of SARS-CoV replication through several mechanisms. It showed that their mechanisms of action revealed that the compounds act by three distinct mechanisms: (i) SSAA09E2 {*N*-[[4-(4-methylpiperazin-1-yl)phenyl]methyl]-1,2-oxazole-5-carboxamide} acts through a novel mechanism of action, by blocking early interactions of SARS-S with the receptor for SARS-CoV, angiotensin converting enzyme 2 (ACE2); (ii) SSAA09E1 {[(*Z*)-1-thiophen-2-ylethylideneamino]thiourea} acts later, by blocking cathepsin L, a host protease required for processing of SARS-S during viral entry; and (iii) SSAA09E3 [*N*-(9,10-dioxo-9,10-dihydroanthracen-2-yl)benzamide] also acts later and does not affect interactions of SARS-S with ACE2 or the enzymatic functions of cathepsin L but prevents fusion of the viral membrane with the host cellular membrane.
-
-----
-
-## 2008
-
- * ["SARS coronavirus Accessory Proteins"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sarscap.pdf)
-    * Evidence points to the fact that accessory proteins may play an important role in modulating the host response to virus infection and contribute to pathogenesis. This review compiled the existing knowledge SARS-CoV accessory proteins and attempts to explain the possible roles of these proteins in the propagation and virulence of SARS-CoV in its host. 
-    
----
-
-## 2004
-
- * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
-    * The Angiotensin-converting enzyme 2 (ACE2) is an important therapeutic target for cardiovascular diseases and SARS outbreaks. This study identifies the molecules with the highest predicted binding scores and assays them for ACE2 enzymatic inhibitory activity and for SARS coronavirus spike protein-mediated cell fusion inhibition.

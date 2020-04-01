@@ -1,8 +1,8 @@
 # Crystallography/EM solved structures and homology models of SARS-CoV-2 targets and related host targets
 
-We have built homology models for 2019-nCoV major targets that are highly homologous to SARS or other highly similar species. We further minimized and simulated some of the models to obtain better structural quality. If you would like to perform any docking practice, please be aware that some of the proteins functioning by forming complex structures with other co-factor proteins of the virus, or with the assistant of other human biomolecules. In addition, proteins are highly dynamic in physiological condition with large conformational flexibility. These structures are only “snapshots” of the real biological event. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us [**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We are working on a more interactive interface for your direct participation in the future. 
+We have built homology models for SARS-CoV-2 major targets that are highly homologous to SARS or other highly similar species. We further minimized and simulated some of the models to obtain better structural quality. If you would like to perform any docking practice, please be aware that some of the proteins functioning by forming complex structures with other co-factor proteins of the virus, or with the assistant of other human biomolecules. In addition, proteins are highly dynamic in physiological condition with large conformational flexibility. These structures are only “snapshots” of the real biological event. We will update the structrue list daily to provide more starting points for the research community. If you have structures to upload, please contact us [**here**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues). We are working on a more interactive interface for your direct participation in the future. 
 
-The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort [**here**](https://swissmodel.expasy.org/repository/species/2697049) to this project. They modelled the full 2019-nCoV proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. 
+The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort [**here**](https://swissmodel.expasy.org/repository/species/2697049) to this project. They modelled the full SARS-CoV-2 proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. 
 
 ---
 ### Surface Glycoprotein, Spike Protein
@@ -29,7 +29,7 @@ The SWISS-MODEL team has also performed comprehensive homology modeling efforts 
      QELGKYEQYI KWPWYIWLGF IAGLIAIVMV TIMLCCMTSC CSCLKGCCSC GSCCKFDEDD
      SEPVLKGVKL HYT
 
-* Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. [Article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
+* Cryo-EM structure of the SARS-CoV-2 spike in the prefusion conformation published on 2/19/2020 by Daniel Wrapp et al. [Article link](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507)
     
 * [PDB 6VSB](https://www.rcsb.org/structure/6VSB)
     

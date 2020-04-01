@@ -1,4 +1,4 @@
-# Data analysis for drug repositioning 
+# GHDDI Data analysis for drug repositioning 
 
  A comprehensive data mining and analysis effort has been done to present these lists of existing drugs with therapeutic potentials for COVID-19. The analysis was based on different rationales including anti-coronavirus activity, broad-spectrum antiviral activity and antiviral drugs with highly conserved viral target such as RNA dependent RNA polymerase (RDRP). We will constantly update these lists with new discoveries. 
 
