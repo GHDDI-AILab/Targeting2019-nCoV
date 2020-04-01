@@ -8,7 +8,7 @@
   
   <meta name="author" content="David Leon (Dawei Leng)">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>COVID-19 Computational Studies - Targeting COVID-19 Portal</title>
+  <title>COVID-19 GHDDI Computational Studies - Targeting COVID-19 Portal</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,7 +17,7 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "COVID-19 Computational Studies";
+    var mkdocs_page_name = "COVID-19 GHDDI Computational Studies";
     var mkdocs_page_input_path = "computational.md";
     var mkdocs_page_url = null;
   </script>
@@ -55,17 +55,32 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../drug_candidates/">COVID-19 Clinical Trials</a>
+    <a class="" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../Data_analytics/">COVID-19 Drug Discovery Data Analytics</a>
+    <a class="" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../research_progress/">COVID-19 Worldwide Publications</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
 	    </li>
           
             <li class="toctree-l1 current">
 		
-    <a class="current" href="./">COVID-19 Computational Studies</a>
+    <a class="current" href="./">COVID-19 GHDDI Computational Studies</a>
     <ul class="subnav">
             
     <li class="toctree-l2"><a href="#computational-efforts-for-2019-ncov">Computational Efforts for 2019-nCoV</a></li>
@@ -82,41 +97,36 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../nCov_Targets/">Coronavirus Disease Biology and Therapeutics</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Data Download</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../CoV_Experiment_Data/">Coronavirus Data Mining</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../nCov_Structures/">COVID-19 Structure Modeling</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../research_progress/">COVID-19 Research Articles</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
     <a class="" href="../ghddi_news/">COVID-19 GHDDI News</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../contact_us/">COVID-19 Community Discussion</a>
+    <a class="" href="../contact_us/">COVID-19 Discussion</a>
 	    </li>
           
             <li class="toctree-l1">
 		
     <a class="" href="../useful_links/">COVID-19 Useful Links</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Literature Review and Data Download</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../CoV_Experiment_Data/">Coronavirus Data Download</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../review_paper/">Coronavirus Review Articles</a>
+                </li>
+    </ul>
 	    </li>
           
             <li class="toctree-l1">
@@ -146,7 +156,7 @@
     
       
     
-    <li>COVID-19 Computational Studies</li>
+    <li>COVID-19 GHDDI Computational Studies</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -157,7 +167,7 @@
             <div class="section">
               
                 <h1 id="computational-efforts-for-2019-ncov">Computational Efforts for 2019-nCoV</h1>
-<p>We will continuously publish our computational efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations, and other cheminformatics and bioinformatics related inferences on this page. This effort is to facilitate community wide experimental effort. Please be noted that for any data-driven approach, the interpretation scope of prediction has to be aligned with the original scientific scope of the training set. In addition, for various type of predictive models, noises and biases inherited from training set or empirical parameters, limitations of different mathematical approximations have to be considered. Therefore, these computational results have to be further analyzed by experienced medicinal chemists and biologists and eventually to be backed up by related wet-lab experiments before any rigorous scientific conclusion. The web-based service based on these predictive models will be open to public soon to facilitate your own screening efforts using your own compound libraries. The models and results are constantly updated upon the collection of new evidence. </p>
+<p>We continuously publish our computational drug discovery efforts including AI based prediction, physics-based virtual screening, molecular dynamics simulations, and other cheminformatics and bioinformatics related inferences on this page. This effort is to facilitate community wide experimental effort. Please be noted that for any data-driven approach, the interpretation scope of prediction has to be aligned with the original scientific scope of the training set. In addition, for various type of predictive models, noises and biases inherited from training set or empirical parameters, limitations of different mathematical approximations have to be considered. Therefore, these computational results have to be further analyzed by experienced medicinal chemists and biologists and eventually to be backed up by related wet-lab experiments before any rigorous scientific conclusion. The web-based service based on these predictive models will be open to public soon to facilitate your own screening efforts using your own compound libraries. The models and results are constantly updated upon the collection of new evidence. </p>
 <h2 id="drug-repurposing-effort">Drug Repurposing Effort</h2>
 <h3 id="a-ligand-based-ai-models">A. Ligand based AI models</h3>
 <p>We have tried different training sets containing different virus species and their targets to build target specific or phenotype based classification AI models using GHDDI self-developed HAG-net deep learning system. We only selected models showing 5-fold cross-validation AUC&gt;0.8 as qualification for further predictive practice and the results are ensemble predictions. Viral targets, including RDRP, Helicase, 3C-like protease of 2019nCoV showing relatively higher cross-species conservation are prioritized in this effort.  We use these models to predict different bioactivities of approved or investigational stage drug molecules (~12K) in GHDDI stock as part of the drug repurposing effort. As we are constantly improving our algorithm and expand our training data, the results will be updated periodically. </p>
@@ -230,10 +240,10 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../nCov_Targets/" class="btn btn-neutral float-right" title="Coronavirus Disease Biology and Therapeutics">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../ghddi_news/" class="btn btn-neutral float-right" title="COVID-19 GHDDI News">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../Data_analytics/" class="btn btn-neutral" title="COVID-19 Drug Discovery Data Analytics"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../nCov_Structures/" class="btn btn-neutral" title="COVID-19 GHDDI Structure modeling"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -259,10 +269,10 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../Data_analytics/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../nCov_Structures/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../nCov_Targets/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../ghddi_news/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
