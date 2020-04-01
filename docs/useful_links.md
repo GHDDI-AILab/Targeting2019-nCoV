@@ -3,12 +3,11 @@
 Information sources for COVID-19 
 
  * Updates from WHO Regarding Novel Coronavirus [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+ 
  * The Latest COVID-19 Public Health Information from [CDC](https://www.coronavirus.gov)
 
  * COVID-19 Global Pandemic Real-time Report from [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-
- 
- , [English translation version](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
+    * [English translation version](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
 
  * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
 
