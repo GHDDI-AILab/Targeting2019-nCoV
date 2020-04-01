@@ -51,7 +51,7 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 | Ciclosporin | [DB00091](https://www.drugbank.ca/drugs/DB00091) | 7 | HCV;FLUBV;CoV;HBV;FLUAV;HIV-1;CMV | Cyclophilin D Inhibitors;Signal Transduction Modulators;Serine/Threonine-Protein Phosphatase 2B (PPP3CC; PP2Bgamma; Calcineurin) Inhibitors;INS Expression Inhibitors |
 | Silvestrol | [CID: 11787114](https://pubchem.ncbi.nlm.nih.gov/compound/11787114) | 7 | CoV;HCV;MERS-CoV;EBOV;EBV;HPV;Rhinovirus | Eukaryotic Initiation Factor 4A (eIF4A) Inhibitors;Apoptosis Inducers |
 | Sirolimus | [DB00877](https://www.drugbank.ca/drugs/DB00877) | 7 | CMV;HCV;BKV;FLUAV;HIV-1;KSHV;RVFV | CCR5 Expression Inhibitors;Signal Transduction Modulators;Proteasome Inhibitors;Drugs Targeting B-Lymphocyte Antigen CD19;Mammalian Target of Rapamycin (mTOR; FRAP1) Inhibitors |
-| deferiprone extended-release | [DB08826](https://www.drugbank.ca/drugs/DB08826) | 7 | CMV;BKV;VZV;JC polyomavirus;HSV;ADV;EBV | Chelating Agents; Cytochrome P450 CYP4F2 Inhibitors; Iron Absorption Inhibitors; Lipoxygenase 5 Inhibitors |
+| Deferiprone | [DB08826](https://www.drugbank.ca/drugs/DB08826) | 7 | CMV;BKV;VZV;JC polyomavirus;HSV;ADV;EBV | Chelating Agents; Cytochrome P450 CYP4F2 Inhibitors; Iron Absorption Inhibitors; Lipoxygenase 5 Inhibitors |
 | NITD-008 | [CID: 136896143](https://pubchem.ncbi.nlm.nih.gov/compound/136896143) | 6 | Filovirus;HCV;EV;DENV;ZIKV;WNV | RNA-Directed RNA Polymerase (NS5) (Dengue Virus) Inhibitors |
 | Aciclovir | [DB00787](https://www.drugbank.ca/drugs/DB00787) | 6 | HBV;HSV;VZV;EBV;HSV 1;HSV 2 | DNA Polymerase Inhibitors |
 | KIN-269 | [CID: 86263464](https://pubchem.ncbi.nlm.nih.gov/compound/86263464) | 6 | FLUAV;CoV;FLUBV;RSV;WNV ;DENV | Interferon Regulatory Factor 3 (IRF-3) Activators |
@@ -81,7 +81,7 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 | Gemcitabine hydrochloride | [DB00441](https://www.drugbank.ca/drugs/DB00441) | 5 | FLUAV;CoV;HCV;ZIKV;HSV | Ribonucleoside-Diphosphate Reductase Inhibitors;Pyrimidine Antagonists |
 | 4-amino-1-[(2R,4R,5R)-5-azido-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one | [CID: 23519651](https://pubchem.ncbi.nlm.nih.gov/compound/23519651) | 5 | Filovirus;EBOV;HCV;RSV;Parainfluenza virus | RNA-Directed RNA Polymerase (NS5B) (HCV) Inhibitors;RNA-Directed RNA Polymerase (Respiratory Syncytial Virus) Inhibitors |
 | HPMPA-(S) | [CID: 72253](https://pubchem.ncbi.nlm.nih.gov/compound/72253) | 5 | VZV;HSV;EBV;CMV;ADV |  |
-| Oseltamivir phosphate | [DB00198](https://www.drugbank.ca/drugs/DB00198) | 5 | FLUAV;FLU;Avian flu;FLUBV;Parainfluenza virus | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors |
+| Oseltamivir | [DB00198](https://www.drugbank.ca/drugs/DB00198) | 5 | FLUAV;FLU;Avian flu;FLUBV;Parainfluenza virus | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors |
 | LDC-4297 | [CID: 71730493](https://pubchem.ncbi.nlm.nih.gov/compound/71730493) | 5 | FLUAV;CMV;HSV;VZV;ADV | Signal Transduction Modulators;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Apoptosis Inducers |
 
 
