@@ -211,7 +211,11 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
      ![3CL protease](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
 ---
-### NSP12, RNA-dependent RNA polymerase(RDRP)    
+### NSP12, RNA-dependent RNA polymerase(RDRP)
+* Cryo-EM structure of the 2019-nCoV RNA-dependent RNA polymerase in complex with cofactors nsp7 and nsp8 published on 3/17/2020 by Gao, YG et al. [Article link](https://www.biorxiv.org/content/10.1101/2020.03.16.993386v1.abstract)
+
+    * [PDB 6M71](https://www.rcsb.org/structure/6M71)
+
 * Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
       
@@ -221,6 +225,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 * Minimized model of RNA-directed RNA polymerase
     
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
+
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
     
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
