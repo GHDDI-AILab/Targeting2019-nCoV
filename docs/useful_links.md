@@ -19,6 +19,7 @@ Information sources for COVID-19
 
  * Scientific Intelligence from Clarivate on COVID-19 [Clarivate](https://clarivate.com/coronavirus-resources/)
 
+ * Global Initiative on Sharing All Influenza Data [GISAID](https://www.gisaid.org) 
 
 ---
 

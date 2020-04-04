@@ -81,6 +81,8 @@ The following figure is the keyword relationship network:
  * [Selleck Libraries](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/selleck_libraries.zip) 
    This zip archive contains drug libraries provided by [selleck.cn](https://www.selleck.cn/) to be used for drug repurposing.
    
+ * [CAS COVID-19 Antiviral Candidate Compounds Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/antiviral_with_properties.sdf)
+   
    
 <br>
 <br>
