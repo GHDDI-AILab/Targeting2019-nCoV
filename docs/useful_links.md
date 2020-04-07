@@ -12,9 +12,9 @@ Information sources for COVID-19
 
  * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
 
- * [Industry Updates from Biocentury](https://www.biocentury.com/coronavirus)
+ * Industry Updates from [Biocentury](https://www.biocentury.com/coronavirus)
 
- * Research Updates from [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center), [THE LANCET](https://www.thelancet.com/coronavirus), [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), and [NIH](https://www.nih.gov/coronavirus).
+ * Research Updates from [NEJM](https://www.nejm.org/coronavirus), [Lancet](https://www.thelancet.com/coronavirus), [Nature](https://www.nature.com/collections/hajgidghjb), [Science](https://www.sciencemag.org/coronavirus-research-commentary-and-news), [Cell](https://www.cell.com/2019-nCOV) , [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), [medRxiv](http://connect.medrxiv.org/relate/content/181), [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center), [Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/), [Oxford](https://academic.oup.com/journals/pages/coronavirus), [Cambridge](https://www.cambridge.org/core/browse-subjects/medicine/coronavirus-free-access-collection) and [NIH](https://www.nih.gov/coronavirus).
 
  * The scientists from the Swiss Institute of Bioinformatics provided 2019-nCoV genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
 
@@ -65,4 +65,4 @@ Useful sites for drug discovery researchers
 
  * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
  
- * Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7 [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+ * Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
