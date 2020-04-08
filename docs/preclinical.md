@@ -77,7 +77,7 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 | Atazanavir 	| SARS-CoV-2 inhibition 	| >50 	| >50 	| >1 	|
 
 
-[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/COVID19_invitro_assays.csv)
+[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/COVID19_in_vitro_assays.csv)
 
 Reference:
 
