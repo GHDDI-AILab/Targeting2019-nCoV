@@ -81,12 +81,12 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 
 Reference:
 
-1.[Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
+1. [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
 
-2.[A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
+2. [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
 
-3.[FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
+3. [FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
 
-4.[HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
+4. [HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
 
 5. [Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v3.full.pdf)
