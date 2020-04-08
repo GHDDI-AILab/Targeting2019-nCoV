@@ -1,3 +1,9 @@
+## version 0.2.5 [4-8-2020]
+* **UPDATE** updated preclinical data
+
+## version 0.2.4 [4-5-2020]
+* **NEW** added preclinical drug data
+
 ## version 0.2.3 [4-1-2020]
 * **UPDATE** updated site structure
 * **NEW** separate page for top review articles
