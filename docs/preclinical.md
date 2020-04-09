@@ -74,7 +74,16 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 | Triparanol 	| SARS-CoV-2 inhibition 	| 7.05 	| 14.73 	| 2.09 	|
 | Droloxifene((E)-3-Hydroxy tamoxifen) 	| SARS-CoV-2 inhibition 	| 6.6 	| 15.82 	| 2.4 	|
 | Dronedarone HCl 	| SARS-CoV-2 inhibition 	| 3.92 	| 8.75 	| 2.23 	|
-| Atazanavir 	| SARS-CoV-2 inhibition 	| >50 	| >50 	| >1 	|
+| Atazanavir 	| SARS-CoV-2 inhibition 	| 9.36 	| >81 	| >8.65 	|
+|Ivermectin | SARS-CoV-2 inhibition| 2|no toxicity |N/A|
+|Nelfinavir|SARS-CoV-2 inhibition|1.13|24.32|21.52|
+|Saquinavir|SARS-CoV-2 inhibition|8.83|44.43|5.03|
+|Tipranavir|SARS-CoV-2 inhibition|13.34|76.80|5.76|
+|Amprenavir|SARS-CoV-2 inhibition|31.32|>81|>2.59|
+|Darunavir |SARS-CoV-2 inhibition|46.41|>81|>1.75|
+|Indinavir|SARS-CoV-2 inhibition|59.14|>81|>1.37|
+
+
 
 
 [Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/COVID19_in_vitro_assays.csv)
@@ -90,3 +99,7 @@ Reference:
 4. [HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
 
 5. [Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v3.full.pdf)
+
+6. [The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
+
+7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
