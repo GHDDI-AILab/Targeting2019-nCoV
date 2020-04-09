@@ -102,4 +102,4 @@ Reference:
 
 6. [The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
 
-7.[Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
+7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
