@@ -3,17 +3,18 @@
 Information sources for COVID-19 
 
  * Updates from WHO Regarding Novel Coronavirus [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+ 
  * The Latest COVID-19 Public Health Information from [CDC](https://www.coronavirus.gov)
 
  * COVID-19 Global Pandemic Real-time Report from [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
- * [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7 ](https://www.chinalawtranslate.com/en/coronavirus-treatment-plan-7/)
+ * [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7)](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_Who-translation.pdf)
 
  * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
 
- * [Industry Updates from Biocentury](https://www.biocentury.com/coronavirus)
+ * Industry Updates from [Biocentury](https://www.biocentury.com/coronavirus)
 
- * Research Updates from [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center), [THE LANCET](https://www.thelancet.com/coronavirus), [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), and [NIH](https://www.nih.gov/coronavirus).
+ * Research Updates from [NEJM](https://www.nejm.org/coronavirus), [Lancet](https://www.thelancet.com/coronavirus), [Nature](https://www.nature.com/collections/hajgidghjb), [Science](https://www.sciencemag.org/coronavirus-research-commentary-and-news), [Cell](https://www.cell.com/2019-nCOV) , [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert), [medRxiv](http://connect.medrxiv.org/relate/content/181), [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center), [Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/), [Oxford](https://academic.oup.com/journals/pages/coronavirus), [Cambridge](https://www.cambridge.org/core/browse-subjects/medicine/coronavirus-free-access-collection) and [NIH](https://www.nih.gov/coronavirus).
 
  * The scientists from the Swiss Institute of Bioinformatics provided SARS-CoV-2 genome analysis on [**ViralZone**](https://viralzone.expasy.org/8996) and allow to track the current outbreak on [**Nextstrain**](https://nextstrain.org/ncov). 
 
@@ -65,4 +66,8 @@ Useful sites for drug discovery researchers
 
  * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
  
+<<<<<<< HEAD
  * [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+=======
+ * Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+>>>>>>> master
