@@ -75,13 +75,17 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 | Droloxifene((E)-3-Hydroxy tamoxifen) 	| SARS-CoV-2 inhibition 	| 6.6 	| 15.82 	| 2.4 	|
 | Dronedarone HCl 	| SARS-CoV-2 inhibition 	| 3.92 	| 8.75 	| 2.23 	|
 | Atazanavir 	| SARS-CoV-2 inhibition 	| 9.36 	| >81 	| >8.65 	|
-|Ivermectin | SARS-CoV-2 inhibition| 2|no toxicity |N/A|
+|Ivermectin | SARS-CoV-2 inhibition| 2|low toxicity |N/A|
 |Nelfinavir|SARS-CoV-2 inhibition|1.13|24.32|21.52|
 |Saquinavir|SARS-CoV-2 inhibition|8.83|44.43|5.03|
 |Tipranavir|SARS-CoV-2 inhibition|13.34|76.80|5.76|
 |Amprenavir|SARS-CoV-2 inhibition|31.32|>81|>2.59|
 |Darunavir |SARS-CoV-2 inhibition|46.41|>81|>1.75|
 |Indinavir|SARS-CoV-2 inhibition|59.14|>81|>1.37|
+|Ebselen| SARS-CoV-2 inhibition| 4.67|low toxicity |N/A|
+|N3|SARS-CoV-2 inhibition|16.77|>133|>7.93|
+
+
 
 
 
@@ -103,3 +107,5 @@ Reference:
 6. [The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
 
 7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
+
+8. [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
