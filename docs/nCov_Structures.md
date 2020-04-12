@@ -4,6 +4,9 @@ We have built homology models for SARS-CoV-2 major targets that are highly homol
 
 The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort [**here**](https://swissmodel.expasy.org/repository/species/2697049) to this project. They modelled the full SARS-CoV-2 proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. 
 
+The Protein Data Bank has also provided SARS-CoV-2 resource download for all currently solved [SARS-CoV-2 structures](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true). 
+
+
 ---
 ### Surface Glycoprotein, Spike Protein
      MFVFLVLLPL VSSQCVNLTT RTQLPPAYTN SFTRGVYYPD KVFRSSVLHS TQDLFLPFFS
@@ -219,7 +222,6 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 * Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
       
-    
      ![Zn2++ bind RDRP](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RdRP.png)
     
 * Minimized model of RNA-directed RNA polymerase
@@ -227,7 +229,7 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
 
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
-    
+
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
 ---
 ### NSP13, Helicase  

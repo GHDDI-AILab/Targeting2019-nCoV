@@ -87,9 +87,6 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 
 
 
-
-
-
 [Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/COVID19_in_vitro_assays.csv)
 
 Reference:
