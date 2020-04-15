@@ -84,6 +84,8 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 |Indinavir|SARS-CoV-2 inhibition|59.14|>81|>1.37|
 |Ebselen| SARS-CoV-2 inhibition| 4.67|low toxicity |N/A|
 |N3|SARS-CoV-2 inhibition|16.77|>133|>7.93|
+|Emetine|SARS-CoV-2 inhibition|0.46|56.46|122.74|
+|Homoharringtonine|SARS-CoV-2 inhibition|2.55|59.75|23.43|
 
 Reference:
 
@@ -102,3 +104,5 @@ Reference:
 7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
 
 8. [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
+
+9. [Remdesivir, lopinavir, emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro](https://www.sciencedirect.com/science/article/pii/S016635422030200X?via%3Dihub=)
