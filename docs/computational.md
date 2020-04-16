@@ -27,7 +27,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.90
 
 #### 3. RNA-dependent RNA polymerase AI model
 Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 <=100nM as active).  
-Performance (5-fold cross-validation): AUC avg. = 0.898 
+Performance (5-fold cross-validation): AUC avg. = 0.946
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv)
@@ -35,7 +35,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.898
 
 #### 4. Helicase AI model
 Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 <=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.868
+Performance (5-fold cross-validation): AUC avg. = 0.92
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv)
@@ -43,7 +43,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.868
 
 #### 5. 3C-like protease AI model 
 Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 <=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.832 
+Performance (5-fold cross-validation): AUC avg. = 0.852 
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
