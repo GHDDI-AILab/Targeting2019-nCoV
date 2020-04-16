@@ -33,6 +33,3 @@ theme: readthedocs
 
 plugins:
   - git-revision-date-localized:
-    locale: en
-    type: timeago
-    fallback_to_build_date: true
