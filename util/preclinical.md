@@ -1,8 +1,4 @@
-## COVID-19 preclinical studies 
-
-We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from recent publications. This dataset will be updated continuously.
-
-|  ﻿ Drug Name       |  SARS-CoV-2 EC50(μM)*   |  CC50(μM)*    |  SI     | 
+|  ﻿ Drug Name       |  SARS-CoV-2 EC50/IC50(μM)   |  CC50(μM)    |  SI     | 
 | ---- | --- | --- | --- | 
 |   Ouabain    | <0.097  |  >50    |  >515.5     | 
 |   Digoxin    | 0.19  |  >50    | 256.61  | 
@@ -87,29 +83,3 @@ We are making our best efforts to collect SARS-CoV-2 in vitro experimental resul
 |   Camostat       |  >50    |  >50    |  >1     | 
 |   Lanatoside C       |  >50    |  >50    | 1  | 
 |   Quinacrine hydrochloride       |  >50    | 14.71  |  <0.29      | 
-
-* cell lines and assay conditions used in various studies may be different. 
-
-
----
-Reference:
-
-1. [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
-
-2. [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
-
-3. [FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
-
-4. [HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
-
-5. [Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v3.full.pdf)
-
-6. [The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
-
-7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
-
-8. [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
-
-9. [Remdesivir, lopinavir, emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro](https://www.sciencedirect.com/science/article/pii/S016635422030200X?via%3Dihub=)
-
-10. [The FDA- approved gold drug Auranofin inhibits novel coronavirus (SARS- COV-2) replication and attenuates inflammation in human cells](https://www.biorxiv.org/content/10.1101/2020.04.14.041228v1.full.pdf)
