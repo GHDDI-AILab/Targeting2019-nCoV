@@ -7,13 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <meta name="author" content="David Leon (Dawei Leng)">
+  
   <link rel="shortcut icon" href="../img/favicon.ico">
   <title>COVID-19 GHDDI Computational Studies - Targeting COVID-19 Portal</title>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
-  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
   
   <script>
     // Current page data
@@ -24,7 +25,7 @@
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
   <script src="../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
@@ -35,6 +36,7 @@
 
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
         <a href=".." class="icon icon-home"> Targeting COVID-19 Portal</a>
         <div role="search">
@@ -45,98 +47,93 @@
       </div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-	<ul class="current">
-	  
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="..">Home</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../research_progress/">COVID-19 Worldwide Publications</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
-	    </li>
-          
-            <li class="toctree-l1 current">
-		
-    <a class="current" href="./">COVID-19 GHDDI Computational Studies</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l2"><a href="#ghddi-computational-effort-for-covid-19">GHDDI Computational Effort for COVID-19</a></li>
-    
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../research_progress/">COVID-19 Worldwide Publications</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">COVID-19 GHDDI Computational Studies</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#drug-repurposing-effort">Drug Repurposing Effort</a>
         <ul>
-        
-            <li><a class="toctree-l3" href="#drug-repurposing-effort">Drug Repurposing Effort</a></li>
-        
+    <li class="toctree-l3"><a class="reference internal" href="#a-ligand-based-ai-models">A. Ligand based AI models</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#1-heterogeneous-antiviral-ai-model">1. Heterogeneous antiviral AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#2-phenotypic-antiviral-ai-model">2. Phenotypic antiviral AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#3-rna-dependent-rna-polymerase-ai-model">3. RNA-dependent RNA polymerase AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#4-helicase-ai-model">4. Helicase AI model</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#5-3c-like-protease-ai-model">5. 3C-like protease AI model</a>
+    </li>
         </ul>
-    
-
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../ghddi_news/">COVID-19 GHDDI News</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../contact_us/">COVID-19 Discussion</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../useful_links/">COVID-19 Useful Links</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Literature Review and Data Download</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../CoV_Experiment_Data/">Coronavirus Data Download</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../review_paper/">Coronavirus Review Articles</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../history/">Github History</a>
-	    </li>
-          
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#b-structure-based-none-docking-ai-model">B. Structure based (none-docking) AI model</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#1-rna-dependent-rna-polymeraserdrp-ntp-binding-site">1. RNA-dependent RNA polymerase(RDRP) (NTP binding site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#2-helicase-ntp-binding-site">2. Helicase (NTP binding site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#3-3c-like-protease-catalytic-site">3. 3C-like protease (catalytic site)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#4-papain-like-protease-catalytic-site">4. Papain-like protease (catalytic site)</a>
+    </li>
         </ul>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../ghddi_news/">COVID-19 GHDDI News</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../contact_us/">COVID-19 Discussion</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../useful_links/">COVID-19 Useful Links</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Literature Review and Data Download</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../CoV_Experiment_Data/">Coronavirus Data Download</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../review_paper/">Coronavirus Review Articles</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../history/">Github History</a>
+                    </li>
+                </ul>
       </div>
-      &nbsp;
+    </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
@@ -161,6 +158,7 @@
       
     </li>
   </ul>
+  
   <hr/>
 </div>
           <div role="main">
@@ -189,7 +187,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.90 </p>
 </ul>
 <h4 id="3-rna-dependent-rna-polymerase-ai-model">3. RNA-dependent RNA polymerase AI model</h4>
 <p>Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 &lt;=100nM as active).<br />
-Performance (5-fold cross-validation): AUC avg. = 0.898 </p>
+Performance (5-fold cross-validation): AUC avg. = 0.946</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
@@ -197,7 +195,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.898 </p>
 </ul>
 <h4 id="4-helicase-ai-model">4. Helicase AI model</h4>
 <p>Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 &lt;=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.868</p>
+Performance (5-fold cross-validation): AUC avg. = 0.92</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
@@ -205,7 +203,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.868</p>
 </ul>
 <h4 id="5-3c-like-protease-ai-model">5. 3C-like protease AI model</h4>
 <p>Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 &lt;=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
+Performance (5-fold cross-validation): AUC avg. = 0.852 </p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
@@ -255,7 +253,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
     
   </div>
 
-  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
       
         </div>
@@ -265,7 +263,7 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
 
   </div>
 
-  <div class="rst-versions" role="note" style="cursor: pointer">
+  <div class="rst-versions" role="note" aria-label="versions">
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
@@ -280,6 +278,11 @@ Performance (5-fold cross-validation): AUC avg. = 0.832 </p>
     <script src="../js/theme.js" defer></script>
       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" defer></script>
       <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
 
 </body>
 </html>
