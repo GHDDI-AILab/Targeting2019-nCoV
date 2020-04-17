@@ -2,6 +2,72 @@
 
 [dimensions.ai](https://dimensions.ai) provides a [daily updated list](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=1410737911) of clinical trials for COVID-19. 
 
+## Analysis of Clinical Trial Data
+
+Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the following figures show the distribution of COVID-19 clinical trials around the world and the different types of trials.
+
+![countries](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_countries.png)
+
+![types_of_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_types.png)
+
+Similarily, using the same data, a preliminary small molecule drug list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated weekly.
+
+| Drug               | Count |
+| ------------------ | ----- |
+| Acetylcysteine     | 2     |
+| Anakinra           | 1     |
+| Aviptadil          | 1     |
+| Azithromycin       | 7     |
+| Azvudine           | 3     |
+| Baloxavir          | 1     |
+| Baricitinib        | 1     |
+| Bromhexine         | 1     |
+| Calcium            | 1     |
+| Camostat           | 1     |
+| Cd24fc             | 1     |
+| Chloroquine        | 15    |
+| Colchicine         | 4     |
+| Cpap               | 1     |
+| Darunavir          | 1     |
+| Deferoxamine       | 1     |
+| Defibrotide        | 1     |
+| Dexamethasone      | 2     |
+| Enoxaparin         | 2     |
+| Favipiravir        | 4     |
+| Fingolimod         | 1     |
+| Glucose            | 2     |
+| Gold               | 1     |
+| Hydrogen           | 2     |
+| Hydroxychloroquine | 29    |
+| Ibuprofen          | 1     |
+| Lopinavir          | 26    |
+| Losartan           | 4     |
+| Methylprednisolone | 6     |
+| Nacl               | 1     |
+| Naproxen           | 1     |
+| Omeprazole         | 1     |
+| Oseltamivir        | 1     |
+| Oxygen             | 7     |
+| Ozone              | 1     |
+| Piclidenoson       | 1     |
+| Piperaquine        | 1     |
+| Pirfenidone        | 2     |
+| Potassium          | 1     |
+| Procalcitonin      | 1     |
+| Propofol           | 1     |
+| Remdesivir         | 6     |
+| Ribavirin          | 2     |
+| Ritonavir          | 6     |
+| Ruxolitinib        | 3     |
+| Sargramostim       | 1     |
+| Sildenafil         | 1     |
+| Tetrandrine        | 1     |
+| Thalidomide        | 2     |
+| Tofacitinib        | 1     |
+| Tradipitant        | 1     |
+| Valsartan          | 1     |
+
+
 
 ## Selected Drug information of current ongoing clinical studies on COVID-19
 
