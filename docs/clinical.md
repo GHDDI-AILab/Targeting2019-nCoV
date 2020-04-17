@@ -12,111 +12,61 @@ Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the
 
 Similarily, using the same data, a preliminary small molecule drug list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated weekly.
 
+| Drug               | Count |
+| ------------------ | ----- |
+| Acetylcysteine     | 2     |
+| Anakinra           | 1     |
+| Aviptadil          | 1     |
+| Azithromycin       | 7     |
+| Azvudine           | 3     |
+| Baloxavir          | 1     |
+| Baricitinib        | 1     |
+| Bromhexine         | 1     |
+| Calcium            | 1     |
+| Camostat           | 1     |
+| Cd24fc             | 1     |
+| Chloroquine        | 15    |
+| Colchicine         | 4     |
+| Cpap               | 1     |
+| Darunavir          | 1     |
+| Deferoxamine       | 1     |
+| Defibrotide        | 1     |
+| Dexamethasone      | 2     |
+| Enoxaparin         | 2     |
+| Favipiravir        | 4     |
+| Fingolimod         | 1     |
+| Glucose            | 2     |
+| Gold               | 1     |
+| Hydrogen           | 2     |
+| Hydroxychloroquine | 29    |
+| Ibuprofen          | 1     |
+| Lopinavir          | 26    |
+| Losartan           | 4     |
+| Methylprednisolone | 6     |
+| Nacl               | 1     |
+| Naproxen           | 1     |
+| Omeprazole         | 1     |
+| Oseltamivir        | 1     |
+| Oxygen             | 7     |
+| Ozone              | 1     |
+| Piclidenoson       | 1     |
+| Piperaquine        | 1     |
+| Pirfenidone        | 2     |
+| Potassium          | 1     |
+| Procalcitonin      | 1     |
+| Propofol           | 1     |
+| Remdesivir         | 6     |
+| Ribavirin          | 2     |
+| Ritonavir          | 6     |
+| Ruxolitinib        | 3     |
+| Sargramostim       | 1     |
+| Sildenafil         | 1     |
+| Tetrandrine        | 1     |
+| Thalidomide        | 2     |
+| Tofacitinib        | 1     |
+| Tradipitant        | 1     |
+| Valsartan          | 1     |
 
-|  Drug  | Count  | 
-| ---- | --- | 
-|  chloroquine  | 63  | 
-|  hydroxychloroquine  | 44  | 
-|  ritonavir  | 36  | 
-|  lopinavir  | 34  | 
-|  lopinavir/ritonavir  | 13  | 
-|  azithromycin  | 11  | 
-|  chloroquine phosphate  | 11  | 
-|  oxygen  | 10  | 
-|  neral  | 8  | 
-|  prednisolone  | 7  | 
-|  methylprednisolone  | 7  | 
-|  favipiravir  | 7  | 
-|  remdesivir  | 7  | 
-|  nitric oxide  | 5  | 
-|  losartan  | 4  | 
-|  colchicine  | 4  | 
-|  interferon alpha  | 4  | 
-|  ruxolitinib  | 3  | 
-|  hydrogen  | 3  | 
-|  glucose  | 3  | 
-|  azvudine  | 3  | 
-|  anakinra  | 2  | 
-|  oseltamivir  | 2  | 
-|  ribavirin  | 2  | 
-|  thalidomide  | 2  | 
-|  enoxaparin  | 2  | 
-|  dexamethasone  | 2  | 
-|  calcium  | 2  | 
-|  pirfenidone  | 2  | 
-|  acetylcysteine  | 2  | 
-|  sodium chloride  | 2  | 
-|  baricitinib  | 2  | 
-|  tenofovir  | 2  | 
-|  honey  | 2  | 
-|  baloxavir  | 2  | 
-|  interferon beta  | 2  | 
-|  enoxaparin sodium  | 2  | 
-|  sargramostim  | 1  | 
-|  interferon beta-1a  | 1  | 
-|  interferon beta-1b  | 1  | 
-|  ascorbic acid  | 1  | 
-|  icosapent  | 1  | 
-|  lipoic acid  | 1  | 
-|  valsartan  | 1  | 
-|  sildenafil  | 1  | 
-|  tenofovir disoproxil  | 1  | 
-|  omeprazole  | 1  | 
-|  deferoxamine  | 1  | 
-|  clopidogrel  | 1  | 
-|  naproxen  | 1  | 
-|  propofol  | 1  | 
-|  levamisole  | 1  | 
-|  emtricitabine  | 1  | 
-|  dipyridamole  | 1  | 
-|  formoterol  | 1  | 
-|  ibuprofen  | 1  | 
-|  atorvastatin  | 1  | 
-|  leflunomide  | 1  | 
-|  rabeprazole  | 1  | 
-|  budesonide  | 1  | 
-|  sevoflurane  | 1  | 
-|  desonide  | 1  | 
-|  darunavir  | 1  | 
-|  ciclesonide  | 1  | 
-|  suramin  | 1  | 
-|  defibrotide  | 1  | 
-|  piclidenoson  | 1  | 
-|  rivaroxaban  | 1  | 
-|  aviptadil  | 1  | 
-|  tranilast  | 1  | 
-|  fingolimod  | 1  | 
-|  tofacitinib  | 1  | 
-|  bromhexine  | 1  | 
-|  cobicistat  | 1  | 
-|  nintedanib  | 1  | 
-|  tenofovir alafenamide  | 1  | 
-|  soybean  | 1  | 
-|  hydrogen peroxide  | 1  | 
-|  angiotensin 1-7  | 1  | 
-|  ebastine  | 1  | 
-|  ulinastatin  | 1  | 
-|  ozone  | 1  | 
-|  tradipitant  | 1  | 
-|  artemisinin  | 1  | 
-|  camostat  | 1  | 
-|  piperaquine  | 1  | 
-|  baloxavir marboxil  | 1  | 
-|  tetrandrine  | 1  | 
-|  potassium  | 1  | 
-|  magnesium  | 1  | 
-|  peginterferon lambda-1a  | 1  | 
-|  procalcitonin  | 1  | 
-|  human interleukin-2  | 1  | 
-|  bromhexine hydrochloride  | 1  | 
-|  omate  | 1  | 
-|  piper  | 1  | 
-|  cd24fc  | 1  | 
-|  aescin  | 1  | 
-|  fuzheng huayu  | 1  | 
-|  calcitonin  | 1  | 
-|  sildenafil citrate  | 1  | 
-|  sodium aescinate  | 1  | 
 
 
 ## Selected Drug information of current ongoing clinical studies on COVID-19
