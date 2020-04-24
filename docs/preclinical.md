@@ -163,8 +163,8 @@ Last update: {{ git_revision_date_localized }}
 
 
 
-* cell lines and assay conditions used in various studies may be different.
-* the current table is ranked by potency 
+*   Cell lines and assay conditions used in various studies may be different.
+*   The current table is ranked by potency. 
 
 
 ---
