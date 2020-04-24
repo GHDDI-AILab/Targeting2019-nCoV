@@ -1,5 +1,5 @@
 ## version 0.2.7 [4-24-2020]
-* **UPDATE** updated clinical data
+* **UPDATE** updated clinical page
 
 ## version 0.2.6 [4-17-2020]
 * **NEW** added clinical list and figures from dimensions.ai
