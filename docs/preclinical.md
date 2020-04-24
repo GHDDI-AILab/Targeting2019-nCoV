@@ -185,3 +185,7 @@ Reference:
 9. [Remdesivir, lopinavir, emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro](https://www.sciencedirect.com/science/article/pii/S016635422030200X?via%3Dihub=)
 
 10. [The FDA- approved gold drug Auranofin inhibits novel coronavirus (SARS- COV-2) replication and attenuates inflammation in human cells](https://www.biorxiv.org/content/10.1101/2020.04.14.041228v1.full.pdf)
+
+11. [Identification of inhibitors of SARS-CoV-2 in-vitro cellular toxicity in human (Caco-2) cells using a large scale drug repurposing collection](https://www.researchsquare.com/article/rs-23951/v1)
+
+12. [In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1)
