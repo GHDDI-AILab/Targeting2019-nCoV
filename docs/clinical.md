@@ -12,76 +12,7 @@ Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the
 
 Similarily, using the same data, a preliminary small molecule drug list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated weekly.
 
-
-| Drug               | Count |
-| ------------------ | ----- |
-| Hydroxychloroquine | 42    |
-| Lopinavir          | 34    |
-| Ritonavir          | 29    |
-| Chloroquine        | 20    |
-| Azithromycin       | 11    |
-| Oxygen             | 7     |
-| Remdesivir         | 7     |
-| Methylprednisolone | 6     |
-| Favipiravir        | 5     |
-| Colchicine         | 4     |
-| Losartan           | 4     |
-| Azvudine           | 3     |
-| Glucose            | 3     |
-| Hydrogen           | 3     |
-| Ruxolitinib        | 3     |
-| Acetylcysteine     | 2     |
-| Anakinra           | 2     |
-| Baricitinib        | 2     |
-| Calcium            | 2     |
-| Dexamethasone      | 2     |
-| Enoxaparin         | 2     |
-| Oseltamivir        | 2     |
-| Pirfenidone        | 2     |
-| Ribavirin          | 2     |
-| Tenofovir          | 2     |
-| Thalidomide        | 2     |
-| Atorvastatin       | 1     |
-| Aviptadil          | 1     |
-| Baloxavir          | 1     |
-| Bromhexine         | 1     |
-| Budesonide         | 1     |
-| Camostat           | 1     |
-| Cd24fc             | 1     |
-| Ciclesonide        | 1     |
-| Clopidogrel        | 1     |
-| Cobicistat         | 1     |
-| Cpap               | 1     |
-| Darunavir          | 1     |
-| Deferoxamine       | 1     |
-| Defibrotide        | 1     |
-| Ebastine           | 1     |
-| Emtricitabine      | 1     |
-| Fingolimod         | 1     |
-| Formoterol         | 1     |
-| Gold               | 1     |
-| Ibuprofen          | 1     |
-| Levamisole         | 1     |
-| Magnesium          | 1     |
-| Nacl               | 1     |
-| Naproxen           | 1     |
-| Omeprazole         | 1     |
-| Ozone              | 1     |
-| Piclidenoson       | 1     |
-| Piperaquine        | 1     |
-| Potassium          | 1     |
-| Procalcitonin      | 1     |
-| Propofol           | 1     |
-| Rabeprazole        | 1     |
-| Rivaroxaban        | 1     |
-| Sargramostim       | 1     |
-| Sevoflurane        | 1     |
-| Sildenafil         | 1     |
-| Tetrandrine        | 1     |
-| Tofacitinib        | 1     |
-| Tradipitant        | 1     |
-| Valsartan          | 1     |
-
+![therapeutics_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_drugs_treatment.png)
 
 
 
