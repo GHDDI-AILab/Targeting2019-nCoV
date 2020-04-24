@@ -1,3 +1,9 @@
+## version 0.2.7 [4-24-2020]
+* **UPDATE** updated clinical data
+
+## version 0.2.6 [4-17-2020]
+* **NEW** added clinical list and figures from dimensions.ai
+
 ## version 0.2.5 [4-8-2020]
 * **UPDATE** updated preclinical data
 
