@@ -1,3 +1,6 @@
+## version 0.2.8 [4-28-2020]
+* **UPDATE** updated computation model results, added benchmark
+
 ## version 0.2.7 [4-24-2020]
 * **UPDATE** updated clinical page
 
