@@ -51,7 +51,8 @@ Performance (5-fold cross-validation): AUC avg. = 0.852
 
 
 ### B. Structure based (none-docking) AI model
-The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data for up to 2 million molecules. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set with average AUC of 0.98 and true negative internal benchmark set with average AUC of 0.8. Given a target 3D structure, the center coordinate(x, y, z) of the binding pocket, and screening library SMILES list as input, we are able to screen all 10K compounds in 4 minutes, which is exponentially faster than traditional docking screening methods. This is a beta testing version of this model, the results will be constantly updated after every model upgrade. The sample prediction results for various targets of nCoV-SARS-2 are listed below.
+The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data for up to 2 million molecules. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set with average AUC of 0.98 and true negative internal benchmark set with average AUC of 0.8. Given a target 3D structure, the center coordinate(x, y, z) of the binding pocket, and screening library SMILES list as input. 
+We are able to screen every 10K compounds in 4 minutes, which is exponentially faster than traditional docking screening methods. This is a beta testing version of this model, the results will be constantly updated upon each model upgrade. The sample prediction results for various targets of nCoV-SARS-2 and related host targets are listed below. Homology model is used if crystal structure is not available for specific target. 
 
 #### 1. RNA-dependent RNA polymerase(RDRP) (NTP binding site)  
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_top200_2.csv)
@@ -68,4 +69,11 @@ The structure based AI model was constructed based on GHDDI developed HAG-net. T
 #### 4. Papain-like protease (catalytic site)  
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_top200_2.csv)
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_clusters_2.csv)
+
+#### 5. TMPRSS2 (catalytic site)
+* [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/TMPRSS2_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/TMPRSS2_stock_clusters_2.csv)
+
+#### Benchmark
+Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be [download here](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vina_dock_all_drugbank515.csv). Computational time for screening each target is about ~36 hours on 12 CPU in parallel. 
 
