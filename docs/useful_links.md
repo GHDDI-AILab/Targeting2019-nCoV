@@ -28,7 +28,6 @@ Useful sites for drug discovery researchers
 
  * Clinical Trial Information [Clinical Trials](https://clinicaltrials.gov/)
  
-
  * Drug Information [Drugbank](https://www.drugbank.ca/)
 
  * Drug Side Effect Resource [SIDER](http://sideeffects.embl.de/)
@@ -66,8 +65,7 @@ Useful sites for drug discovery researchers
 
  * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
  
-<<<<<<< HEAD
+
  * [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
-=======
- * Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7) [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
->>>>>>> master
+
+
