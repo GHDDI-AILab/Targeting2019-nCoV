@@ -5,6 +5,9 @@
  
 ## Selected publications
 
+
+Last update: {{ git_revision_date_localized }}
+
 ---
 
 ## 2020
