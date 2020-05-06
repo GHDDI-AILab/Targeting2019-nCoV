@@ -1,5 +1,7 @@
 # Top Review Articles on Viral Infections
 
+Last update: {{ git_revision_date_localized }}
+
 ## 2020
 
  * ["A systems approach to infectious disease"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ASystemsApproachToInfectiousDisease.pdf)
