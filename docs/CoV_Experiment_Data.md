@@ -83,7 +83,8 @@ The following figure is the keyword relationship network:
    
  * [CAS COVID-19 Antiviral Candidate Compounds Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/antiviral_with_properties.sdf)
    
-   
+Last update: {{ git_revision_date_localized }}
+
 <br>
 <br>
 

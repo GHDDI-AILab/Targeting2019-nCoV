@@ -1,7 +1,6 @@
 ![logo](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
-Last update: {{ git_revision_date_localized }}
 
 This is the public information sharing portal and data repository for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org). We are making our drug discovery capabilities and resources available at no cost to all researchers who are developing new treatments for COVID-19. We hope this initiative will accelerate the process of drug discovery for this deadly viral disease. The initial effort includes the following :
 
@@ -29,3 +28,7 @@ We're from GHDDI (The Global Health Drug Discovery Institute). GHDDI was jointly
 
 ### Disclaimer
 The data from this website is for research purpose only, may not be used for clinical advice. GHDDI is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information.
+
+
+<br>
+Last update: {{ git_revision_date_localized }}

@@ -69,3 +69,5 @@ Useful sites for drug discovery researchers
  * [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
 
 
+<br>
+Last update: {{ git_revision_date_localized }}

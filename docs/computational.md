@@ -77,3 +77,6 @@ We are able to screen every 10K compounds in 4 minutes, which is exponentially f
 #### Benchmark
 Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be [download here](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vina_dock_all_drugbank515.csv). Computational time for screening each target is about ~36 hours on 12 CPU in parallel. 
 
+
+<br>
+Last update: {{ git_revision_date_localized }}
