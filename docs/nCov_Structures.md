@@ -256,3 +256,5 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     ![transferase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/transferase.png)
     
 
+<br>
+Last update: {{ git_revision_date_localized }}
