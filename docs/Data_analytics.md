@@ -104,3 +104,7 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 
 *Compounds selected based on best IC-50 measurement from respective assays.
 
+
+<br>
+
+Last update: {{ git_revision_date_localized }}
