@@ -1,3 +1,7 @@
+## version 0.2.9 [5-6-2020]
+* **UPDATE** Update clinical page automatically
+* **UPDATE** Provide download link for clinical trial treatments list
+
 ## version 0.2.8 [4-28-2020]
 * **UPDATE** updated computation model results, added benchmark
 
