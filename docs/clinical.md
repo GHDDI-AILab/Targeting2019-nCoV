@@ -56,6 +56,8 @@ The information below is collected from recent research articles, news articles,
 
 ---
 
+Last update: {{ git_revision_date_localized }}
+
 <br>
 
 <br>
