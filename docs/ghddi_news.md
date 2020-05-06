@@ -74,3 +74,7 @@ February 13, 2020
 #### 财新
 [清华大学药学院院长剖析新冠“神药”](http://www.caixin.com/2020-02-07/101512780.html?cxw=Android&Sfrom=Wechat&originReferrer=Androidshare)
 2020年2月7日
+
+
+<br>
+Last update: {{ git_revision_date_localized }}
