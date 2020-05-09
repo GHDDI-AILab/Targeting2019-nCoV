@@ -19,31 +19,31 @@ Performance (5-fold cross-validation): AUC avg. = 0.94
 
 #### 2. Phenotypic antiviral AI model
 Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (EC50 <=100nM for at least one viral species as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.90 
+Performance (5-fold cross-validation): AUC avg. = 0.908
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_top200.csv)
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_topclusters.csv)
 
 #### 3. RNA-dependent RNA polymerase AI model
-Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 <=100nM as active).  
-Performance (5-fold cross-validation): AUC avg. = 0.946
+Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 306 active and 277 inactive molecules (IC50 <=1μM as active).  
+Performance (5-fold cross-validation): AUC avg. = 0.952
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv)
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_topclusters.csv)
 
 #### 4. Helicase AI model
-Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 <=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.92
+Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 878 compounds with 127 active and 751 inactive molecules (IC50 <=1μM as active). 
+Performance (5-fold cross-validation): AUC avg. = 0.926
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv)
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_topclusters.csv)
 
 #### 5. 3C-like protease AI model 
-Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 <=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.852 
+Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 132 active and 325 inactive molecules (IC50 <=1μM as active). 
+Performance (5-fold cross-validation): AUC avg. = 0.89 
 
 * [Active Known Drugs in Training data SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx)
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
