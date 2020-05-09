@@ -177,31 +177,31 @@ Performance (5-fold cross-validation): AUC avg. = 0.94</p>
 </ul>
 <h4 id="2-phenotypic-antiviral-ai-model">2. Phenotypic antiviral AI model</h4>
 <p>Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (EC50 &lt;=100nM for at least one viral species as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.90 </p>
+Performance (5-fold cross-validation): AUC avg. = 0.908</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_topclusters.csv">Predicted Active Clusters SMILES Download</a></li>
 </ul>
 <h4 id="3-rna-dependent-rna-polymerase-ai-model">3. RNA-dependent RNA polymerase AI model</h4>
-<p>Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 60 active and 517 inactive molecules (IC50 &lt;=100nM as active).<br />
-Performance (5-fold cross-validation): AUC avg. = 0.946</p>
+<p>Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 306 active and 277 inactive molecules (IC50 &lt;=1μM as active).<br />
+Performance (5-fold cross-validation): AUC avg. = 0.952</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_topclusters.csv">Predicted Active Clusters SMILES Download</a></li>
 </ul>
 <h4 id="4-helicase-ai-model">4. Helicase AI model</h4>
-<p>Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 788 compounds with 42 active and 746 inactive molecules (IC50 &lt;=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.92</p>
+<p>Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 878 compounds with 127 active and 751 inactive molecules (IC50 &lt;=1μM as active). 
+Performance (5-fold cross-validation): AUC avg. = 0.926</p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_topclusters.csv">Predicted Active Clusters SMILES Download</a></li>
 </ul>
 <h4 id="5-3c-like-protease-ai-model">5. 3C-like protease AI model</h4>
-<p>Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 58 active and 399 inactive molecules (IC50 &lt;=100nM as active). 
-Performance (5-fold cross-validation): AUC avg. = 0.852 </p>
+<p>Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 132 active and 325 inactive molecules (IC50 &lt;=1μM as active). 
+Performance (5-fold cross-validation): AUC avg. = 0.89 </p>
 <ul>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx">Active Known Drugs in Training data SMILES Download</a></li>
 <li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv">Top Predicted Active Compounds SMILES Download</a></li>
@@ -238,7 +238,7 @@ We are able to screen every 10K compounds in 4 minutes, which is exponentially f
 <h4 id="benchmark">Benchmark</h4>
 <p>Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be <a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vina_dock_all_drugbank515.csv">download here</a>. Computational time for screening each target is about ~36 hours on 12 CPU in parallel. </p>
 <p><br>
-Last update: May 6, 2020</p>
+Last update: May 9, 2020</p>
               
             </div>
           </div>
