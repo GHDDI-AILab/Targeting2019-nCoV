@@ -1,3 +1,7 @@
+## version 0.3.1 [6-10-2020]
+* **UPDATE** Updated clinical page backend code
+* **UPDATE** Updated hyperlinks
+
 ## version 0.3.0 [5-9-2020]
 * **UPDATE** Updated clinical page backend code and settings
 * **UPDATE** Updated computational models and metrics
