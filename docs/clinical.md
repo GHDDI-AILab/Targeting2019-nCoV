@@ -1,6 +1,6 @@
 ## Current worldwide clinical trials on COVID-19
 
-[dimensions.ai](https://dimensions.ai) provides a [daily updated list](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=1410737911) of clinical trials for COVID-19. 
+[dimensions.ai](https://dimensions.ai) provides a [daily updated list](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063) of clinical trials for COVID-19. 
 
 ## Analysis of Clinical Trial Data
 
