@@ -1,16 +1,16 @@
-## version 0.3.2 [6-19-2020]
+## version 0.4.0 [6-19-2020]
 * **NEW** VS tool now available (BETA)
-* **UPDATE** Markdown code general updates
+* **UPDATE** General markdown page updates
 
-## version 0.3.1 [6-10-2020]
+## version 0.3.2 [6-10-2020]
 * **UPDATE** Updated clinical page backend code
 * **UPDATE** Updated hyperlinks
 
-## version 0.3.0 [5-9-2020]
+## version 0.3.1 [5-9-2020]
 * **UPDATE** Updated clinical page backend code and settings
 * **UPDATE** Updated computational models and metrics
 
-## version 0.2.9 [5-6-2020]
+## version 0.3.0 [5-6-2020]
 * **NEW** Updated clinical page automatically
 * **UPDATE** Provide download link for clinical trial treatments list
 * **UPDATE** General markdown page updates
