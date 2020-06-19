@@ -1,3 +1,7 @@
+## version 0.3.2 [6-19-2020]
+* **NEW** VS tool now available (BETA)
+* **UPDATE** Markdown code general updates
+
 ## version 0.3.1 [6-10-2020]
 * **UPDATE** Updated clinical page backend code
 * **UPDATE** Updated hyperlinks
