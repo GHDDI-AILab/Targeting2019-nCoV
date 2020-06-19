@@ -4,7 +4,7 @@ We have built homology models for SARS-CoV-2 major targets that are highly homol
 
 The SWISS-MODEL team has also performed comprehensive homology modeling efforts and contacted us to merge their effort [**here**](https://swissmodel.expasy.org/repository/species/2697049) to this project. They modelled the full SARS-CoV-2 proteome based on the NCBI reference sequence NC_045512 which is identical to GenBank entry MN908947, and annotations from UniProt. 
 
-The Oak Ridge National Laboratory has all mature proteins from SARS-CoV-2 predicted using an ensemble workflow that combines the state-of-the-art methods of protein structure prediction[**here**](https://compsysbio.ornl.gov/covid-19/covid-19-structome/).
+The Oak Ridge National Laboratory has all mature proteins from SARS-CoV-2 predicted using an ensemble workflow that combines the state-of-the-art methods of protein structure prediction [**here**](https://compsysbio.ornl.gov/covid-19/covid-19-structome/).
 
 The Protein Data Bank has also provided SARS-CoV-2 resource download for all currently solved [**SARS-CoV-2 structures**](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true). 
 
