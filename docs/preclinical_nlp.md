@@ -2,7 +2,7 @@
 
 **Preclinical In Vitro Studies**
 
-The following is an updated list of studies publishing in vitro experimental results. The studies were complied using several well known preprint and publication databases relating to SARS-CoV-2 and COVID-19. The drug names and numerical EC50/IC50 results are found using simple NLP scripts. This list should be used as a reference only and is neither 100% accurate nor complete.
+The following is an updated list of studies publishing in vitro experimental results. The studies were complied using several well known preprint and publication databases relating to SARS-CoV-2 and COVID-19. The drug names and numerical EC50/IC50 results are found using simple NLP scripts. It should be noted that this list is to be used as a reference only, and the drug names and extracted numerical values are neither 100% accurate nor complete.
 
 **Embed document here**
 
