@@ -11,7 +11,7 @@ extra_javascript:
 nav:
     - Home: index.md
     - COVID-19 Worldwide Clinical Trials: clinical.md
-    - COVID-19 Worldwide Preclinical Studies: preclinical.md
+    - COVID-19 Worldwide Preclinical Studies: preclinical_nlp.md
     - COVID-19 Worldwide Publications: research_progress.md
     - COVID-19 GHDDI Data Analytics: Data_analytics.md
     - COVID-19 GHDDI Structure modeling: nCov_Structures.md
