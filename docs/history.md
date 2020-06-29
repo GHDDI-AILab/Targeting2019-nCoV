@@ -1,3 +1,8 @@
+## version 0.4.1 [6-29-2020]
+* **NEW**: NLP preclinical results published (V1)
+* **UPDATE**: VS tool backend updates (BETAv2)
+* **UPDATE**: General markdown page updates
+
 ## version 0.4.0 [6-19-2020]
 * **NEW**: VS tool now available (BETA)
 * **UPDATE**: General markdown page updates
