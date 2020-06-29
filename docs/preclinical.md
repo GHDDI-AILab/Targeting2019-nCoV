@@ -1,8 +1,16 @@
 ## COVID-19 preclinical studies 
 
+**Preclinical In Vitro Studies**
+
+The following is an updated list of studies with published in vitro experimental results. The studies were complied using several well known preprint and publication databases relating to SARS-CoV-2 and COVID-19. Drug names and numerical EC50/IC50 results were extracted using simple NLP scripts along with a correlation label. An indirect correlation means that although a drug name was extracted, it could not be mapped to the experimental value using our current algorithm. It should be noted that this list is to be used only as a reference for further investigation, and the drug names and extracted numerical values are neither 100% accurate nor complete.
+
+<iframe src="http://cdn-mg.kmoneyapps.ml/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
+
+---
+
 We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from recent publications. This dataset will be updated continuously.
 
-Last update: {{ git_revision_date_localized }}
+Last Updated: April 24, 2020
 
 |  Rank_ID  | Drug Name  | SARS-CoV-2 EC50/IC50(μM)  | CC50(μM)  | SI  | 
 | ---- | --- | --- | --- | --- | 
@@ -193,3 +201,9 @@ Reference:
 11. [Identification of inhibitors of SARS-CoV-2 in-vitro cellular toxicity in human (Caco-2) cells using a large scale drug repurposing collection](https://www.researchsquare.com/article/rs-23951/v1)
 
 12. [In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1)
+
+
+<br>
+
+
+Last update: {{ git_revision_date_localized }}
