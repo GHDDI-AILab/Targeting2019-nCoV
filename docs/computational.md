@@ -4,7 +4,7 @@ We continuously publish our computational drug discovery efforts including AI ba
 
 ## GHDDI Web Virtual Screening Service for COVID-19
 
-[Our web service is now open and can be used as a virtual screening tool.](http://aidd.ghddi.org/covid19/)
+[Our web service is now available and can be used as a virtual screening tool.](http://aidd.ghddi.org/covid19/)
 
 
 ## Drug Repurposing Effort 
