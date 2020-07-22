@@ -10,7 +10,7 @@ Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the
 
 ![types_of_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_types.png)
 
-Download links for all three types of clinical trials are below.
+Download links for all three types of clinical trials are listed below.
 
 [Download Treatment list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
 
