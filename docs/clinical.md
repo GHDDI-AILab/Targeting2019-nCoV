@@ -10,13 +10,16 @@ Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the
 
 ![types_of_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_types.png)
 
-Similarily, using the same data, a preliminary small molecule treatment list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated daily.
+Download links for all three types of clinical trials are below.
 
 [Download Treatment list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
 
 [Download Biologics Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
 
 [Download Vaccine Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+
+
+Similarily, using the same data, a preliminary small molecule treatment list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated daily. The list for this figure is available for download in the Treatment list link above.
 
 ![therapeutics_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_drugs_treatment.png)
 
