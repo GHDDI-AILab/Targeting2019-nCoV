@@ -14,6 +14,10 @@ Similarily, using the same data, a preliminary small molecule treatment list wit
 
 [Download Treatment list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
 
+[Download Biologics Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
+
+[Download Vaccine Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+
 ![therapeutics_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_drugs_treatment.png)
 
 
