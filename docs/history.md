@@ -1,5 +1,13 @@
+## version 0.4.3 [7-22-2020]
+* **UPDATE**: Clinical trial biologics and vaccine data
+
+## version 0.4.2 [7-9-2020]
+* **UPDATE**: VS tool general updates, out of BETA 
+* **UPDATE**: Clinical trial backend update
+* **UPDATE**: Preclinical backend updates 
+
 ## version 0.4.1 [6-29-2020]
-* **NEW**: NLP preclinical results published (V1)
+* **NEW**: NLP preclinical results published (v1)
 * **UPDATE**: VS tool backend updates (BETAv2)
 * **UPDATE**: General markdown page updates
 
