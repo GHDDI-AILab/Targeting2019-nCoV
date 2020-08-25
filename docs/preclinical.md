@@ -269,6 +269,7 @@ Last Updated: August 25, 2020
 *   The current table is ranked by potency. 
 
 ---
+
 Reference:
 
 1. [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
