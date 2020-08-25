@@ -75,9 +75,7 @@ Last Updated: April 24, 2020
 |  59  | KW 8232  | 1.2  | N/A  | N/A  |   |   |   |   |   |   |   | 
 |  60  | N-tert-Butylisoquine  | 1.2  | N/A  | N/A  |   |   |   |   |   |   |   | 
 |  61  | Remdesivir  | 1.3  | >50  | 38.5  |   |   |   |   |   |   |   | 
-|  62  | Z-Gly-Leu-
-Phe-
-chloromethyl ketone  | 1.3  | N/A  | N/A  |   |   |   |   |   |   |   | 
+|  62  | Z-Gly-Leu-Phe-chloromethyl ketone  | 1.3  | N/A  | N/A  |   |   |   |   |   |   |   | 
 |  63  | ZK-93423  | 1.34  | 0.91  | 0.68  |   |   |   |   |   |   |   | 
 |  64  | VPS34 Inhibitor 1   | 1.4  | N/A  | N/A  |   |   |   |   |   |   |   | 
 |  65  | Almitrine  | 1.42  | 102.2  | 71.97  |   |   |   |   |   |   |   | 
