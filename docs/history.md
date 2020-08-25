@@ -1,3 +1,10 @@
+## version 0.4.5 [8-25-2020]
+* **UPDATE**: Updated preclinical list
+* **UPDATE**: Preclinical NLP backend updates
+
+## version 0.4.4 [7-27-2020]
+* **UPDATE**: DME updates, officially published
+
 ## version 0.4.3 [7-22-2020]
 * **UPDATE**: Clinical trial biologics and vaccine data
 
