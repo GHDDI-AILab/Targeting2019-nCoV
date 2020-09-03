@@ -1,3 +1,6 @@
+## version 0.4.6 [9-3-2020]
+* **UPDATE**: Added network-based model to computation page (DME update pending)
+
 ## version 0.4.5 [8-25-2020]
 * **UPDATE**: Updated preclinical list
 * **UPDATE**: Preclinical NLP backend updates
