@@ -3,11 +3,6 @@
 ---
 ### Press Release In English 
 
-#### People’s Daily
-[GHDDI, Tsinghua scientists open drug research resources to combat pneumonia outbreak](
-https://peoplesdaily.pdnews.cn/2020/01/28/china/ghddi-tsinghua-scientists-open-drug-research-resources-to-combat-pneumonia-outbreak-120226.html)
-January 28, 2020
-
 #### CGTN
 [Chinese drug research center shares resources with scientists](https://news.cgtn.com/news/2020-01-29/Chinese-drug-research-center-shares-resources-with-scientists-NErULqIuRi/index.html)
 January 29, 2020
