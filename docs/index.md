@@ -6,7 +6,7 @@ This is the public information sharing portal and data repository for the drug d
 
 1) GHDDI will make its high throughput screening platform and multiple compound libraries available to all researchers for target-based or phenotypic-based screens. These compound libraries include the [ReFRAME](https://reframedb.org/) compound library (the world’s largest collection of its kind, containing over 12,000 known drugs, most of which have gone through Phase I clinical studies), a diversity-based synthetic compound library, a natural product library, a traditional Chinese medicine extract library, etc. We welcome research groups with high quality COVID-19 related enzymatic assays or phenotypic assays to discuss long term collaboration plans for ReFrame library screening. 
 
-2) GHDDI will make its COVID-19 [Drug Discovery Cloud Computing System on Alibaba Cloud](https://www.alibabacloud.com/solutions/lifesciences-ehpc) available to worldwide researchers for free including:
+2) GHDDI will make its COVID-19 resources available to worldwide researchers for free including:
     
  * GHDDI COVID-19 Data Repositories: antiviral pharmacology database, 3D structure data for SARS-CoV-2 targets and related host targets and virtual compound libraries covering millions of commercially available compounds; 
     
