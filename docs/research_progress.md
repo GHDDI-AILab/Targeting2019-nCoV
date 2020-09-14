@@ -1,8 +1,19 @@
 ## COVID-19 publication feeds
 
  * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and other research items updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/).
- 
- 
+
+
+## NLP Topic Model
+
+The table below shows recommended papers from an optimized topic model using literature data aggregated from different sources such as BioRxiV and PubMed. Some of the topics sorted in this optimized model did not meet the filter requirements and were removed. There are a total of 20 topics shown in this tabulated table, and the top ten papers are shown in each topic tab. This topic model results will be updated daily, and the model will be updated monthly.
+
+<iframe src="https://mg.k-global-cdn.ml/ldatopics.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
+Additionally, the two figures below show the overall monthly trend for each topic. The top figure shows topic per month while the bottom figure shows the cumulative amount of papers published on each topic every month.
+
+![nlpfigure1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_nlp_tm1.png)
+
+![nlpfigure2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_nlp_tm2.png)
+
 ## Selected publications
 
 
