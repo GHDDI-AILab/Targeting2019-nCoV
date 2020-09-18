@@ -1,3 +1,6 @@
+## version 0.4.7 [9-18-2020]
+* **UPDATE**: Added NLP topic model to publications page
+
 ## version 0.4.6 [9-3-2020]
 * **UPDATE**: Added network-based model to computation page (DME update pending)
 
