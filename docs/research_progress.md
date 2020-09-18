@@ -5,21 +5,17 @@
 
 ## NLP Topic Model
 
-The table below shows recommended papers from an optimized topic model using literature data aggregated from different sources such as BioRxiV and PubMed. Some of the topics sorted in this optimized model did not meet the filter requirements and were removed. There are a total of 20 topics shown in this tabulated table, and the top ten papers are shown in each topic tab. This topic model results will be updated daily, and the model will be updated monthly.
+The table below shows recommended papers from an optimized topic model using literature data aggregated from different sources such as BioRxiV and PubMed. Some of the topics sorted in this optimized model did not meet the filter requirements and were removed. There are a total of 20 topics shown in this tabulated table, and the top ten papers are displayed in each topic tab. This topic model results will be updated daily, and the model itself will be updated monthly. Our NLP topic model is not guaranteed to be 100% accurate for each topic's recommendations, so this table should be used as a reference for further reading.
 
 <iframe src="https://mg.k-global-cdn.ml/ldatopics.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
-Additionally, the two figures below show the overall monthly trend for each topic. The top figure shows topic per month while the bottom figure shows the cumulative amount of papers published on each topic every month.
 
-![nlpfigure1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_nlp_tm1.png)
-
-![nlpfigure2](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_nlp_tm2.png)
+---
 
 ## Selected publications
 
 
-Last update: {{ git_revision_date_localized }}
+Last update: March 23, 2020
 
----
 
 ## 2020
 
