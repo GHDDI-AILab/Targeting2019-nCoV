@@ -1,3 +1,9 @@
+## version 0.4.9 [9-28-2020]
+* **UPDATE**: Finalize network-based model DME page output
+
+## version 0.4.8 [9-21-2020]
+* **UPDATE**: Network model DME page v1
+
 ## version 0.4.7 [9-18-2020]
 * **UPDATE**: Added NLP topic model to publications page
 
