@@ -9,7 +9,7 @@ The following is an updated list of studies with published in vitro experimental
 
 We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from recent publications. This dataset will be updated continuously.
 
-Last Updated: August 25, 2020
+Last Updated: {{ git_revision_date_localized }}
 
 | Rank_ID | Drug Name                                                    | SARS-CoV-2 EC50/IC50(μM) | CC50(μM)     | SI      |
 | ------- | ------------------------------------------------------------ | ------------------------ | ------------ | ------- |
@@ -303,6 +303,3 @@ Reference:
 15. [A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals](https://www.biorxiv.org/content/10.1101/2020.04.16.044016v1)
 
 <br>
-
-
-Last update: {{ git_revision_date_localized }}
