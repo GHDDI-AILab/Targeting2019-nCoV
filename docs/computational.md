@@ -55,9 +55,9 @@ Performance (5-fold cross-validation): AUC avg. = 0.89
 * [Predicted Active Clusters SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
 
 
-### B. Structure based (none-docking) AI model
-The structure based AI model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data for up to 2 million molecules. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set with average AUC of 0.98 and true negative internal benchmark set with average AUC of 0.8. Given a target 3D structure, the center coordinate(x, y, z) of the binding pocket, and screening library SMILES list as input. 
-We are able to screen every 10K compounds in 4 minutes, which is exponentially faster than traditional docking screening methods. This is a beta testing version of this model, the results will be constantly updated upon each model upgrade. The sample prediction results for various targets of SARS-CoV-2 and related host targets are listed below. Homology model is used if crystal structure is not available for specific target. 
+### B. Structure based AI model
+This model was constructed based on GHDDI developed HAG-net. The model was trained based on all existing drug targets 3D information and their related biochemical data for up to 2 million molecules. The model is universal for all targets with 3D structures. The model performance is evaluated using DUD.E set with average AUC of 0.98 and true negative internal benchmark set with average AUC of 0.8. Given a target 3D structure, the center coordinate(x, y, z) of the binding pocket, and screening library SMILES list as input. 
+
 
 #### 1. SARS-CoV-2 RNA-dependent RNA polymerase(RDRP) (NTP binding site)  
 * [Top Predicted Active Compounds SMILES Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_top200_2.csv)
