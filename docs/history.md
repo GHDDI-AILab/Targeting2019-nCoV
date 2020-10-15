@@ -1,3 +1,7 @@
+## version 0.4.10 [10-15-2020]
+* **UPDATE**: Content maintenance 
+* **UPDATE**: Automatic updates backend updates 
+
 ## version 0.4.9 [9-28-2020]
 * **UPDATE**: Finalize network-based model DME page output
 
