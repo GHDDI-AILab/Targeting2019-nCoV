@@ -82,6 +82,8 @@ This model was constructed based on GHDDI developed HAG-net. The model was train
 #### Benchmark
 Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be [download here](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vina_dock_all_drugbank515.csv). Computational time for screening each target is about ~36 hours on 12 CPU in parallel. 
 
+![Docking benchmark](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/docking.jpeg)
+
 
 ### C. Network based AI model 
 We have curated thousands of antiviral compounds and respective virus species available for search based on in vitro viral infection assay results and in vivo results. In addition, we have constructed an antiviral compound-phenotype network AI model based on this data and predicted untested antiviral activities of these compounds. The network based AI model was proposed as a matrix completion model based on GHDDI’s HAG-net system. The model was trained over 19308 subgraphs made up of compound-phenotype pairs on the bipartite interaction network. The training dataset contains 6189 active (IC50<=1uM) interaction pairs and 13119 inactive (IC50>1uM) pairs. The model shows an AUC of 0.95 over 4827 testing set compound-phenotype relations. The experimentally observed and AI predicted antiviral activities are available to query, and each compound-phenotype relation is shown as a probability score between 1 (active) and 0 (inactive).
