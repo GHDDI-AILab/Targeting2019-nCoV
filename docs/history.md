@@ -1,3 +1,6 @@
+## version 0.4.11 [10-20-2020]
+* **UPDATE**: Added computational docking benchmark
+
 ## version 0.4.10 [10-15-2020]
 * **UPDATE**: Content maintenance 
 * **UPDATE**: Automatic updates backend updates 
