@@ -66,20 +66,6 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 | Recombinant protein subunits       | S(RBD)‐Fc, S1(358–588)‐Fc, S(377–588)‐Fc and rRBD                 |
 
 
-## Biological Processes of coronavirus infection
-
-The targetscape of SARS virus within the cell is provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm)
-
-![sars1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-
-The targetscape of MERS virus within the cell is provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is shown below.
-
-![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-
-The targetscape of nCov provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is also shown below.
-
-![ncov1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
-
 ---
 
 ## List of Host Targets related to SARS 
