@@ -70,15 +70,15 @@ This information comes from Table 2 of the review article by A. Zumla et al., 20
 
 The targetscape of SARS virus within the cell is provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm)
 
-![sars1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_sars.png)
+![sars1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
 
 The targetscape of MERS virus within the cell is provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is shown below.
 
-![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_mers.png)
+![mers1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
 
 The targetscape of nCov provided by [Clarivate Analytics](http://clarivate.com.cn/coronavirus-resources/drug031.htm), is also shown below.
 
-![ncov1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_target_ncov.jpg)
+![ncov1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/)
 
 ---
 
