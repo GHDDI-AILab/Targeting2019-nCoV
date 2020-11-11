@@ -6,7 +6,7 @@
 
 Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the following figures show the distribution of COVID-19 clinical trials around the world and the different types of trials. These statistics are synchronized with each update from the [figshare](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063) table. 
 
-Figures Last Updated: September 17, 2020
+Figures Last Updated: October 16, 2020
 
 ![countries](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_countries.png)
 
@@ -74,4 +74,3 @@ Last update: {{ git_revision_date_localized }}
 <br>
 
 Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
-

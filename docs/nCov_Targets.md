@@ -57,6 +57,7 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 
 
 ---
+
 ## List of experimentally verified coronavirus-host interactions 
 
 82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.
@@ -65,4 +66,5 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 
 
 <br>
+
 Last update: {{ git_revision_date_localized }}
