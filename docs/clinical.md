@@ -74,4 +74,3 @@ Last update: {{ git_revision_date_localized }}
 <br>
 
 Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
-
