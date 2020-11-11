@@ -5,7 +5,9 @@
 
 ## Data analysis results from previous coronavirus related drug discovery records
 
+
 A collection of drug candidates with previously published positive coronavirus experimental results.
+
 
 | Drug name                     | DrugBank ID                                      | Mechanism of action                                          | Experimental activity                                        | Methods                                               | Measurement | Value    | Unit |
 | ----------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------- | ----------- | -------- | ---- |
@@ -25,10 +27,13 @@ A collection of drug candidates with previously published positive coronavirus e
 | Azithromycin                  | [DB00207](https://www.drugbank.ca/drugs/DB00207) | Nonsense Mutation Suppressors;50S Ribosomal Protein Inhibitors | Middle East respiratory syndrome coronavirus (MERS-CoV) remission/reduction, IN VITRO | Luciferine/luciferase assay                           | IC-50       | 1.00E-07 | M    |
 | cyclosporin                   | [DB00091](https://www.drugbank.ca/drugs/DB00091) | Cyclophilin Inhibitors;Mitochondrial Permeability Transition (MPT) Inhibitors | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO | RNA assay                                             | IC-50       | 8.00E-07 | M    |
 
+
 ## Broad-spectrum antiviral data analysis results
+
 
 Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified 51 molecules against at least 5 virus species. 
 ![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+
 
 | Drug name | ID | Number of virus species | Virus species list | Discovered MOA |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -83,7 +88,6 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 | HPMPA-(S) | [CID: 72253](https://pubchem.ncbi.nlm.nih.gov/compound/72253) | 5 | VZV;HSV;EBV;CMV;ADV |  |
 | Oseltamivir | [DB00198](https://www.drugbank.ca/drugs/DB00198) | 5 | FLUAV;FLU;Avian flu;FLUBV;Parainfluenza virus | Neuraminidase (Sialidase) (Influenza Virus) Inhibitors |
 | LDC-4297 | [CID: 71730493](https://pubchem.ncbi.nlm.nih.gov/compound/71730493) | 5 | FLUAV;CMV;HSV;VZV;ADV | Signal Transduction Modulators;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Apoptosis Inducers |
-
 
 
 ##  Top antiviral candidates with RDRP inhibition MOA selected from different assays
