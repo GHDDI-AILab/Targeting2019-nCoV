@@ -1,3 +1,6 @@
+## version 0.4.12 [11-11-2020]
+* **NEW**: Fixed markdown formatting for automation 
+
 ## version 0.4.11 [10-20-2020]
 * **UPDATE**: Added computational docking benchmark
 
