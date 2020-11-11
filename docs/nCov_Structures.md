@@ -10,7 +10,9 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
 
 
 ---
+
 ### Surface Glycoprotein, Spike Protein
+
      MFVFLVLLPL VSSQCVNLTT RTQLPPAYTN SFTRGVYYPD KVFRSSVLHS TQDLFLPFFS
      NVTWFHAIHV SGTNGTKRFD NPVLPFNDGV YFASTEKSNI IRGWIFGTTL DSKTQSLLIV
      NNATNVVIKV CEFQFCNDPF LGVYYHKNNK SWMESEFRVY SSANNCTFEY VSQPFLMDLE
@@ -54,14 +56,17 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
 ---
 
 ### Envelope protein, E Protein
+
      MYSFVSEETG TLIVNSVLLF LAFVVFLLVT LAILTALRLC AYCCNIVNVS LVKPSFYVYS
      RVKNLNSSRV PDLLV
+     
 * Homology model of E protein based on SARS using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_E_protein_2020-01-23.zip)
     ![E protein](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Eprotein.png)
 
 ---
 ### Nucleocapsid Phosphoprotein, N protein
+
      MSDNGPQNQR NAPRITFGGP SDSTGSNQNG ERSGARSKQR RPQGLPNNTA SWFTALTQHG
      KEDLKFPRGQ GVPINTNSSP DDQIGYYRRA TRRIRGGDGK MKDLSPRWYF YYLGTGPEAG
      LPYGANKDGI IWVATEGALN TPKDHIGTRN PANNAAIVLQ LPQGTTLPKG FYAEGSRGGS
@@ -73,8 +78,10 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
 * Homology model of N protein based on SARS using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_N_Protein_2020-01-22.zip)
 
-____
+---
+
 ## Replicase polyprotein 1ab segments
+
 The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-structural protein 2 (nsp2),Papain-like proteinase (nsp3), Non-structural protein 4 (nsp4),3C-like proteinase (nsp5),Non-structural protein 6(nsp6),Non-structural protein 7(nsp7),Non-structural protein 8 (nsp8), Non-structural protein 9 (nsp9), Growth factor-like peptide (nsp10), RNA-directed RNA polymerase (nsp12), Helicase, (nsp13), Guanine-N7 methyltransferase (nsp14), Uridylate-specific endoribonuclease (nsp15), 2'-O-methyltransferase (nsp16)
 
      MESLVPGFNE KTHVQLSLPV LQVRDVLVRG FGDSVEEVLS EARQHLKDGT CGLVEVEKGV
@@ -198,11 +205,13 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
      RENNRVVISS DVLVNN
 
 ### Papain-like proteinase
+
 * Homology model of Replicase polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
     ![Replicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/replicase.png)
 ---
 ### 3C-like protease
+
 * The crystal structure of COVID-19 main protease in complex with an inhibitor N3 published on 2/5/2020 by Liu, X et al. 
     * [PDB 6LU7](https://www.rcsb.org/structure/6lu7)
 
@@ -216,8 +225,11 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
      
      ![3CL protease](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
+
 ---
+
 ### NSP12, RNA-dependent RNA polymerase(RDRP)
+
 * Cryo-EM structure of the 2019-nCoV RNA-dependent RNA polymerase in complex with cofactors nsp7 and nsp8 published on 3/17/2020 by Gao, YG et al. [Article link](https://www.biorxiv.org/content/10.1101/2020.03.16.993386v1.abstract)
 
     * [PDB 6M71](https://www.rcsb.org/structure/6M71)
@@ -236,26 +248,38 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
     
 ---
+
 ### NSP13, Helicase  
+
 * Homology model of Helicase using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
     ![Helicase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Helicase.png)
+
 ---
+
 ### NSP14, Guanine-N7 methyltransferase
+
 * Homology model of Polyprotein 1ab using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
     ![Polyprotein1ab](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Polyprotein1ab.png)
+
 ---
+
 ### NSP15, Uridylate-specific endoribonuclease
+
 * Homology model of Uridylate-specific endoribonuclease using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip)
     ![Uridylate](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Uprotein.png)
+
 ---
+
 ### NSP16, 2'-O-methyl transferase
+
 * Homology model of 2'-O-methyl transferase using https://swissmodel.expasy.org
     * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip)
     ![transferase](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/transferase.png)
     
 
 <br>
+
 Last update: {{ git_revision_date_localized }}
