@@ -52,3 +52,7 @@ Last update: {{ git_revision_date_localized }}
 
  * ["Structure-Based Discovery of a Novel Angiotensin- Converting Enzyme 2 Inhibitor"](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
     * The Angiotensin-converting enzyme 2 (ACE2) is an important therapeutic target for cardiovascular diseases and SARS outbreaks. This study identifies the molecules with the highest predicted binding scores and assays them for ACE2 enzymatic inhibitory activity and for SARS coronavirus spike protein-mediated cell fusion inhibition.
+
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/review_paper/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_review_paper/)}

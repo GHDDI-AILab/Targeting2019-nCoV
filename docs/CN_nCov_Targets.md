@@ -1,12 +1,17 @@
-# Coronavirus Disease Biology and Previous Therapeutic Efforts
+# 冠状病毒疾病生物学和既往治疗努力
+
 
 ---
 
-## List of therapeutics for SARS/MERS to target viral or host biological system and related vaccine efforts. 
 
-This information comes from Table 2 of the "Coronaviruses — drug discovery and therapeutic options" (A. Zumla et al., 2016) review article which describes the genome of SARS-CoV and MERS-CoV.
+## 针对病毒或宿主生物系统和相关疫苗工作的SARS/MERS治疗药物列表。
 
-### Targeting Virus
+
+该信息来自“冠状病毒——药物发现和治疗选择”(A. Zumla et al.,2016)综述文章的表2，该文章描述了SARS-CoV和MERS-CoV的基因组。
+
+
+### 靶向病毒
+
 
 | Targeted Viral components                          | Potential therapeutics |
 | -------------------------------------------------- | ---------------------- |
@@ -28,7 +33,9 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 |Accessory proteins| siRNA* |
 |Lipid membrane| LJ001 and JL103|
 
-### Targeting Host
+
+### 目标主机
+
 
 | Targeted host factors                  | Potential Therapeutics                                       |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -43,7 +50,9 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 | Clathrin-mediated endocytosis (ATP1A1) | Chlorpromazine, Ouabain, bufalin                             |
 | Endosomal acidification                | Chloroquine                                                  |
 
-### Vaccine 
+
+### 疫苗
+
 
 | Vaccine Type                           | Examples                                                     |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -56,17 +65,24 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 
 
 
+
+
+
 ---
 
-## List of experimentally verified coronavirus-host interactions 
 
-82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.
+## 实验验证的冠状病毒-宿主相互作用列表
 
-[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv) 
+
+[PHISTO]提供了82种冠状病毒-人类相互作用与实验证据(http://www.phisto.org/)涉及33种人类蛋白和21种冠状病毒蛋白。
+
+
+[数据下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv)
+
+
 
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Targets), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Targets/)}
 
-Last update: {{ git_revision_date_localized }}
+上次更新：{{git_revision_date_localized}}

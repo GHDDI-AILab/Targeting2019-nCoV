@@ -336,3 +336,5 @@ Respiratory Infections Caused by 2019-nCoV"](http://ghddiai.oss-cn-zhangjiakou.a
     * Analysis showed that the Wuhan CoV shared a common ancestor with SARS coronavirus that resembles the bat coronavirus HKU9-1. This work points to the RBD domain of the Wuhan CoV S-protein which supports strong interaction with human ACE2 molecules.
 
 
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/research_progress/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_research_progress/)}
