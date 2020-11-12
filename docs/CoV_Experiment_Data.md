@@ -19,7 +19,7 @@ We are releasing the following datasets from our big data platform. We are makin
 
 ### Unannotated preclinical studies on coronavirus targets
 
-* A collection of 816 records for 479 molecules from various sources. We currently don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardlized value PX=-log[M].   
+* A collection of 816 records for 479 molecules from various sources. We currently don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardized value PX=-log[M].   
   * [Full dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv)
 
 * Some subsets extracted:

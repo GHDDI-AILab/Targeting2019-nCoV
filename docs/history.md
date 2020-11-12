@@ -1,3 +1,9 @@
+## version 0.5.0 [11-12-2020]
+* **NEW**: Chinese translation available
+
+## version 0.4.12 [11-11-2020]
+* **NEW**: Fixed markdown formatting for automation 
+
 ## version 0.4.11 [10-20-2020]
 * **UPDATE**: Added computational docking benchmark
 
