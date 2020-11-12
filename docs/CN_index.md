@@ -6,6 +6,9 @@
 # 目标COVID-19：GHDDI信息共享门户
 
 
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+
+
 这是[GHDDI]发起的药物发现社区的公共信息共享门户和数据存储库(http://www.ghddi.org)。我们正在使我们的药物发现能力和资源免费提供给所有正在开发COVID-19新治疗方法的研究人员。我们希望这一举措将加速这种致命的病毒性疾病的药物发现过程。初步工作包括以下内容：
 
 
@@ -53,6 +56,9 @@
 
 
 <br>
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 
 上次更新：{{git_revision_date_localized}}

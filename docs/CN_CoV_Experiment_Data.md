@@ -126,6 +126,11 @@ DrugBank的最新版本(版本5.1.5，发布日期2020-01-03)包含13,490个药�
  * [CAS COVID-19抗病毒候选化合物数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/antiviral_with_properties.sdf)
 
 
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/CoV_Experiment_Data/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_CoV_Experiment_Data/)}
+
+
 上次更新：{{git_revision_date_localized}}
 
 

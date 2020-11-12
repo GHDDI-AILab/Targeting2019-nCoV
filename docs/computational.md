@@ -102,7 +102,7 @@ Conventional Docking results using Autodock Vina over Drugbank released version 
 We have curated thousands of antiviral compounds and respective virus species available for search based on in vitro viral infection assay results and in vivo results. In addition, we have constructed an antiviral compound-phenotype network AI model based on this data and predicted untested antiviral activities of these compounds. The network based AI model was proposed as a matrix completion model based on GHDDI’s HAG-net system. The model was trained over 19308 subgraphs made up of compound-phenotype pairs on the bipartite interaction network. The training dataset contains 6189 active (IC50<=1uM) interaction pairs and 13119 inactive (IC50>1uM) pairs. The model shows an AUC of 0.95 over 4827 testing set compound-phenotype relations. The experimentally observed and AI predicted antiviral activities are available to query, and each compound-phenotype relation is shown as a probability score between 1 (active) and 0 (inactive).
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/computational/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_computational/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/computational/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_computational/)}
 
 <br>
 

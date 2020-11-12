@@ -85,4 +85,7 @@
 <br>
 
 
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Targets), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Targets/)}
+
+
 上次更新：{{git_revision_date_localized}}

@@ -3,7 +3,7 @@
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 This is the public information sharing portal and data repository for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org). We are making our drug discovery capabilities and resources available at no cost to all researchers who are developing new treatments for COVID-19. We hope this initiative will accelerate the process of drug discovery for this deadly viral disease. The initial effort includes the following :
 
@@ -37,6 +37,6 @@ The data from this website is for research purpose only, may not be used for cli
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 Last update: {{ git_revision_date_localized }}

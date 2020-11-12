@@ -282,6 +282,6 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Structures/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Structures/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Structures/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Structures/)}
 
 Last update: {{ git_revision_date_localized }}

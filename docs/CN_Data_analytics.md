@@ -132,4 +132,9 @@
 <br>
 
 
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/Data_analytics/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_Data_analytics/)}
+
+
+
+
 上次更新：{{git_revision_date_localized}}

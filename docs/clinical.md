@@ -1,5 +1,3 @@
-{[English](http://127.0.0.1:8000/clinical/), [Chinese](http://127.0.0.1:8000/CN_clinical/)}
-
 ## Current worldwide clinical trials on COVID-19
 
 [dimensions.ai](https://dimensions.ai) provides a [daily updated list](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063) of clinical trials for COVID-19. 
@@ -67,14 +65,11 @@ The information below is collected from recent research articles, news articles,
 
 ---
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/clinical/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_clinical/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/clinical/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_clinical/)}
 
 Last update: {{ git_revision_date_localized }}
 
 <br>
 
-<br>
-
-<br>
 
 Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.

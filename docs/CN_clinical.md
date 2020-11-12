@@ -85,16 +85,15 @@
 ---
 
 
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/clinical/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_clinical/)}
+
+
 上次更新：{{git_revision_date_localized}}
 
 
 <br>
 
 
-<br>
-
-
-<br>
 
 
 您的[**反馈**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues)受到高度赞赏。

@@ -48,4 +48,4 @@ For who not familiar with Github, you can also post your message [**HERE**](http
 
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/contact_us/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_contact_us/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/contact_us/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_contact_us/)}
