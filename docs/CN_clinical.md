@@ -1,36 +1,52 @@
-{[English](http://127.0.0.1:8000/clinical/), [Chinese](http://127.0.0.1:8000/CN_clinical/)}
-
-## Current worldwide clinical trials on COVID-19
-
-[dimensions.ai](https://dimensions.ai) provides a [daily updated list](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063) of clinical trials for COVID-19. 
-
-## Analysis of Clinical Trial Data
-
-Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the following figures show the distribution of COVID-19 clinical trials around the world and the different types of trials. These statistics are synchronized with each update from the [figshare](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063) table. 
-
-Figures Last Updated: October 16, 2020
-
-![countries](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_countries.png)
-
-![types_of_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_types.png)
-
-Download links for all three types of clinical trials are listed below.
-
-[Download Treatment list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
-
-[Download Biologics Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
-
-[Download Vaccine Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+## COVID-19的当前全球临床试验
 
 
-Similarily, using the same data, a preliminary small molecule treatment list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated daily. The list for this figure is available for download in the Treatment list link above.
+[dimensions.ai](https://dimensions.ai)提供[每日更新列表](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)的COVID-19临床试验。
+
+
+## 临床试验数据分析
+
+
+使用[dimensions.ai](https://dimensions.ai)服务和简单的NLP脚本，下图显示了COVID-19临床试验在世界各地的分布和不同类型的试验。这些统计与[figshare]中的每次更新同步(https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)表。
+
+
+图最后更新日期：2020年10月16日
+
+
+![国家](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_countries.png)
+
+
+![类型_/_试验](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_types.png)
+
+
+以下列出了所有三种类型临床试验的下载链接。
+
+
+[下载治疗列表](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
+
+
+[下载生物制剂临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
+
+
+[下载疫苗临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+
+
+
+
+同样，利用相同的数据，利用相关关键词自动生成具有临床试验计数的初步小分子治疗列表。该列表仅为估算值，将每日更新。该图的列表可在上述治疗列表链接中下载。
+
 
 ![therapeutics_trials](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_drugs_treatment.png)
 
 
-## Selected Drug information of current ongoing clinical studies on COVID-19
 
-The information below is collected from recent research articles, news articles, or clinical reports of COVID-19 studies contributed from various research groups worldwide. The source links or full article download are provided to facilitate your own investigation and research on these molecules. 
+
+## 当前正在进行的COVID-19临床研究的选定药物信息
+
+
+以下信息是从全球各研究组贡献的COVID-19研究的近期研究文章、新文章或临床报告中收集的。提供来源链接或全文下载，便于您自己对这些分子进行研究和研究。
+
+
 
 
 | Drug Name             | Structure                                                    | MoA                                                          | Indication                                                   | DrugBank URL                                                 | Anti-2019-nCoV Evidence                          | Reference                                                    |
@@ -65,16 +81,20 @@ The information below is collected from recent research articles, news articles,
 | Pirfenidone           | ![img24](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_pirfenidone.png) | Collagen synthesis inhibitor, Profibrotic cytokine down-regulator | Phase 4 completed for IPF; Phase 3 completed for DFU; COVID-19 Phase 0 | [DB04951](https://www.drugbank.ca/drugs/DB04951)             | Clinical Trial                                  | [34](http://www.chictr.org.cn/showprojen.aspx?proj=51416)    |
 | Camostat              | ![img24](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/structure_camostat.png) |                                                              | COVID-19 Phase I                                             | [DB13737](https://www.drugbank.ca/drugs/DB13729)             | Clinical Trial                                  | [35](https://clinicaltrials.gov/ct2/show/NCT04321096)        |
 
+
 ---
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/clinical/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_clinical/)}
 
-Last update: {{ git_revision_date_localized }}
+上次更新：{{git_revision_date_localized}}
 
-<br>
 
 <br>
 
+
 <br>
 
-Your [**feedback**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues) is highly appreciated.
+
+<br>
+
+
+您的[**反馈**](https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues)受到高度赞赏。

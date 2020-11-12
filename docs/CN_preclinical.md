@@ -1,18 +1,27 @@
-## COVID-19 preclinical studies 
+## COVID-19临床前研究
 
-**Preclinical In Vitro Studies**
 
-The following is an updated list of studies with published in vitro experimental results. The studies were complied using several well known preprint and publication databases relating to SARS-CoV-2 and COVID-19. Drug names and numerical EC50/IC50 results were extracted using simple NLP scripts along with a correlation label. An indirect correlation means that although a drug name was extracted, it could not be mapped to the experimental value using our current algorithm. It should be noted that this list is to be used only as a reference for further investigation, and the drug names and extracted numerical values are neither 100% accurate nor complete.
+**临床前体外研究**
+
+
+以下是已发表体外实验结果的更新研究列表。使用与SARS-CoV-2和COVID-19相关的几个众所周知的预印本和出版物数据库进行研究。使用简单的NLP脚本以及相关标记提取药物名称和EC50/IC50数值结果。间接相关意味着尽管提取了药物名称，但使用我们当前的算法无法将其映射到实验值。需要注意的是，该列表仅用作进一步研究的参考，药物名称和提取的数值既不100%准确也不完整。
+
+
 
 
 <iframe src="https://mg.k-global-cdn.ml/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
 
+
 ---
 
 
-We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from recent publications. This dataset will be updated continuously.
 
-Last Updated: {{ git_revision_date_localized }}
+
+我们正在尽最大努力从最近的出版物中收集SARS-CoV-2体外实验结果。该数据集将不断更新。
+
+
+上次更新日期：{{git_revision_date_localized}}
+
 
 | Rank_ID | Drug Name                                                    | SARS-CoV-2 EC50/IC50(μM) | CC50(μM)     | SI      |
 | ------- | ------------------------------------------------------------ | ------------------------ | ------------ | ------- |
@@ -268,44 +277,62 @@ Last Updated: {{ git_revision_date_localized }}
 
 
 
-*   Cell lines and assay conditions used in various studies may be different.
-*   The current table is ranked by potency. 
+
+
+
+*    各种研究中使用的细胞系和试验条件可能不同。
+*    当前表格按效价排序。
+
 
 ---
 
-Reference:
 
-1. [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell research, 2020, 30(3): 269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
+参考文献：
 
-2. [A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
 
-3. [FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro. bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
+1.[Remdesivir和氯喹在体外能有效抑制最近出现的新型冠状病毒(2019-nCoV)。Cell research,2020,30(3):269-271.](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w)
 
-4. [HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
 
-5. [Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs, bioRxiv, 2020.](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v3.full.pdf)
+2.[一个数据驱动的药物重新定位框架发现了一种潜在的靶向COVID-19的治疗药物。bioRxiv,2020.](https://www.biorxiv.org/content/10.1101/2020.03.11.986836v1.abstract)
 
-6. [The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
 
-7. [Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
+3.[FDA批准的具有广泛抗冠状病毒活性的药物在体外抑制SARS-CoV-2。bioRxiv,2020.](https://www.biorxiv.org/content/10.1101/2020.03.25.008482v1)
 
-8. [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
 
-9. [Remdesivir, lopinavir, emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro](https://www.sciencedirect.com/science/article/pii/S016635422030200X?via%3Dihub=)
+4.[HTCC作为SARS-CoV-2和MERS-CoV的高效聚合物抑制剂，bioRxiv,2020.](https://www.biorxiv.org/content/10.1101/2020.03.29.014183v1.full.pdf)
 
-10. [The FDA- approved gold drug Auranofin inhibits novel coronavirus (SARS- COV-2) replication and attenuates inflammation in human cells](https://www.biorxiv.org/content/10.1101/2020.04.14.041228v1.full.pdf)
 
-11. [Identification of inhibitors of SARS-CoV-2 in-vitro cellular toxicity in human (Caco-2) cells using a large scale drug repurposing collection](https://www.researchsquare.com/article/rs-23951/v1)
+5.[从FDA批准的药物中鉴定出抗SARS-CoV-2的抗病毒候选药物，bioRxiv，2020.](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v3.full.pdf)
 
-12. [In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1)
 
-13. [Comparative analysis of antiviral efficacy of FDA-approved drugs against SARS-CoV-2 in human lung cells: Nafamostat is the most potent antiviral drug candidate](https://www.biorxiv.org/content/10.1101/2020.05.12.090035v1)
+6.[FDA批准的药物伊维菌素在体外抑制SARS-CoV-2的复制](https://www.sciencedirect.com/science/article/pii/S0166354220302011#bib11)
 
-14. [Drug Repurposing Screen for Compounds Inhibiting the Cytopathic Effect of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.08.18.255877v1.full)
 
-15. [A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals](https://www.biorxiv.org/content/10.1101/2020.04.16.044016v1)
+7、[奈非那韦在体外抑制严重急性呼吸综合征冠状病毒2的复制](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.full.pdf)
+
+
+8、[COVID-19病毒Mpro的结构及其抑制剂的发现](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
+
+
+9.[Remdesivir、洛匹那韦、依米丁和高三尖杉酯碱在体外抑制SARS-CoV-2复制](https://www.sciencedirect.com/science/article/pii/S016635422030200X?via%3Dihub=)
+
+
+10.[FDA批准的金药物Auranofin抑制新型冠状病毒(SARS-COV-2)复制，减轻人体细胞炎症](https://www.biorxiv.org/content/10.1101/2020.04.14.041228v1.full.pdf)
+
+
+11.[使用大规模药物再利用集合鉴定SARS-CoV-2在人(Caco-2)细胞中的体外细胞毒性抑制剂](https://www.researchsquare.com/article/rs-23951/v1)
+
+
+12.[体外筛选FDA批准的化学库揭示SARS-CoV-2复制的潜在抑制剂](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1)
+
+
+13.[FDA批准的抗SARS-CoV-2药物在人肺细胞中抗病毒疗效的比较分析：Nafamostat是最强效的抗病毒候选药物](https://www.biorxiv.org/content/10.1101/2020.05.12.090035v1)
+
+
+14、[抑制SARS-CoV-2细胞病变效应化合物的药物复性筛选](https://www.biorxiv.org/content/10.1101/2020.08.18.255877v1.full)
+
+
+15.[SARS-CoV-2抗病毒药物的大规模药物重新定位调查](https://www.biorxiv.org/content/10.1101/2020.04.16.044016v1)
+
 
 <br>
-
-
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/preclinical/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_preclinical/)}

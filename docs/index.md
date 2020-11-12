@@ -3,6 +3,8 @@
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
 
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+
 This is the public information sharing portal and data repository for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org). We are making our drug discovery capabilities and resources available at no cost to all researchers who are developing new treatments for COVID-19. We hope this initiative will accelerate the process of drug discovery for this deadly viral disease. The initial effort includes the following :
 
 1) GHDDI will make its high throughput screening platform and multiple compound libraries available to all researchers for target-based or phenotypic-based screens. These compound libraries include the [ReFRAME](https://reframedb.org/) compound library (the world’s largest collection of its kind, containing over 12,000 known drugs, most of which have gone through Phase I clinical studies), a diversity-based synthetic compound library, a natural product library, a traditional Chinese medicine extract library, etc. We welcome research groups with high quality COVID-19 related enzymatic assays or phenotypic assays to discuss long term collaboration plans for ReFrame library screening. 
@@ -34,5 +36,7 @@ The data from this website is for research purpose only, may not be used for cli
 
 
 <br>
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 Last update: {{ git_revision_date_localized }}

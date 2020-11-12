@@ -1,12 +1,19 @@
-# GHDDI Data analysis for drug repositioning 
-
- A comprehensive data mining and analysis effort has been done to present these lists of existing drugs with therapeutic potentials for COVID-19. The analysis was based on different rationales including anti-coronavirus activity, broad-spectrum antiviral activity and antiviral drugs with highly conserved viral target such as RNA dependent RNA polymerase (RDRP). We will constantly update these lists with new discoveries. 
+# 药物重新定位的GHDDI数据分析
 
 
-## Data analysis results from previous coronavirus related drug discovery records
+已经进行了全面的数据挖掘和分析工作，以呈现这些具有COVID-19治疗潜力的现有药物列表。分析基于不同的原理包括抗冠状病毒活性、广谱抗病毒活性和RNA依赖性RNA聚合酶(RDRP)等病毒靶标高度保守的抗病毒药物。我们将不断更新这些列表中的新发现。
 
 
-A collection of drug candidates with previously published positive coronavirus experimental results.
+
+
+## 既往冠状病毒相关药物发现记录的数据分析结果
+
+
+
+
+收集先前发表冠状病毒实验结果阳性的候选药物。
+
+
 
 
 | Drug name                     | DrugBank ID                                      | Mechanism of action                                          | Experimental activity                                        | Methods                                               | Measurement | Value    | Unit |
@@ -28,11 +35,17 @@ A collection of drug candidates with previously published positive coronavirus e
 | cyclosporin                   | [DB00091](https://www.drugbank.ca/drugs/DB00091) | Cyclophilin Inhibitors;Mitochondrial Permeability Transition (MPT) Inhibitors | Coronavirus acute respiratory syndrome remission/reduction, IN VITRO | RNA assay                                             | IC-50       | 8.00E-07 | M    |
 
 
-## Broad-spectrum antiviral data analysis results
 
 
-Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified 51 molecules against at least 5 virus species. 
-![Top 51 DVI graph](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+## 广谱抗病毒数据分析结果
+
+
+
+
+基于体外病毒感染试验结果(EC50≤1 μM)和临床数据(体内活性)，我们确定了51个分子对至少5种病毒。
+![顶部51 DVI图](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+
+
 
 
 | Drug name | ID | Number of virus species | Virus species list | Discovered MOA |
@@ -90,7 +103,11 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 | LDC-4297 | [CID: 71730493](https://pubchem.ncbi.nlm.nih.gov/compound/71730493) | 5 | FLUAV;CMV;HSV;VZV;ADV | Signal Transduction Modulators;Cyclin-Dependent Kinase 7 (CDK7) Inhibitors;Apoptosis Inducers |
 
 
-##  Top antiviral candidates with RDRP inhibition MOA selected from different assays
+
+
+##   从不同试验中选择的具有RDRP抑制MOA的顶级抗病毒候选药物
+
+
 
 
 | Drug name      | DrugBank ID                                      | Mechanism of action                                          | Experimental activity                                        | Measurement | Value    | Unit |
@@ -106,12 +123,13 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 | Galidesivir | [DB11676](https://www.drugbank.ca/drugs/DB11676) |RNA-Dependent RNA Polymerase Inhibitors|  Infection, Zika virus remission/reduction, IN VITRO                             | IC-50     | 2.96E-06 | M    |
 | Favipiravir   | [DB12466](https://www.drugbank.ca/drugs/DB12466) |RNA-Dependent RNA Polymerase Inhibitors| Infection, rabies virus remission/reduction, IN VITRO                             | MIC       |  4.0E-06   | M    |
 
-*Compounds selected based on best IC-50 measurement from respective assays.
+
+* 根据相应试验的最佳IC-50测量值选择的化合物。
+
+
 
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/Data_analytics/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_Data_analytics/)}
 
-
-Last update: {{ git_revision_date_localized }}
+上次更新：{{git_revision_date_localized}}

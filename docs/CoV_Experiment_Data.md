@@ -83,7 +83,10 @@ The following figure is the keyword relationship network:
    This zip archive contains drug libraries provided by [selleck.cn](https://www.selleck.cn/) to be used for drug repurposing.
    
  * [CAS COVID-19 Antiviral Candidate Compounds Dataset](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/antiviral_with_properties.sdf)
-   
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/CoV_Experiment_Data/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_CoV_Experiment_Data/)}
+
 Last update: {{ git_revision_date_localized }}
 
 <br>
