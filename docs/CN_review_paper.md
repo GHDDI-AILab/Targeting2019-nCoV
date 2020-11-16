@@ -75,3 +75,10 @@
 
  * [“基于结构发现新型血管紧张素转换酶2抑制剂”](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_sbdnace2i.pdf)
     * 血管紧张素转换酶2(ACE2)是心血管疾病和SARS暴发的重要治疗靶点。本研究确定了预测结合评分最高的分子，并测定了其ACE2酶抑制活性和SARS冠状病毒刺突蛋白介导的细胞融合抑制。
+
+
+
+
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/review_paper/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_review_paper/)

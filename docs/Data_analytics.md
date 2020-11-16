@@ -111,7 +111,7 @@ Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (i
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/Data_analytics/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_Data_analytics/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/Data_analytics/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_Data_analytics/)}
 
 
 Last update: {{ git_revision_date_localized }}

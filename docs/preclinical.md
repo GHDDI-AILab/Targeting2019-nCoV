@@ -308,4 +308,4 @@ Reference:
 <br>
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/preclinical/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_preclinical/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/preclinical/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_preclinical/)}

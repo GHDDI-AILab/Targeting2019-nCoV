@@ -55,4 +55,4 @@ Last update: {{ git_revision_date_localized }}
 
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/review_paper/), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_review_paper/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/review_paper/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_review_paper/)}

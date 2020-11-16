@@ -67,6 +67,6 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Targets), [Chinese](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Targets/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Targets), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_nCov_Targets/)}
 
 Last update: {{ git_revision_date_localized }}

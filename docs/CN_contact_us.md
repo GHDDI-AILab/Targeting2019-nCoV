@@ -71,3 +71,6 @@
 
 
 
+
+
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/contact_us/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_contact_us/)
