@@ -3,7 +3,7 @@
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 This is the public information sharing portal and data repository for the drug discovery community, initiated by [GHDDI](http://www.ghddi.org). We are making our drug discovery capabilities and resources available at no cost to all researchers who are developing new treatments for COVID-19. We hope this initiative will accelerate the process of drug discovery for this deadly viral disease. The initial effort includes the following :
 
@@ -12,7 +12,7 @@ This is the public information sharing portal and data repository for the drug d
 2) GHDDI will make its COVID-19 resources available to worldwide researchers for free including:
     
  * GHDDI COVID-19 Data Repositories: antiviral pharmacology database, 3D structure data for SARS-CoV-2 targets and related host targets and virtual compound libraries covering millions of commercially available compounds; 
-    
+   
  * GHDDI COVID-19 Computational Systems: trained AI drug screening models and fully configured Pytorch based deep learning environment, conventional virtual screening system using tools like GOLD, AutoDock with parallelized processing capability and biophysics computational tools like Amber, NAMD for target mechanism study and free energy computation for docking refinement.
 
 3) GHDDI will collaborate with CROs (with deep gratitude to the commitment and contribution made by BioDuro) to offer services including  small-molecule chemical synthesis, drug design, medicinal chemistry, DMPK, target protein generation/biophysics/structural biology, etc.
@@ -37,6 +37,6 @@ The data from this website is for research purpose only, may not be used for cli
 
 <br>
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/index/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
 
 Last update: {{ git_revision_date_localized }}
