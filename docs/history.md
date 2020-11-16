@@ -1,3 +1,6 @@
+## version 0.5.0 [11-16-2020]
+* **UPDATE**: Updates for automation
+
 ## version 0.5.0 [11-12-2020]
 * **NEW**: Chinese translation available
 
