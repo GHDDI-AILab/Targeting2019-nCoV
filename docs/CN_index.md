@@ -58,7 +58,12 @@
 <br>
 
 
+[Atman]提供的翻译服务(https://atman360.com/)
+
+
 {[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+
+
 
 
 上次更新：{{git_revision_date_localized}}
