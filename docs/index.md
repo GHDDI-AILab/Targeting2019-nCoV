@@ -37,6 +37,9 @@ The data from this website is for research purpose only, may not be used for cli
 
 <br>
 
+Translation service provided by [Atman](https://atman360.com/)
+
 {[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}
+
 
 Last update: {{ git_revision_date_localized }}
