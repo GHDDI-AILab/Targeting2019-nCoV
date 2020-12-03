@@ -12,7 +12,7 @@ The following is an updated list of studies with published in vitro experimental
 
 We are making our best efforts to collect SARS-CoV-2 in vitro experimental results from recent publications. This dataset will be updated continuously.
 
-Last Updated: {{ git_revision_date_localized }}
+Last Updated: November 10, 2020
 
 | Rank_ID | Drug Name                                                    | SARS-CoV-2 EC50/IC50(μM) | CC50(μM)     | SI      |
 | ------- | ------------------------------------------------------------ | ------------------------ | ------------ | ------- |
