@@ -1,4 +1,4 @@
-![徽标](http://www.ghddi.org/sites/all/themes/jjh/images/logob@2x.png)
+![徽标](https://mg2.k-global-cdn.ml/file/logob@2x.png)
 
 
 
