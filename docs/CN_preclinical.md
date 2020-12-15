@@ -20,7 +20,7 @@
 我们正在尽最大努力从最近的出版物中收集SARS-CoV-2体外实验结果。该数据集将不断更新。
 
 
-上次更新日期：{{git_revision_date_localized}}
+最后更新日期：2020年11月10日
 
 
 | Rank_ID | Drug Name                                                    | SARS-CoV-2 EC50/IC50(μM) | CC50(μM)     | SI      |
@@ -340,4 +340,4 @@
 
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/preclinical/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_preclinical/)
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/preclinical/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_preclinical/)}

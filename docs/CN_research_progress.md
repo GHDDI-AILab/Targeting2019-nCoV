@@ -20,4 +20,4 @@
 
 
 
-{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/research_progress/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_research_progress/)
+{[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/research_progress/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_research_progress/)}

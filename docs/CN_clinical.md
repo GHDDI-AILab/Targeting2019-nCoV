@@ -10,7 +10,7 @@
 使用[dimensions.ai](https://dimensions.ai)服务和简单的NLP脚本，下图显示了COVID-19临床试验在世界各地的分布和不同类型的试验。这些统计与[figshare]中的每次更新同步(https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)表。
 
 
-图最后更新日期：2020年10月16日
+图最后更新日期：2020年12月3日
 
 
 ![国家](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/figure_countries.png)
@@ -25,10 +25,16 @@
 [下载治疗列表](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
 
 
-[下载生物制剂临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
+[下载生物制剂临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)，下面的Word云：
 
 
-[下载疫苗临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+![生物制剂云](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/biologics_cloud.png)
+
+
+[下载疫苗临床试验清单](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)，下面的Word云：
+
+
+![疫苗云](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vaccine_cloud.png)
 
 
 
