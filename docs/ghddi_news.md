@@ -137,9 +137,9 @@
 | 132  | [清华药学院院长丁胜：针对新冠的中和 抗体可能提前被批准紧急使用](http://www.eeo.com.cn/2020/0716/389831.shtml) | 经济观察网                                                   |
 | 133  | [为下一次疫情未雨绸缪，全球健康药物 研发中心启动“未雨计划](http://www.jksb.com.cn/html/news/industry/2020/0716/164233.html) | 健康时报                                                     |
 | 134  | [全球健康药物研发中心启动“未雨计 划” ：新冠疫情敲响警钟，需为下一次  可能发生的疫情未雨绸缪](https://m.lanjinger.com/app/share/news/140507) | 蓝鲸财经                                                     |
-| 135  | [记者手记                                                    | 对抗新冠仍缺创新药，为何企 业不积极？](http://www.caixin.com/2020-07-16/101580736.html) |
+| 135  | [记者手记对抗新冠仍缺创新药，为何企 业不积极？](http://www.caixin.com/2020-07-16/101580736.html) | 财新                                                         |
 | 136  | [A   股爆炒的“长寿神药”NMN，是智 商税吗？](https://www.jiemian.com/article/4680444.html) | 界面                                                         |
-| 137  | [解药                                                        | 清华药学院院长：中国大药企不应 缺位新冠药物研发](https://www.jiemian.com/article/4680444.html) |
+| 137  | [解药清华药学院院长：中国大药企不应 缺位新冠药物研发](https://www.jiemian.com/article/4680444.html) | 界面                                                         |
 | 138  | [瑞德西韦：新冠疫情风暴眼中的治疗药 物](http://www.inewsweek.cn/world/2020-08-10/10091.shtml) | 中国新闻周刊                                                 |
 | 139  | [逆境中迸发科创新动能](https://bjrbdzb.bjd.com.cn/bjrb/mobile/2020/20200811/20200811_001/content_20200811_001_8.htm?storyId=AP5f31956ee4b0473e6ca18910&amp;userID=30D95783-8665-43E6-A4F2-6490D2CEC949%2C0&amp;isshare=1&amp;channelId=newspaperBjrb&amp;columnId=5f094ce8e4b086b26e06511c&amp;contentType=12&amp;isBjh=0) | 北京日报                                                     |
 | 140  | [北京夯实人工智能产业高地](https://bjrbdzb.bjd.com.cn/bjrb/mobile/2020/20200811/20200811_001/content_20200811_001_8.htm?storyId=AP5f31956ee4b0473e6ca18910&amp;userID=30D95783-8665-43E6-A4F2-6490D2CEC949%2C0&amp;isshare=1&amp;channelId=newspaperBjrb&amp;columnId=5f094ce8e4b086b26e06511c&amp;contentType=12&amp;isBjh=0) | 北京日报                                                     |
