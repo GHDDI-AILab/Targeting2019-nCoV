@@ -1,4 +1,9 @@
+## version 0.5.2 [12-15-2020]
+
+* **UPDATE**: News updates
+
 ## version 0.5.1 [11-16-2020]
+
 * **UPDATE**: Updates for automation
 
 ## version 0.5.0 [11-12-2020]

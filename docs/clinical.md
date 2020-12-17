@@ -16,9 +16,13 @@ Download links for all three types of clinical trials are listed below.
 
 [Download Treatment list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/druglist.csv)
 
-[Download Biologics Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv)
+[Download Biologics Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_biologics.csv), Word Cloud below:
 
-[Download Vaccine Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv)
+![biologics cloud](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/biologics_cloud.png)
+
+[Download Vaccine Clinical Trial list](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/ct_vaccine.csv), Word Cloud below:
+
+![vaccine cloud](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vaccine_cloud.png)
 
 
 Similarily, using the same data, a preliminary small molecule treatment list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated daily. The list for this figure is available for download in the Treatment list link above.
