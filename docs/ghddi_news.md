@@ -47,7 +47,7 @@
 | 42   | [科学与新冠病毒的竞赛：感染人数为何 远超 SARS？](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw%3D%3D&amp;mid=2651249770&amp;idx=1&amp;sn=9d13a70a98f102d8e21311058e273ea9&amp;chksm=bdb17e148ac6f7029aa6681334cbc134ed1aa9e49a2abe610431325649b5d96071a0480525cb&amp;scene=0&amp;xtrack=1) | 中国新闻周刊                                                 |
 | 43   | [清华大学药学院院长剖析新冠“神药”](http://www.caixin.com/2020-02-07/101512780.html?cxw=Android&amp;Sfrom=Wechat&amp;originReferrer=Androidshare) | 财新                                                         |
 | 44   | [清华药学院院长丁胜：是否应该组建药  物研发“国家队”？](http://finance.ifeng.com/c/7ttY02iuJvc) | 凤凰网                                                       |
-| 45   | [控制疫情，现在最大的挑战是时间                              | 专  访清华药学院院长丁胜教授](https://mp.weixin.qq.com/s/LgdTWflhH03h2q_QFX2kCg) |
+| 45   | [控制疫情，现在最大的挑战是时间专  访清华药学院院长丁胜教授](https://mp.weixin.qq.com/s/LgdTWflhH03h2q_QFX2kCg) |                                                              |
 | 46   | [科创机构纷纷亮出抗击疫情“黑科技”](http://dz.jjckb.cn/www/pages/webpage2009/html/2020-02/10/content_61296.htm) | 经济参考报                                                   |
 | 47   | [瑞德西韦仿制药量产 专利问题何解](http://www.eeo.com.cn/2020/0213/376241.shtml) | 经济观察报                                                   |
 | 48   | [China Stages Clinical Trial Blitz in Search of Coronavirus Cure](https://www.bloombergquint.com/business/china-stages-clinical-trial-blitz-in-search-of-coronavirus-cure%C3%82%C2%AC) | Bloomberg                                                    |
