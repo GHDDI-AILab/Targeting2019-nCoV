@@ -174,8 +174,7 @@
 | 169  | [中关村科学城打造三大医疗健康产业聚 集区](https://bjrbdzb.bjd.com.cn/bjrb/mobile/2020/20201123/20201123_003/content_20201123_003_6.htm%23page2?digital%3AnewspaperBjcsfzxb%3AAP5fbad538e4b0c34aa384d1e1) | 北京日报                                                     |
 | 170  | [丁胜：中国药物源头创新基础已具备，](http://topics.caixin.com/2020-11-15/101628286.html) | 财新                                                         |
 | 171  | [专家：支持创新药需优化遗传办审批流](http://topics.caixin.com/2020-11-16/101628615.html) | 财新                                                         |
-| 172  | [金斯瑞董事长遭海关逮捕 涉嫌走私违禁 货物](http://www.caixin.com/2020-11-23/101631584.html) | 财新                                                         |
-| 173  | [五年耕耘 海淀书写创新发展新篇章](https://bjrbdzb.bjd.com.cn/bjrb/mobile/2020/20201126/20201126_019/content_20201126_019_1.htm?storyId=AP5fbebe20e4b0c34aa38706b6&amp;userID=5e8ecef6e4b0a59cede760b1%2C1&amp;isshare=1&amp;channelId=newspaperBjrb&amp;columnId=5f094d7be4b086b26e065163&amp;contentType=12&amp;isBjh=0) | 北京日报                                                     |
+| 172  | [五年耕耘 海淀书写创新发展新篇章](https://bjrbdzb.bjd.com.cn/bjrb/mobile/2020/20201126/20201126_019/content_20201126_019_1.htm?storyId=AP5fbebe20e4b0c34aa38706b6&amp;userID=5e8ecef6e4b0a59cede760b1%2C1&amp;isshare=1&amp;channelId=newspaperBjrb&amp;columnId=5f094d7be4b086b26e065163&amp;contentType=12&amp;isBjh=0) | 北京日报                                                     |
 
 <br>
 Last update: {{ git_revision_date_localized }}
