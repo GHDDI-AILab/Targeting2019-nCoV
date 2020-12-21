@@ -43,7 +43,7 @@
 
 
 基于体外病毒感染试验结果(EC50≤1 μM)和临床数据(体内活性)，我们确定了51个分子对至少5种病毒。
-![顶部51 DVI图](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Top51BSAAs.png)
+![顶部51 DVI图](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Top51BSAAs.png)
 
 
 

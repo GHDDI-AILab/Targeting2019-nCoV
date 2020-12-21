@@ -54,20 +54,20 @@ SEPVLKGVKL HYT
 * 基于SARS的Spike蛋白和Spike-ACE2的同源模型https://swissmodel.expasy.org
 
 
-* [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
+* [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
 
 
 * Spike-ACE2的最小化模型
 
 
-* [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_min.pdb)
+* [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_min.pdb)
 
 
 * Spike-ACE2的MD模拟(37 C，水，全原子)模型(Spike为同源三聚体，人ACE2为黄色)
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
 
 
-![MD模拟的Spike蛋白与人ACE2结合](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png)
+![MD模拟的Spike蛋白与人ACE2结合](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png)
 
 
 ---
@@ -81,8 +81,8 @@ RVKNLNSSRV PDLLV
 
 
 * 基于SARS的E蛋白同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_E_protein_2020-01-23.zip)
-![E蛋白](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Eprotein.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_E_protein_2020-01-23.zip)
+![E蛋白](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Eprotein.png)
 
 
 ---
@@ -99,7 +99,7 @@ KTFPPTEPKK DKKKKADETQ ALPQRQKKQQ TVTLLPAADL DDFSKQLQQS MSSADSTQA
 
 
 * 基于SARS的N蛋白同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_N_Protein_2020-01-22.zip)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_N_Protein_2020-01-22.zip)
 
 
 ---
@@ -236,8 +236,8 @@ RENNRVVISS DVLVNN
 
 
 * 复制酶多聚蛋白1ab的同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
-![复制酶](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/replicase.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
+![复制酶](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/replicase.png)
 ---
 ### 3 C-样蛋白酶
 
@@ -247,18 +247,18 @@ RENNRVVISS DVLVNN
 
 
 * 3 C-样蛋白酶的同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip)
 
 
 * 3 C-样蛋白酶的最小化模型
-    * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
+    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
 
 
 * Mpro二聚体的MD模拟(37 C，水，全原子)模型
-    * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
+    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
 
 
-![3CL蛋白酶](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
+![3CL蛋白酶](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
 
 
 ---
@@ -274,22 +274,22 @@ RENNRVVISS DVLVNN
 
 
 * RNA依赖的RNA聚合酶的同源模型(与Zn2 +)使用https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
 
 
-![Zn2 + + 结合RDRP](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RdRP.png)
+![Zn2 + + 结合RDRP](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RdRP.png)
 
 
 * RNA导向RNA聚合酶的最小化模型
 
 
-    * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
+    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
 
 
 * RNA导向RNA聚合酶的MD模拟(37 C，水，全原子)模型
 
 
-    * [PDB](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
+    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
 
 
 ---
@@ -299,8 +299,8 @@ RENNRVVISS DVLVNN
 
 
 * Helicase的同源模型使用https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
-![螺旋酶](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Helicase.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
+![螺旋酶](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Helicase.png)
 
 
 ---
@@ -310,8 +310,8 @@ RENNRVVISS DVLVNN
 
 
 * Polyprotein 1ab的同源模型使用https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
-![Polyprotein1ab](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Polyprotein1ab.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
+![Polyprotein1ab](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Polyprotein1ab.png)
 
 
 ---
@@ -321,8 +321,8 @@ RENNRVVISS DVLVNN
 
 
 * 尿苷酸特异性核糖核酸内切酶的同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip)
-![尿苷酸](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Uprotein.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip)
+![尿苷酸](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Uprotein.png)
 
 
 ---
@@ -332,8 +332,8 @@ RENNRVVISS DVLVNN
 
 
 * 2'-O-甲基转移酶的同源模型https://swissmodel.expasy.org
-    * [完整数据集](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip)
-![转移酶](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/transferase.png)
+    * [完整数据集](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip)
+![转移酶](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/transferase.png)
 
 
 

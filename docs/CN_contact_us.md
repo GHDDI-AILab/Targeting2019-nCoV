@@ -21,7 +21,7 @@
 
 
 1)分叉Targeting2019-nCov资源库
-![接触1](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact1.png)
+![接触1](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/contact1.png)
 
 
 <br>
@@ -34,17 +34,17 @@
 
 
 3)创建提取请求
-![接触3](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact2.png)
+![接触3](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/contact2.png)
 
 
 <br>
 
 
 4)提交提取申请
-![接触4](http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact3.png)
+![接触4](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/contact3.png)
 
 
-<img src="http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/contact4.png" alt="contact4" style="zoom:73%;" />
+<img src="http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/contact4.png" alt="contact4" style="zoom:73%;" />
 
 
 <br>
