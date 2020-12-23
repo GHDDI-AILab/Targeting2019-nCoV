@@ -8,7 +8,7 @@ Information sources for COVID-19
 
  * COVID-19 Global Pandemic Real-time Report from [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
- * [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7)](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_Who-translation.pdf)
+ * [Chinese Government’s New Coronavirus Pneumonia Diagnosis and Treatment Plan (Trial Version 7)](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/file_Who-translation.pdf)
 
  * Internet Book of Critical Care (IBCC) [COVID-19 Review](https://emcrit.org/ibcc/COVID19/)
 
@@ -66,7 +66,7 @@ Useful sites for drug discovery researchers
  * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
  
 
- * [中国新冠肺炎临床诊疗方案第七版](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+ * [中国新冠肺炎临床诊疗方案第七版](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
 
 
 <br>

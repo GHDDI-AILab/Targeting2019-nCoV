@@ -77,7 +77,7 @@
 [PHISTO]提供了82种冠状病毒-人类相互作用与实验证据(http://www.phisto.org/)涉及33种人类蛋白和21种冠状病毒蛋白。
 
 
-[数据下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv)
+[数据下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Corona_human_interaction.csv)
 
 
 

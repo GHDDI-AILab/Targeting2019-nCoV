@@ -62,7 +62,7 @@ This information comes from Table 2 of the "Coronaviruses — drug discovery and
 
 82 coronavirus-human interactions with experimental evidence are provided by [PHISTO](http://www.phisto.org/), involving 33 human proteins and 21 coronavirus proteins.
 
-[Data Download](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Corona_human_interaction.csv) 
+[Data Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Corona_human_interaction.csv) 
 
 
 <br>

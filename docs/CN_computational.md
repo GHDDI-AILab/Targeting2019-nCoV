@@ -30,9 +30,9 @@
 性能(5倍交叉验证)：AUC平均值。= 0.94
 
 
-* [训练数据SMILES下载中的活性已知药物](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralMix.xlsx )
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/globalvirus_top200.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/globalvirus_topclusters.csv)
+* [训练数据SMILES下载中的活性已知药物](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_ViralMix.xlsx )
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/globalvirus_top200.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/globalvirus_topclusters.csv)
 
 
 #### 2.表型抗病毒AI模型
@@ -42,9 +42,9 @@
 性能(5倍交叉验证)：AUC平均值。= 0.908
 
 
-* [训练数据SMILES下载中的活性已知药物](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_top200.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AntivirusPhe_topclusters.csv)
+* [训练数据SMILES下载中的活性已知药物](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AntivirusPhe_top200.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AntivirusPhe_topclusters.csv)
 
 
 #### 3. RNA依赖的RNA聚合酶AI模型
@@ -54,9 +54,9 @@
 性能(5倍交叉验证)：AUC平均值。= 0.952
 
 
-* [训练数据SMILES下载中的活性已知药物](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_RdRP.xlsx)
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_top200.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/RDRP_topclusters.csv)
+* [训练数据SMILES下载中的活性已知药物](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_RdRP.xlsx)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/RDRP_top200.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/RDRP_topclusters.csv)
 
 
 #### 4. Helicase AI模型
@@ -66,9 +66,9 @@
 性能(5倍交叉验证)：AUC平均值。= 0.926
 
 
-* [训练数据SMILES下载中的活性已知药物](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_helicase.xlsx)
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_top200.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_topclusters.csv)
+* [训练数据SMILES下载中的活性已知药物](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_helicase.xlsx)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_top200.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_topclusters.csv)
 
 
 #### 5.3 C样蛋白酶AI模型
@@ -78,9 +78,9 @@
 性能(5倍交叉验证)：AUC平均值。= 0.89
 
 
-* [训练数据SMILES下载中的活性已知药物](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AKD_3CL.xlsx)
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_top200.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3CL_topclusters.csv)
+* [训练数据SMILES下载中的活性已知药物](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_3CL.xlsx)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3CL_top200.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3CL_topclusters.csv)
 
 
 
@@ -96,45 +96,45 @@
 #### 1.SARS-CoV-2 RNA依赖性RNA聚合酶(RDRP)(NTP结合位点)
 
 
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_top200_2.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/rdrp_stock_clusters_2.csv)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/rdrp_stock_top200_2.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/rdrp_stock_clusters_2.csv)
 
 
 #### 2. SARS-CoV-2螺旋酶(NTP结合位点)
 
 
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_stock_top200_2.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/helicase_stock_clusters_2.csv)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_stock_top200_2.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_stock_clusters_2.csv)
 
 
 #### 3. SARS-CoV-2 3 C-样蛋白酶(催化位点)
 
 
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3cl_stock_top200_2.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/3cl_stock_clusters_2.csv)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3cl_stock_top200_2.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3cl_stock_clusters_2.csv)
 
 
 #### 4.SARS-CoV-2木瓜蛋白酶样蛋白酶(催化位点)
 
 
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_top200_2.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/plpro_stock_clusters_2.csv)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/plpro_stock_top200_2.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/plpro_stock_clusters_2.csv)
 
 
 #### 5.人TMPRSS2(催化位点)
 
 
-* [最高预测活性化合物SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/TMPRSS2_stock_top200_2.csv)
-* [预测的活动群集SMILES下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/TMPRSS2_stock_clusters_2.csv)
+* [最高预测活性化合物SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/TMPRSS2_stock_top200_2.csv)
+* [预测的活动群集SMILES下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/TMPRSS2_stock_clusters_2.csv)
 
 
 #### 基准
 
 
-对于所有上述靶标，使用Autodock Vina over Drugbank发布的5.15版库8764化合物的常规对接结果可以[此处下载](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/vina_dock_all_drugbank515.csv)。在12 CPU上并行筛选每个目标的计算时间约为36小时。
+对于所有上述靶标，使用Autodock Vina over Drugbank发布的5.15版库8764化合物的常规对接结果可以[此处下载](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/vina_dock_all_drugbank515.csv)。在12 CPU上并行筛选每个目标的计算时间约为36小时。
 
 
-![对接基准](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/docking.jpeg)
+![对接基准](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/docking.jpeg)
 
 
 
