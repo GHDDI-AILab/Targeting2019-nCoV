@@ -1,6 +1,11 @@
+## version 0.5.3 [12-21-2020]
+
+* **UPDATE**: Backend url updates
+
 ## version 0.5.2 [12-15-2020]
 
 * **UPDATE**: News updates
+* **UPDATE**: Word clouds
 
 ## version 0.5.1 [11-16-2020]
 
