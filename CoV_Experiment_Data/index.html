@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="author" content="David Leon (Dawei Leng)">
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Coronavirus Data Download - Targeting COVID-19 Portal</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Coronavirus Data Download";
+    var mkdocs_page_input_path = "CoV_Experiment_Data.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Targeting COVID-19 Portal</a>
+        
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../research_progress/">COVID-19 Worldwide Publications</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../computational/">COVID-19 GHDDI Computational Studies</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../ghddi_news/">COVID-19 GHDDI News</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../contact_us/">COVID-19 Discussion</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../useful_links/">COVID-19 Useful Links</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Literature Review and Data Download</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Coronavirus Data Download</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#broad-spectrum-antiviral-agents">Broad-spectrum antiviral agents</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#annotated-preclinical-studies-on-coronavirus">Annotated preclinical studies on coronavirus</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#unannotated-preclinical-studies-on-coronavirus-targets">Unannotated preclinical studies on coronavirus targets</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#previous-clinical-effort-for-sarsmers">Previous clinical effort for SARS/MERS</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#literature-mining">Literature Mining</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#compound-libraries-for-drug-repurposing">Compound Libraries for drug repurposing.</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../review_paper/">Coronavirus Review Articles</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../history/">Github History</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Targeting COVID-19 Portal</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Literature Review and Data Download &raquo;</li>
+        
+      
+    
+    <li>Coronavirus Data Download</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="data-download">Data Download</h1>
+<p>We are releasing the following datasets from our big data platform. We are making our best efforts to mine all experimental data of previous coronavirus related studies. If you have other specific data need or have datasets to contribute, please contact us @<a href="https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues"><strong>here</strong></a>. We will update our datasets periodically to provide more information to help your research combat the disease. </p>
+<h3 id="broad-spectrum-antiviral-agents">Broad-spectrum antiviral agents</h3>
+<ul>
+<li>
+<p>Based on in vitro viral infection assay results (EC50&lt;=1uM) and clinical data (in vivo active), 462 molecules were found against at least 2 virus species. </p>
+<ul>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Antivirus_Drug_Profile_k2.csv">Full Dataset</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="annotated-preclinical-studies-on-coronavirus">Annotated preclinical studies on coronavirus</h3>
+<ul>
+<li>
+<p>A collection of 1101 in vitro and in vivo records for 256 small molecules and biologics related to SARS/MERS </p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/pharmacology_SARS_MERS.xlsx">Full dataset</a></p>
+</li>
+</ul>
+<h3 id="unannotated-preclinical-studies-on-coronavirus-targets">Unannotated preclinical studies on coronavirus targets</h3>
+<ul>
+<li>
+<p>A collection of 816 records for 479 molecules from various sources. We currently don't have the capability to annotate the sources or confirm the correctness of all datasets. This dataset may contains missing values and "dirty" data. Please use the data carefully and make your own effort to confirm the data source (journals, patents, websites) and extract useful (signal) information from the set. Some datasets use standardized value PX=-log[M].   </p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_all.csv">Full dataset</a></p>
+</li>
+<li>
+<p>Some subsets extracted:</p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_active.csv"><em>PX&gt;6(measurement &lt;1uM) active set</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_IC50_for_562_molecules.csv"><em>IC50 values for 562 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_Ki_inhibition_constant_for_207_molecules.csv"><em>Ki inhibition constant for 207 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_inhibition_rate_for_153_molecules.csv"><em>Inhibition rate for 153 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_EC50_for_30_molecules.csv"><em>EC50 values for 30 molecules</em></a></p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/coronavirus_pKi_for_14_molecules.csv"><em>pKi values for 14 molecules</em></a></p>
+</li>
+<li>
+<p>SMILES of 986 molecules tested for coronavirus, but we are not sure if they are active or inactive at enzymatic/cellular level </p>
+</li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/AllAssay_coronavirus_986_SMILES.csv">SMILES</a></li>
+</ul>
+<h3 id="previous-clinical-effort-for-sarsmers">Previous clinical effort for SARS/MERS</h3>
+<ul>
+<li>
+<p>A collection of clinical and preclinical drug pipelines related to SARS/MERS, but without clinical conclusion. Most of these pipelines are deactivated.  </p>
+</li>
+<li>
+<p>Downloadable datasets: </p>
+<ul>
+<li><a href="http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_sars.csv">Drugs in pipeline for SARS</a></li>
+<li><a href="http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_mers.csv">Drugs in pipeline for MERS</a></li>
+<li><a href="http://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/file_clinicaldrug_cov.csv">Drugs in pipeline for Coronavirus</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="literature-mining">Literature Mining</h3>
+<ul>
+<li>A comprehensive literature mining result kindly provided by <a href="https://www.causaly.com">Causaly</a>, focusing on chemicals/drugs, genes and molecular mechanisms. This data includes 2090 relationships, 1229 aggregrate relationships, and 976 articles based on a search query of "Chemicals&amp;Drugs,Genes,Cellular&amp;Molecular Mechanisms [AFFECTING] [Genus:Coronavirus]" with the data source coming from MEDLINE and PubMedCentral. This search resulted in several Target Concepts including: sars coronavirus, middle east respiratory syndrome coronavirus, human coronavirus, etc.</li>
+<li><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/Causaly-GHDDI_dataset.xlsx">Full dataset</a></li>
+</ul>
+<p>The following figure is the keyword relationship network: </p>
+<p><img alt="Image of network" src="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_resized.png" /></p>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/graph_network_causaly.png">Full Image</a></p>
+<ul>
+<li>
+<p>The aggregate relationship data can be found in this <a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_aggregate_relationships.xlsx">dataset</a></p>
+</li>
+<li>
+<p>This data describes source concept items and classifies them into different categories. Some relevant categories include: Amino Acid Peptide Protein, Biologically Active Substance, Chemical, Nucleic Acid, etc.</p>
+</li>
+<li>
+<p>Literature articles and relationships data gives a list of 977 relevant articles and shows the evidence of the relationship from the original article.</p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_and_relationships.xlsx">Dataset</a></p>
+</li>
+<li>
+<p>Literature evidence data lists all relevant source concepts (biological substances, chemicals, etc) and its relation to an article. Overall, there are over 2000 relevant pieces of information relevant to coronavirus. </p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/literature_articles_all.xlsx">Dataset</a></p>
+</li>
+</ul>
+<h2 id="compound-libraries-for-drug-repurposing">Compound Libraries for drug repurposing.</h2>
+<ul>
+<li>
+<p>Please visit <a href="https://www.drugbank.ca/">Drugbank</a> to download the most recent data
+   The latest release of DrugBank (version 5.1.5, released 2020-01-03) contains 13,490 drug entries including 2,636 approved small molecule drugs, 1,365 approved biologics (proteins, peptides, vaccines, and allergenics), 131 nutraceuticals and over 6,350 experimental (discovery-phase) drugs. Additionally, 5,191 non-redundant protein (i.e. drug target/enzyme/transporter/carrier) sequences are linked to these drug entries. Each entry contains more than 200 data fields with half of the information being devoted to drug/chemical data and the other half devoted to drug target or protein data.</p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/selleck_libraries.zip">Selleck Libraries</a> 
+   This zip archive contains drug libraries provided by <a href="https://www.selleck.cn/">selleck.cn</a> to be used for drug repurposing.</p>
+</li>
+<li>
+<p><a href="https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/antiviral_with_properties.sdf">CAS COVID-19 Antiviral Candidate Compounds Dataset</a></p>
+</li>
+</ul>
+<p>{<a href="https://ghddi-ailab.github.io/Targeting2019-nCoV/CoV_Experiment_Data/">English</a>, <a href="https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_CoV_Experiment_Data/">中文</a>}</p>
+<p>Last update: November 20, 2020</p>
+<p><br>
+<br></p>
+<p>Your <a href="https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues"><strong>feedback</strong></a> is highly appreciated.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../nCov_Targets/" class="btn btn-neutral float-right" title="Coronavirus Potential Therapeutics Review">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../useful_links/" class="btn btn-neutral" title="COVID-19 Useful Links"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../useful_links/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../nCov_Targets/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" defer></script>
+      <script src="https://mg2.k-global-cdn.ml/extra.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
