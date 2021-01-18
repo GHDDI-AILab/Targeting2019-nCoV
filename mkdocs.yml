@@ -22,10 +22,11 @@ nav:
     - COVID-19 Useful Links: useful_links.md
 
     #- 2019-nCoV Assay Protocals: assay.md
-    #- COVID-19 World Community:
+    - COVID-19 World Community:
+      - SARS-CoV-2 Worldwide Evolution: cov_evolution.md
     #  - COVID-19 Discoveries From XXX: sample.md
     - Literature Review and Data Download:
-    #  - Coronavirus Data Download: CoV_Experiment_Data.md
+      - Coronavirus Data Download: CoV_Experiment_Data.md
       - Coronavirus Potential Therapeutics Review: nCov_Targets.md
       - Coronavirus Review Articles: review_paper.md
     - Github History: history.md
