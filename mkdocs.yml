@@ -23,7 +23,7 @@ nav:
 
     #- 2019-nCoV Assay Protocals: assay.md
     - COVID-19 World Community:
-      - SARS-CoV-2 Worldwide Evolution: cov_evolution.md
+      - Coronavirus Worldwide Evolution: cov_evolution.md
     #  - COVID-19 Discoveries From XXX: sample.md
     - Literature Review and Data Download:
       - Coronavirus Data Download: CoV_Experiment_Data.md
