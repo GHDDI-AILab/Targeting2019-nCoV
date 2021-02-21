@@ -10,7 +10,7 @@
 使用[dimensions.ai](https://dimensions.ai)服务和简单的NLP脚本，下图显示了COVID-19临床试验在世界各地的分布和不同类型的试验。这些统计与[figshare]中的每次更新同步(https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063)表。
 
 
-图最后更新日期：2020年12月3日
+图最后更新日期：2021年2月21日
 
 
 ![国家](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/figure_countries.png)
