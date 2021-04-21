@@ -48,6 +48,8 @@ Useful sites for drug discovery researchers
 
  * ZINC database for docking [ZINC15](http://zinc15.docking.org/) 
 
+ * [dimensions.ai](https://dimensions.ai) currently provides a list of research articles and other research items updated daily regarding COVID-19 and coronavirus with [this search query](https://covid-19.dimensions.ai/).
+
 
 ---
 中文资源 Research in Chinese
