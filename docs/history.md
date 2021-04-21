@@ -1,3 +1,11 @@
+## version 0.5.5 [04-21-2020]
+
+* **UPDATE**: Restructure some areas
+
+## version 0.5.4 [02-10-2020]
+
+* **UPDATE**: Added network model paper
+
 ## version 0.5.3 [12-21-2020]
 
 * **UPDATE**: Backend url updates
