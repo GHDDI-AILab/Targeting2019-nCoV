@@ -1,4 +1,4 @@
-![logo](https://mg2.k-global-cdn.ml/file/logob@2x.png)
+![logo](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/logob@2x.png)
 
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 

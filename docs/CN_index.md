@@ -1,4 +1,4 @@
-![徽标](https://mg2.k-global-cdn.ml/file/logob@2x.png)
+![徽标](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/logob@2x.png)
 
 
 
