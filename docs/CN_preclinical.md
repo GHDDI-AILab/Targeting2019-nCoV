@@ -9,7 +9,7 @@
 
 
 
-<iframe src="https://mg2.k-global-cdn.ml/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
+<iframe src="https://aidddata.ghddi.cn/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
 
 
 ---

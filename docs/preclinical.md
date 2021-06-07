@@ -5,7 +5,7 @@
 The following is an updated list of studies with published in vitro experimental results. The studies were complied using several well known preprint and publication databases relating to SARS-CoV-2 and COVID-19. Drug names and numerical EC50/IC50 results were extracted using simple NLP scripts along with a correlation label. An indirect correlation means that although a drug name was extracted, it could not be mapped to the experimental value using our current algorithm. It should be noted that this list is to be used only as a reference for further investigation, and the drug names and extracted numerical values are neither 100% accurate nor complete.
 
 
-<iframe src="https://mg2.k-global-cdn.ml/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
+<iframe src="https://aidddata.ghddi.cn/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
 
 ---
 
