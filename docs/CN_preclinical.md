@@ -9,7 +9,7 @@
 
 
 
-<iframe src="https://aidddata.ghddi.cn:8443/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
+<iframe src="https://aidd.ghddi.org/Targeting2019-nCoV/list.html" style="border:0px #ffffff none;" name="preclinical" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="700px" scrolling="yes" allowfullscreen></iframe>
 
 
 ---
