@@ -7,7 +7,7 @@ markdown_extensions:
 
 extra_javascript:
     - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-    - https://mg2.k-global-cdn.ml/extra.js
+    - https://aidd.ghddi.org/Targeting2019-nCoV/extra.js
 
 nav:
     - Home: index.md
