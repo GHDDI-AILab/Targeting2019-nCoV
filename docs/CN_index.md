@@ -1,4 +1,4 @@
-![徽标](https://mg2.k-global-cdn.ml/file/logob@2x.png)
+![徽标](img/ghddi_logo.jpg)
 
 
 
@@ -53,12 +53,12 @@
 该网站的数据仅用于研究目的，不得用于临床建议。GHDDI不对任何错误或遗漏或使用该信息获得的结果负责。本研究中心的所有信息均以“原样”提供，不保证完整性、准确性、及时性或使用该信息获得的结果。
 
 
-
-
+由 [默克集团](https://www.merckgroup.com/en) 提供赞助.
 <br>
+<img alt="merck_logo" src="img/merck_logo.png" style="width: 20%">
 
 
-[Atman]提供的翻译服务(https://atman360.com/)
+[Atman](https://atman360.com/) 提供的翻译服务
 
 
 {[English](https://ghddi-ailab.github.io/Targeting2019-nCoV/), [中文](https://ghddi-ailab.github.io/Targeting2019-nCoV/CN_index/)}

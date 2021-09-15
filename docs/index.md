@@ -1,4 +1,4 @@
-![logo](https://aidd.ghddi.org/Targeting2019-nCoV/imgs/logo.png)
+![logo](img/ghddi_logo.jpg)
 
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
@@ -34,8 +34,9 @@ We're from GHDDI (The Global Health Drug Discovery Institute). GHDDI was jointly
 
 The data from this website is for research purpose only, may not be used for clinical advice. GHDDI is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information.
 
-
+Sponsored by [Merck KGaA](https://www.merckgroup.com/en).
 <br>
+<img alt="merck_logo" src="img/merck_logo.png" style="width: 20%">
 
 Translation service provided by [Atman](https://atman360.com/)
 
