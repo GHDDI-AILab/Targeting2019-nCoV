@@ -1,4 +1,4 @@
-![logo](https://mg2.k-global-cdn.ml/file/logob@2x.png)
+![logo](https://aidd.ghddi.org/Targeting2019-nCoV/imgs/logo.png)
 
 
 # Targeting COVID-19: GHDDI Info Sharing Portal 
