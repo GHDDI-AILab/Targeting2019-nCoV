@@ -1,135 +1,119 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <meta name="author" content="David Leon (Dawei Leng)">
-  
-  <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>晶体学/EM解析SARS-CoV-2靶标和相关宿主靶标的结构和同源模型 - Targeting COVID-19 Portal</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
-
-  <link rel="stylesheet" href="../css/theme.css" />
-  <link rel="stylesheet" href="../css/theme_extra.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "\u6676\u4f53\u5b66/EM\u89e3\u6790SARS-CoV-2\u9776\u6807\u548c\u76f8\u5173\u5bbf\u4e3b\u9776\u6807\u7684\u7ed3\u6784\u548c\u540c\u6e90\u6a21\u578b";
-    var mkdocs_page_input_path = "CN_nCov_Structures.md";
-    var mkdocs_page_url = null;
-  </script>
-  
-  <script src="../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script> 
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" content="David Leon (Dawei Leng)" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>晶体学/EM解析SARS-CoV-2靶标和相关宿主靶标的结构和同源模型 - Targeting COVID-19 Portal</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "\u6676\u4f53\u5b66/EM\u89e3\u6790SARS-CoV-2\u9776\u6807\u548c\u76f8\u5173\u5bbf\u4e3b\u9776\u6807\u7684\u7ed3\u6784\u548c\u540c\u6e90\u6a21\u578b";
+        var mkdocs_page_input_path = "CN_nCov_Structures.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
 </head>
 
 <body class="wy-body-for-nav" role="document">
 
   <div class="wy-grid-for-nav">
-
-    
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-        <a href=".." class="icon icon-home"> Targeting COVID-19 Portal</a>
-        
+          <a href=".." class="icon icon-home"> Targeting COVID-19 Portal
+        </a>
       </div>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../research_progress/">COVID-19 Worldwide Publications</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../computational/">COVID-19 GHDDI Computational Studies</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../ghddi_news/">COVID-19 GHDDI News</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../contact_us/">COVID-19 Discussion</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../useful_links/">COVID-19 Useful Links</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">COVID-19 World Community</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../cov_evolution/">Coronavirus Worldwide Evolution</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Literature Review and Data Download</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../review_paper/">Coronavirus Review Articles</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../history/">Github History</a>
-                    </li>
-                </ul>
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../clinical/">COVID-19 Worldwide Clinical Trials</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../preclinical/">COVID-19 Worldwide Preclinical Studies</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../research_progress/">COVID-19 Worldwide Publications</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../Data_analytics/">COVID-19 GHDDI Data Analytics</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../nCov_Structures/">COVID-19 GHDDI Structure modeling</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../computational/">COVID-19 GHDDI Computational Studies</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../ghddi_news/">COVID-19 GHDDI News</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../contact_us/">COVID-19 Discussion</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../useful_links/">COVID-19 Useful Links</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">COVID-19 World Community</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../cov_evolution/">Coronavirus Worldwide Evolution</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Literature Review and Data Download</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../nCov_Targets/">Coronavirus Potential Therapeutics Review</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../review_paper/">Coronavirus Review Articles</a>
+                  </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../history/">Github History</a>
+                </li>
+              </ul>
       </div>
     </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="..">Targeting COVID-19 Portal</a>
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Targeting COVID-19 Portal</a>
+        
       </nav>
-
-      
       <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="..">Docs</a> &raquo;</li>
-    
-      
-    
-    <li>晶体学/EM解析SARS-CoV-2靶标和相关宿主靶标的结构和同源模型</li>
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>晶体学/EM解析SARS-CoV-2靶标和相关宿主靶标的结构和同源模型</li>
     <li class="wy-breadcrumbs-aside">
-      
     </li>
   </ul>
-  
   <hr/>
 </div>
-
-          <div role="main">
-            <div class="section">
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
               
                 <h1 id="emsars-cov-2">晶体学/EM解析SARS-CoV-2靶标和相关宿主靶标的结构和同源模型</h1>
 <p>我们建立了SARS-CoV-2主要靶标的同源模型，这些靶标与SARS或其他高度相似的物种高度同源。我们进一步最小化和模拟了一些模型，以获得更好的结构质量。如果您想进行任何对接实践，请注意，其中一些蛋白质是通过与病毒的其他辅助因子蛋白形成复杂的结构，或在其他人类生物分子的辅助下发挥作用的。此外，蛋白质在生理条件下具有高度的动态性，具有较大的构象柔性。这些结构只是真实生物事件的“快照”。我们将每天更新structrue列表，为研究界提供更多的起点。如果您有需要上传的结构，请联系我们<a href="https://github.com/GHDDI-AILab/Targeting2019-nCoV/issues"><strong>此处</strong></a>。我们正在开发一个更互动的界面，以便您在未来直接参与。</p>
@@ -171,30 +155,30 @@ SEPVLKGVKL HYT</p>
 <p>基于SARS的Spike蛋白和Spike-ACE2的同源模型https://swissmodel.expasy.org</p>
 </li>
 <li>
-<p><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip">完整数据集</a></p>
+<p><a href="./file/2019nCoV_Spike_Protein_2020-01-24.zip">完整数据集</a></p>
 </li>
 <li>
 <p>Spike-ACE2的最小化模型</p>
 </li>
 <li>
-<p><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_min.pdb">完整数据集</a></p>
+<p><a href="./file/wuhan_ace2_min.pdb">完整数据集</a></p>
 </li>
 <li>
 <p>Spike-ACE2的MD模拟(37 C，水，全原子)模型(Spike为同源三聚体，人ACE2为黄色)</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_MD.pdb">完整数据集</a></li>
+<li><a href="./file/wuhan_ace2_MD.pdb">完整数据集</a></li>
 </ul>
 </li>
 </ul>
-<p><img alt="MD模拟的Spike蛋白与人ACE2结合" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png" /></p>
+<p><img alt="MD模拟的Spike蛋白与人ACE2结合" src="./file/2019nCoV_Spike_ACE2_cartoon.png" /></p>
 <hr />
 <h3 id="e">包膜蛋白，E蛋白</h3>
 <p>MYSFVSEETG TLIVNSVLLF LAFVVFLLVT LAILTALRLC AYCCNIVNVS LVKPSFYVYS
 RVKNLNSSRV PDLLV</p>
 <ul>
 <li>基于SARS的E蛋白同源模型https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_E_protein_2020-01-23.zip">完整数据集</a>
-<img alt="E蛋白" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Eprotein.png" /></li>
+<li><a href="./file/2019nCoV_E_protein_2020-01-23.zip">完整数据集</a>
+<img alt="E蛋白" src="./file/Eprotein.png" /></li>
 </ul>
 </li>
 </ul>
@@ -209,7 +193,7 @@ WPQIAQFAPS ASAFFGMSRI GMEVTPSGTW LTYTGAIKLD DKDPNFKDQV ILLNKHIDAY
 KTFPPTEPKK DKKKKADETQ ALPQRQKKQQ TVTLLPAADL DDFSKQLQQS MSSADSTQA</p>
 <ul>
 <li>基于SARS的N蛋白同源模型https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_N_Protein_2020-01-22.zip">完整数据集</a></li>
+<li><a href="./file/2019nCoV_N_Protein_2020-01-22.zip">完整数据集</a></li>
 </ul>
 </li>
 </ul>
@@ -338,8 +322,8 @@ RENNRVVISS DVLVNN</p>
 <h3 id="_2">木瓜蛋白酶样蛋白酶</h3>
 <ul>
 <li>复制酶多聚蛋白1ab的同源模型https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip">完整数据集</a>
-<img alt="复制酶" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/replicase.png" /></li>
+<li><a href="./file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip">完整数据集</a>
+<img alt="复制酶" src="./file/replicase.png" /></li>
 </ul>
 </li>
 </ul>
@@ -355,23 +339,23 @@ RENNRVVISS DVLVNN</p>
 <li>
 <p>3 C-样蛋白酶的同源模型https://swissmodel.expasy.org</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip">完整数据集</a></li>
+<li><a href="./file/2019nCoV_Mprotease_2020-01-25.zip">完整数据集</a></li>
 </ul>
 </li>
 <li>
 <p>3 C-样蛋白酶的最小化模型</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_mpro_minimized.pdb">PDB</a></li>
+<li><a href="./file/wuhan_mpro_minimized.pdb">PDB</a></li>
 </ul>
 </li>
 <li>
 <p>Mpro二聚体的MD模拟(37 C，水，全原子)模型</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb">PDB</a></li>
+<li><a href="./file/nCov_Mpro_dimer_2.4ns_MD.pdb">PDB</a></li>
 </ul>
 </li>
 </ul>
-<p><img alt="3CL蛋白酶" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_3CLProtease.png" /></p>
+<p><img alt="3CL蛋白酶" src="./file/2019nCoV_3CLProtease.png" /></p>
 <hr />
 <h3 id="nsp12rnarnardrp">NSP12，RNA依赖性RNA聚合酶(RDRP)</h3>
 <ul>
@@ -384,22 +368,22 @@ RENNRVVISS DVLVNN</p>
 <li>
 <p>RNA依赖的RNA聚合酶的同源模型(与Zn2 +)使用https://swissmodel.expasy.org</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip">完整数据集</a></li>
+<li><a href="./file/2019nCoV_NSP12_polymerase_2020-01-31.zip">完整数据集</a></li>
 </ul>
 </li>
 </ul>
-<p><img alt="Zn2 + + 结合RDRP" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RdRP.png" /></p>
+<p><img alt="Zn2 + + 结合RDRP" src="./file/2019nCoV_RdRP.png" /></p>
 <ul>
 <li>
 <p>RNA导向RNA聚合酶的最小化模型</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb">PDB</a></li>
+<li><a href="./file/2019nCoV_RDRP_min.pdb">PDB</a></li>
 </ul>
 </li>
 <li>
 <p>RNA导向RNA聚合酶的MD模拟(37 C，水，全原子)模型</p>
 <ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb">PDB</a></li>
+<li><a href="./file/2019nCoV_RDRP_w_i_MD.pdb">PDB</a></li>
 </ul>
 </li>
 </ul>
@@ -407,8 +391,8 @@ RENNRVVISS DVLVNN</p>
 <h3 id="nsp13">NSP13，螺旋酶</h3>
 <ul>
 <li>Helicase的同源模型使用https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip">完整数据集</a>
-<img alt="螺旋酶" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Helicase.png" /></li>
+<li><a href="./file/2019nCoV_Helicase_2020-01-31.zip">完整数据集</a>
+<img alt="螺旋酶" src="./file/Helicase.png" /></li>
 </ul>
 </li>
 </ul>
@@ -416,8 +400,8 @@ RENNRVVISS DVLVNN</p>
 <h3 id="nsp14-n7">NSP14，鸟嘌呤-N7甲基转移酶</h3>
 <ul>
 <li>Polyprotein 1ab的同源模型使用https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip">完整数据集</a>
-<img alt="Polyprotein1ab" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Polyprotein1ab.png" /></li>
+<li><a href="./file/2019nCoV_Polyprotein1ab_2020-01-31.zip">完整数据集</a>
+<img alt="Polyprotein1ab" src="./file/Polyprotein1ab.png" /></li>
 </ul>
 </li>
 </ul>
@@ -425,8 +409,8 @@ RENNRVVISS DVLVNN</p>
 <h3 id="nsp15">NSP15，尿苷酸特异性核糖核酸内切酶</h3>
 <ul>
 <li>尿苷酸特异性核糖核酸内切酶的同源模型https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip">完整数据集</a>
-<img alt="尿苷酸" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Uprotein.png" /></li>
+<li><a href="./file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip">完整数据集</a>
+<img alt="尿苷酸" src="./file/Uprotein.png" /></li>
 </ul>
 </li>
 </ul>
@@ -434,8 +418,8 @@ RENNRVVISS DVLVNN</p>
 <h3 id="nsp162-o-">NSP16，2'-O-甲基转移酶</h3>
 <ul>
 <li>2'-O-甲基转移酶的同源模型https://swissmodel.expasy.org<ul>
-<li><a href="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip">完整数据集</a>
-<img alt="转移酶" src="https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/transferase.png" /></li>
+<li><a href="./file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip">完整数据集</a>
+<img alt="转移酶" src="./file/transferase.png" /></li>
 </ul>
 </li>
 </ul>
@@ -444,20 +428,17 @@ RENNRVVISS DVLVNN</p>
 <p>上次更新：<span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 21, 2020</span></p>
               
             </div>
-          </div>
-          <footer>
-  
+          </div><footer>
 
   <hr/>
 
   <div role="contentinfo">
     <!-- Copyright etc -->
-    
   </div>
 
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
-      
+          
         </div>
       </div>
 
@@ -465,7 +446,7 @@ RENNRVVISS DVLVNN</p>
 
   </div>
 
-  <div class="rst-versions" role="note" aria-label="versions">
+  <div class="rst-versions" role="note" aria-label="Versions">
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
