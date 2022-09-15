@@ -55,7 +55,7 @@
 
 由 [默克集团](https://www.merckgroup.com/en) 提供赞助.
 <br>
-<img alt="merck_logo" src="img/merck_logo.png" style="width: 20%">
+<img alt="merck_logo" src="https://ghddi-ailab.github.io/Targeting2019-nCoV/img/merck_logo.png" style="width: 20%">
 
 
 [Atman](https://atman360.com/) 提供的翻译服务
