@@ -1207,11 +1207,6 @@ function openCity(evt, cityName) {
 </body>
 </html> 
 
----
-
-
-
-
 
 
 
