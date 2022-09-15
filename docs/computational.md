@@ -19,45 +19,45 @@ We have tried different training sets containing different virus species and the
 Training Data: Using heterogeneous records of antiviral bioactivity data including target based and phenotype based records from various species and in vitro assays, a total of 76247 compounds with 37332 active and 38915 inactive molecules (EC50 <=100nM for at least one viral species as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.94
 
-* [Active Known Drugs in Training data SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_ViralMix.xlsx )
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/globalvirus_top200.csv)
-* [Predicted Active clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/globalvirus_topclusters.csv)
+* [Active Known Drugs in Training data SMILES Download](file/AKD_ViralMix.xlsx )
+* [Top Predicted Active Compounds SMILES Download](file/globalvirus_top200.csv)
+* [Predicted Active clusters SMILES Download](file/globalvirus_topclusters.csv)
 
 #### 2. Phenotypic antiviral AI model
 
 Training Data: Using heterogeneous records of antiviral bioactivity data of phenotype based records from various species and in vitro assays, a total of 7305 compounds with 3751 active and 3554 inactive molecules (EC50 <=100nM for at least one viral species as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.908
 
-* [Active Known Drugs in Training data SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_ViralPhe.xlsx)
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AntivirusPhe_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AntivirusPhe_topclusters.csv)
+* [Active Known Drugs in Training data SMILES Download](file/AKD_ViralPhe.xlsx)
+* [Top Predicted Active Compounds SMILES Download](file/AntivirusPhe_top200.csv)
+* [Predicted Active Clusters SMILES Download](file/AntivirusPhe_topclusters.csv)
 
 #### 3. RNA-dependent RNA polymerase AI model
 
 Training Data: Using heterogeneous records of RNA-dependent RNA polymerase related bioactivity data from various species and in vitro assays, a total of 583 compounds with 306 active and 277 inactive molecules (IC50 <=1μM as active).  
 Performance (5-fold cross-validation): AUC avg. = 0.952
 
-* [Active Known Drugs in Training data SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_RdRP.xlsx)
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/RDRP_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/RDRP_topclusters.csv)
+* [Active Known Drugs in Training data SMILES Download](file/AKD_RdRP.xlsx)
+* [Top Predicted Active Compounds SMILES Download](file/RDRP_top200.csv)
+* [Predicted Active Clusters SMILES Download](file/RDRP_topclusters.csv)
 
 #### 4. Helicase AI model
 
 Training Data: Using heterogeneous records of Helicase related bioactivity data from various species and in vitro assays, a total of 878 compounds with 127 active and 751 inactive molecules (IC50 <=1μM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.926
 
-* [Active Known Drugs in Training data SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_helicase.xlsx)
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_topclusters.csv)
+* [Active Known Drugs in Training data SMILES Download](file/AKD_helicase.xlsx)
+* [Top Predicted Active Compounds SMILES Download](file/helicase_top200.csv)
+* [Predicted Active Clusters SMILES Download](file/helicase_topclusters.csv)
 
 #### 5. 3C-like protease AI model 
 
 Training Data: Using heterogeneous records of 3C-like protease related bioactivity data from various species and in vitro assays, a total of 457 compounds with 132 active and 325 inactive molecules (IC50 <=1μM as active). 
 Performance (5-fold cross-validation): AUC avg. = 0.89 
 
-* [Active Known Drugs in Training data SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/AKD_3CL.xlsx)
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3CL_top200.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3CL_topclusters.csv)
+* [Active Known Drugs in Training data SMILES Download](file/AKD_3CL.xlsx)
+* [Top Predicted Active Compounds SMILES Download](file/3CL_top200.csv)
+* [Predicted Active Clusters SMILES Download](file/3CL_topclusters.csv)
 
 
 ### B. Structure based AI model
@@ -67,34 +67,34 @@ This model was constructed based on GHDDI developed HAG-net. The model was train
 
 #### 1. SARS-CoV-2 RNA-dependent RNA polymerase(RDRP) (NTP binding site)  
 
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/rdrp_stock_top200_2.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/rdrp_stock_clusters_2.csv)
+* [Top Predicted Active Compounds SMILES Download](file/rdrp_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](file/rdrp_stock_clusters_2.csv)
 
 #### 2. SARS-CoV-2 Helicase (NTP binding site) 
 
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_stock_top200_2.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/helicase_stock_clusters_2.csv)
+* [Top Predicted Active Compounds SMILES Download](file/helicase_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](file/helicase_stock_clusters_2.csv)
 
 #### 3. SARS-CoV-2 3C-like protease (catalytic site) 
 
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3cl_stock_top200_2.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/3cl_stock_clusters_2.csv)
+* [Top Predicted Active Compounds SMILES Download](file/3cl_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](file/3cl_stock_clusters_2.csv)
 
 #### 4. SARS-CoV-2 Papain-like protease (catalytic site)  
 
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/plpro_stock_top200_2.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/plpro_stock_clusters_2.csv)
+* [Top Predicted Active Compounds SMILES Download](file/plpro_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](file/plpro_stock_clusters_2.csv)
 
 #### 5. Human TMPRSS2 (catalytic site)
 
-* [Top Predicted Active Compounds SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/TMPRSS2_stock_top200_2.csv)
-* [Predicted Active Clusters SMILES Download](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/TMPRSS2_stock_clusters_2.csv)
+* [Top Predicted Active Compounds SMILES Download](file/TMPRSS2_stock_top200_2.csv)
+* [Predicted Active Clusters SMILES Download](file/TMPRSS2_stock_clusters_2.csv)
 
 #### Benchmark
 
-Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be [download here](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/vina_dock_all_drugbank515.csv). Computational time for screening each target is about ~36 hours on 12 CPU in parallel. 
+Conventional Docking results using Autodock Vina over Drugbank released version 5.15 library 8764 compounds for all above targets can be [download here](file/vina_dock_all_drugbank515.csv). Computational time for screening each target is about ~36 hours on 12 CPU in parallel. 
 
-![Docking benchmark](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/docking.jpeg)
+![Docking benchmark](file/docking.jpeg)
 
 
 ### C. Network based AI model 

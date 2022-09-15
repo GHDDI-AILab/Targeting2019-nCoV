@@ -42,16 +42,16 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
     
 * Homology model of Spike protein alone and Spike-ACE2 based on SARS using https://swissmodel.expasy.org
     
-* [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_Protein_2020-01-24.zip)
+* [Full dataset](file/2019nCoV_Spike_Protein_2020-01-24.zip)
     
 * Minimized model of Spike-ACE2 
     
-* [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_min.pdb)
+* [Full dataset](file/wuhan_ace2_min.pdb)
     
 * MD simulated (37C, water, all-atom) model of Spike-ACE2 (Spike is a homo-trimer in color, human ACE2 is in yellow)
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_ace2_MD.pdb)
+    * [Full dataset](file/wuhan_ace2_MD.pdb)
 
-    ![MD simulated Spike protein bind to human ACE2](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Spike_ACE2_cartoon.png)
+    ![MD simulated Spike protein bind to human ACE2](file/2019nCoV_Spike_ACE2_cartoon.png)
     
 ---
 
@@ -61,8 +61,8 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
      RVKNLNSSRV PDLLV
      
 * Homology model of E protein based on SARS using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_E_protein_2020-01-23.zip)
-    ![E protein](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Eprotein.png)
+    * [Full dataset](file/2019nCoV_E_protein_2020-01-23.zip)
+    ![E protein](file/Eprotein.png)
 
 ---
 ### Nucleocapsid Phosphoprotein, N protein
@@ -76,7 +76,7 @@ The Protein Data Bank has also provided SARS-CoV-2 resource download for all cur
      KTFPPTEPKK DKKKKADETQ ALPQRQKKQQ TVTLLPAADL DDFSKQLQQS MSSADSTQA
 
 * Homology model of N protein based on SARS using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_N_Protein_2020-01-22.zip)
+    * [Full dataset](file/2019nCoV_N_Protein_2020-01-22.zip)
 
 ---
 
@@ -207,8 +207,8 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
 ### Papain-like proteinase
 
 * Homology model of Replicase polyprotein 1ab using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
-    ![Replicase](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/replicase.png)
+    * [Full dataset](file/2019nCoV_Replicase_polyprotein_1ab_2020-01-31.zip)
+    ![Replicase](file/replicase.png)
 ---
 ### 3C-like protease
 
@@ -216,15 +216,15 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB 6LU7](https://www.rcsb.org/structure/6lu7)
 
 * Homology model of 3C-like protease using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Mprotease_2020-01-25.zip)
+    * [Full dataset](file/2019nCoV_Mprotease_2020-01-25.zip)
 
 * Minimized model of 3C-like protease 
-    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/wuhan_mpro_minimized.pdb)
+    * [PDB](file/wuhan_mpro_minimized.pdb)
 
 * MD simulated (37C, water, all-atom) model of Mpro dimer 
-    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/nCov_Mpro_dimer_2.4ns_MD.pdb)
+    * [PDB](file/nCov_Mpro_dimer_2.4ns_MD.pdb)
      
-     ![3CL protease](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_3CLProtease.png)
+     ![3CL protease](file/2019nCoV_3CLProtease.png)
 
 ---
 
@@ -235,49 +235,49 @@ The replicase polyprotein 1ab contains Host translation inhibitor nsp1,Non-struc
     * [PDB 6M71](https://www.rcsb.org/structure/6M71)
 
 * Homology model of RNA-dependent RNA polymerase (with Zn2+) using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
+    * [Full dataset](file/2019nCoV_NSP12_polymerase_2020-01-31.zip)
       
-     ![Zn2++ bind RDRP](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RdRP.png)
+     ![Zn2++ bind RDRP](file/2019nCoV_RdRP.png)
     
 * Minimized model of RNA-directed RNA polymerase
     
-    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_min.pdb)
+    * [PDB](file/2019nCoV_RDRP_min.pdb)
 
 * MD simulated (37C, water, all-atom) model of RNA-directed RNA polymerase
 
-    * [PDB](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_RDRP_w_i_MD.pdb)
+    * [PDB](file/2019nCoV_RDRP_w_i_MD.pdb)
     
 ---
 
 ### NSP13, Helicase  
 
 * Homology model of Helicase using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Helicase_2020-01-31.zip)
-    ![Helicase](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Helicase.png)
+    * [Full dataset](file/2019nCoV_Helicase_2020-01-31.zip)
+    ![Helicase](file/Helicase.png)
 
 ---
 
 ### NSP14, Guanine-N7 methyltransferase
 
 * Homology model of Polyprotein 1ab using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
-    ![Polyprotein1ab](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Polyprotein1ab.png)
+    * [Full dataset](file/2019nCoV_Polyprotein1ab_2020-01-31.zip)
+    ![Polyprotein1ab](file/Polyprotein1ab.png)
 
 ---
 
 ### NSP15, Uridylate-specific endoribonuclease
 
 * Homology model of Uridylate-specific endoribonuclease using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip)
-    ![Uridylate](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Uprotein.png)
+    * [Full dataset](file/2019nCoV_Uridylate-specific_endoribonuclease_2020-01-31.zip)
+    ![Uridylate](file/Uprotein.png)
 
 ---
 
 ### NSP16, 2'-O-methyl transferase
 
 * Homology model of 2'-O-methyl transferase using https://swissmodel.expasy.org
-    * [Full dataset](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip)
-    ![transferase](https://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/transferase.png)
+    * [Full dataset](file/2019nCoV_2-O-methyl_transferase_2020-01-31.zip)
+    ![transferase](file/transferase.png)
     
 
 <br>

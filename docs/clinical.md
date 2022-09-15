@@ -8,26 +8,26 @@ Using [dimensions.ai](https://dimensions.ai) service and simple NLP scripts, the
 
 Figures Last Updated: February 21, 2021
 
-![countries](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/figure_countries.png)
+![countries](file/figure_countries.png)
 
-![types_of_trials](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/figure_types.png)
+![types_of_trials](file/figure_types.png)
 
 Download links for all three types of clinical trials are listed below.
 
-[Download Treatment list](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/druglist.csv)
+[Download Treatment list](file/druglist.csv)
 
-[Download Biologics Clinical Trial list](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/ct_biologics.csv), Word Cloud below:
+[Download Biologics Clinical Trial list](file/ct_biologics.csv), Word Cloud below:
 
-![biologics cloud](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/biologics_cloud.png)
+![biologics cloud](file/biologics_cloud.png)
 
-[Download Vaccine Clinical Trial list](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/ct_vaccine.csv), Word Cloud below:
+[Download Vaccine Clinical Trial list](file/ct_vaccine.csv), Word Cloud below:
 
-![vaccine cloud](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/vaccine_cloud.png)
+![vaccine cloud](file/vaccine_cloud.png)
 
 
 Similarily, using the same data, a preliminary small molecule treatment list with clinical trial counts was automatically generated using relevant key words. This list is only an estimate and will be updated daily. The list for this figure is available for download in the Treatment list link above.
 
-![therapeutics_trials](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/figure_drugs_treatment.png)
+![therapeutics_trials](file/figure_drugs_treatment.png)
 
 
 

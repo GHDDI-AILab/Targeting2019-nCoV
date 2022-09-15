@@ -32,7 +32,7 @@ A collection of drug candidates with previously published positive coronavirus e
 
 
 Based on in vitro viral infection assay results (EC50<=1uM) and clinical data (in vivo active) we have identified 51 molecules against at least 5 virus species. 
-![Top 51 DVI graph](http://aidd-common.oss-cn-hangzhou.aliyuncs.com/file/Top51BSAAs.png)
+![Top 51 DVI graph](file/Top51BSAAs.png)
 
 
 | Drug name | ID | Number of virus species | Virus species list | Discovered MOA |
