@@ -13,28 +13,10 @@ You are welcome to fork our [**Github Project**](https://github.com/GHDDI-AILab/
 
 The brief tutorial below shows how to fork and make a pull request:
 
-1) Fork the Targeting2019-nCov repository
-![contact1](file/contact1.png)
-
-<br>
-
-2) Edit content 
-
-<br>
-
-3) Create pull request
-![contact3](file/contact2.png)
-
-<br>
-
-4) Submit pull request
-![contact4](file/contact3.png)
-
-<img src="file/contact4.png" alt="contact4" style="zoom:73%;" />
-
-<br>
-
-
+1. [Fork the Targeting2019-nCov repository](https://github.com/GHDDI-AILab/Targeting2019-nCoV)
+2. Edit content 
+3. Create pull request
+4. Submit pull request
 
 ## Discussion
 

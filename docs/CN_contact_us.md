@@ -20,38 +20,10 @@
 下面的简要教程显示了如何分叉和提出请求：
 
 
-1)分叉Targeting2019-nCov资源库
-![接触1](file/contact1.png)
-
-
-<br>
-
-
-2)编辑内容
-
-
-<br>
-
-
-3)创建提取请求
-![接触3](file/contact2.png)
-
-
-<br>
-
-
-4)提交提取申请
-![接触4](file/contact3.png)
-
-
-<img src="file/contact4.png" alt="contact4" style="zoom:73%;" />
-
-
-<br>
-
-
-
-
+1. 分叉[Targeting2019-nCovc仓库](https://github.com/GHDDI-AILab/Targeting2019-nCoV)
+2. 编辑内容
+3. 创建提取请求
+4. 提交提取申请
 
 
 ## 讨论
