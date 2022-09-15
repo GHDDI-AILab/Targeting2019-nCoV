@@ -66,9 +66,10 @@ Useful sites for drug discovery researchers
  * China Drug Trial Information [药物临床试验登记与信息公示平台](http://www.chinadrugtrials.org.cn/)
 
  * 2019nCoVR from Chinese National Genomics Data Center [2019新型冠状病毒信息库(国家生物信息中心)](https://bigd.big.ac.cn/ncov)
- 
 
- * [中国新冠肺炎临床诊疗方案第七版](file/Chinese_COVID19_diagnosis_and_treatment_plan_v7.pdf)
+ * [新型冠状病毒肺炎诊疗方案（试行第八版）](http://www.nhc.gov.cn/cms-search/downFiles/a449a3e2e2c94d9a856d5faea2ff0f94.pdf)
+
+ * [新型冠状病毒肺炎诊疗方案（试行第九版）](https://www.gov.cn/zhengce/zhengceku/2022-03/15/5679257/files/49854a49c7004f4ea9e622f3f2c568d8.pdf)
 
 
 <br>
