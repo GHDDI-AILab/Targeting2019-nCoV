@@ -22,15 +22,18 @@ usage="usage: $0
     [-r rebase before pushing changes]
     [-s git remote server]
     [-b git branch]
-    [-o <execute once]"
+    [-o <execute once]
+    [-m <make docs and deploy to the branch>]
+    "
 
 push_to_server=0
 server=origin
 interval=20
 once=0
+mkdocs="gh-deploy"
 
 OPTIND=1
-while getopts d:i:b:s:pro flag; do
+while getopts d:i:b:s:m:pro flag; do
   case "${flag}" in
   d) directory=${OPTARG} ;;
   p) push_to_server=1 ;;
@@ -39,6 +42,7 @@ while getopts d:i:b:s:pro flag; do
   s) server=${OPTARG} ;;
   b) branch=${OPTARG} ;;
   i) interval=${OPTARG} ;;
+  m) mkdocs=${OPTARG} ;;
   *)
     echo "ERROR: ${usage}" >&2
     exit 1
@@ -72,6 +76,10 @@ auto-commit-and-push() {
 
     if [[ 1 == "${push_to_server}" ]]; then
       git push "${server}" "${branch}"
+    fi
+
+    if [[ -z "${mkdocs}" ]]; then
+      mkdocs ${mkdocs}
     fi
   fi
 }

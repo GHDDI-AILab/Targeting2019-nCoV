@@ -27,6 +27,6 @@ python scripts/embed_html.py --source_file "docs/CN_research_progress_backup.md"
 # git auto
 ########################
 
-bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -o -p
+bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -o -p
 
 
