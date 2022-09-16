@@ -99,5 +99,6 @@ else
     auto-mkdocs-and-push  
     auto-commit-and-push
     sleep "${interval}"
+    
   done
 fi

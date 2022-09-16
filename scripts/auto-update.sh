@@ -29,6 +29,10 @@ embedding-htmls
 # git auto
 ########################
 
-bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -o -p
+# Only once
+# bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -o -p
+
+# Loop
+bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -p
 
 
