@@ -74,16 +74,18 @@ auto-commit-and-push() {
       git pull --rebase
     fi
     
+    if [[ 1 == "${push_to_server}" ]]; then
+      git push "${server}" "${branch}"
+    fi
+  fi
+}
+
+auto-mkdocs-and-push() {
+  if ! [[ $(git status) =~ "working tree clean" ]]; then
     if [[ "${mkdocs}" ]]; then
       echo mkdocs "${mkdocs}"
-      echo `pwd`
       mkdocs ${mkdocs}
     fi
-
-    # if [[ 1 == "${push_to_server}" ]]; then
-    #   git push "${server}" "${branch}"
-    # fi
-
   fi
 }
 
@@ -94,6 +96,7 @@ if [[ 1 == "${once}" ]]; then
 else
   while true; do
     auto-commit-and-push
+    auto-mkdocs-and-push
     sleep "${interval}"
   done
 fi
