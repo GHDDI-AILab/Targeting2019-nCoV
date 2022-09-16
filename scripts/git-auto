@@ -98,7 +98,7 @@ else
   while true; do
     auto-mkdocs-and-push  
     auto-commit-and-push
+    echo "tick tock ..."
     sleep "${interval}"
-    
   done
 fi
