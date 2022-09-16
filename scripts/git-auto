@@ -95,8 +95,8 @@ if [[ 1 == "${once}" ]]; then
   auto-commit-and-push
 else
   while true; do
-    auto-commit-and-push
     auto-mkdocs-and-push
+    auto-commit-and-push
     sleep "${interval}"
   done
 fi
