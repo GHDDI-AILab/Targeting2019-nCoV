@@ -73,14 +73,16 @@ auto-commit-and-push() {
     if [[ 1 == ${rebase} ]]; then
       git pull --rebase
     fi
+    
+    echo mkdocs "${mkdocs}"
+    if [[ -z "${mkdocs}" ]]; then
+      mkdocs ${mkdocs}
+    fi
 
     if [[ 1 == "${push_to_server}" ]]; then
       git push "${server}" "${branch}"
     fi
 
-    if [[ -z "${mkdocs}" ]]; then
-      mkdocs ${mkdocs}
-    fi
   fi
 }
 

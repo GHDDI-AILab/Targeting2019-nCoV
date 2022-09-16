@@ -41,5 +41,5 @@ embedded_file = args.embedded_file
 placeholder = args.placeholder
 target_file = args.target_file
 
-print(args)
+# print(args)
 embed(source_file, embedded_file, placeholder, target_file)
