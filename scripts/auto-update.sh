@@ -4,6 +4,7 @@ ROOT="/home/ghddiai/Targeting2019-nCoV"
 cd $ROOT
 echo Current workspace: `pwd`
 
+conda activate covid19
 
 ########################
 # Update markdwon
@@ -33,6 +34,6 @@ embedding-htmls
 # bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -o -p
 
 # Loop
-bash scripts/git-auto -d $ROOT -i 20 -b master -s origin -m "gh-deploy" -p
+nohup bash scripts/git-auto -d $ROOT -i 86400 -b master -s origin -m "gh-deploy" -p >> logs/auto-update.log &
 
 
