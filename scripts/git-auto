@@ -81,6 +81,8 @@ auto-commit-and-push() {
 }
 
 auto-mkdocs-and-push() {
+  echo "auto-mkdocs-and-push"
+  echo $(git status)
   if ! [[ $(git status) =~ "working tree clean" ]]; then
     if [[ "${mkdocs}" ]]; then
       echo mkdocs "${mkdocs}"
@@ -96,7 +98,7 @@ if [[ 1 == "${once}" ]]; then
 else
   while true; do
     auto-mkdocs-and-push
-    auto-commit-and-push
+    # auto-commit-and-push
     sleep "${interval}"
   done
 fi
