@@ -4,6 +4,7 @@ ROOT="/home/ghddiai/Targeting2019-nCoV"
 cd $ROOT
 echo Current workspace: `pwd`
 
+conda init bash
 conda activate covid19
 
 ########################
