@@ -74,9 +74,7 @@ auto-commit-and-push() {
       git pull --rebase
     fi
     
-    echo `pwd`
-
-    if [[ -z "${mkdocs}" ]]; then
+    if [[ "${mkdocs}" ]]; then
       echo mkdocs "${mkdocs}"
       echo `pwd`
       mkdocs ${mkdocs}
