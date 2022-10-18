@@ -9,7 +9,7 @@
 
 
 
-Last Updated: September 26, 2022
+Last Updated: October 18, 2022
 
 <br>
 
@@ -74,7 +74,7 @@ body {font-family: Arial;}
       <td>9.8</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Acrylamide</td>
@@ -83,16 +83,7 @@ body {font-family: Arial;}
       <td>low micromolar ic50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Adenosine</td>
-      <td>10.2139/ssrn.3588829</td>
-      <td>EC50</td>
-      <td>0.01</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Adenosine</td>
@@ -101,7 +92,16 @@ body {font-family: Arial;}
       <td>0.01</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Adenosine</td>
+      <td>10.2139/ssrn.3588829</td>
+      <td>EC50</td>
+      <td>0.01</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Amodiaquine</td>
@@ -110,7 +110,7 @@ body {font-family: Arial;}
       <td>5.8</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Amprenavir</td>
@@ -119,7 +119,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Andrographolide</td>
@@ -128,7 +128,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Arbidol</td>
@@ -137,7 +137,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Arbidol</td>
@@ -146,16 +146,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Artemether</td>
-      <td>10.1101/2021.01.08.425825</td>
-      <td>IC50</td>
-      <td>70</td>
-      <td>micro</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Artemether</td>
@@ -164,7 +155,25 @@ body {font-family: Arial;}
       <td>7</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Artemether</td>
+      <td>10.1101/2021.01.08.425825</td>
+      <td>IC50</td>
+      <td>70</td>
+      <td>micro</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Artemisinin</td>
+      <td>10.1101/2020.10.05.326637</td>
+      <td>EC50</td>
+      <td>7</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Artemisinin</td>
@@ -173,7 +182,7 @@ body {font-family: Arial;}
       <td>0.5</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Artemisinin</td>
@@ -182,7 +191,7 @@ body {font-family: Arial;}
       <td>0.3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Artemisinin</td>
@@ -191,16 +200,16 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
-      <td>Artemisinin</td>
+      <td>Artesunate</td>
       <td>10.1101/2020.10.05.326637</td>
       <td>EC50</td>
       <td>7</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Artesunate</td>
@@ -209,16 +218,7 @@ body {font-family: Arial;}
       <td>70</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Artesunate</td>
-      <td>10.1101/2020.10.05.326637</td>
-      <td>EC50</td>
-      <td>7</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Asenapine</td>
@@ -227,7 +227,7 @@ body {font-family: Arial;}
       <td>0.34</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Astodrimer</td>
@@ -236,7 +236,7 @@ body {font-family: Arial;}
       <td>0.09</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Asunaprevir</td>
@@ -245,7 +245,7 @@ body {font-family: Arial;}
       <td>72</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Atazanavir</td>
@@ -254,7 +254,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Auranofin</td>
@@ -263,7 +263,7 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Azelastine</td>
@@ -272,7 +272,7 @@ body {font-family: Arial;}
       <td>6</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Azithromycin</td>
@@ -281,7 +281,7 @@ body {font-family: Arial;}
       <td>0.008</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Azithromycin</td>
@@ -290,7 +290,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Azithromycine</td>
@@ -299,7 +299,7 @@ body {font-family: Arial;}
       <td>20</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Baicalein</td>
@@ -308,7 +308,7 @@ body {font-family: Arial;}
       <td>0.39</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Baloxavir</td>
@@ -317,7 +317,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Baloxavir</td>
@@ -326,7 +326,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Bedaquiline</td>
@@ -335,16 +335,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Boceprevir</td>
-      <td>10.1101/2020.07.10.197889</td>
-      <td>EC50</td>
-      <td>0.95</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Boceprevir</td>
@@ -353,16 +344,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Boceprevir</td>
-      <td>10.1101/2020.04.20.051581</td>
-      <td>EC50</td>
-      <td>0.49</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Boceprevir</td>
@@ -371,7 +353,25 @@ body {font-family: Arial;}
       <td>submicromolar ic50 values</td>
       <td>None</td>
       <td>direct</td>
-      <td>20220912</td>
+      <td>20221010</td>
+    </tr>
+    <tr>
+      <td>Boceprevir</td>
+      <td>10.1101/2020.07.10.197889</td>
+      <td>EC50</td>
+      <td>0.95</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Boceprevir</td>
+      <td>10.1101/2020.04.20.051581</td>
+      <td>EC50</td>
+      <td>0.49</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Boceprevir</td>
@@ -380,7 +380,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Bortezomib</td>
@@ -389,7 +389,16 @@ body {font-family: Arial;}
       <td>47</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Camostat</td>
+      <td>10.1101/2020.06.23.167544</td>
+      <td>IC50</td>
+      <td>0.27</td>
+      <td>nm</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Camostat</td>
@@ -398,7 +407,7 @@ body {font-family: Arial;}
       <td>26000</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Camostat</td>
@@ -407,16 +416,7 @@ body {font-family: Arial;}
       <td>26000</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Camostat</td>
-      <td>10.1101/2020.06.23.167544</td>
-      <td>IC50</td>
-      <td>0.27</td>
-      <td>nm</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Carbon</td>
@@ -425,7 +425,7 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Carmofur</td>
@@ -434,7 +434,7 @@ body {font-family: Arial;}
       <td>24.3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ceftazidime</td>
@@ -443,16 +443,7 @@ body {font-family: Arial;}
       <td>113.2</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chloroquine</td>
-      <td>10.30651/jqm.v4i2.4998</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -461,7 +452,7 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -470,7 +461,25 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chloroquine</td>
+      <td>10.30651/jqm.v4i2.4998</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chloroquine</td>
+      <td>10.1093/cid/ciaa237</td>
+      <td>EC50</td>
+      <td>0.72</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -479,16 +488,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chloroquine</td>
-      <td>10.1093/cid/ciaa237</td>
-      <td>EC50</td>
-      <td>0.72</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chymotrypsin</td>
@@ -497,7 +497,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ciluprevir</td>
@@ -506,7 +506,7 @@ body {font-family: Arial;}
       <td>0.95</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Clomiphene</td>
@@ -515,7 +515,7 @@ body {font-family: Arial;}
       <td>0.34</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cobicistat</td>
@@ -524,7 +524,7 @@ body {font-family: Arial;}
       <td>0.77</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Danoprevir</td>
@@ -533,7 +533,7 @@ body {font-family: Arial;}
       <td>0.29</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Danoprevir</td>
@@ -542,7 +542,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Diclazuril</td>
@@ -551,7 +551,7 @@ body {font-family: Arial;}
       <td>29</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Dihydroartemisinin</td>
@@ -560,7 +560,7 @@ body {font-family: Arial;}
       <td>70</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Dipyridamole</td>
@@ -569,7 +569,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Disulfiram</td>
@@ -578,7 +578,7 @@ body {font-family: Arial;}
       <td>154</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Efonidipine</td>
@@ -587,7 +587,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Enoxaparin</td>
@@ -596,7 +596,7 @@ body {font-family: Arial;}
       <td>599</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Faldaprevir</td>
@@ -605,25 +605,7 @@ body {font-family: Arial;}
       <td>72</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Favipiravir</td>
-      <td>10.1101/2020.04.29.20085761</td>
-      <td>EC50</td>
-      <td>5.48</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Favipiravir</td>
-      <td>10.21203/rs.3.rs-24311/v1</td>
-      <td>EC50</td>
-      <td>10</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Favipiravir</td>
@@ -632,7 +614,25 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Favipiravir</td>
+      <td>10.1101/2020.04.29.20085761</td>
+      <td>EC50</td>
+      <td>5.48</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Favipiravir</td>
+      <td>10.21203/rs.3.rs-24311/v1</td>
+      <td>EC50</td>
+      <td>10</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Gabexate</td>
@@ -641,7 +641,7 @@ body {font-family: Arial;}
       <td>0.27</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Galidesivir</td>
@@ -650,7 +650,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Glecaprevir</td>
@@ -659,7 +659,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Gramicidin</td>
@@ -668,7 +668,7 @@ body {font-family: Arial;}
       <td>1.571</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Grazoprevir</td>
@@ -677,34 +677,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Heparin</td>
-      <td>10.1101/2020.05.21.107870</td>
-      <td>IC50</td>
-      <td>0.05</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Heparin</td>
-      <td>10.1101/2020.04.14.041459</td>
-      <td>IC50</td>
-      <td>0.056</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Heparin</td>
-      <td>10.1101/2020.06.08.140236</td>
-      <td>IC50</td>
-      <td>599</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Heparin</td>
@@ -713,7 +686,34 @@ body {font-family: Arial;}
       <td>38</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Heparin</td>
+      <td>10.1101/2020.05.21.107870</td>
+      <td>IC50</td>
+      <td>0.05</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Heparin</td>
+      <td>10.1101/2020.06.08.140236</td>
+      <td>IC50</td>
+      <td>599</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Heparin</td>
+      <td>10.1101/2020.04.14.041459</td>
+      <td>IC50</td>
+      <td>0.056</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Honokiol</td>
@@ -722,7 +722,7 @@ body {font-family: Arial;}
       <td>7.8</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hopeaphenol</td>
@@ -731,7 +731,7 @@ body {font-family: Arial;}
       <td>0.11</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxocobalamin</td>
@@ -740,25 +740,7 @@ body {font-family: Arial;}
       <td>0.26</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1101/2020.07.12.199059</td>
-      <td>EC50</td>
-      <td>2.6</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1093/cid/ciaa237</td>
-      <td>EC50</td>
-      <td>0.72</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -767,7 +749,34 @@ body {font-family: Arial;}
       <td>to the free plasma hydroxychloroquine concentration</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1101/2020.07.12.199059</td>
+      <td>EC50</td>
+      <td>2.6</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1101/2020.04.16.20068379</td>
+      <td>EC50</td>
+      <td>50</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1093/cid/ciaa237</td>
+      <td>EC50</td>
+      <td>0.72</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -776,16 +785,7 @@ body {font-family: Arial;}
       <td>1.28</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1101/2020.04.16.20068379</td>
-      <td>EC50</td>
-      <td>50</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Imatinib</td>
@@ -794,7 +794,7 @@ body {font-family: Arial;}
       <td>130</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Itraconazole</td>
@@ -803,7 +803,7 @@ body {font-family: Arial;}
       <td>3.6</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ivermectin</td>
@@ -812,16 +812,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Ivermectin</td>
-      <td>10.1101/2021.11.01.466865</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ivermectin</td>
@@ -830,7 +821,16 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Ivermectin</td>
+      <td>10.1101/2021.11.01.466865</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ivermectin</td>
@@ -839,7 +839,7 @@ body {font-family: Arial;}
       <td>2</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lapatinib</td>
@@ -857,7 +857,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Liquiritin</td>
@@ -866,7 +866,7 @@ body {font-family: Arial;}
       <td>2.39</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -875,7 +875,7 @@ body {font-family: Arial;}
       <td>is approximately 50 micromolar</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -884,7 +884,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -893,7 +893,7 @@ body {font-family: Arial;}
       <td>is approximately 50 micromolar</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -902,7 +902,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -911,7 +911,7 @@ body {font-family: Arial;}
       <td>5.48</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lysine</td>
@@ -920,7 +920,7 @@ body {font-family: Arial;}
       <td>70</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Manidipine</td>
@@ -929,16 +929,7 @@ body {font-family: Arial;}
       <td>40</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Mefloquine</td>
-      <td>10.1101/2021.07.21.451321</td>
-      <td>EC50</td>
-      <td>1.2</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Mefloquine</td>
@@ -947,7 +938,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Mefloquine</td>
@@ -956,7 +947,16 @@ body {font-family: Arial;}
       <td>1.28</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Mefloquine</td>
+      <td>10.1101/2021.07.21.451321</td>
+      <td>EC50</td>
+      <td>1.2</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Melittin</td>
@@ -965,7 +965,7 @@ body {font-family: Arial;}
       <td>1.571</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Merimepodib</td>
@@ -974,7 +974,7 @@ body {font-family: Arial;}
       <td>4</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Moxidectin</td>
@@ -983,7 +983,7 @@ body {font-family: Arial;}
       <td>2</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nafamostat</td>
@@ -992,16 +992,7 @@ body {font-family: Arial;}
       <td>0.0022</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Nafamostat</td>
-      <td>10.1101/2020.04.22.054981</td>
-      <td>EC50</td>
-      <td>10</td>
-      <td>nm</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nafamostat</td>
@@ -1010,16 +1001,16 @@ body {font-family: Arial;}
       <td>0.27</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
-      <td>Narlaprevir</td>
-      <td>10.1101/2020.12.02.408112</td>
+      <td>Nafamostat</td>
+      <td>10.1101/2020.04.22.054981</td>
       <td>EC50</td>
-      <td>40</td>
-      <td>um</td>
+      <td>10</td>
+      <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Narlaprevir</td>
@@ -1028,7 +1019,16 @@ body {font-family: Arial;}
       <td>1.1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Narlaprevir</td>
+      <td>10.1101/2020.12.02.408112</td>
+      <td>EC50</td>
+      <td>40</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nelfinavir</td>
@@ -1037,16 +1037,7 @@ body {font-family: Arial;}
       <td>1.13</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Nelfinavir</td>
-      <td>10.1101/2020.04.16.20068379</td>
-      <td>EC50</td>
-      <td>3.1</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nelfinavir</td>
@@ -1055,7 +1046,16 @@ body {font-family: Arial;}
       <td>0.77</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Nelfinavir</td>
+      <td>10.1101/2020.04.16.20068379</td>
+      <td>EC50</td>
+      <td>3.1</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nevirapine</td>
@@ -1064,16 +1064,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Nitazoxanide</td>
-      <td>10.1101/2020.09.24.312165</td>
-      <td>EC50</td>
-      <td>4.9</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nitazoxanide</td>
@@ -1082,7 +1073,16 @@ body {font-family: Arial;}
       <td>0.05</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Nitazoxanide</td>
+      <td>10.1101/2020.09.24.312165</td>
+      <td>EC50</td>
+      <td>4.9</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nitazoxanide</td>
@@ -1091,7 +1091,7 @@ body {font-family: Arial;}
       <td>14</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Omeprazol</td>
@@ -1100,7 +1100,7 @@ body {font-family: Arial;}
       <td>20</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Opipramol</td>
@@ -1109,7 +1109,7 @@ body {font-family: Arial;}
       <td>20</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Papain</td>
@@ -1118,7 +1118,7 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Paritaprevir</td>
@@ -1127,7 +1127,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Pralatrexate</td>
@@ -1136,7 +1136,7 @@ body {font-family: Arial;}
       <td>0.008</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Protoporphyrin</td>
@@ -1145,7 +1145,7 @@ body {font-family: Arial;}
       <td>at nanomolar concentrations</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ptc299</td>
@@ -1154,16 +1154,7 @@ body {font-family: Arial;}
       <td>2</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Pyronaridine</td>
-      <td>10.1101/2021.09.30.462449</td>
-      <td>IC50</td>
-      <td>1.8</td>
-      <td>micro</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Pyronaridine</td>
@@ -1172,7 +1163,16 @@ body {font-family: Arial;}
       <td>180</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Pyronaridine</td>
+      <td>10.1101/2021.09.30.462449</td>
+      <td>IC50</td>
+      <td>1.8</td>
+      <td>micro</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Quinidine</td>
@@ -1181,88 +1181,7 @@ body {font-family: Arial;}
       <td>20</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.04.03.20052548</td>
-      <td>EC50</td>
-      <td>0.38</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.08.28.267567</td>
-      <td>IC50</td>
-      <td>0.29</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.05.27.117184</td>
-      <td>IC50</td>
-      <td>308</td>
-      <td>nm</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.09.07.459230</td>
-      <td>IC50</td>
-      <td>0.15</td>
-      <td>micro</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.07.03.450938</td>
-      <td>IC50</td>
-      <td>9.3</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.03.02.433604</td>
-      <td>IC50</td>
-      <td>1.5</td>
-      <td>micro</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1016/j.ijid.2020.05.085</td>
-      <td>EC50</td>
-      <td>0.38</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1093/jac/dkaa239</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.2139/ssrn.3588829</td>
-      <td>EC50</td>
-      <td>0.01</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
@@ -1271,52 +1190,34 @@ body {font-family: Arial;}
       <td>0.01</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
-      <td>10.1101/2020.12.02.408112</td>
-      <td>EC50</td>
-      <td>1</td>
+      <td>10.1101/2020.08.28.267567</td>
+      <td>IC50</td>
+      <td>0.29</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
-      <td>10.1101/2020.06.22.165712</td>
-      <td>EC50</td>
-      <td>1.32</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.11.12.380394</td>
-      <td>EC50</td>
-      <td>0.5</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.11.13.381194</td>
-      <td>EC50</td>
-      <td>0.4</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2022.07.23.501242</td>
-      <td>EC50</td>
-      <td>31.8</td>
+      <td>10.1101/2020.05.27.117184</td>
+      <td>IC50</td>
+      <td>308</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.07.03.450938</td>
+      <td>IC50</td>
+      <td>9.3</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
@@ -1325,7 +1226,106 @@ body {font-family: Arial;}
       <td>0.37</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.03.02.433604</td>
+      <td>IC50</td>
+      <td>1.5</td>
+      <td>micro</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.06.22.165712</td>
+      <td>EC50</td>
+      <td>1.32</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.09.07.459230</td>
+      <td>IC50</td>
+      <td>0.15</td>
+      <td>micro</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1016/j.ijid.2020.05.085</td>
+      <td>EC50</td>
+      <td>0.38</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1093/jac/dkaa239</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.04.03.20052548</td>
+      <td>EC50</td>
+      <td>0.38</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.2139/ssrn.3588829</td>
+      <td>EC50</td>
+      <td>0.01</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2022.07.23.501242</td>
+      <td>EC50</td>
+      <td>31.8</td>
+      <td>nm</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.11.13.381194</td>
+      <td>EC50</td>
+      <td>0.4</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.11.12.380394</td>
+      <td>EC50</td>
+      <td>0.5</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.12.02.408112</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ribavirin</td>
@@ -1334,7 +1334,7 @@ body {font-family: Arial;}
       <td>0</td>
       <td>ug</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ritonavir</td>
@@ -1343,7 +1343,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rottlerin</td>
@@ -1352,7 +1352,7 @@ body {font-family: Arial;}
       <td>37</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rupintrivir</td>
@@ -1361,7 +1361,7 @@ body {font-family: Arial;}
       <td>0.77</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Selamectin</td>
@@ -1370,7 +1370,7 @@ body {font-family: Arial;}
       <td>2</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Simeprevir</td>
@@ -1379,7 +1379,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sinefungin</td>
@@ -1388,7 +1388,7 @@ body {font-family: Arial;}
       <td>286</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Siramesine</td>
@@ -1397,7 +1397,7 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sofosbuvir</td>
@@ -1406,7 +1406,7 @@ body {font-family: Arial;}
       <td>6.2</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfadoxine</td>
@@ -1415,7 +1415,7 @@ body {font-family: Arial;}
       <td>3.1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -1424,16 +1424,7 @@ body {font-family: Arial;}
       <td>0.056</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Suramin</td>
-      <td>10.1101/2020.08.28.270306</td>
-      <td>IC50</td>
-      <td>30</td>
-      <td></td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Suramin</td>
@@ -1442,16 +1433,7 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Suramin</td>
-      <td>10.1101/2020.05.06.081968</td>
-      <td>EC50</td>
-      <td>20</td>
-      <td>micro</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Suramin</td>
@@ -1460,7 +1442,25 @@ body {font-family: Arial;}
       <td>0.26</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Suramin</td>
+      <td>10.1101/2020.08.28.270306</td>
+      <td>IC50</td>
+      <td>30</td>
+      <td></td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Suramin</td>
+      <td>10.1101/2020.05.06.081968</td>
+      <td>EC50</td>
+      <td>20</td>
+      <td>micro</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tafenoquine</td>
@@ -1469,7 +1469,7 @@ body {font-family: Arial;}
       <td>2.6</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Teicoplanin</td>
@@ -1478,16 +1478,7 @@ body {font-family: Arial;}
       <td>1.66</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Telaprevir</td>
-      <td>10.1101/2020.12.02.408112</td>
-      <td>EC50</td>
-      <td>40</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Telaprevir</td>
@@ -1496,7 +1487,16 @@ body {font-family: Arial;}
       <td>1.1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Telaprevir</td>
+      <td>10.1101/2020.12.02.408112</td>
+      <td>EC50</td>
+      <td>40</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tipranavir</td>
@@ -1505,7 +1505,7 @@ body {font-family: Arial;}
       <td>50</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tropifexor</td>
@@ -1514,7 +1514,7 @@ body {font-family: Arial;}
       <td>4.03</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tropifexor</td>
@@ -1523,16 +1523,7 @@ body {font-family: Arial;}
       <td>3.39</td>
       <td>micro</td>
       <td>direct</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Tyrosine</td>
-      <td>10.1101/2021.12.16.472155</td>
-      <td>IC50</td>
-      <td>0.79</td>
-      <td>um</td>
-      <td>direct</td>
-      <td>20220913</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Tyrosine</td>
@@ -1541,7 +1532,16 @@ body {font-family: Arial;}
       <td>130</td>
       <td>nm</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Tyrosine</td>
+      <td>10.1101/2021.12.16.472155</td>
+      <td>IC50</td>
+      <td>0.79</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Vandetanib</td>
@@ -1550,7 +1550,7 @@ body {font-family: Arial;}
       <td>0.79</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Vaniprevir</td>
@@ -1559,7 +1559,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Verteporfin</td>
@@ -1568,7 +1568,7 @@ body {font-family: Arial;}
       <td>at nanomolar concentrations</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Vortioxetine</td>
@@ -1577,7 +1577,7 @@ body {font-family: Arial;}
       <td>0.34</td>
       <td>um</td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Voxilaprevir</td>
@@ -1586,7 +1586,7 @@ body {font-family: Arial;}
       <td>15</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Water</td>
@@ -1595,7 +1595,25 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td></td>
       <td>direct</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Zncl2</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Znso4</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>direct</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Acetamide</td>
@@ -1604,7 +1622,7 @@ body {font-family: Arial;}
       <td>0</td>
       <td>ug</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Alanine</td>
@@ -1613,16 +1631,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2021.06.04.447130</td>
-      <td>IC50</td>
-      <td>15</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1631,43 +1640,7 @@ body {font-family: Arial;}
       <td>sub - nanomolar ic50</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2021.05.17.444533</td>
-      <td>IC50</td>
-      <td>0.4</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2021.01.07.425806</td>
-      <td>IC50</td>
-      <td>60</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2021.08.10.455627</td>
-      <td>IC50</td>
-      <td>2022</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.08.08.242511</td>
-      <td>IC50</td>
-      <td>4</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1676,7 +1649,7 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1685,7 +1658,16 @@ body {font-family: Arial;}
       <td>8</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2021.08.10.455627</td>
+      <td>IC50</td>
+      <td>2022</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1694,34 +1676,7 @@ body {font-family: Arial;}
       <td>0.83</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.12.02.408153</td>
-      <td>IC50</td>
-      <td>735</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1371/journal.ppat.1010799</td>
-      <td>EC50</td>
-      <td>8</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.06.18.158196</td>
-      <td>IC50</td>
-      <td>130</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1730,7 +1685,43 @@ body {font-family: Arial;}
       <td>64</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1371/journal.ppat.1010799</td>
+      <td>EC50</td>
+      <td>8</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2021.06.04.447130</td>
+      <td>IC50</td>
+      <td>15</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2021.05.17.444533</td>
+      <td>IC50</td>
+      <td>0.4</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.06.18.158196</td>
+      <td>IC50</td>
+      <td>130</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1739,16 +1730,7 @@ body {font-family: Arial;}
       <td>599</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.08.24.264077</td>
-      <td>IC50</td>
-      <td>in the nanomolar range</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1757,34 +1739,16 @@ body {font-family: Arial;}
       <td>2</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
-      <td>10.1101/2020.09.14.295956</td>
+      <td>10.1101/2021.01.07.425806</td>
       <td>IC50</td>
-      <td>113.2</td>
+      <td>60</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.09.16.20190694</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.09.22.308338</td>
-      <td>IC50</td>
-      <td>in the low nanomolar range</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1793,25 +1757,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.07.24.219857</td>
-      <td>EC50</td>
-      <td>1.1</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Angiotensin</td>
-      <td>10.1101/2020.04.02.021725</td>
-      <td>IC50</td>
-      <td>2</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Angiotensin</td>
@@ -1820,7 +1766,79 @@ body {font-family: Arial;}
       <td>12</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.08.08.242511</td>
+      <td>IC50</td>
+      <td>4</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.07.24.219857</td>
+      <td>EC50</td>
+      <td>1.1</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.12.02.408153</td>
+      <td>IC50</td>
+      <td>735</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.09.14.295956</td>
+      <td>IC50</td>
+      <td>113.2</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.08.24.264077</td>
+      <td>IC50</td>
+      <td>in the nanomolar range</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.04.02.021725</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.09.22.308338</td>
+      <td>IC50</td>
+      <td>in the low nanomolar range</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Angiotensin</td>
+      <td>10.1101/2020.09.16.20190694</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Anisomycin</td>
@@ -1829,7 +1847,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Apilimod</td>
@@ -1838,7 +1856,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Atovaquone</td>
@@ -1847,7 +1865,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Azithromycin</td>
@@ -1856,7 +1874,7 @@ body {font-family: Arial;}
       <td>237</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Baicalin</td>
@@ -1865,7 +1883,7 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Baricitinib</td>
@@ -1874,7 +1892,7 @@ body {font-family: Arial;}
       <td>0.79</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Benzophenone</td>
@@ -1883,7 +1901,7 @@ body {font-family: Arial;}
       <td>0.2</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Bepridil</td>
@@ -1892,7 +1910,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Bepridil</td>
@@ -1901,7 +1919,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Biopterin</td>
@@ -1910,7 +1928,7 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Boceprevir</td>
@@ -1919,7 +1937,16 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Boceprevir</td>
+      <td>10.1101/2021.12.18.473330</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Boceprevir</td>
@@ -1928,16 +1955,7 @@ body {font-family: Arial;}
       <td>1.27</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Boceprevir</td>
-      <td>10.1101/2021.12.18.473330</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Calcium</td>
@@ -1946,25 +1964,16 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
-      <td>Camostat</td>
-      <td>10.1101/2021.05.06.442935</td>
-      <td>EC50</td>
-      <td>430</td>
-      <td>nm</td>
+      <td>Calcium</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Camostat</td>
-      <td>10.21203/rs.3.rs-34021/v1</td>
-      <td>EC50</td>
-      <td>96</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Camostat</td>
@@ -1973,7 +1982,25 @@ body {font-family: Arial;}
       <td>10</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Camostat</td>
+      <td>10.21203/rs.3.rs-34021/v1</td>
+      <td>EC50</td>
+      <td>96</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Camostat</td>
+      <td>10.1101/2021.05.06.442935</td>
+      <td>EC50</td>
+      <td>430</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Carbamide</td>
@@ -1982,7 +2009,16 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Carrageenan</td>
+      <td>10.1039/d0fo02017f</td>
+      <td>IC50</td>
+      <td>9.1</td>
+      <td>ug</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Carrageenan</td>
@@ -1991,16 +2027,7 @@ body {font-family: Arial;}
       <td>0.3</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Carrageenan</td>
-      <td>10.1039/d0fo02017f</td>
-      <td>IC50</td>
-      <td>9.1</td>
-      <td>ug</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cepharanthine</td>
@@ -2009,7 +2036,7 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chicken</td>
@@ -2018,16 +2045,34 @@ body {font-family: Arial;}
       <td>0.147</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
-      <td>10.1016/j.bj.2020.05.003</td>
+      <td>10.1101/2021.06.08.447613</td>
       <td>EC50</td>
-      <td>11</td>
-      <td>nm</td>
+      <td>1</td>
+      <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chloroquine</td>
+      <td>10.1101/2021.07.21.451321</td>
+      <td>EC50</td>
+      <td>1.2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chloroquine</td>
+      <td>10.1101/2020.04.23.055756</td>
+      <td>IC50</td>
+      <td>25</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -2036,16 +2081,7 @@ body {font-family: Arial;}
       <td>20</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chloroquine</td>
-      <td>10.1101/2021.07.21.451321</td>
-      <td>EC50</td>
-      <td>1.2</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -2054,25 +2090,7 @@ body {font-family: Arial;}
       <td>at non - cytotoxic concentrations</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chloroquine</td>
-      <td>10.1016/j.mehy.2020.109783</td>
-      <td>EC50</td>
-      <td>0.72</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chloroquine</td>
-      <td>10.1101/2020.04.23.055756</td>
-      <td>IC50</td>
-      <td>25</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
@@ -2081,16 +2099,25 @@ body {font-family: Arial;}
       <td>2</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chloroquine</td>
-      <td>10.1101/2021.06.08.447613</td>
+      <td>10.1016/j.bj.2020.05.003</td>
       <td>EC50</td>
-      <td>1</td>
+      <td>11</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chloroquine</td>
+      <td>10.1016/j.mehy.2020.109783</td>
+      <td>EC50</td>
+      <td>0.72</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chlorpromazine</td>
@@ -2099,7 +2126,7 @@ body {font-family: Arial;}
       <td>at non - cytotoxic concentrations</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chlorpromazine</td>
@@ -2108,25 +2135,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chymotrypsin</td>
-      <td>10.1101/2020.05.28.120642</td>
-      <td>IC50</td>
-      <td>3</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Chymotrypsin</td>
-      <td>10.1101/2021.03.19.435806</td>
-      <td>IC50</td>
-      <td>29</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Chymotrypsin</td>
@@ -2135,7 +2144,25 @@ body {font-family: Arial;}
       <td>0.29</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chymotrypsin</td>
+      <td>10.1101/2020.05.28.120642</td>
+      <td>IC50</td>
+      <td>3</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Chymotrypsin</td>
+      <td>10.1101/2021.03.19.435806</td>
+      <td>IC50</td>
+      <td>29</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ciclesonide</td>
@@ -2144,16 +2171,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cobicistat</td>
-      <td>10.1016/j.ijid.2020.05.085</td>
-      <td>EC50</td>
-      <td>100</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cobicistat</td>
@@ -2162,7 +2180,16 @@ body {font-family: Arial;}
       <td>100</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cobicistat</td>
+      <td>10.1016/j.ijid.2020.05.085</td>
+      <td>EC50</td>
+      <td>100</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Conivaptan</td>
@@ -2171,7 +2198,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Copper</td>
@@ -2180,7 +2207,7 @@ body {font-family: Arial;}
       <td>154</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cotton</td>
@@ -2189,7 +2216,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cucumber</td>
@@ -2198,43 +2225,7 @@ body {font-family: Arial;}
       <td>9.1</td>
       <td>ug</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2020.12.23.424111</td>
-      <td>EC50</td>
-      <td>in the nanomolar range</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2022.07.06.498864</td>
-      <td>IC50</td>
-      <td>0.3</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1371/journal.pone.0240079</td>
-      <td>IC50</td>
-      <td>0.2</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2020.10.23.347534</td>
-      <td>EC50</td>
-      <td>74</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cysteine</td>
@@ -2243,52 +2234,16 @@ body {font-family: Arial;}
       <td>in the picomolar range</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Cysteine</td>
-      <td>10.1101/2022.07.06.498864</td>
-      <td>EC50</td>
-      <td>3.1</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2021.12.18.473326</td>
+      <td>10.21203/rs.3.rs-33294/v1</td>
       <td>IC50</td>
-      <td>4.8</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2021.06.04.447160</td>
-      <td>IC50</td>
-      <td>60</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2020.07.17.208959</td>
-      <td>IC50</td>
-      <td>2.1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Cysteine</td>
-      <td>10.1101/2020.05.20.107052</td>
-      <td>IC50</td>
-      <td>in the nanomolar range</td>
+      <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cysteine</td>
@@ -2297,34 +2252,43 @@ body {font-family: Arial;}
       <td>10</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cysteine</td>
-      <td>10.1101/2020.05.28.120642</td>
+      <td>10.1101/2022.07.06.498864</td>
       <td>IC50</td>
-      <td>3</td>
-      <td></td>
+      <td>0.3</td>
+      <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Cysteine</td>
-      <td>10.1101/2020.09.21.299776</td>
+      <td>10.1101/2021.12.18.473326</td>
       <td>IC50</td>
-      <td>155</td>
+      <td>4.8</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cysteine</td>
-      <td>10.21203/rs.3.rs-33294/v1</td>
-      <td>IC50</td>
-      <td>19</td>
-      <td></td>
+      <td>10.1101/2020.10.23.347534</td>
+      <td>EC50</td>
+      <td>74</td>
+      <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2022.07.06.498864</td>
+      <td>EC50</td>
+      <td>3.1</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Cysteine</td>
@@ -2333,7 +2297,79 @@ body {font-family: Arial;}
       <td>100</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2020.05.20.107052</td>
+      <td>IC50</td>
+      <td>in the nanomolar range</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1371/journal.pone.0240079</td>
+      <td>IC50</td>
+      <td>0.2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2021.06.04.447160</td>
+      <td>IC50</td>
+      <td>60</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2020.07.17.208959</td>
+      <td>IC50</td>
+      <td>2.1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2020.09.21.299776</td>
+      <td>IC50</td>
+      <td>155</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2020.05.28.120642</td>
+      <td>IC50</td>
+      <td>3</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Cysteine</td>
+      <td>10.1101/2020.12.23.424111</td>
+      <td>EC50</td>
+      <td>in the nanomolar range</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Daclatasvir</td>
@@ -2342,7 +2378,7 @@ body {font-family: Arial;}
       <td>6.2</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Darunavir</td>
@@ -2351,7 +2387,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Darunavir</td>
@@ -2360,7 +2396,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Dexamethasone</td>
@@ -2369,7 +2405,7 @@ body {font-family: Arial;}
       <td>0.79</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Dihydromyricetin</td>
@@ -2378,7 +2414,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Dihydroquercetin</td>
@@ -2387,7 +2423,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ebastine</td>
@@ -2396,16 +2432,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Ebselen</td>
-      <td>10.1101/2021.06.08.447613</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ebselen</td>
@@ -2414,7 +2441,16 @@ body {font-family: Arial;}
       <td>0.67</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Ebselen</td>
+      <td>10.1101/2021.06.08.447613</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ebselen</td>
@@ -2423,7 +2459,16 @@ body {font-family: Arial;}
       <td>in the nanomolar range</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Emetine</td>
+      <td>10.1016/j.bj.2020.05.003</td>
+      <td>EC50</td>
+      <td>11</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Emetine</td>
@@ -2432,16 +2477,7 @@ body {font-family: Arial;}
       <td>0.147</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Emetine</td>
-      <td>10.1016/j.bj.2020.05.003</td>
-      <td>EC50</td>
-      <td>11</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Emtricitabine</td>
@@ -2450,7 +2486,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ethanol</td>
@@ -2459,7 +2495,7 @@ body {font-family: Arial;}
       <td>0.74</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ethanol</td>
@@ -2468,7 +2504,7 @@ body {font-family: Arial;}
       <td>0.39</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Favipiravir</td>
@@ -2477,7 +2513,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Fenofibrate</td>
@@ -2486,7 +2522,7 @@ body {font-family: Arial;}
       <td>25</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Fluoxetine</td>
@@ -2495,7 +2531,7 @@ body {font-family: Arial;}
       <td>387</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Fucoidan</td>
@@ -2504,7 +2540,7 @@ body {font-family: Arial;}
       <td>9.1</td>
       <td>ug</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Fucose</td>
@@ -2513,7 +2549,7 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Fucose</td>
@@ -2522,7 +2558,16 @@ body {font-family: Arial;}
       <td>2.01</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Galactose</td>
+      <td>10.1101/2021.01.14.426521</td>
+      <td>EC50</td>
+      <td>2.01</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Galactose</td>
@@ -2531,7 +2576,7 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Galactose</td>
@@ -2540,16 +2585,7 @@ body {font-family: Arial;}
       <td>0.9</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Galactose</td>
-      <td>10.1101/2021.01.14.426521</td>
-      <td>EC50</td>
-      <td>2.01</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Gemcitabine</td>
@@ -2558,16 +2594,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Glucose</td>
-      <td>10.1101/2021.01.14.426521</td>
-      <td>IC50</td>
-      <td>0.48</td>
-      <td>None</td>
-      <td>indirect</td>
-      <td>20220912</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Glucose</td>
@@ -2576,7 +2603,16 @@ body {font-family: Arial;}
       <td>2.01</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Glucose</td>
+      <td>10.1101/2021.01.14.426521</td>
+      <td>IC50</td>
+      <td>0.48</td>
+      <td>None</td>
+      <td>indirect</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Glutamine</td>
@@ -2585,7 +2621,7 @@ body {font-family: Arial;}
       <td>low - micromolar ec50 values</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Glutamine</td>
@@ -2594,7 +2630,7 @@ body {font-family: Arial;}
       <td>in the low micromolar range</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Glycine</td>
@@ -2603,7 +2639,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Guanosine</td>
@@ -2612,7 +2648,7 @@ body {font-family: Arial;}
       <td>70</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Heparin</td>
@@ -2621,7 +2657,7 @@ body {font-family: Arial;}
       <td>25</td>
       <td>ug</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hernandezine</td>
@@ -2630,7 +2666,7 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Histamine</td>
@@ -2639,7 +2675,7 @@ body {font-family: Arial;}
       <td>6</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Homoharringtonine</td>
@@ -2648,7 +2684,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Huangqin</td>
@@ -2657,7 +2693,7 @@ body {font-family: Arial;}
       <td>0.74</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Huangqin</td>
@@ -2666,16 +2702,7 @@ body {font-family: Arial;}
       <td>0.39</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Hydrogen</td>
-      <td>10.21203/rs.3.rs-33294/v1</td>
-      <td>IC50</td>
-      <td>19</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Hydrogen</td>
@@ -2684,7 +2711,25 @@ body {font-family: Arial;}
       <td>0.41</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydrogen</td>
+      <td>10.21203/rs.3.rs-33294/v1</td>
+      <td>IC50</td>
+      <td>19</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.30651/jqm.v4i2.4998</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -2693,43 +2738,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1101/2020.05.21.108605</td>
-      <td>IC50</td>
-      <td>237</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1101/2020.09.16.299537</td>
-      <td>EC50</td>
-      <td>10</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1016/j.mehy.2020.109783</td>
-      <td>EC50</td>
-      <td>0.72</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Hydroxychloroquine</td>
-      <td>10.1101/2020.07.05.20146878</td>
-      <td>EC50</td>
-      <td>indicated insufficient lpv concentrations</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -2738,16 +2747,16 @@ body {font-family: Arial;}
       <td>2</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
-      <td>10.30651/jqm.v4i2.4998</td>
+      <td>10.1016/j.mehy.2020.109783</td>
       <td>EC50</td>
-      <td>1</td>
+      <td>0.72</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -2756,7 +2765,34 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1101/2020.09.16.299537</td>
+      <td>EC50</td>
+      <td>10</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1101/2020.05.21.108605</td>
+      <td>IC50</td>
+      <td>237</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Hydroxychloroquine</td>
+      <td>10.1101/2020.07.05.20146878</td>
+      <td>EC50</td>
+      <td>indicated insufficient lpv concentrations</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Hydroxychloroquine</td>
@@ -2765,7 +2801,7 @@ body {font-family: Arial;}
       <td>1.2</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Irbesartan</td>
@@ -2774,7 +2810,7 @@ body {font-family: Arial;}
       <td>1.24</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Isoquercetin</td>
@@ -2783,7 +2819,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Kaempferol</td>
@@ -2792,7 +2828,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ledipasvir</td>
@@ -2801,7 +2837,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Leflunomide</td>
@@ -2810,7 +2846,7 @@ body {font-family: Arial;}
       <td>17</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lenvatinib</td>
@@ -2819,7 +2855,7 @@ body {font-family: Arial;}
       <td>29</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Leucine</td>
@@ -2828,7 +2864,7 @@ body {font-family: Arial;}
       <td>in the low micromolar range</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Licorice</td>
@@ -2837,16 +2873,7 @@ body {font-family: Arial;}
       <td>2.39</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Lopinavir</td>
-      <td>10.1101/2020.07.05.20146878</td>
-      <td>EC50</td>
-      <td>indicated insufficient lpv concentrations</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -2855,7 +2882,16 @@ body {font-family: Arial;}
       <td>1.13</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Lopinavir</td>
+      <td>10.1101/2020.07.05.20146878</td>
+      <td>EC50</td>
+      <td>indicated insufficient lpv concentrations</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Lopinavir</td>
@@ -2864,7 +2900,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Luteolin</td>
@@ -2873,7 +2909,25 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Magnesium</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Manganese</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Mannose</td>
@@ -2882,7 +2936,7 @@ body {font-family: Arial;}
       <td>2.01</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Mannose</td>
@@ -2891,7 +2945,7 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Masitinib</td>
@@ -2900,7 +2954,7 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Myricetin</td>
@@ -2909,7 +2963,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Neferine</td>
@@ -2918,7 +2972,7 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nelfinavir</td>
@@ -2927,7 +2981,7 @@ body {font-family: Arial;}
       <td>25</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nelfinavir</td>
@@ -2936,7 +2990,16 @@ body {font-family: Arial;}
       <td>1.28</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Niclosamide</td>
+      <td>10.1016/j.bj.2020.05.003</td>
+      <td>EC50</td>
+      <td>11</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Niclosamide</td>
@@ -2945,25 +3008,7 @@ body {font-family: Arial;}
       <td>10</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Niclosamide</td>
-      <td>10.1016/j.bj.2020.05.003</td>
-      <td>EC50</td>
-      <td>11</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Nitazoxanide</td>
-      <td>10.1016/j.bj.2020.05.003</td>
-      <td>EC50</td>
-      <td>11</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nitazoxanide</td>
@@ -2972,7 +3017,16 @@ body {font-family: Arial;}
       <td>of the concentration - response curve</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Nitazoxanide</td>
+      <td>10.1016/j.bj.2020.05.003</td>
+      <td>EC50</td>
+      <td>11</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Nystatin</td>
@@ -2981,7 +3035,7 @@ body {font-family: Arial;}
       <td>1.24</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Oleandrin</td>
@@ -2990,7 +3044,7 @@ body {font-family: Arial;}
       <td>11.98</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Orange</td>
@@ -3017,16 +3071,7 @@ body {font-family: Arial;}
       <td>17</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2020.05.20.107052</td>
-      <td>IC50</td>
-      <td>in the nanomolar range</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Papain</td>
@@ -3039,75 +3084,21 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>Papain</td>
-      <td>10.1101/2021.12.02.471030</td>
-      <td>EC50</td>
-      <td>4.03</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
       <td>10.1101/2020.10.23.347534</td>
       <td>EC50</td>
       <td>74</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Papain</td>
-      <td>10.1101/2021.12.02.471030</td>
+      <td>10.1101/2020.05.20.107052</td>
       <td>IC50</td>
-      <td>3.39</td>
-      <td>micro</td>
+      <td>in the nanomolar range</td>
+      <td></td>
       <td>indirect</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2021.03.15.435551</td>
-      <td>IC50</td>
-      <td>at the single - digit micromolar range</td>
-      <td>None</td>
-      <td>indirect</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2021.06.04.447160</td>
-      <td>IC50</td>
-      <td>60</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2022.01.05.475095</td>
-      <td>IC50</td>
-      <td>0.41</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2021.02.13.431008</td>
-      <td>IC50</td>
-      <td>10</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Papain</td>
-      <td>10.1101/2020.07.17.208959</td>
-      <td>IC50</td>
-      <td>2.1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Papain</td>
@@ -3116,7 +3107,79 @@ body {font-family: Arial;}
       <td>8.89</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2021.06.04.447160</td>
+      <td>IC50</td>
+      <td>60</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2021.12.02.471030</td>
+      <td>EC50</td>
+      <td>4.03</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2022.01.05.475095</td>
+      <td>IC50</td>
+      <td>0.41</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1042/BCJ20220380</td>
+      <td>IC50</td>
+      <td>2</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2021.03.15.435551</td>
+      <td>IC50</td>
+      <td>at the single - digit micromolar range</td>
+      <td>None</td>
+      <td>indirect</td>
+      <td>20221010</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2021.12.02.471030</td>
+      <td>IC50</td>
+      <td>3.39</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221010</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2020.07.17.208959</td>
+      <td>IC50</td>
+      <td>2.1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Papain</td>
+      <td>10.1101/2021.02.13.431008</td>
+      <td>IC50</td>
+      <td>10</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Pazopanib</td>
@@ -3125,7 +3188,7 @@ body {font-family: Arial;}
       <td>29</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Pectin</td>
@@ -3134,16 +3197,7 @@ body {font-family: Arial;}
       <td>0.9</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Phenothiazine</td>
-      <td>10.1101/2020.05.05.079608</td>
-      <td>IC50</td>
-      <td>10</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Phenothiazine</td>
@@ -3152,7 +3206,16 @@ body {font-family: Arial;}
       <td>3</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Phenothiazine</td>
+      <td>10.1101/2020.05.05.079608</td>
+      <td>IC50</td>
+      <td>10</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Phosphate</td>
@@ -3161,7 +3224,7 @@ body {font-family: Arial;}
       <td>0.72</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Phosphate</td>
@@ -3170,7 +3233,7 @@ body {font-family: Arial;}
       <td>0.72</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Phospholipids</td>
@@ -3179,7 +3242,7 @@ body {font-family: Arial;}
       <td>0.06</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Pimozide</td>
@@ -3188,7 +3251,7 @@ body {font-family: Arial;}
       <td>100</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Plitidepsin</td>
@@ -3197,7 +3260,7 @@ body {font-family: Arial;}
       <td>25</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Proline</td>
@@ -3206,7 +3269,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Quercetin</td>
@@ -3215,7 +3278,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Quercetin</td>
@@ -3224,25 +3287,7 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.04.02.438204</td>
-      <td>IC50</td>
-      <td>1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.01.08.425825</td>
-      <td>IC50</td>
-      <td>0.1</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
@@ -3251,43 +3296,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.09.30.462449</td>
-      <td>IC50</td>
-      <td>1.8</td>
-      <td>micro</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.11.03.467186</td>
-      <td>EC50</td>
-      <td>4.1</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.12.29.424534</td>
-      <td>EC50</td>
-      <td>769.1</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.03.19.435806</td>
-      <td>IC50</td>
-      <td>29</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
@@ -3296,79 +3305,7 @@ body {font-family: Arial;}
       <td>0.008</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2021.12.16.472155</td>
-      <td>IC50</td>
-      <td>0.79</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.11.19.389726</td>
-      <td>IC50</td>
-      <td>1.28</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.10.28.359042</td>
-      <td>EC50</td>
-      <td>0.08</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.09.16.299537</td>
-      <td>EC50</td>
-      <td>10</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2022.02.09.479840</td>
-      <td>EC50</td>
-      <td>0.31</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2022.02.07.479493</td>
-      <td>EC50</td>
-      <td>50</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.04.23.055756</td>
-      <td>IC50</td>
-      <td>25</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Remdesivir</td>
-      <td>10.1101/2020.12.01.407361</td>
-      <td>IC50</td>
-      <td>180</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Remdesivir</td>
@@ -3377,7 +3314,133 @@ body {font-family: Arial;}
       <td>1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.01.08.425825</td>
+      <td>IC50</td>
+      <td>0.1</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.12.29.424534</td>
+      <td>EC50</td>
+      <td>769.1</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.09.30.462449</td>
+      <td>IC50</td>
+      <td>1.8</td>
+      <td>micro</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.12.01.407361</td>
+      <td>IC50</td>
+      <td>180</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.11.19.389726</td>
+      <td>IC50</td>
+      <td>1.28</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.10.28.359042</td>
+      <td>EC50</td>
+      <td>0.08</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.09.16.299537</td>
+      <td>EC50</td>
+      <td>10</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.04.02.438204</td>
+      <td>IC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.12.16.472155</td>
+      <td>IC50</td>
+      <td>0.79</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2022.02.09.479840</td>
+      <td>EC50</td>
+      <td>0.31</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2020.04.23.055756</td>
+      <td>IC50</td>
+      <td>25</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2022.02.07.479493</td>
+      <td>EC50</td>
+      <td>50</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.03.19.435806</td>
+      <td>IC50</td>
+      <td>29</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Remdesivir</td>
+      <td>10.1101/2021.11.03.467186</td>
+      <td>EC50</td>
+      <td>4.1</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Resveratrol</td>
@@ -3386,7 +3449,7 @@ body {font-family: Arial;}
       <td>0.11</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rhamnose</td>
@@ -3395,16 +3458,7 @@ body {font-family: Arial;}
       <td>0.9</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Rhamnose</td>
-      <td>10.1101/2021.01.14.426521</td>
-      <td>EC50</td>
-      <td>2.01</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rhamnose</td>
@@ -3413,7 +3467,16 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
+    </tr>
+    <tr>
+      <td>Rhamnose</td>
+      <td>10.1101/2021.01.14.426521</td>
+      <td>EC50</td>
+      <td>2.01</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ribose</td>
@@ -3422,7 +3485,16 @@ body {font-family: Arial;}
       <td>4.1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Ritonavir</td>
+      <td>10.30651/jqm.v4i2.4998</td>
+      <td>EC50</td>
+      <td>1</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ritonavir</td>
@@ -3431,7 +3503,7 @@ body {font-family: Arial;}
       <td>indicated insufficient lpv concentrations</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Ritonavir</td>
@@ -3440,16 +3512,7 @@ body {font-family: Arial;}
       <td>0.29</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Ritonavir</td>
-      <td>10.30651/jqm.v4i2.4998</td>
-      <td>EC50</td>
-      <td>1</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rutin</td>
@@ -3458,7 +3521,7 @@ body {font-family: Arial;}
       <td>19</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Rutin</td>
@@ -3467,7 +3530,7 @@ body {font-family: Arial;}
       <td>0.125</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Salinomycin</td>
@@ -3476,16 +3539,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Serine</td>
-      <td>10.21203/rs.3.rs-34021/v1</td>
-      <td>EC50</td>
-      <td>96</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Serine</td>
@@ -3494,7 +3548,16 @@ body {font-family: Arial;}
       <td>430</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Serine</td>
+      <td>10.21203/rs.3.rs-34021/v1</td>
+      <td>EC50</td>
+      <td>96</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Serine</td>
@@ -3503,7 +3566,7 @@ body {font-family: Arial;}
       <td>96</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Serine</td>
@@ -3512,7 +3575,7 @@ body {font-family: Arial;}
       <td>96</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Serotonin</td>
@@ -3521,7 +3584,7 @@ body {font-family: Arial;}
       <td>387</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sofosbuvir</td>
@@ -3530,7 +3593,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3539,25 +3602,7 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
-    </tr>
-    <tr>
-      <td>Sulfate</td>
-      <td>10.1093/cid/ciaa237</td>
-      <td>EC50</td>
-      <td>0.72</td>
-      <td>um</td>
-      <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Sulfate</td>
-      <td>10.1101/2021.01.14.426521</td>
-      <td>EC50</td>
-      <td>2.01</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3566,7 +3611,16 @@ body {font-family: Arial;}
       <td>38</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Sulfate</td>
+      <td>10.1101/2021.01.14.426521</td>
+      <td>EC50</td>
+      <td>2.01</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3575,7 +3629,7 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3584,7 +3638,7 @@ body {font-family: Arial;}
       <td>0.09</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3593,7 +3647,7 @@ body {font-family: Arial;}
       <td>599</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sulfate</td>
@@ -3602,7 +3656,16 @@ body {font-family: Arial;}
       <td>9.1</td>
       <td>ug</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Sulfate</td>
+      <td>10.1093/cid/ciaa237</td>
+      <td>EC50</td>
+      <td>0.72</td>
+      <td>um</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Sunitinib</td>
@@ -3611,7 +3674,7 @@ body {font-family: Arial;}
       <td>29</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tenofovir</td>
@@ -3620,7 +3683,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Teriflunomide</td>
@@ -3629,7 +3692,7 @@ body {font-family: Arial;}
       <td>17</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Thein</td>
@@ -3638,7 +3701,7 @@ body {font-family: Arial;}
       <td>0.147</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Thimerosal</td>
@@ -3647,16 +3710,7 @@ body {font-family: Arial;}
       <td>0.2</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Threonine</td>
-      <td>10.1101/2021.12.18.473326</td>
-      <td>IC50</td>
-      <td>4.8</td>
-      <td>nm</td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Threonine</td>
@@ -3665,7 +3719,16 @@ body {font-family: Arial;}
       <td>1</td>
       <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Threonine</td>
+      <td>10.1101/2021.12.18.473326</td>
+      <td>IC50</td>
+      <td>4.8</td>
+      <td>nm</td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tocilizumab</td>
@@ -3674,7 +3737,7 @@ body {font-family: Arial;}
       <td>indicated insufficient lpv concentrations</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Trypsin</td>
@@ -3683,16 +3746,16 @@ body {font-family: Arial;}
       <td>0.27</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
-      <td>Tyrosine</td>
-      <td>10.1101/2021.03.19.435806</td>
+      <td>Tryptophan</td>
+      <td>10.1042/BCJ20220380</td>
       <td>IC50</td>
-      <td>29</td>
-      <td></td>
+      <td>2</td>
+      <td>um</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Tyrosine</td>
@@ -3701,7 +3764,16 @@ body {font-family: Arial;}
       <td>0.1</td>
       <td>micro</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Tyrosine</td>
+      <td>10.1101/2021.03.19.435806</td>
+      <td>IC50</td>
+      <td>29</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Valinomycin</td>
@@ -3710,7 +3782,7 @@ body {font-family: Arial;}
       <td>11</td>
       <td>nm</td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Velpatasvir</td>
@@ -3719,7 +3791,7 @@ body {font-family: Arial;}
       <td>1.32</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Water</td>
@@ -3728,7 +3800,7 @@ body {font-family: Arial;}
       <td>769.1</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Water</td>
@@ -3737,7 +3809,7 @@ body {font-family: Arial;}
       <td>0.3</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Xylose</td>
@@ -3746,7 +3818,7 @@ body {font-family: Arial;}
       <td>0.48</td>
       <td>None</td>
       <td>indirect</td>
-      <td>20220912</td>
+      <td>20221010</td>
     </tr>
     <tr>
       <td>Xylose</td>
@@ -3755,16 +3827,7 @@ body {font-family: Arial;}
       <td>2.01</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
-    </tr>
-    <tr>
-      <td>Yeast</td>
-      <td>10.1101/2020.07.31.231746</td>
-      <td>IC50</td>
-      <td>10</td>
-      <td></td>
-      <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
     </tr>
     <tr>
       <td>Yeast</td>
@@ -3773,11 +3836,19 @@ body {font-family: Arial;}
       <td>60</td>
       <td></td>
       <td>indirect</td>
-      <td>20220913</td>
+      <td>20221018</td>
+    </tr>
+    <tr>
+      <td>Yeast</td>
+      <td>10.1101/2020.07.31.231746</td>
+      <td>IC50</td>
+      <td>10</td>
+      <td></td>
+      <td>indirect</td>
+      <td>20221018</td>
     </tr>
   </tbody>
 </table>
-
 
 ---
 
