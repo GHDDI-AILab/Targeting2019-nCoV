@@ -34,7 +34,7 @@ We're from GHDDI (The Global Health Drug Discovery Institute). GHDDI was jointly
 <img alt="DS_group_intro" src="img/DS_group_intro.png" style="width: 100%">
 </center>
 
-GHDDI Data Science group consists of 10 scientists and engineers, who are Dr. Jinjiang Guo, Dr. Xiaoying Lv, Dr. Han Guo, Dr. Jie Li, Yuan Zhang, Dr. Song Hu, Xi Lu, Chen Liang, Qi Liu and Zhuo Tang. We are from cross-disciplines: computational chemistry, bioinformatics, computer science and software engineering. We manage 57 GHDDI local High-Performance Computing (HPC) clusters, over 1 billion chemical, biological and pharmaceutical data. With our self-developed AI systems, tools and commercial software, we provide various services for solving real-world problems in drug discovery pipelines, meanwhile we also devote to exploit technological innovations in applications to boosting drug discovery process. We are building fundamental technologies to aid our scientists to get smart starts and make better decisions. 
+GHDDI Data Science group consists of 10 scientists, who are Dr. Jinjiang Guo, Dr. Xiaoying Lv, Dr. Han Guo, Dr. Jie Li, Yuan Zhang, Dr. Song Hu, Xi Lu, Chen Liang, Qi Liu and Dr. Yang Li, and 2 engineers who are Zhuo Tang and Luyao Ma. We are from cross-disciplines: computational chemistry, bioinformatics, computer science and software engineering. We manage 58 GHDDI local High-Performance Computing (HPC) clusters, over 1 billion chemical, biological and pharmaceutical data.  Our mission is to propel drug discovery forward with our cutting-edge Data Science Platform. Combining in-house AI systems, tools, software and partners' supports , we provide a variety of services to tackle real-world problems in drug discovery pipelines. Our dedicated team is constantly exploring new technological innovations to further enhance the drug discovery process. We are building fundamental technologies to empower our scientists to get smart starts and make better decisions.
 
 
 
@@ -43,9 +43,13 @@ GHDDI Data Science group consists of 10 scientists and engineers, who are Dr. Ji
 
 The data from this website is for research purpose only, may not be used for clinical advice. GHDDI is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information.
 
-Sponsored by [Merck KGaA](https://www.merckgroup.com/en).
-<br>
-<img alt="merck_logo" src="img/merck_logo.png" style="width: 20%">
+Partners: [Merck KGaA](https://www.merckgroup.com/en), [Alibaba Cloud](https://www.alibabacloud.com/), [Microsoft](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
+<div class="logo-container" style="display: flex;gap: 20px; margin-top: -24px">
+  <img alt="merck_logo" src="img/merck_logo.png" style="width: 20%">
+  <img alt="alibabacloud_logo" src="img/alibabacloud_logo.png" style="width: 30%">
+  <img alt="microsoft_logo" src="img/microsoft_logo.png" style="width: 20%">
+</div>
+
 
 Translation service provided by [Atman](https://atman360.com/)
 
